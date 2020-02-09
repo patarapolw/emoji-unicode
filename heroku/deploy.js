@@ -18,6 +18,7 @@ const { spawnSafe } = require('./utils')
 
   await spawnSafe('git', [
     'push',
+    '-f',
     'heroku',
     'heroku:master'
   ])

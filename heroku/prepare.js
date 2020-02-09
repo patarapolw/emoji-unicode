@@ -29,6 +29,7 @@ const { spawnSafe } = require('./utils')
 
   const pkg = require('../packages/server/package.json')
 
+  delete pkg.dependencies
   delete pkg.devDependencies
   delete pkg.scripts.build
 
