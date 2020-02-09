@@ -1,0 +1,709 @@
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+172
+173
+174
+175
+A0
+A1
+A2
+A3
+A4
+A5
+A6
+A7
+A8
+A9
+AA
+AB
+AC
+AD
+AE
+AF
+ 
+¡
+¢
+£
+¤
+¥
+¦
+§
+¨
+©
+ª
+«
+¬
+­
+®
+¯
+&#160;
+&#161;
+&#162;
+&#163;
+&#164;
+&#165;
+&#166;
+&#167;
+&#168;
+&#169;
+&#170;
+&#171;
+&#172;
+&#173;
+&#174;
+&#175;
+&nbsp;
+&iexcl;
+&cent;
+&pound;
+&curren;
+&yen;
+&brvbar;
+&sect;
+&uml;
+&copy;
+&ordf;
+&laquo;
+&not;
+&shy;
+&reg;
+&macr;
+non-breaking space
+inverted exclamation mark
+cent sign
+pound sign
+currency sign
+yen sign
+broken vertical bar
+section sign
+spacing diaeresis - umlaut
+copyright sign
+feminine ordinal indicator
+left double angle quotes
+not sign
+soft hyphen
+registered trade mark sign
+spacing macron - overline
+===
+176
+177
+178
+179
+180
+181
+182
+183
+184
+185
+186
+187
+188
+189
+190
+191
+B0
+B1
+B2
+B3
+B4
+B5
+B6
+B7
+B8
+B9
+BA
+BB
+BC
+BD
+BE
+BF
+°
+±
+²
+³
+´
+µ
+¶
+·
+¸
+¹
+º
+»
+¼
+½
+¾
+¿
+&#176;
+&#177;
+&#178;
+&#179;
+&#180;
+&#181;
+&#182;
+&#183;
+&#184;
+&#185;
+&#186;
+&#187;
+&#188;
+&#189;
+&#190;
+&#191;
+&deg;
+&plusmn;
+&sup2;
+&sup3;
+&acute;
+&micro;
+&para;
+&middot;
+&cedil;
+&sup1;
+&ordm;
+&raquo;
+&frac14;
+&frac12;
+&frac34;
+&iquest;
+degree sign
+plus-or-minus sign
+superscript two - squared
+superscript three - cubed
+acute accent - spacing acute
+micro sign
+pilcrow sign - paragraph sign
+middle dot - Georgian comma
+spacing cedilla
+superscript one
+masculine ordinal indicator
+right double angle quotes
+fraction one quarter
+fraction one half
+fraction three quarters
+inverted question mark
+===
+192
+193
+194
+195
+196
+197
+198
+199
+200
+201
+202
+203
+204
+205
+206
+207
+C0
+C1
+C2
+C3
+C4
+C5
+C6
+C7
+C8
+C9
+CA
+CB
+CC
+CD
+CE
+CF
+À
+Á
+Â
+Ã
+Ä
+Å
+Æ
+Ç
+È
+É
+Ê
+Ë
+Ì
+Í
+Î
+Ï
+&#192;
+&#193;
+&#194;
+&#195;
+&#196;
+&#197;
+&#198;
+&#199;
+&#200;
+&#201;
+&#202;
+&#203;
+&#204;
+&#205;
+&#206;
+&#207;
+&Agrave;
+&Aacute;
+&Acirc;
+&Atilde;
+&Auml;
+&Aring;
+&AElig;
+&Ccedil;
+&Egrave;
+&Eacute;
+&Ecirc;
+&Euml;
+&Igrave;
+&Iacute;
+&Icirc;
+&Iuml;
+latin capital letter A with grave
+latin capital letter A with acute
+latin capital letter A with circumflex
+latin capital letter A with tilde
+latin capital letter A with diaeresis
+latin capital letter A with ring above
+latin capital letter AE
+latin capital letter C with cedilla
+latin capital letter E with grave
+latin capital letter E with acute
+latin capital letter E with circumflex
+latin capital letter E with diaeresis
+latin capital letter I with grave
+latin capital letter I with acute
+latin capital letter I with circumflex
+latin capital letter I with diaeresis
+===
+208
+209
+210
+211
+212
+213
+214
+215
+216
+217
+218
+219
+220
+221
+222
+223
+D0
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+DA
+DB
+DC
+DD
+DE
+DF
+Ð
+Ñ
+Ò
+Ó
+Ô
+Õ
+Ö
+×
+Ø
+Ù
+Ú
+Û
+Ü
+Ý
+Þ
+ß
+&#208;
+&#209;
+&#210;
+&#211;
+&#212;
+&#213;
+&#214;
+&#215;
+&#216;
+&#217;
+&#218;
+&#219;
+&#220;
+&#221;
+&#222;
+&#223;
+&ETH;
+&Ntilde;
+&Ograve;
+&Oacute;
+&Ocirc;
+&Otilde;
+&Ouml;
+&times;
+&Oslash;
+&Ugrave;
+&Uacute;
+&Ucirc;
+&Uuml;
+&Yacute;
+&THORN;
+&szlig;
+latin capital letter ETH
+latin capital letter N with tilde
+latin capital letter O with grave
+latin capital letter O with acute
+latin capital letter O with circumflex
+latin capital letter O with tilde
+latin capital letter O with diaeresis
+multiplication sign
+latin capital letter O with slash
+latin capital letter U with grave
+latin capital letter U with acute
+latin capital letter U with circumflex
+latin capital letter U with diaeresis
+latin capital letter Y with acute
+latin capital letter THORN
+latin small letter sharp s - ess-zed
+===
+224
+225
+226
+227
+228
+229
+230
+231
+232
+233
+234
+235
+236
+237
+238
+239
+E0
+E1
+E2
+E3
+E4
+E5
+E6
+E7
+E8
+E9
+EA
+EB
+EC
+ED
+EE
+EF
+à
+á
+â
+ã
+ä
+å
+æ
+ç
+è
+é
+ê
+ë
+ì
+í
+î
+ï
+&#224;
+&#225;
+&#226;
+&#227;
+&#228;
+&#229;
+&#230;
+&#231;
+&#232;
+&#233;
+&#234;
+&#235;
+&#236;
+&#237;
+&#238;
+&#239;
+&agrave;
+&aacute;
+&acirc;
+&atilde;
+&auml;
+&aring;
+&aelig;
+&ccedil;
+&egrave;
+&eacute;
+&ecirc;
+&euml;
+&igrave;
+&iacute;
+&icirc;
+&iuml;
+latin small letter a with grave
+latin small letter a with acute
+latin small letter a with circumflex
+latin small letter a with tilde
+latin small letter a with diaeresis
+latin small letter a with ring above
+latin small letter ae
+latin small letter c with cedilla
+latin small letter e with grave
+latin small letter e with acute
+latin small letter e with circumflex
+latin small letter e with diaeresis
+latin small letter i with grave
+latin small letter i with acute
+latin small letter i with circumflex
+latin small letter i with diaeresis
+===
+240
+241
+242
+243
+244
+245
+246
+247
+248
+249
+250
+251
+252
+253
+254
+255
+F0
+F1
+F2
+F3
+F4
+F5
+F6
+F7
+F8
+F9
+FA
+FB
+FC
+FD
+FE
+FF
+ð
+ñ
+ò
+ó
+ô
+õ
+ö
+÷
+ø
+ù
+ú
+û
+ü
+ý
+þ
+ÿ
+&#240;
+&#241;
+&#242;
+&#243;
+&#244;
+&#245;
+&#246;
+&#247;
+&#248;
+&#249;
+&#250;
+&#251;
+&#252;
+&#253;
+&#254;
+&#255;
+&eth;
+&ntilde;
+&ograve;
+&oacute;
+&ocirc;
+&otilde;
+&ouml;
+&divide;
+&oslash;
+&ugrave;
+&uacute;
+&ucirc;
+&uuml;
+&yacute;
+&thorn;
+&yuml;
+latin small letter eth
+latin small letter n with tilde
+latin small letter o with grave
+latin small letter o with acute
+latin small letter o with circumflex
+latin small letter o with tilde
+latin small letter o with diaeresis
+division sign
+latin small letter o with slash
+latin small letter u with grave
+latin small letter u with acute
+latin small letter u with circumflex
+latin small letter u with diaeresis
+latin small letter y with acute
+latin small letter thorn
+latin small letter y with diaeresis
+===
+338
+339
+352
+353
+376
+402
+152
+153
+160
+161
+178
+192
+Œ
+œ
+Š
+š
+Ÿ
+ƒ
+&#338;
+&#339;
+&#352;
+&#353;
+&#376;
+&#402;
+
+
+
+
+
+
+latin capital letter OE
+latin small letter oe
+latin capital letter S with caron
+latin small letter s with caron
+latin capital letter Y with diaeresis
+latin small f with hook - function
+===
+8211
+8212
+8216
+8217
+8218
+8220
+8221
+8222
+8224
+8225
+8226
+8230
+8240
+8364
+8482
+2013
+2014
+2018
+2019
+201A
+201C
+201D
+201E
+2020
+2021
+2022
+2026
+2030
+20AC
+2122
+–
+—
+‘
+’
+‚
+“
+”
+„
+†
+‡
+•
+…
+‰
+€
+™
+&#8211;
+&#8212;
+&#8216;
+&#8217;
+&#8218;
+&#8220;
+&#8221;
+&#8222;
+&#8224;
+&#8225;
+&#8226;
+&#8230;
+&#8240;
+&#8364;
+&#8482;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&euro;
+
+en dash
+em dash
+left single quotation mark
+right single quotation mark
+single low-9 quotation mark
+left double quotation mark
+right double quotation mark
+double low-9 quotation mark
+dagger
+double dagger
+bullet
+horizontal ellipsis
+per thousand sign
+euro sign
+trade mark sign
