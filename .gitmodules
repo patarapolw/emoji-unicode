@@ -1,4 +1,3 @@
 [submodule "server"]
 	path = server
-	url = https://github.com/patarapolw/learn-unicode.git
-	branch = server
+	url = https://github.com/patarapolw/learn-unicode-server.git
