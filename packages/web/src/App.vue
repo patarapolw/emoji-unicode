@@ -10,7 +10,7 @@
   )
     template(slot-scope="props")
       b-table-column.has-text-centered(field="like" width="50" sortable)
-        button.button.is-text
+        button.button.is-text(@click="props.row.hasLike ? doUnlike(props.row.symbol) : doLike(props.row.symbol)")
           b-icon.has-text-grey-light(icon="heart")
         .has-text-centered
           small 0
@@ -38,6 +38,7 @@
 import { Vue, Component, Watch } from 'vue-property-decorator'
 import yaml from 'js-yaml'
 import { Search } from 'js-search'
+import qs from 'query-string'
 
 import htmlCodesYaml from 'raw-loader!../api/codes.yaml'
 
@@ -84,11 +85,11 @@ export default class App extends Vue {
     this.searcher.addIndex('hint')
     this.searcher.addDocuments(Object.values(yaml.safeLoad(htmlCodesYaml)))
 
-    this.onQChanged()
+    this.load()
   }
 
   @Watch('$route.query.q')
-  onQChanged () {
+  load () {
     const q = Array.isArray(this.q) ? this.q[0] : this.q
 
     if (q) {
@@ -96,6 +97,16 @@ export default class App extends Vue {
     } else {
       Vue.set(this, 'output', [])
     }
+  }
+
+  async doLike (symbol: string) {
+    await fetch(`/api/like?${qs.stringify({ symbol })}`, { method: 'POST' })
+    this.load()
+  }
+
+  async doUnlike (symbol: string) {
+    await fetch(`/api/unlike?${qs.stringify({ symbol })}`, { method: 'POST' })
+    this.load()
   }
 }
 </script>

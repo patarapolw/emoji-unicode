@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "./dist/**/*", "use": "@now/static" }
+  ],
+  "routes": [
+    {"src": "/(.*)", "dest": "/dist/index.html"}
+  ],
+  "env": {
+    "MONGO_URI": "<MY_MONGO_URI>"
+  },
+  "functions": {
+    "api/search.ts": {
+      "includeFiles": "api/code.yaml"
+    }
+  }
+}
