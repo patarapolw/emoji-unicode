@@ -17,7 +17,7 @@ apiRouter.get('/search', async (req, res, next) => {
 
     const count = await EntryModel.find({
       $or: ['symbol', 'description', 'hint'].map((k) => ({
-        [k]: new RegExp(escapeRegExp(q))
+        [k]: new RegExp(escapeRegExp(q), 'i')
       }))
     }).countDocuments()
 

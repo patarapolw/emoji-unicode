@@ -26,8 +26,9 @@ dotenv.config()
 
   if (process.env.NODE_ENV === 'development') {
     apiRouter.use(require('cors'))
-    app.use('/api', apiRouter)
   }
+
+  app.use('/api', apiRouter)
 
   app.listen(port, () => {
     console.log(`Server is running at http://localhost:${port}`)
