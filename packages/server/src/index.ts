@@ -4,6 +4,8 @@ import morgan from 'morgan'
 
 ;(async () => {
   const app = express()
+  const port = process.env.PORT || '3001s'
+
   app.use(helmet())
   app.use(morgan('combined'))
 
@@ -11,9 +13,9 @@ import morgan from 'morgan'
     app.use(require('cors')())
   }
 
-  app.use(express.static('./dist'))
+  app.use(express.static('./web'))
 
-  app.listen(3001, () => {
-    console.log('listening on port 3001')
+  app.listen(port, () => {
+    console.log(`Server is running at http://localhost:${port}`)
   })
 })().catch(console.error)
