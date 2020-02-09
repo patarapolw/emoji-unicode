@@ -1,32 +1,44 @@
-<template>
-  <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
-    <router-view/>
-  </div>
+<template lang="pug">
+.container
+  b-field(label="Search")
+    b-input(v-model="q" placeholder="Type here to search")
+  .container(name="output")
+    pre(v-html="outputHtml")
 </template>
 
-<style lang="scss">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
+<script lang="ts">
+import { Vue, Component, Watch } from 'vue-property-decorator'
+import yaml from 'js-yaml'
+import { Search } from 'js-search'
 
-#nav {
-  padding: 30px;
+import htmlCodesYaml from 'raw-loader!./assets/codes.yaml'
 
-  a {
-    font-weight: bold;
-    color: #2c3e50;
+@Component
+export default class App extends Vue {
+  q = ''
+  output: any[] = []
 
-    &.router-link-exact-active {
-      color: #42b983;
+  searcher = new Search('symbol')
+
+  get outputHtml () {
+    return JSON.stringify(this.output, null, 2)
+  }
+
+  created () {
+    this.searcher.addIndex('symbol')
+    this.searcher.addIndex('html-name')
+    this.searcher.addIndex('name')
+    this.searcher.addIndex('hint')
+    this.searcher.addDocuments(Object.values(yaml.safeLoad(htmlCodesYaml)))
+  }
+
+  @Watch('q')
+  onQChanged () {
+    if (this.q) {
+      Vue.set(this, 'output', this.searcher.search(this.q))
+    } else {
+      Vue.set(this, 'output', [])
     }
   }
 }
-</style>
+</script>

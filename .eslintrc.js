@@ -22,5 +22,6 @@ module.exports = {
     '@typescript-eslint'
   ],
   rules: {
+    'import/no-webpack-loader-syntax': 0
   }
 }
