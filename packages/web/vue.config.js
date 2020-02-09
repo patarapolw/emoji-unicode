@@ -1,5 +1,5 @@
 module.exports = {
-  outputDir: '../../server/web',
+  outputDir: '../../heroku-dist/web',
   devServer: {
     proxy: {
       '^/api': {
