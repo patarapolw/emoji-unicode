@@ -4,23 +4,25 @@ const glob = require('glob')
 const { spawnSafe } = require('./utils')
 
 ;(async () => {
-  await spawnSafe('git', [
-    'checkout',
-    'heroku'
-  ])
+  // await spawnSafe('git', [
+  //   'branch',
+  //   'heroku'
+  // ])
 
-  await spawnSafe('git', [
-    'worktree',
-    'add',
-    'heroku-dist',
-    'heroku'
-  ])
+  // await spawnSafe('git', [
+  //   'worktree',
+  //   'add',
+  //   'heroku-dist',
+  //   'heroku'
+  // ])
 
-  await spawnSafe('git', ['rm', '-rf', '.'])
+  // await spawnSafe('git', ['rm', '-rf', '.'], {
+  //   cwd: 'heroku-dist'
+  // })
 
   glob.sync('**/*', {
     cwd: 'heroku/public'
-  }, (f) => {
+  }).map((f) => {
     fs.copyFileSync(`heroku/public/${f}`, `heroku-dist/${f}`)
   })
 

@@ -3,12 +3,14 @@ const { spawn } = require('child_process')
 const onDeath = require('death')
 
 ;(async () => {
-  const server = spawn('yarn', ['build'], {
-    cwd: 'packages/server'
+  const server = spawn('yarn', ['build', '--watch'], {
+    cwd: 'packages/server',
+    stdio: 'inherit'
   })
 
-  const web = spawn('yarn', ['build'], {
-    cwd: 'packages/web'
+  const web = spawn('yarn', ['build', '--watch'], {
+    cwd: 'packages/web',
+    stdio: 'inherit'
   })
 
   onDeath(() => {

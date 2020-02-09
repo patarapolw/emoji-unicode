@@ -5,12 +5,13 @@
     "packages/*"
   ],
   "scripts": {
-    "prepare": "node heroku/prepare.js",
-    "build": "node heroku/build.js",
-    "deploy-only": "node heroku/deploy.js",
-    "cleanup": "node heroku/cleanup.js",
-    "deploy": "yarn prepare && yarn build && yarn deploy-only && yarn cleanup",
-    "dev": "yarn heroku/dev.js"
+    "heroku-prepare": "node heroku/prepare.js",
+    "heroku-build": "node heroku/build.js",
+    "heroku-deploy-only": "node heroku/deploy.js",
+    "heroku-cleanup": "node heroku/cleanup.js",
+    "deploy": "yarn heroku-prepare && yarn heroku-build && yarn heroku-deploy-only && yarn heroku-cleanup",
+    "dev": "node heroku/dev.js",
+    "start": "cd heroku-dist && heroku local"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.19.0",
