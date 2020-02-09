@@ -4,6 +4,7 @@ const { spawnSafe } = require('./utils')
   await spawnSafe('git', [
     'worktree',
     'remove',
+    '-f',
     'heroku-dist'
   ])
 

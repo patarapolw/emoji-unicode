@@ -4,21 +4,21 @@ const glob = require('glob')
 const { spawnSafe } = require('./utils')
 
 ;(async () => {
-  // await spawnSafe('git', [
-  //   'branch',
-  //   'heroku'
-  // ])
+  await spawnSafe('git', [
+    'branch',
+    'heroku'
+  ])
 
-  // await spawnSafe('git', [
-  //   'worktree',
-  //   'add',
-  //   'heroku-dist',
-  //   'heroku'
-  // ])
+  await spawnSafe('git', [
+    'worktree',
+    'add',
+    'heroku-dist',
+    'heroku'
+  ])
 
-  // await spawnSafe('git', ['rm', '-rf', '.'], {
-  //   cwd: 'heroku-dist'
-  // })
+  await spawnSafe('git', ['rm', '-rf', '.'], {
+    cwd: 'heroku-dist'
+  })
 
   glob.sync('**/*', {
     cwd: 'heroku/public'
@@ -33,6 +33,6 @@ const { spawnSafe } = require('./utils')
 
   fs.writeFileSync('./heroku-dist/package.json', JSON.stringify(pkg, null, 2))
   await spawnSafe('yarn', [], {
-    stdio: 'inherit'
+    cwd: 'heroku-dist'
   })
 })().catch(console.error)
