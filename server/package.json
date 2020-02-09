@@ -5,6 +5,9 @@
   "private": true,
   "author": "Pacharapol Withayasakpunt <patarapolw@gmail.com> (https://polvcode.dev)",
   "license": "MIT",
+  "scripts": {
+    "deploy": "git push heroku server:master"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "helmet": "^3.21.2",

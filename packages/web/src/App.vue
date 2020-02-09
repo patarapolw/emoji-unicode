@@ -40,7 +40,7 @@ import yaml from 'js-yaml'
 import { Search } from 'js-search'
 import qs from 'query-string'
 
-import htmlCodesYaml from 'raw-loader!../api/codes.yaml'
+import htmlCodesYaml from 'raw-loader!../../scripts/output/codes.yaml'
 
 @Component
 export default class App extends Vue {
