@@ -20,7 +20,4 @@ yarn-error.log*
 *.sln
 *.sw?
 
-# Now environments
-now.json
-
-.now
+.env

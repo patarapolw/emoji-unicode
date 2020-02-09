@@ -10,6 +10,7 @@ const { spawnSafe } = require('./utils')
 
   await spawnSafe('git', [
     'commit',
+    '--allow-empty',
     '-m',
     'Push to Heroku'
   ], {

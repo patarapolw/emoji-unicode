@@ -7,13 +7,13 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "@types/js-search": "^1.4.0",
+    "@auth0/auth0-spa-js": "^1.6.3",
     "@types/js-yaml": "^3.12.2",
+    "axios": "^0.19.2",
     "buefy": "^0.8.10",
     "core-js": "^3.6.4",
-    "js-search": "^1.4.3",
+    "dotenv": "^8.2.0",
     "js-yaml": "^3.13.1",
-    "query-string": "^6.10.1",
     "raw-loader": "^4.0.0",
     "vue": "^2.6.11",
     "vue-class-component": "^7.2.2",

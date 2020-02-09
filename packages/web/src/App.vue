@@ -6,14 +6,21 @@
     :data="output"
     paginated
     :per-page="5"
-    :current-page.sync="page"
+    :total = "count"
+
+    backend-pagination
+    @page-change="page = $event"
+    backend-sorting
+    @sort="onSort"
+    :default-sort="[sort, order]"
   )
     template(slot-scope="props")
       b-table-column.has-text-centered(field="like" width="50" sortable)
-        button.button.is-text(@click="props.row.hasLike ? doUnlike(props.row.symbol) : doLike(props.row.symbol)")
-          b-icon.has-text-grey-light(icon="heart")
-        .has-text-centered
-          small 0
+        b-tooltip(:label="isAuthenticated ? '' : 'Login to ❤️'" position="is-right")
+          button.button.is-text(@click="props.row.like.includes(userEmail) ? doUnlike(props.row._id) : doLike(props.row._id)")
+            b-icon(icon="heart" :class="props.row.like.includes(userEmail) ? 'has-text-danger' : 'has-text-grey-light'")
+        .has-text-centered(v-if="props.row.like.length > 0")
+          small {{props.row.like.length}}
       b-table-column(label="Unicode" field="charCode" sortable width="50")
         | {{'0x' + props.row.charCode.toString(16)}}
       b-table-column(label="Symbol" field="symbol" width="100")
@@ -23,8 +30,8 @@
       b-table-column(label="Alternatives" field="alt" width="100")
         div(v-for="a in props.row.alt" :key="a")
           code {{a}}
-      b-table-column(label="Description" field="description") {{props.row.description}}
-      b-table-column(label="Hint" field="hint")
+      b-table-column(label="Description" field="description" sortable) {{props.row.description}}
+      b-table-column(label="Hint" field="hint" style="min-width: 200px;")
         div(v-for="a, i in props.row.hint" :key="i") {{a}}
     template(slot="empty")
       section.section
@@ -36,16 +43,17 @@
 
 <script lang="ts">
 import { Vue, Component, Watch } from 'vue-property-decorator'
-import yaml from 'js-yaml'
-import { Search } from 'js-search'
-import qs from 'query-string'
-
-import htmlCodesYaml from 'raw-loader!../../scripts/output/codes.yaml'
+import axios from 'axios'
+import createAuth0Client from '@auth0/auth0-spa-js'
+import Auth0Client from '@auth0/auth0-spa-js/dist/typings/Auth0Client'
 
 @Component
 export default class App extends Vue {
   output: any[] = []
-  searcher = new Search('symbol')
+  auth0?: Auth0Client
+  isAuthenticated = false
+  userEmail: string = ''
+  count = 0
 
   get q () {
     return this.$route.query.q
@@ -79,33 +87,154 @@ export default class App extends Vue {
     }
   }
 
-  created () {
-    this.searcher.addIndex('symbol')
-    this.searcher.addIndex('description')
-    this.searcher.addIndex('hint')
-    this.searcher.addDocuments(Object.values(yaml.safeLoad(htmlCodesYaml)))
-
-    this.load()
+  get sort () {
+    return this.$route.query.sort || 'code'
   }
 
-  @Watch('$route.query.q')
-  load () {
+  set sort (sort) {
+    this.$router.push({
+      query: {
+        ...this.$route.query,
+        sort
+      }
+    })
+  }
+
+  get order () {
+    return this.$route.query.order || 'desc'
+  }
+
+  set order (order) {
+    this.$router.push({
+      query: {
+        ...this.$route.query,
+        order
+      }
+    })
+  }
+
+  async created () {
+    this.load()
+    this.isAuthenticated = await this.getAuthenticated()
+  }
+
+  @Watch('q')
+  @Watch('page')
+  @Watch('sort')
+  @Watch('order')
+  async load () {
     const q = Array.isArray(this.q) ? this.q[0] : this.q
 
     if (q) {
-      Vue.set(this, 'output', this.searcher.search(q))
+      try {
+        const r = await axios.get('/api/search', {
+          params: {
+            q,
+            offset: (this.page - 1) * 5,
+            sort: this.sort,
+            order: this.order
+          }
+        })
+
+        this.count = r.data.count
+        Vue.set(this, 'output', r.data.data)
+      } catch (e) {
+        Vue.set(this, 'output', [])
+      }
     } else {
       Vue.set(this, 'output', [])
     }
   }
 
-  async doLike (symbol: string) {
-    await fetch(`/api/like?${qs.stringify({ symbol })}`, { method: 'POST' })
+  onSort (sort: string, order: string) {
+    this.sort = sort
+    this.order = order
+  }
+
+  async getAuth0 () {
+    if (!this.auth0) {
+      this.auth0 = await createAuth0Client({
+        domain: process.env.VUE_APP_AUTH0_DOMAIN!,
+        client_id: process.env.VUE_APP_AUTH0_CLIENT_ID!,
+        audience: process.env.VUE_APP_AUTH0_AUDIENCE!
+      })
+    }
+    return this.auth0
+  }
+
+  async getUser () {
+    const auth0 = await this.getAuth0()
+    if (!(await auth0.isAuthenticated())) {
+      await auth0.loginWithPopup()
+    }
+    this.isAuthenticated = true
+
+    const user = await auth0.getUser()
+    this.userEmail = user.email
+
+    return user.email
+  }
+
+  async getAuthenticated () {
+    const auth0 = await this.getAuth0()
+    this.isAuthenticated = await auth0.isAuthenticated()
+    return this.isAuthenticated
+  }
+
+  async getToken () {
+    let token = localStorage.getItem('token')
+    if (token) {
+      const r = await fetch('/api/status', {
+        headers: {
+          Authorization: `Bearer ${token}`
+        }
+      })
+      if (r.status !== 200) {
+        token = ''
+      }
+    }
+
+    if (!token) {
+      await this.getUser()
+      const auth0 = await this.getAuth0()
+      token = await auth0.getTokenSilently()
+    }
+    if (token) {
+      localStorage.setItem('token', token)
+    }
+
+    return token
+  }
+
+  async doLike (id: string) {
+    const token = await this.getToken()
+    const user = await this.getUser()
+
+    await axios.put('/api/like', undefined, {
+      params: {
+        user,
+        id
+      },
+      headers: {
+        Authorization: `Bearer ${token}`
+      }
+    })
     this.load()
   }
 
-  async doUnlike (symbol: string) {
-    await fetch(`/api/unlike?${qs.stringify({ symbol })}`, { method: 'POST' })
+  async doUnlike (id: string) {
+    const user = await this.getUser()
+    const token = await this.getToken()
+
+    await axios.delete('/api/unlike', {
+      params: {
+        user,
+        id
+      },
+      headers: {
+        Authorization: `Bearer ${token}`
+      }
+    })
     this.load()
   }
 }
