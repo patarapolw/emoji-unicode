@@ -8,6 +8,7 @@ import showdown from 'showdown'
   const raw = fs.readFileSync('assets/raw.txt', 'utf8')
   const output: {
   [symbol: string]: {
+    charCode: number,
     symbol: string
     code: string
     alt: Set<string>
@@ -25,8 +26,10 @@ import showdown from 'showdown'
         const getAt = (m: number) => lines[m * entLength + (i / 6)]
         const c3 = getAt(3)
         const c4 = getAt(4)
+        const charCode = getAt(2).charCodeAt(0)
 
         output[getAt(2)] = {
+          charCode,
           symbol: getAt(2),
           code: c4 || c3,
           alt: new Set(c4 ? [c3, c4] : [c3]),
@@ -56,6 +59,7 @@ import showdown from 'showdown'
         output[c].hint.push(description)
       } else {
         output[c] = {
+          charCode,
           symbol: c,
           code: `&#${charCode}`,
           alt,
@@ -89,6 +93,7 @@ import showdown from 'showdown'
         output[c].hint.push(text)
       } else {
         output[c] = {
+          charCode,
           symbol: c,
           code: text,
           alt,
