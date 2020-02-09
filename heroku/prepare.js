@@ -21,7 +21,8 @@ const { spawnSafe } = require('./utils')
   })
 
   glob.sync('**/*', {
-    cwd: 'heroku/public'
+    cwd: 'heroku/public',
+    dot: true
   }).map((f) => {
     fs.copyFileSync(`heroku/public/${f}`, `heroku-dist/${f}`)
   })

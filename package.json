@@ -7,9 +7,9 @@
   "scripts": {
     "heroku-prepare": "node heroku/prepare.js",
     "heroku-build": "node heroku/build.js",
-    "heroku-deploy-only": "node heroku/deploy.js",
+    "heroku-deploy": "node heroku/deploy.js",
     "heroku-cleanup": "node heroku/cleanup.js",
-    "deploy": "yarn heroku-prepare && yarn heroku-build && yarn heroku-deploy-only && yarn heroku-cleanup",
+    "deploy": "yarn heroku-prepare && yarn heroku-build && yarn heroku-deploy && yarn heroku-cleanup",
     "dev": "node heroku/dev.js",
     "start": "cd heroku-dist && heroku local"
   },
