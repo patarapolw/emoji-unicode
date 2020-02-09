@@ -13,7 +13,7 @@ import showdown from 'showdown'
     code: string
     alt: Set<string>
     description: string,
-    hint: string[]
+    hint: Set<string>
   }
 } = {}
 
@@ -27,14 +27,15 @@ import showdown from 'showdown'
         const c3 = getAt(3)
         const c4 = getAt(4)
         const charCode = getAt(2).charCodeAt(0)
+        const charCodeSet = new Set([`&#${charCode}`, `&#x${charCode.toString(16).toUpperCase()}`])
 
         output[getAt(2)] = {
           charCode,
           symbol: getAt(2),
           code: c4 || c3,
-          alt: new Set(c4 ? [c3, c4] : [c3]),
+          alt: c4 ? new Set([c4, ...charCodeSet]) : charCodeSet,
           description: getAt(5),
-          hint: []
+          hint: new Set()
         }
       }
     })
@@ -56,7 +57,7 @@ import showdown from 'showdown'
 
       if (output[c]) {
         output[c].alt = new Set([...output[c].alt, ...alt])
-        output[c].hint.push(description)
+        output[c].hint.add(description)
       } else {
         output[c] = {
           charCode,
@@ -64,7 +65,7 @@ import showdown from 'showdown'
           code: `&#${charCode}`,
           alt,
           description,
-          hint: []
+          hint: new Set()
         }
       }
     }
@@ -90,7 +91,7 @@ import showdown from 'showdown'
       if (output[c]) {
         output[c].code = text
         output[c].alt = new Set([...output[c].alt, ...alt])
-        output[c].hint.push(text)
+        output[c].hint.add(text)
       } else {
         output[c] = {
           charCode,
@@ -98,7 +99,7 @@ import showdown from 'showdown'
           code: text,
           alt,
           description: text,
-          hint: []
+          hint: new Set()
         }
       }
     }
@@ -119,7 +120,8 @@ import showdown from 'showdown'
   })
 
   Object.keys(output).map((k) => {
-    (output[k] as any).alt = Array.from(output[k].alt)
+    ;(output[k] as any).alt = Array.from(output[k].alt)
+    ;(output[k] as any).hint = Array.from(output[k].hint)
   })
 
   fs.writeFileSync('output/codes.yaml', yaml.safeDump(output))

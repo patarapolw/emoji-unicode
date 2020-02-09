@@ -3,8 +3,9 @@
   symbol: ' '
   code: '&nbsp;'
   alt:
-    - '&#160;'
     - '&nbsp;'
+    - '&#32'
+    - '&#x20'
   description: non-breaking space
   hint: []
 ¡:
@@ -12,8 +13,9 @@
   symbol: ¡
   code: '&iexcl;'
   alt:
-    - '&#161;'
     - '&iexcl;'
+    - '&#161'
+    - '&#xA1'
   description: inverted exclamation mark
   hint: []
 ¢:
@@ -21,8 +23,9 @@
   symbol: ¢
   code: '&cent;'
   alt:
-    - '&#162;'
     - '&cent;'
+    - '&#162'
+    - '&#xA2'
   description: cent sign
   hint: []
 £:
@@ -30,8 +33,9 @@
   symbol: £
   code: '&pound;'
   alt:
-    - '&#163;'
     - '&pound;'
+    - '&#163'
+    - '&#xA3'
   description: pound sign
   hint: []
 ¤:
@@ -39,8 +43,9 @@
   symbol: ¤
   code: '&curren;'
   alt:
-    - '&#164;'
     - '&curren;'
+    - '&#164'
+    - '&#xA4'
   description: currency sign
   hint: []
 ¥:
@@ -48,8 +53,9 @@
   symbol: ¥
   code: '&yen;'
   alt:
-    - '&#165;'
     - '&yen;'
+    - '&#165'
+    - '&#xA5'
   description: yen sign
   hint: []
 ¦:
@@ -57,8 +63,9 @@
   symbol: ¦
   code: '&brvbar;'
   alt:
-    - '&#166;'
     - '&brvbar;'
+    - '&#166'
+    - '&#xA6'
   description: broken vertical bar
   hint: []
 §:
@@ -66,8 +73,9 @@
   symbol: §
   code: '&sect;'
   alt:
-    - '&#167;'
     - '&sect;'
+    - '&#167'
+    - '&#xA7'
   description: section sign
   hint: []
 ¨:
@@ -75,8 +83,9 @@
   symbol: ¨
   code: '&uml;'
   alt:
-    - '&#168;'
     - '&uml;'
+    - '&#168'
+    - '&#xA8'
   description: spacing diaeresis - umlaut
   hint: []
 ©:
@@ -84,7 +93,6 @@
   symbol: ©
   code: '&copy;'
   alt:
-    - '&#169;'
     - '&copy;'
     - '&#169'
     - '&#xA9'
@@ -96,8 +104,9 @@
   symbol: ª
   code: '&ordf;'
   alt:
-    - '&#170;'
     - '&ordf;'
+    - '&#170'
+    - '&#xAA'
   description: feminine ordinal indicator
   hint: []
 «:
@@ -105,8 +114,9 @@
   symbol: «
   code: '&laquo;'
   alt:
-    - '&#171;'
     - '&laquo;'
+    - '&#171'
+    - '&#xAB'
   description: left double angle quotes
   hint: []
 ¬:
@@ -114,8 +124,9 @@
   symbol: ¬
   code: '&not;'
   alt:
-    - '&#172;'
     - '&not;'
+    - '&#172'
+    - '&#xAC'
   description: not sign
   hint: []
 ­:
@@ -123,8 +134,9 @@
   symbol: ­
   code: '&shy;'
   alt:
-    - '&#173;'
     - '&shy;'
+    - '&#173'
+    - '&#xAD'
   description: soft hyphen
   hint: []
 ®:
@@ -132,7 +144,6 @@
   symbol: ®
   code: '&reg;'
   alt:
-    - '&#174;'
     - '&reg;'
     - '&#174'
     - '&#xAE'
@@ -144,8 +155,9 @@
   symbol: ¯
   code: '&macr;'
   alt:
-    - '&#175;'
     - '&macr;'
+    - '&#175'
+    - '&#xAF'
   description: spacing macron - overline
   hint: []
 °:
@@ -153,8 +165,9 @@
   symbol: °
   code: '&deg;'
   alt:
-    - '&#176;'
     - '&deg;'
+    - '&#176'
+    - '&#xB0'
   description: degree sign
   hint: []
 ±:
@@ -162,8 +175,9 @@
   symbol: ±
   code: '&plusmn;'
   alt:
-    - '&#177;'
     - '&plusmn;'
+    - '&#177'
+    - '&#xB1'
   description: plus-or-minus sign
   hint: []
 ²:
@@ -171,8 +185,9 @@
   symbol: ²
   code: '&sup2;'
   alt:
-    - '&#178;'
     - '&sup2;'
+    - '&#178'
+    - '&#xB2'
   description: superscript two - squared
   hint: []
 ³:
@@ -180,8 +195,9 @@
   symbol: ³
   code: '&sup3;'
   alt:
-    - '&#179;'
     - '&sup3;'
+    - '&#179'
+    - '&#xB3'
   description: superscript three - cubed
   hint: []
 ´:
@@ -189,8 +205,9 @@
   symbol: ´
   code: '&acute;'
   alt:
-    - '&#180;'
     - '&acute;'
+    - '&#180'
+    - '&#xB4'
   description: acute accent - spacing acute
   hint: []
 µ:
@@ -198,8 +215,9 @@
   symbol: µ
   code: '&micro;'
   alt:
-    - '&#181;'
     - '&micro;'
+    - '&#181'
+    - '&#xB5'
   description: micro sign
   hint: []
 ¶:
@@ -207,8 +225,9 @@
   symbol: ¶
   code: '&para;'
   alt:
-    - '&#182;'
     - '&para;'
+    - '&#182'
+    - '&#xB6'
   description: pilcrow sign - paragraph sign
   hint: []
 ·:
@@ -216,8 +235,9 @@
   symbol: ·
   code: '&middot;'
   alt:
-    - '&#183;'
     - '&middot;'
+    - '&#183'
+    - '&#xB7'
   description: middle dot - Georgian comma
   hint: []
 ¸:
@@ -225,8 +245,9 @@
   symbol: ¸
   code: '&cedil;'
   alt:
-    - '&#184;'
     - '&cedil;'
+    - '&#184'
+    - '&#xB8'
   description: spacing cedilla
   hint: []
 ¹:
@@ -234,8 +255,9 @@
   symbol: ¹
   code: '&sup1;'
   alt:
-    - '&#185;'
     - '&sup1;'
+    - '&#185'
+    - '&#xB9'
   description: superscript one
   hint: []
 º:
@@ -243,8 +265,9 @@
   symbol: º
   code: '&ordm;'
   alt:
-    - '&#186;'
     - '&ordm;'
+    - '&#186'
+    - '&#xBA'
   description: masculine ordinal indicator
   hint: []
 »:
@@ -252,8 +275,9 @@
   symbol: »
   code: '&raquo;'
   alt:
-    - '&#187;'
     - '&raquo;'
+    - '&#187'
+    - '&#xBB'
   description: right double angle quotes
   hint: []
 ¼:
@@ -261,8 +285,9 @@
   symbol: ¼
   code: '&frac14;'
   alt:
-    - '&#188;'
     - '&frac14;'
+    - '&#188'
+    - '&#xBC'
   description: fraction one quarter
   hint: []
 ½:
@@ -270,8 +295,9 @@
   symbol: ½
   code: '&frac12;'
   alt:
-    - '&#189;'
     - '&frac12;'
+    - '&#189'
+    - '&#xBD'
   description: fraction one half
   hint: []
 ¾:
@@ -279,8 +305,9 @@
   symbol: ¾
   code: '&frac34;'
   alt:
-    - '&#190;'
     - '&frac34;'
+    - '&#190'
+    - '&#xBE'
   description: fraction three quarters
   hint: []
 ¿:
@@ -288,8 +315,9 @@
   symbol: ¿
   code: '&iquest;'
   alt:
-    - '&#191;'
     - '&iquest;'
+    - '&#191'
+    - '&#xBF'
   description: inverted question mark
   hint: []
 À:
@@ -297,8 +325,9 @@
   symbol: À
   code: '&Agrave;'
   alt:
-    - '&#192;'
     - '&Agrave;'
+    - '&#192'
+    - '&#xC0'
   description: latin capital letter A with grave
   hint: []
 Á:
@@ -306,8 +335,9 @@
   symbol: Á
   code: '&Aacute;'
   alt:
-    - '&#193;'
     - '&Aacute;'
+    - '&#193'
+    - '&#xC1'
   description: latin capital letter A with acute
   hint: []
 Â:
@@ -315,8 +345,9 @@
   symbol: Â
   code: '&Acirc;'
   alt:
-    - '&#194;'
     - '&Acirc;'
+    - '&#194'
+    - '&#xC2'
   description: latin capital letter A with circumflex
   hint: []
 Ã:
@@ -324,8 +355,9 @@
   symbol: Ã
   code: '&Atilde;'
   alt:
-    - '&#195;'
     - '&Atilde;'
+    - '&#195'
+    - '&#xC3'
   description: latin capital letter A with tilde
   hint: []
 Ä:
@@ -333,8 +365,9 @@
   symbol: Ä
   code: '&Auml;'
   alt:
-    - '&#196;'
     - '&Auml;'
+    - '&#196'
+    - '&#xC4'
   description: latin capital letter A with diaeresis
   hint: []
 Å:
@@ -342,8 +375,9 @@
   symbol: Å
   code: '&Aring;'
   alt:
-    - '&#197;'
     - '&Aring;'
+    - '&#197'
+    - '&#xC5'
   description: latin capital letter A with ring above
   hint: []
 Æ:
@@ -351,8 +385,9 @@
   symbol: Æ
   code: '&AElig;'
   alt:
-    - '&#198;'
     - '&AElig;'
+    - '&#198'
+    - '&#xC6'
   description: latin capital letter AE
   hint: []
 Ç:
@@ -360,8 +395,9 @@
   symbol: Ç
   code: '&Ccedil;'
   alt:
-    - '&#199;'
     - '&Ccedil;'
+    - '&#199'
+    - '&#xC7'
   description: latin capital letter C with cedilla
   hint: []
 È:
@@ -369,8 +405,9 @@
   symbol: È
   code: '&Egrave;'
   alt:
-    - '&#200;'
     - '&Egrave;'
+    - '&#200'
+    - '&#xC8'
   description: latin capital letter E with grave
   hint: []
 É:
@@ -378,8 +415,9 @@
   symbol: É
   code: '&Eacute;'
   alt:
-    - '&#201;'
     - '&Eacute;'
+    - '&#201'
+    - '&#xC9'
   description: latin capital letter E with acute
   hint: []
 Ê:
@@ -387,8 +425,9 @@
   symbol: Ê
   code: '&Ecirc;'
   alt:
-    - '&#202;'
     - '&Ecirc;'
+    - '&#202'
+    - '&#xCA'
   description: latin capital letter E with circumflex
   hint: []
 Ë:
@@ -396,8 +435,9 @@
   symbol: Ë
   code: '&Euml;'
   alt:
-    - '&#203;'
     - '&Euml;'
+    - '&#203'
+    - '&#xCB'
   description: latin capital letter E with diaeresis
   hint: []
 Ì:
@@ -405,8 +445,9 @@
   symbol: Ì
   code: '&Igrave;'
   alt:
-    - '&#204;'
     - '&Igrave;'
+    - '&#204'
+    - '&#xCC'
   description: latin capital letter I with grave
   hint: []
 Í:
@@ -414,8 +455,9 @@
   symbol: Í
   code: '&Iacute;'
   alt:
-    - '&#205;'
     - '&Iacute;'
+    - '&#205'
+    - '&#xCD'
   description: latin capital letter I with acute
   hint: []
 Î:
@@ -423,8 +465,9 @@
   symbol: Î
   code: '&Icirc;'
   alt:
-    - '&#206;'
     - '&Icirc;'
+    - '&#206'
+    - '&#xCE'
   description: latin capital letter I with circumflex
   hint: []
 Ï:
@@ -432,8 +475,9 @@
   symbol: Ï
   code: '&Iuml;'
   alt:
-    - '&#207;'
     - '&Iuml;'
+    - '&#207'
+    - '&#xCF'
   description: latin capital letter I with diaeresis
   hint: []
 Ð:
@@ -441,8 +485,9 @@
   symbol: Ð
   code: '&ETH;'
   alt:
-    - '&#208;'
     - '&ETH;'
+    - '&#208'
+    - '&#xD0'
   description: latin capital letter ETH
   hint: []
 Ñ:
@@ -450,8 +495,9 @@
   symbol: Ñ
   code: '&Ntilde;'
   alt:
-    - '&#209;'
     - '&Ntilde;'
+    - '&#209'
+    - '&#xD1'
   description: latin capital letter N with tilde
   hint: []
 Ò:
@@ -459,8 +505,9 @@
   symbol: Ò
   code: '&Ograve;'
   alt:
-    - '&#210;'
     - '&Ograve;'
+    - '&#210'
+    - '&#xD2'
   description: latin capital letter O with grave
   hint: []
 Ó:
@@ -468,8 +515,9 @@
   symbol: Ó
   code: '&Oacute;'
   alt:
-    - '&#211;'
     - '&Oacute;'
+    - '&#211'
+    - '&#xD3'
   description: latin capital letter O with acute
   hint: []
 Ô:
@@ -477,8 +525,9 @@
   symbol: Ô
   code: '&Ocirc;'
   alt:
-    - '&#212;'
     - '&Ocirc;'
+    - '&#212'
+    - '&#xD4'
   description: latin capital letter O with circumflex
   hint: []
 Õ:
@@ -486,8 +535,9 @@
   symbol: Õ
   code: '&Otilde;'
   alt:
-    - '&#213;'
     - '&Otilde;'
+    - '&#213'
+    - '&#xD5'
   description: latin capital letter O with tilde
   hint: []
 Ö:
@@ -495,8 +545,9 @@
   symbol: Ö
   code: '&Ouml;'
   alt:
-    - '&#214;'
     - '&Ouml;'
+    - '&#214'
+    - '&#xD6'
   description: latin capital letter O with diaeresis
   hint: []
 ×:
@@ -504,8 +555,9 @@
   symbol: ×
   code: '&times;'
   alt:
-    - '&#215;'
     - '&times;'
+    - '&#215'
+    - '&#xD7'
   description: multiplication sign
   hint: []
 Ø:
@@ -513,8 +565,9 @@
   symbol: Ø
   code: '&Oslash;'
   alt:
-    - '&#216;'
     - '&Oslash;'
+    - '&#216'
+    - '&#xD8'
   description: latin capital letter O with slash
   hint: []
 Ù:
@@ -522,8 +575,9 @@
   symbol: Ù
   code: '&Ugrave;'
   alt:
-    - '&#217;'
     - '&Ugrave;'
+    - '&#217'
+    - '&#xD9'
   description: latin capital letter U with grave
   hint: []
 Ú:
@@ -531,8 +585,9 @@
   symbol: Ú
   code: '&Uacute;'
   alt:
-    - '&#218;'
     - '&Uacute;'
+    - '&#218'
+    - '&#xDA'
   description: latin capital letter U with acute
   hint: []
 Û:
@@ -540,8 +595,9 @@
   symbol: Û
   code: '&Ucirc;'
   alt:
-    - '&#219;'
     - '&Ucirc;'
+    - '&#219'
+    - '&#xDB'
   description: latin capital letter U with circumflex
   hint: []
 Ü:
@@ -549,8 +605,9 @@
   symbol: Ü
   code: '&Uuml;'
   alt:
-    - '&#220;'
     - '&Uuml;'
+    - '&#220'
+    - '&#xDC'
   description: latin capital letter U with diaeresis
   hint: []
 Ý:
@@ -558,8 +615,9 @@
   symbol: Ý
   code: '&Yacute;'
   alt:
-    - '&#221;'
     - '&Yacute;'
+    - '&#221'
+    - '&#xDD'
   description: latin capital letter Y with acute
   hint: []
 Þ:
@@ -567,8 +625,9 @@
   symbol: Þ
   code: '&THORN;'
   alt:
-    - '&#222;'
     - '&THORN;'
+    - '&#222'
+    - '&#xDE'
   description: latin capital letter THORN
   hint: []
 ß:
@@ -576,8 +635,9 @@
   symbol: ß
   code: '&szlig;'
   alt:
-    - '&#223;'
     - '&szlig;'
+    - '&#223'
+    - '&#xDF'
   description: latin small letter sharp s - ess-zed
   hint: []
 à:
@@ -585,8 +645,9 @@
   symbol: à
   code: '&agrave;'
   alt:
-    - '&#224;'
     - '&agrave;'
+    - '&#224'
+    - '&#xE0'
   description: latin small letter a with grave
   hint: []
 á:
@@ -594,8 +655,9 @@
   symbol: á
   code: '&aacute;'
   alt:
-    - '&#225;'
     - '&aacute;'
+    - '&#225'
+    - '&#xE1'
   description: latin small letter a with acute
   hint: []
 â:
@@ -603,8 +665,9 @@
   symbol: â
   code: '&acirc;'
   alt:
-    - '&#226;'
     - '&acirc;'
+    - '&#226'
+    - '&#xE2'
   description: latin small letter a with circumflex
   hint: []
 ã:
@@ -612,8 +675,9 @@
   symbol: ã
   code: '&atilde;'
   alt:
-    - '&#227;'
     - '&atilde;'
+    - '&#227'
+    - '&#xE3'
   description: latin small letter a with tilde
   hint: []
 ä:
@@ -621,8 +685,9 @@
   symbol: ä
   code: '&auml;'
   alt:
-    - '&#228;'
     - '&auml;'
+    - '&#228'
+    - '&#xE4'
   description: latin small letter a with diaeresis
   hint: []
 å:
@@ -630,8 +695,9 @@
   symbol: å
   code: '&aring;'
   alt:
-    - '&#229;'
     - '&aring;'
+    - '&#229'
+    - '&#xE5'
   description: latin small letter a with ring above
   hint: []
 æ:
@@ -639,8 +705,9 @@
   symbol: æ
   code: '&aelig;'
   alt:
-    - '&#230;'
     - '&aelig;'
+    - '&#230'
+    - '&#xE6'
   description: latin small letter ae
   hint: []
 ç:
@@ -648,8 +715,9 @@
   symbol: ç
   code: '&ccedil;'
   alt:
-    - '&#231;'
     - '&ccedil;'
+    - '&#231'
+    - '&#xE7'
   description: latin small letter c with cedilla
   hint: []
 è:
@@ -657,8 +725,9 @@
   symbol: è
   code: '&egrave;'
   alt:
-    - '&#232;'
     - '&egrave;'
+    - '&#232'
+    - '&#xE8'
   description: latin small letter e with grave
   hint: []
 é:
@@ -666,8 +735,9 @@
   symbol: é
   code: '&eacute;'
   alt:
-    - '&#233;'
     - '&eacute;'
+    - '&#233'
+    - '&#xE9'
   description: latin small letter e with acute
   hint: []
 ê:
@@ -675,8 +745,9 @@
   symbol: ê
   code: '&ecirc;'
   alt:
-    - '&#234;'
     - '&ecirc;'
+    - '&#234'
+    - '&#xEA'
   description: latin small letter e with circumflex
   hint: []
 ë:
@@ -684,8 +755,9 @@
   symbol: ë
   code: '&euml;'
   alt:
-    - '&#235;'
     - '&euml;'
+    - '&#235'
+    - '&#xEB'
   description: latin small letter e with diaeresis
   hint: []
 ì:
@@ -693,8 +765,9 @@
   symbol: ì
   code: '&igrave;'
   alt:
-    - '&#236;'
     - '&igrave;'
+    - '&#236'
+    - '&#xEC'
   description: latin small letter i with grave
   hint: []
 í:
@@ -702,8 +775,9 @@
   symbol: í
   code: '&iacute;'
   alt:
-    - '&#237;'
     - '&iacute;'
+    - '&#237'
+    - '&#xED'
   description: latin small letter i with acute
   hint: []
 î:
@@ -711,8 +785,9 @@
   symbol: î
   code: '&icirc;'
   alt:
-    - '&#238;'
     - '&icirc;'
+    - '&#238'
+    - '&#xEE'
   description: latin small letter i with circumflex
   hint: []
 ï:
@@ -720,8 +795,9 @@
   symbol: ï
   code: '&iuml;'
   alt:
-    - '&#239;'
     - '&iuml;'
+    - '&#239'
+    - '&#xEF'
   description: latin small letter i with diaeresis
   hint: []
 ð:
@@ -729,8 +805,9 @@
   symbol: ð
   code: '&eth;'
   alt:
-    - '&#240;'
     - '&eth;'
+    - '&#240'
+    - '&#xF0'
   description: latin small letter eth
   hint: []
 ñ:
@@ -738,8 +815,9 @@
   symbol: ñ
   code: '&ntilde;'
   alt:
-    - '&#241;'
     - '&ntilde;'
+    - '&#241'
+    - '&#xF1'
   description: latin small letter n with tilde
   hint: []
 ò:
@@ -747,8 +825,9 @@
   symbol: ò
   code: '&ograve;'
   alt:
-    - '&#242;'
     - '&ograve;'
+    - '&#242'
+    - '&#xF2'
   description: latin small letter o with grave
   hint: []
 ó:
@@ -756,8 +835,9 @@
   symbol: ó
   code: '&oacute;'
   alt:
-    - '&#243;'
     - '&oacute;'
+    - '&#243'
+    - '&#xF3'
   description: latin small letter o with acute
   hint: []
 ô:
@@ -765,8 +845,9 @@
   symbol: ô
   code: '&ocirc;'
   alt:
-    - '&#244;'
     - '&ocirc;'
+    - '&#244'
+    - '&#xF4'
   description: latin small letter o with circumflex
   hint: []
 õ:
@@ -774,8 +855,9 @@
   symbol: õ
   code: '&otilde;'
   alt:
-    - '&#245;'
     - '&otilde;'
+    - '&#245'
+    - '&#xF5'
   description: latin small letter o with tilde
   hint: []
 ö:
@@ -783,8 +865,9 @@
   symbol: ö
   code: '&ouml;'
   alt:
-    - '&#246;'
     - '&ouml;'
+    - '&#246'
+    - '&#xF6'
   description: latin small letter o with diaeresis
   hint: []
 ÷:
@@ -792,8 +875,9 @@
   symbol: ÷
   code: '&divide;'
   alt:
-    - '&#247;'
     - '&divide;'
+    - '&#247'
+    - '&#xF7'
   description: division sign
   hint: []
 ø:
@@ -801,8 +885,9 @@
   symbol: ø
   code: '&oslash;'
   alt:
-    - '&#248;'
     - '&oslash;'
+    - '&#248'
+    - '&#xF8'
   description: latin small letter o with slash
   hint: []
 ù:
@@ -810,8 +895,9 @@
   symbol: ù
   code: '&ugrave;'
   alt:
-    - '&#249;'
     - '&ugrave;'
+    - '&#249'
+    - '&#xF9'
   description: latin small letter u with grave
   hint: []
 ú:
@@ -819,8 +905,9 @@
   symbol: ú
   code: '&uacute;'
   alt:
-    - '&#250;'
     - '&uacute;'
+    - '&#250'
+    - '&#xFA'
   description: latin small letter u with acute
   hint: []
 û:
@@ -828,8 +915,9 @@
   symbol: û
   code: '&ucirc;'
   alt:
-    - '&#251;'
     - '&ucirc;'
+    - '&#251'
+    - '&#xFB'
   description: latin small letter u with circumflex
   hint: []
 ü:
@@ -837,8 +925,9 @@
   symbol: ü
   code: '&uuml;'
   alt:
-    - '&#252;'
     - '&uuml;'
+    - '&#252'
+    - '&#xFC'
   description: latin small letter u with diaeresis
   hint: []
 ý:
@@ -846,8 +935,9 @@
   symbol: ý
   code: '&yacute;'
   alt:
-    - '&#253;'
     - '&yacute;'
+    - '&#253'
+    - '&#xFD'
   description: latin small letter y with acute
   hint: []
 þ:
@@ -855,8 +945,9 @@
   symbol: þ
   code: '&thorn;'
   alt:
-    - '&#254;'
     - '&thorn;'
+    - '&#254'
+    - '&#xFE'
   description: latin small letter thorn
   hint: []
 ÿ:
@@ -864,8 +955,9 @@
   symbol: ÿ
   code: '&yuml;'
   alt:
-    - '&#255;'
     - '&yuml;'
+    - '&#255'
+    - '&#xFF'
   description: latin small letter y with diaeresis
   hint: []
 Œ:
@@ -873,7 +965,8 @@
   symbol: Œ
   code: '&#338;'
   alt:
-    - '&#338;'
+    - '&#338'
+    - '&#x152'
   description: latin capital letter OE
   hint: []
 œ:
@@ -881,7 +974,8 @@
   symbol: œ
   code: '&#339;'
   alt:
-    - '&#339;'
+    - '&#339'
+    - '&#x153'
   description: latin small letter oe
   hint: []
 Š:
@@ -889,7 +983,8 @@
   symbol: Š
   code: '&#352;'
   alt:
-    - '&#352;'
+    - '&#352'
+    - '&#x160'
   description: latin capital letter S with caron
   hint: []
 š:
@@ -897,7 +992,8 @@
   symbol: š
   code: '&#353;'
   alt:
-    - '&#353;'
+    - '&#353'
+    - '&#x161'
   description: latin small letter s with caron
   hint: []
 Ÿ:
@@ -905,7 +1001,8 @@
   symbol: Ÿ
   code: '&#376;'
   alt:
-    - '&#376;'
+    - '&#376'
+    - '&#x178'
   description: latin capital letter Y with diaeresis
   hint: []
 ƒ:
@@ -913,7 +1010,8 @@
   symbol: ƒ
   code: '&#402;'
   alt:
-    - '&#402;'
+    - '&#402'
+    - '&#x192'
   description: latin small f with hook - function
   hint: []
 –:
@@ -921,7 +1019,8 @@
   symbol: –
   code: '&#8211;'
   alt:
-    - '&#8211;'
+    - '&#8211'
+    - '&#x2013'
   description: en dash
   hint: []
 —:
@@ -929,7 +1028,8 @@
   symbol: —
   code: '&#8212;'
   alt:
-    - '&#8212;'
+    - '&#8212'
+    - '&#x2014'
   description: em dash
   hint: []
 ‘:
@@ -937,7 +1037,8 @@
   symbol: ‘
   code: '&#8216;'
   alt:
-    - '&#8216;'
+    - '&#8216'
+    - '&#x2018'
   description: left single quotation mark
   hint: []
 ’:
@@ -945,7 +1046,8 @@
   symbol: ’
   code: '&#8217;'
   alt:
-    - '&#8217;'
+    - '&#8217'
+    - '&#x2019'
   description: right single quotation mark
   hint: []
 ‚:
@@ -953,7 +1055,8 @@
   symbol: ‚
   code: '&#8218;'
   alt:
-    - '&#8218;'
+    - '&#8218'
+    - '&#x201A'
   description: single low-9 quotation mark
   hint: []
 “:
@@ -961,7 +1064,8 @@
   symbol: “
   code: '&#8220;'
   alt:
-    - '&#8220;'
+    - '&#8220'
+    - '&#x201C'
   description: left double quotation mark
   hint: []
 ”:
@@ -969,7 +1073,8 @@
   symbol: ”
   code: '&#8221;'
   alt:
-    - '&#8221;'
+    - '&#8221'
+    - '&#x201D'
   description: right double quotation mark
   hint: []
 „:
@@ -977,7 +1082,8 @@
   symbol: „
   code: '&#8222;'
   alt:
-    - '&#8222;'
+    - '&#8222'
+    - '&#x201E'
   description: double low-9 quotation mark
   hint: []
 †:
@@ -985,7 +1091,8 @@
   symbol: †
   code: '&#8224;'
   alt:
-    - '&#8224;'
+    - '&#8224'
+    - '&#x2020'
   description: dagger
   hint: []
 ‡:
@@ -993,7 +1100,8 @@
   symbol: ‡
   code: '&#8225;'
   alt:
-    - '&#8225;'
+    - '&#8225'
+    - '&#x2021'
   description: double dagger
   hint: []
 •:
@@ -1001,7 +1109,8 @@
   symbol: •
   code: '&#8226;'
   alt:
-    - '&#8226;'
+    - '&#8226'
+    - '&#x2022'
   description: bullet
   hint: []
 …:
@@ -1009,7 +1118,8 @@
   symbol: …
   code: '&#8230;'
   alt:
-    - '&#8230;'
+    - '&#8230'
+    - '&#x2026'
   description: horizontal ellipsis
   hint: []
 ‰:
@@ -1017,7 +1127,8 @@
   symbol: ‰
   code: '&#8240;'
   alt:
-    - '&#8240;'
+    - '&#8240'
+    - '&#x2030'
   description: per thousand sign
   hint: []
 €:
@@ -1025,8 +1136,9 @@
   symbol: €
   code: '&euro;'
   alt:
-    - '&#8364;'
     - '&euro;'
+    - '&#8364'
+    - '&#x20AC'
   description: euro sign
   hint: []
 ™:
@@ -1034,7 +1146,6 @@
   symbol: ™
   code: '&#8482;'
   alt:
-    - '&#8482;'
     - '&#8482'
     - '&#x2122'
   description: trade mark sign
@@ -1094,7 +1205,6 @@
     - ':laughing:'
   description: grinning squinting face
   hint:
-    - ':laughing:'
     - ':laughing:'
 "\U0001F605":
   charCode: 55357
@@ -1993,7 +2103,6 @@
   description: pouting face
   hint:
     - ':rage:'
-    - ':rage:'
 "\U0001F620":
   charCode: 55357
   symbol: "\U0001F620"
@@ -2066,8 +2175,6 @@
     - ':hankey:'
   description: pile of poo
   hint:
-    - ':hankey:'
-    - ':hankey:'
     - ':hankey:'
 "\U0001F921":
   charCode: 55358
@@ -2532,7 +2639,6 @@
   description: collision
   hint:
     - ':boom:'
-    - ':boom:'
 "\U0001F4AB":
   charCode: 55357
   symbol: "\U0001F4AB"
@@ -2694,7 +2800,6 @@
   description: raised hand
   hint:
     - ':hand:'
-    - ':hand:'
 "\U0001F596":
   charCode: 55357
   symbol: "\U0001F596"
@@ -2830,7 +2935,6 @@
   description: middle finger
   hint:
     - ':middle_finger:'
-    - ':middle_finger:'
 "\U0001F447":
   charCode: 55357
   symbol: "\U0001F447"
@@ -2862,7 +2966,6 @@
   description: thumbs up
   hint:
     - ':+1:'
-    - ':+1:'
 "\U0001F44E":
   charCode: 55357
   symbol: "\U0001F44E"
@@ -2873,7 +2976,6 @@
     - ':-1:'
   description: thumbs down
   hint:
-    - ':-1:'
     - ':-1:'
 ✊:
   charCode: 9994
@@ -2886,7 +2988,6 @@
   description: raised fist
   hint:
     - ':fist_raised:'
-    - ':fist_raised:'
 "\U0001F44A":
   charCode: 55357
   symbol: "\U0001F44A"
@@ -2897,8 +2998,6 @@
     - ':fist_oncoming:'
   description: oncoming fist
   hint:
-    - ':fist_oncoming:'
-    - ':fist_oncoming:'
     - ':fist_oncoming:'
 "\U0001F91B":
   charCode: 55358
@@ -3246,7 +3345,6 @@
   description: 'person: blond hair'
   hint:
     - ':blonde_man:'
-    - ':blonde_man:'
 "\U0001F468":
   charCode: 55357
   symbol: "\U0001F468"
@@ -3448,7 +3546,6 @@
   description: person frowning
   hint:
     - ':frowning_woman:'
-    - ':frowning_woman:'
 "\U0001F64D‍♂️":
   charCode: 55357
   symbol: "\U0001F64D‍♂️"
@@ -3479,7 +3576,6 @@
     - ':pouting_woman:'
   description: person pouting
   hint:
-    - ':pouting_woman:'
     - ':pouting_woman:'
 "\U0001F64E‍♂️":
   charCode: 55357
@@ -3512,8 +3608,6 @@
   description: person gesturing NO
   hint:
     - ':no_good_woman:'
-    - ':no_good_woman:'
-    - ':no_good_woman:'
 "\U0001F645‍♂️":
   charCode: 55357
   symbol: "\U0001F645‍♂️"
@@ -3524,7 +3618,6 @@
     - ':no_good_man:'
   description: man gesturing NO
   hint:
-    - ':no_good_man:'
     - ':no_good_man:'
 "\U0001F645‍♀️":
   charCode: 55357
@@ -3577,7 +3670,6 @@
   description: person tipping hand
   hint:
     - ':tipping_hand_woman:'
-    - ':tipping_hand_woman:'
 "\U0001F481‍♂️":
   charCode: 55357
   symbol: "\U0001F481‍♂️"
@@ -3608,7 +3700,6 @@
     - ':raising_hand_woman:'
   description: person raising hand
   hint:
-    - ':raising_hand_woman:'
     - ':raising_hand_woman:'
 "\U0001F64B‍♂️":
   charCode: 55357
@@ -3667,7 +3758,6 @@
     - ':bowing_man:'
   description: person bowing
   hint:
-    - ':bowing_man:'
     - ':bowing_man:'
 "\U0001F647‍♂️":
   charCode: 55357
@@ -4258,7 +4348,6 @@
   description: police officer
   hint:
     - ':policeman:'
-    - ':policeman:'
 "\U0001F46E‍♂️":
   charCode: 55357
   symbol: "\U0001F46E‍♂️"
@@ -4358,7 +4447,6 @@
     - ':construction_worker_man:'
   description: construction worker
   hint:
-    - ':construction_worker_man:'
     - ':construction_worker_man:'
 "\U0001F477‍♂️":
   charCode: 55357
@@ -4854,7 +4942,6 @@
   description: person getting massage
   hint:
     - ':massage_woman:'
-    - ':massage_woman:'
 "\U0001F486‍♂️":
   charCode: 55357
   symbol: "\U0001F486‍♂️"
@@ -4886,7 +4973,6 @@
   description: person getting haircut
   hint:
     - ':haircut_woman:'
-    - ':haircut_woman:'
 "\U0001F487‍♂️":
   charCode: 55357
   symbol: "\U0001F487‍♂️"
@@ -4917,7 +5003,6 @@
     - ':walking_man:'
   description: person walking
   hint:
-    - ':walking_man:'
     - ':walking_man:'
 "\U0001F6B6‍♂️":
   charCode: 55357
@@ -5085,8 +5170,6 @@
   description: person running
   hint:
     - ':running_man:'
-    - ':running_man:'
-    - ':running_man:'
 "\U0001F3C3‍♂️":
   charCode: 55356
   symbol: "\U0001F3C3‍♂️"
@@ -5150,7 +5233,6 @@
     - ':dancing_women:'
   description: people with bunny ears
   hint:
-    - ':dancing_women:'
     - ':dancing_women:'
 "\U0001F46F‍♂️":
   charCode: 55357
@@ -5310,7 +5392,6 @@
   description: person surfing
   hint:
     - ':surfing_man:'
-    - ':surfing_man:'
 "\U0001F3C4‍♂️":
   charCode: 55356
   symbol: "\U0001F3C4‍♂️"
@@ -5342,7 +5423,6 @@
   description: person rowing boat
   hint:
     - ':rowing_man:'
-    - ':rowing_man:'
 "\U0001F6A3‍♂️":
   charCode: 55357
   symbol: "\U0001F6A3‍♂️"
@@ -5373,7 +5453,6 @@
     - ':swimming_man:'
   description: person swimming
   hint:
-    - ':swimming_man:'
     - ':swimming_man:'
 "\U0001F3CA‍♂️":
   charCode: 55356
@@ -5464,7 +5543,6 @@
   description: person biking
   hint:
     - ':biking_man:'
-    - ':biking_man:'
 "\U0001F6B4‍♂️":
   charCode: 55357
   symbol: "\U0001F6B4‍♂️"
@@ -5495,7 +5573,6 @@
     - ':mountain_biking_man:'
   description: person mountain biking
   hint:
-    - ':mountain_biking_man:'
     - ':mountain_biking_man:'
 "\U0001F6B5‍♂️":
   charCode: 55357
@@ -5816,7 +5893,6 @@
   description: couple with heart
   hint:
     - ':couple_with_heart_woman_man:'
-    - ':couple_with_heart_woman_man:'
 "\U0001F469‍❤️‍\U0001F468":
   charCode: 55357
   symbol: "\U0001F469‍❤️‍\U0001F468"
@@ -5858,7 +5934,6 @@
     - ':family_man_woman_boy:'
   description: family
   hint:
-    - ':family_man_woman_boy:'
     - ':family_man_woman_boy:'
 "\U0001F468‍\U0001F469‍\U0001F466":
   charCode: 55357
@@ -6888,7 +6963,6 @@
   description: paw prints
   hint:
     - ':feet:'
-    - ':feet:'
 "\U0001F983":
   charCode: 55358
   symbol: "\U0001F983"
@@ -7203,7 +7277,6 @@
   description: dolphin
   hint:
     - ':dolphin:'
-    - ':dolphin:'
 "\U0001F9AD":
   charCode: 55358
   symbol: "\U0001F9AD"
@@ -7333,7 +7406,6 @@
     - ':bee:'
   description: honeybee
   hint:
-    - ':bee:'
     - ':bee:'
 "\U0001FAB2":
   charCode: 55358
@@ -7734,8 +7806,6 @@
     - ':tangerine:'
   description: tangerine
   hint:
-    - ':tangerine:'
-    - ':tangerine:'
     - ':tangerine:'
 "\U0001F34B":
   charCode: 55356
@@ -9025,7 +9095,6 @@
   description: kitchen knife
   hint:
     - ':hocho:'
-    - ':hocho:'
 "\U0001F3FA":
   charCode: 55356
   symbol: "\U0001F3FA"
@@ -9985,7 +10054,6 @@
   description: automobile
   hint:
     - ':car:'
-    - ':car:'
 "\U0001F698":
   charCode: 55357
   symbol: "\U0001F698"
@@ -10879,7 +10947,6 @@
     - ':moon:'
   description: waxing gibbous moon
   hint:
-    - ':moon:'
     - ':moon:'
 "\U0001F315":
   charCode: 55356
@@ -12267,7 +12334,6 @@
   description: t-shirt
   hint:
     - ':shirt:'
-    - ':shirt:'
 "\U0001F456":
   charCode: 55357
   symbol: "\U0001F456"
@@ -12469,7 +12535,6 @@
     - ':mans_shoe:'
   description: man’s shoe
   hint:
-    - ':mans_shoe:'
     - ':mans_shoe:'
 "\U0001F45F":
   charCode: 55357
@@ -13318,7 +13383,6 @@
   description: red paper lantern
   hint:
     - ':izakaya_lantern:'
-    - ':izakaya_lantern:'
 "\U0001FA94":
   charCode: 55358
   symbol: "\U0001FA94"
@@ -13360,7 +13424,6 @@
     - ':book:'
   description: open book
   hint:
-    - ':book:'
     - ':book:'
 "\U0001F4D7":
   charCode: 55357
@@ -13835,7 +13898,6 @@
     - ':memo:'
   description: memo
   hint:
-    - ':memo:'
     - ':memo:'
 "\U0001F4BC":
   charCode: 55357
