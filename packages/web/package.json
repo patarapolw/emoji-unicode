@@ -3,25 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "deploy": "netlify deploy",
     "build": "vue-cli-service build",
-    "serve": "vue-cli-service serve",
-    "prebuild": "netlify-lambda build src/lambda"
-  },
-  "dependencies": {
-    "@babel/preset-typescript": "^7.8.3",
-    "@types/aws-lambda": "^8.10.40",
-    "@types/js-search": "^1.4.0",
-    "@types/js-yaml": "^3.12.2",
-    "js-search": "^1.4.3",
-    "js-yaml": "^3.13.1",
-    "netlify-lambda": "^1.6.3",
-    "runtypes": "^4.1.0"
+    "serve": "vue-cli-service serve"
   },
   "devDependencies": {
-    "@babel/preset-typescript": "^7.8.3",
-    "@types/aws-lambda": "^8.10.40",
-    "@types/node": "^13.7.0",
     "@vue/cli-plugin-babel": "^4.2.0",
     "@vue/cli-plugin-router": "^4.2.0",
     "@vue/cli-plugin-typescript": "^4.2.0",

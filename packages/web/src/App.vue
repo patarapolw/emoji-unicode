@@ -115,7 +115,7 @@ export default class App extends Vue {
 
     if (q) {
       try {
-        const r = await axios.post('/.netlify/functions/search', undefined, {
+        const r = await axios.post('/api/search', undefined, {
           params: {
             q,
             offset: (this.page - 1) * 5,

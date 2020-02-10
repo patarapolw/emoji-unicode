@@ -9,6 +9,7 @@
 // process.env.VUE_APP_AUTH0_AUDIENCE = process.env.AUTH0_AUDIENCE
 
 module.exports = {
+  outputDir: '../../now/public',
   devServer: {
     proxy: {
       '^/api': {
