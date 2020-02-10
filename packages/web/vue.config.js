@@ -8,13 +8,12 @@
 // process.env.VUE_APP_AUTH0_CALLBACK_URL = process.env.AUTH0_CALLBACK_URL
 // process.env.VUE_APP_AUTH0_AUDIENCE = process.env.AUTH0_AUDIENCE
 
-// module.exports = {
-//   outputDir: '../now/public',
-//   devServer: {
-//     proxy: {
-//       '^/api': {
-//         target: 'http://localhost:3001'
-//       }
-//     }
-//   }
-// }
+module.exports = {
+  devServer: {
+    proxy: {
+      '^/api': {
+        target: 'http://localhost:3001'
+      }
+    }
+  }
+}

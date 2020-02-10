@@ -2,7 +2,7 @@ import fs from 'fs'
 import axios from 'axios'
 import cheerio from 'cheerio'
 import showdown from 'showdown'
-import DataStore from 'nedb-promises'
+import yaml from 'js-yaml'
 
 ;(async () => {
   const raw = fs.readFileSync('assets/raw.txt', 'utf8')
@@ -127,18 +127,10 @@ import DataStore from 'nedb-promises'
       return
     }
 
-    ;(output[k] as any).code = code
-    ;(output[k] as any).alt = alt
-    ;(output[k] as any).hint = Array.from(output[k].hint)
+    ;(v as any).code = code
+    ;(v as any).alt = alt
+    ;(v as any).hint = Array.from(v.hint)
   })
 
-  const db = new DataStore('output/db.json')
-
-  await db.ensureIndex({ fieldName: 'symbol', unique: true })
-  await db.ensureIndex({ fieldName: 'code' })
-  await db.ensureIndex({ fieldName: 'description' })
-  await db.remove({}, { multi: true })
-
-  await db.insert(Object.values(output))
-  // fs.writeFileSync('output/codes.yaml', yaml.safeDump(output))
+  fs.writeFileSync('output/codes.yaml', yaml.safeDump(output))
 })().catch(console.error)

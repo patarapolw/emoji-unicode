@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/search.ts": {
-      "includeFiles": "api/db.json"
-    }
-  }
-}

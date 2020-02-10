@@ -3,8 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "build": "vue-cli-service build",
-    "serve": "vue-cli-service serve"
+    "dev": "netlify dev",
+    "build": "netlify build",
+    "deploy": "netlify deploy",
+    "vue:build": "vue-cli-service build",
+    "vue:serve": "vue-cli-service serve",
+    "postinstall": "netlify-lambda install"
   },
   "browserslist": [
     "> 1%",
@@ -13,10 +17,10 @@
   "dependencies": {
     "escape-string-regexp": "^2.0.0",
     "nedb-promises": "^4.0.1",
+    "netlify-lambda": "^1.6.3",
     "runtypes": "^4.1.0"
   },
   "devDependencies": {
-    "@now/node": "^1.4.1",
     "@vue/cli-plugin-babel": "^4.2.0",
     "@vue/cli-plugin-router": "^4.2.0",
     "@vue/cli-plugin-typescript": "^4.2.0",

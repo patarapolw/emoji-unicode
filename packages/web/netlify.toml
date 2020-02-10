@@ -1,0 +1,10 @@
+[build]
+  command = "yarn vue:build"
+  functions = "lambda"
+  publish = "dist"
+
+[dev]
+  command = "yarn vue:serve"
+  port = 8080
+  functionsPort = 34567
+  autoLaunch = true
