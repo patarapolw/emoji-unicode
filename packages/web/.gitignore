@@ -21,6 +21,6 @@ yarn-error.log*
 *.sw?
 
 .env
-.now
+/lambda/
 # Local Netlify folder
 .netlify

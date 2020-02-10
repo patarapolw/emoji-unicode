@@ -3,24 +3,25 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "netlify dev",
-    "build": "netlify build",
     "deploy": "netlify deploy",
-    "vue:build": "vue-cli-service build",
-    "vue:serve": "vue-cli-service serve",
-    "postinstall": "netlify-lambda install"
+    "build": "vue-cli-service build",
+    "serve": "vue-cli-service serve",
+    "prebuild": "netlify-lambda build src/lambda"
   },
-  "browserslist": [
-    "> 1%",
-    "last 2 versions"
-  ],
   "dependencies": {
-    "escape-string-regexp": "^2.0.0",
-    "nedb-promises": "^4.0.1",
+    "@babel/preset-typescript": "^7.8.3",
+    "@types/aws-lambda": "^8.10.40",
+    "@types/js-search": "^1.4.0",
+    "@types/js-yaml": "^3.12.2",
+    "js-search": "^1.4.3",
+    "js-yaml": "^3.13.1",
     "netlify-lambda": "^1.6.3",
     "runtypes": "^4.1.0"
   },
   "devDependencies": {
+    "@babel/preset-typescript": "^7.8.3",
+    "@types/aws-lambda": "^8.10.40",
+    "@types/node": "^13.7.0",
     "@vue/cli-plugin-babel": "^4.2.0",
     "@vue/cli-plugin-router": "^4.2.0",
     "@vue/cli-plugin-typescript": "^4.2.0",
@@ -28,6 +29,7 @@
     "axios": "^0.19.2",
     "buefy": "^0.8.10",
     "core-js": "^3.6.4",
+    "raw-loader": "^4.0.0",
     "sass": "^1.25.0",
     "sass-loader": "^8.0.2",
     "typescript": "^3.7.5",
@@ -37,5 +39,9 @@
     "vue-property-decorator": "^8.3.0",
     "vue-router": "^3.1.5",
     "vue-template-compiler": "^2.6.11"
-  }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
 }
