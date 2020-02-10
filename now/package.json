@@ -6,10 +6,9 @@
   "author": "Pacharapol Withayasakpunt <patarapolw@gmail.com> (https://polvcode.dev)",
   "license": "MIT",
   "dependencies": {
-    "@types/js-search": "^1.4.0",
-    "@types/js-yaml": "^3.12.2",
-    "js-search": "^1.4.3",
-    "js-yaml": "^3.13.1",
+    "@types/lokijs": "^1.5.3",
+    "escape-string-regexp": "^2.0.0",
+    "lokijs": "^1.5.8",
     "runtypes": "^4.1.0"
   },
   "devDependencies": {

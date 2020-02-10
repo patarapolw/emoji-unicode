@@ -1,16 +1,9 @@
-import fs from 'fs'
-
 import { NowRequest, NowResponse } from '@now/node'
-import yaml from 'js-yaml'
-import { Search } from 'js-search'
 import { String, Undefined, Record } from 'runtypes'
+import Loki from 'lokijs'
+import escapeRegExp from 'escape-string-regexp'
 
-const db = new Search('symbol')
-db.addIndex('symbol')
-db.addIndex('code')
-db.addIndex('description')
-db.addIndex('hint')
-db.addDocuments(Object.values(yaml.safeLoad(fs.readFileSync(`${__dirname}/codes.yaml`, 'utf8'))))
+let db: Loki
 
 // Docs on event and context https://www.netlify.com/docs/functions/#the-handler-method
 export default async (req: NowRequest, res: NowResponse) => {
@@ -23,13 +16,24 @@ export default async (req: NowRequest, res: NowResponse) => {
   }).check(req.query)
 
   const offset = parseInt(offsetStr)
-  const end = offset + (parseInt(limitStr || '') || 5)
+  const limit = parseInt(limitStr || '') || 5
 
-  const allData = db.search(q) as any[]
-  const count = allData.length
-  const data = allData
-    .sort((a, b) => a[sort].toString().localeCompare(b[sort].toString()) * (order === 'desc' ? -1 : 1))
-    .slice(offset, end)
+  if (!db) {
+    await new Promise(resolve => {
+      db = new Loki(`${__dirname}/emoji.loki`, {
+        autoload: true,
+        autoloadCallback: resolve
+      })
+    })
+  }
+
+  const col = db.getCollection('emoji')
+  const count = col.count({
+    $or: ['symbol', 'description', 'hint'].map((k) => ({ [k]: { $regex: new RegExp(escapeRegExp(q), 'i') } }))
+  })
+  const data = col.chain().find({
+    $or: ['symbol', 'descrption', 'hint'].map((k) => ({ [k]: { $regex: new RegExp(escapeRegExp(q), 'i') } }))
+  }).simplesort(sort, { desc: order === 'desc' }).offset(offset).limit(limit).data()
 
   res.json({ data, count })
 }

@@ -23,6 +23,7 @@ module.exports = {
   ],
   rules: {
     'import/no-webpack-loader-syntax': 0,
-    'no-unused-vars': 0
+    'no-unused-vars': 0,
+    'no-new': 0
   }
 }

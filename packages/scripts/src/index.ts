@@ -1,14 +1,15 @@
 import fs from 'fs'
+
 import axios from 'axios'
 import cheerio from 'cheerio'
 import showdown from 'showdown'
-import yaml from 'js-yaml'
+import Loki from 'lokijs'
 
 ;(async () => {
   const raw = fs.readFileSync('assets/raw.txt', 'utf8')
   const output: {
   [symbol: string]: {
-    charCode: number,
+    codePoint: number,
     symbol: string
     code: Record<string, number>
     description: string,
@@ -23,16 +24,16 @@ import yaml from 'js-yaml'
     lines.map((_, i) => {
       if (i % 6 === 0) {
         const getAt = (m: number) => lines[m * entLength + (i / 6)]
-        const charCode = getAt(2).charCodeAt(0)
+        const codePoint = getAt(2).codePointAt(0) || getAt(2).charCodeAt(0)
 
         output[getAt(2)] = {
-          charCode,
+          codePoint,
           symbol: getAt(2),
           code: {
             [getAt(4)]: 0,
             [getAt(3)]: 2,
-            [`&#x${charCode.toString(16).toUpperCase()};`]: 3,
-            [`&#${charCode};`]: 4
+            [`&#x${codePoint.toString(16).toUpperCase()};`]: 3,
+            [`&#${codePoint};`]: 4
           },
           description: getAt(5),
           hint: new Set()
@@ -51,18 +52,18 @@ import yaml from 'js-yaml'
 
     if (chars && name) {
       const c = $(chars).text().trim()
-      const charCode = c.charCodeAt(0)
+      const codePoint = c.codePointAt(0) || c.charCodeAt(0)
       const description = $(name).text()
 
       if (output[c]) {
         output[c].hint.add(description)
       } else {
         output[c] = {
-          charCode,
+          codePoint,
           symbol: c,
           code: {
-            [`&#x${charCode.toString(16).toUpperCase()};`]: 3,
-            [`&#${charCode};`]: 4
+            [`&#x${codePoint.toString(16).toUpperCase()};`]: 3,
+            [`&#${codePoint};`]: 4
           },
           description,
           hint: new Set()
@@ -84,7 +85,7 @@ import yaml from 'js-yaml'
     const status = $($td[2]).text().trim()
     const text = $($td[1]).text()
     const c = $(mdConverter.makeHtml(text)).text()
-    const charCode = c.charCodeAt(0)
+    const codePoint = c.codePointAt(0) || c.charCodeAt(0)
 
     if (status === 'true') {
       if (output[c]) {
@@ -92,12 +93,12 @@ import yaml from 'js-yaml'
         output[c].hint.add(text)
       } else {
         output[c] = {
-          charCode,
+          codePoint,
           symbol: c,
           code: {
             [text]: 1,
-            [`&#x${charCode.toString(16).toUpperCase()};`]: 3,
-            [`&#${charCode};`]: 4
+            [`&#x${codePoint.toString(16).toUpperCase()};`]: 3,
+            [`&#${codePoint};`]: 4
           },
           description: text,
           hint: new Set()
@@ -120,17 +121,33 @@ import yaml from 'js-yaml'
     // }
   })
 
-  Object.entries(output).map(([k, v]) => {
-    const [code, ...alt] = Object.entries(v.code).sort(([k0, v0], [k1, v1]) => v0 - v1).map(([k0, v0]) => k0)
-    if (!code) {
-      delete output[k]
-      return
+  const db = new Loki('output/emoji.loki', {
+    autoload: true,
+    autosave: true,
+    autosaveInterval: 4000,
+    autoloadCallback: () => {
+      const col = db.addCollection('emoji', {
+        unique: ['symbol'],
+        indices: ['code', 'description', 'alt', 'hint']
+      })
+
+      Object.entries(output).map(([k, v]) => {
+        const [code, ...alt] = Object.entries(v.code).sort(([k0, v0], [k1, v1]) => v0 - v1).map(([k0, v0]) => k0)
+        if (!code) {
+          delete output[k]
+          return
+        }
+
+        col.insert({
+          ...v,
+          code,
+          alt,
+          hint: Array.from(v.hint)
+        })
+      })
+
+      db.save()
+      db.close()
     }
-
-    ;(v as any).code = code
-    ;(v as any).alt = alt
-    ;(v as any).hint = Array.from(v.hint)
   })
-
-  fs.writeFileSync('output/codes.yaml', yaml.safeDump(output))
 })().catch(console.error)

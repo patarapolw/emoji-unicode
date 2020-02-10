@@ -15,8 +15,8 @@
     :default-sort="[sort, order]"
   )
     template(slot-scope="props")
-      b-table-column(label="Unicode" field="charCode" sortable width="50")
-        | {{'0x' + props.row.charCode.toString(16)}}
+      b-table-column(label="Unicode" field="codePoint" sortable width="50")
+        | {{'0x' + props.row.codePoint.toString(16)}}
       b-table-column(label="Symbol" field="symbol" width="100")
         | {{props.row.symbol}}
       b-table-column(label="Code" field="code" sortable width="100")
