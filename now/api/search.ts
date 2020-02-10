@@ -25,10 +25,10 @@ export default async (req: NowRequest, res: NowResponse) => {
   const offset = parseInt(offsetStr)
   const end = offset + (parseInt(limitStr || '') || 5)
 
-  const allData = db.search(q)
+  const allData = db.search(q) as any[]
   const count = allData.length
   const data = allData
-    .sort((a, b) => a.toString().localeCompare(b.toString()) * (order === 'desc' ? -1 : 1))
+    .sort((a, b) => a[sort].toString().localeCompare(b[sort].toString()) * (order === 'desc' ? -1 : 1))
     .slice(offset, end)
 
   res.json({ data, count })
