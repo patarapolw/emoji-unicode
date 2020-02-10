@@ -1,8 +1,8 @@
 import fs from 'fs'
-import yaml from 'js-yaml'
 import axios from 'axios'
 import cheerio from 'cheerio'
 import showdown from 'showdown'
+import DataStore from 'nedb-promises'
 
 ;(async () => {
   const raw = fs.readFileSync('assets/raw.txt', 'utf8')
@@ -10,8 +10,7 @@ import showdown from 'showdown'
   [symbol: string]: {
     charCode: number,
     symbol: string
-    code: string
-    alt: Set<string>
+    code: Record<string, number>
     description: string,
     hint: Set<string>
   }
@@ -24,16 +23,17 @@ import showdown from 'showdown'
     lines.map((_, i) => {
       if (i % 6 === 0) {
         const getAt = (m: number) => lines[m * entLength + (i / 6)]
-        const c3 = getAt(3)
-        const c4 = getAt(4)
         const charCode = getAt(2).charCodeAt(0)
-        const charCodeSet = new Set([`&#${charCode}`, `&#x${charCode.toString(16).toUpperCase()}`])
 
         output[getAt(2)] = {
           charCode,
           symbol: getAt(2),
-          code: c4 || c3,
-          alt: c4 ? new Set([c4, ...charCodeSet]) : charCodeSet,
+          code: {
+            [getAt(4)]: 0,
+            [getAt(3)]: 2,
+            [`&#x${charCode.toString(16).toUpperCase()};`]: 3,
+            [`&#${charCode};`]: 4
+          },
           description: getAt(5),
           hint: new Set()
         }
@@ -52,18 +52,18 @@ import showdown from 'showdown'
     if (chars && name) {
       const c = $(chars).text().trim()
       const charCode = c.charCodeAt(0)
-      const alt = new Set([`&#${charCode}`, `&#x${charCode.toString(16).toUpperCase()}`])
       const description = $(name).text()
 
       if (output[c]) {
-        output[c].alt = new Set([...output[c].alt, ...alt])
         output[c].hint.add(description)
       } else {
         output[c] = {
           charCode,
           symbol: c,
-          code: `&#${charCode}`,
-          alt,
+          code: {
+            [`&#x${charCode.toString(16).toUpperCase()};`]: 3,
+            [`&#${charCode};`]: 4
+          },
           description,
           hint: new Set()
         }
@@ -85,19 +85,20 @@ import showdown from 'showdown'
     const text = $($td[1]).text()
     const c = $(mdConverter.makeHtml(text)).text()
     const charCode = c.charCodeAt(0)
-    const alt = new Set([`&#${charCode}`, `&#x${charCode.toString(16).toUpperCase()}`, text])
 
     if (status === 'true') {
       if (output[c]) {
-        output[c].code = text
-        output[c].alt = new Set([...output[c].alt, ...alt])
+        output[c].code[text] = 1
         output[c].hint.add(text)
       } else {
         output[c] = {
           charCode,
           symbol: c,
-          code: text,
-          alt,
+          code: {
+            [text]: 1,
+            [`&#x${charCode.toString(16).toUpperCase()};`]: 3,
+            [`&#${charCode};`]: 4
+          },
           description: text,
           hint: new Set()
         }
@@ -119,10 +120,25 @@ import showdown from 'showdown'
     // }
   })
 
-  Object.keys(output).map((k) => {
-    ;(output[k] as any).alt = Array.from(output[k].alt)
+  Object.entries(output).map(([k, v]) => {
+    const [code, ...alt] = Object.entries(v.code).sort(([k0, v0], [k1, v1]) => v0 - v1).map(([k0, v0]) => k0)
+    if (!code) {
+      delete output[k]
+      return
+    }
+
+    ;(output[k] as any).code = code
+    ;(output[k] as any).alt = alt
     ;(output[k] as any).hint = Array.from(output[k].hint)
   })
 
-  fs.writeFileSync('output/codes.yaml', yaml.safeDump(output))
+  const db = new DataStore('output/db.json')
+
+  await db.ensureIndex({ fieldName: 'symbol', unique: true })
+  await db.ensureIndex({ fieldName: 'code' })
+  await db.ensureIndex({ fieldName: 'description' })
+  await db.remove({}, { multi: true })
+
+  await db.insert(Object.values(output))
+  // fs.writeFileSync('output/codes.yaml', yaml.safeDump(output))
 })().catch(console.error)

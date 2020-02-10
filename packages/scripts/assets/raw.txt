@@ -1,4 +1,3 @@
-160
 161
 162
 163
@@ -14,7 +13,6 @@
 173
 174
 175
-A0
 A1
 A2
 A3
@@ -30,7 +28,6 @@ AC
 AD
 AE
 AF
- 
 ¡
 ¢
 £
@@ -46,7 +43,6 @@ AF
 ­
 ®
 ¯
-&#160;
 &#161;
 &#162;
 &#163;
@@ -62,7 +58,6 @@ AF
 &#173;
 &#174;
 &#175;
-&nbsp;
 &iexcl;
 &cent;
 &pound;
@@ -78,7 +73,6 @@ AF
 &shy;
 &reg;
 &macr;
-non-breaking space
 inverted exclamation mark
 cent sign
 pound sign
