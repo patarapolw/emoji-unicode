@@ -32,7 +32,7 @@ export default async (req: NowRequest, res: NowResponse) => {
     $or: ['symbol', 'description', 'hint'].map((k) => ({ [k]: { $regex: new RegExp(escapeRegExp(q), 'i') } }))
   })
   const data = col.chain().find({
-    $or: ['symbol', 'descrption', 'hint'].map((k) => ({ [k]: { $regex: new RegExp(escapeRegExp(q), 'i') } }))
+    $or: ['symbol', 'description', 'hint'].map((k) => ({ [k]: { $regex: new RegExp(escapeRegExp(q), 'i') } }))
   }).simplesort(sort, { desc: order === 'desc' }).offset(offset).limit(limit).data()
 
   res.json({ data, count })

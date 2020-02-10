@@ -16,7 +16,7 @@
   )
     template(slot-scope="props")
       b-table-column(label="Unicode" field="codePoint" sortable width="50")
-        | {{'0x' + props.row.codePoint.toString(16)}}
+        | {{'U+' + props.row.codePoint.toString(16).toLocaleUpperCase()}}
       b-table-column(label="Symbol" field="symbol" width="100")
         | {{props.row.symbol}}
       b-table-column(label="Code" field="code" sortable width="100")
@@ -24,6 +24,8 @@
       b-table-column(label="Alternatives" field="alt" width="100")
         div(v-for="a in props.row.alt" :key="a")
           code {{a}}
+      b-table-column(label="Frequency" field="frequency" sortable width="50")
+        | {{props.row.frequency ? props.row.frequency.toExponential(3) : ''}}
       b-table-column(label="Description" field="description" sortable) {{props.row.description}}
       b-table-column(label="Hint" field="hint" style="min-width: 200px;")
         div(v-for="a, i in props.row.hint" :key="i") {{a}}
@@ -45,7 +47,7 @@ export default class App extends Vue {
   count = 0
 
   get q () {
-    return this.$route.query.q
+    return this.$route.query.q || ''
   }
 
   set q (q) {
@@ -77,7 +79,7 @@ export default class App extends Vue {
   }
 
   get sort () {
-    return this.$route.query.sort || 'code'
+    return this.$route.query.sort || 'frequency'
   }
 
   set sort (sort) {
@@ -111,25 +113,21 @@ export default class App extends Vue {
   @Watch('sort')
   @Watch('order')
   async load () {
-    const q = Array.isArray(this.q) ? this.q[0] : this.q
+    const q = (Array.isArray(this.q) ? this.q[0] : this.q) || ''
 
-    if (q) {
-      try {
-        const r = await axios.post('/api/search', undefined, {
-          params: {
-            q,
-            offset: (this.page - 1) * 5,
-            sort: this.sort,
-            order: this.order
-          }
-        })
+    try {
+      const r = await axios.post('/api/search', undefined, {
+        params: {
+          q,
+          offset: (this.page - 1) * 5,
+          sort: this.sort,
+          order: this.order
+        }
+      })
 
-        this.count = r.data.count
-        Vue.set(this, 'output', r.data.data)
-      } catch (e) {
-        Vue.set(this, 'output', [])
-      }
-    } else {
+      this.count = r.data.count
+      Vue.set(this, 'output', r.data.data)
+    } catch (e) {
       Vue.set(this, 'output', [])
     }
   }

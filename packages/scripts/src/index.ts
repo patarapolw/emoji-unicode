@@ -105,20 +105,6 @@ import Loki from 'lokijs'
         }
       }
     }
-    // else {
-    //   if (output[c]) {
-    //     output[c].code = text
-    //     output[c].alt = new Set([...output[c].alt, ...alt])
-    //   } else {
-    //     output[c] = {
-    //       symbol: c,
-    //       code: text,
-    //       alt,
-    //       description: '',
-    //       hint: []
-    //     }
-    //   }
-    // }
   })
 
   const db = new Loki('output/emoji.loki', {
@@ -132,7 +118,10 @@ import Loki from 'lokijs'
       })
 
       Object.entries(output).map(([k, v]) => {
-        const [code, ...alt] = Object.entries(v.code).sort(([k0, v0], [k1, v1]) => v0 - v1).map(([k0, v0]) => k0)
+        const [code, ...alt] = Object.entries(v.code)
+          .sort(([k0, v0], [k1, v1]) => v0 - v1)
+          .map(([k0, v0]) => k0)
+          .filter(k0 => k0)
         if (!code) {
           delete output[k]
           return
