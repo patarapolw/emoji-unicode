@@ -1,6 +1,13 @@
 <template lang="pug">
 .container(style="padding-top: 1rem; height: 100vh; display: flex; flex-direction: column;")
-  b-field(label="Search")
+  b-field
+    template(slot="label")
+      span Search
+      b-tooltip(label="How to search?" position="is-right" type="is-dark")
+        a.button.is-white.is-small(
+          href="https://github.com/patarapolw/q-search"
+          target="_blank"
+        ) &#x2754;
     b-input(v-model="q" placeholder="Please search to view results")
   div(style="flex-grow: 1; position: relative;")
     b-loading(v-if="!output" :is-full-page="false" active)

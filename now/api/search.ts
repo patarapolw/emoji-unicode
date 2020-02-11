@@ -2,7 +2,7 @@ import { NowRequest, NowResponse } from '@now/node'
 import { String, Undefined, Record } from 'runtypes'
 import Loki from 'lokijs'
 
-import getCond from './_get-cond'
+import QSearch from './_get-cond'
 
 let db: Loki
 
@@ -28,15 +28,19 @@ export default async (req: NowRequest, res: NowResponse) => {
   }
 
   const col = db.getCollection('emoji')
-  const cond = getCond(q, {
-    codePoint: { type: 'number' },
-    frequency: { type: 'number' },
-    type: { isAny: false },
-    description: {},
-    hint: {},
-    alt: { isAny: false },
-    code: {}
+  const qSearch = new QSearch({
+    schema: {
+      codePoint: { type: 'number' },
+      frequency: { type: 'number' },
+      type: { isAny: false },
+      description: {},
+      hint: {},
+      alt: { isAny: false },
+      code: {}
+    }
   })
+
+  const cond = qSearch.parse(q).cond
 
   const count = col.count(cond)
   let c = col.chain().find(cond)
