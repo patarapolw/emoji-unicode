@@ -1,7 +1,7 @@
 <template lang="pug">
 .container(style="margin-top: 1rem;")
   b-field(label="Search")
-    b-input(v-model="q" placeholder="Please search to view results")
+    b-input(v-model="q" value="type:emoji" placeholder="Please search to view results")
   b-table(
     :data="output"
     paginated
@@ -45,19 +45,7 @@ import axios from 'axios'
 export default class App extends Vue {
   output: any[] = []
   count = 0
-
-  get q () {
-    return this.$route.query.q || ''
-  }
-
-  set q (q) {
-    this.$router.push({
-      query: {
-        ...this.$route.query,
-        q
-      }
-    })
-  }
+  q = 'type:emoji'
 
   get page () {
     const pageString = Array.isArray(this.$route.query.page) ? this.$route.query.page[0] : this.$route.query.page
@@ -108,12 +96,24 @@ export default class App extends Vue {
     this.load()
   }
 
+  @Watch('$route.query.q')
+  onRouteQChanged () {
+    const q = this.$route.query.q
+    this.q = (Array.isArray(q) ? q[0] : q) || ''
+  }
+
   @Watch('q')
   @Watch('page')
   @Watch('sort')
   @Watch('order')
   async load () {
     const q = (Array.isArray(this.q) ? this.q[0] : this.q) || ''
+    this.$router.push({
+      query: {
+        ...this.$route.query,
+        q
+      }
+    })
 
     try {
       const r = await axios.post('/api/search', undefined, {

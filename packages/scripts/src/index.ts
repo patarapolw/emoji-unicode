@@ -13,7 +13,8 @@ import Loki from 'lokijs'
     symbol: string
     code: Record<string, number>
     description: string,
-    hint: Set<string>
+    hint: Set<string>,
+    type?: string
   }
 } = {}
 
@@ -57,6 +58,7 @@ import Loki from 'lokijs'
 
       if (output[c]) {
         output[c].hint.add(description)
+        output[c].type = 'emoji'
       } else {
         output[c] = {
           codePoint,
@@ -66,7 +68,8 @@ import Loki from 'lokijs'
             [`&#${codePoint};`]: 4
           },
           description,
-          hint: new Set()
+          hint: new Set(),
+          type: 'emoji'
         }
       }
     }
@@ -91,6 +94,7 @@ import Loki from 'lokijs'
       if (output[c]) {
         output[c].code[text] = 1
         output[c].hint.add(text)
+        output[c].type = 'emoji'
       } else {
         output[c] = {
           codePoint,
@@ -101,7 +105,8 @@ import Loki from 'lokijs'
             [`&#${codePoint};`]: 4
           },
           description: text,
-          hint: new Set()
+          hint: new Set(),
+          type: 'emoji'
         }
       }
     }
@@ -112,9 +117,8 @@ import Loki from 'lokijs'
     autosave: true,
     autosaveInterval: 4000,
     autoloadCallback: () => {
-      const col = db.addCollection('emoji', {
-        unique: ['symbol'],
-        indices: ['code', 'description', 'alt', 'hint']
+      const col = db.addCollection<any>('emoji', {
+        unique: ['symbol']
       })
 
       Object.entries(output).map(([k, v]) => {

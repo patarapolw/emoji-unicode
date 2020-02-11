@@ -11,8 +11,9 @@
   },
   "dependencies": {
     "@types/lokijs": "^1.5.3",
-    "escape-string-regexp": "^2.0.0",
+    "@types/lunr": "^2.3.2",
     "lokijs": "^1.5.8",
+    "lunr": "^2.3.8",
     "runtypes": "^4.1.0"
   },
   "devDependencies": {
