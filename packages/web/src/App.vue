@@ -1,7 +1,7 @@
 <template lang="pug">
 .container(style="margin-top: 1rem;")
   b-field(label="Search")
-    b-input(v-model="q" value="type:emoji" placeholder="Please search to view results")
+    b-input(v-model="q" placeholder="Please search to view results")
   b-table(
     :data="output"
     paginated
@@ -45,7 +45,7 @@ import axios from 'axios'
 export default class App extends Vue {
   output: any[] = []
   count = 0
-  q = 'type:emoji'
+  q = '+type:emoji'
 
   get page () {
     const pageString = Array.isArray(this.$route.query.page) ? this.$route.query.page[0] : this.$route.query.page

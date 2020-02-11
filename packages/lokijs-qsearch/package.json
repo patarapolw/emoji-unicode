@@ -1,23 +1,19 @@
 {
-  "name": "now",
+  "name": "lokijs-qsearch",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "private": true,
   "author": "Pacharapol Withayasakpunt <patarapolw@gmail.com> (https://polvcode.dev)",
   "license": "MIT",
   "scripts": {
-    "web:build": "cd ../packages/web && yarn build",
-    "web:watch": "cd ../packages/web && yarn build --watch"
+    "prepack": "tsc"
   },
   "dependencies": {
-    "@types/lokijs": "^1.5.3",
     "escape-string-regexp": "^2.0.0",
-    "lokijs": "^1.5.8",
-    "runtypes": "^4.1.0",
     "shlex": "^2.0.1"
   },
   "devDependencies": {
-    "@now/node": "^1.4.1",
     "typescript": "^3.7.5"
   }
 }
