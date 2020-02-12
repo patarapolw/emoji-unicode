@@ -1,8 +1,7 @@
 import { NowRequest, NowResponse } from '@now/node'
 import { String, Undefined, Record } from 'runtypes'
 import Loki from 'lokijs'
-
-import QSearch from './_get-cond'
+import QSearch from '@patarapolw/qsearch'
 
 let db: Loki
 

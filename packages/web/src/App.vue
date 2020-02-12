@@ -5,7 +5,7 @@
       span Search
       b-tooltip(label="How to search?" position="is-right" type="is-dark")
         a.button.is-white.is-small(
-          href="https://github.com/patarapolw/q-search"
+          href="https://github.com/patarapolw/qsearch"
           target="_blank"
         ) &#x2754;
     b-input(v-model="q" placeholder="Please search to view results")

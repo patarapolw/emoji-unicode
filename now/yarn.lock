@@ -9,6 +9,15 @@
   dependencies:
     "@types/node" "*"
 
+"@patarapolw/qsearch@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@patarapolw/qsearch/-/qsearch-0.1.0.tgz#cbc21c32a2cb09aa7b9b089e88cbe0ddcadeb880"
+  integrity sha512-KC+0S4Igm+shZG6MefR562BqSY4DiCRqx4STOBVMGOLwYWRKnznTqGTqTWkSu3StGI5IqJjZQhxpLy63KVyFiw==
+  dependencies:
+    dot-prop "^5.2.0"
+    escape-string-regexp "^2.0.0"
+    shlex "^2.0.1"
+
 "@types/lokijs@^1.5.3":
   version "1.5.3"
   resolved "https://registry.yarnpkg.com/@types/lokijs/-/lokijs-1.5.3.tgz#e45db0b35e53ec09a4c2ff4f253037abd56be151"
@@ -19,10 +28,22 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-13.7.0.tgz#b417deda18cf8400f278733499ad5547ed1abec4"
   integrity sha512-GnZbirvmqZUzMgkFn70c74OQpTTUcCzlhQliTzYjQMqg+hVKcDnxdL19Ne3UdYzdMA/+W3eb646FWn/ZaT1NfQ==
 
+dot-prop@^5.2.0:
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/dot-prop/-/dot-prop-5.2.0.tgz#c34ecc29556dc45f1f4c22697b6f4904e0cc4fcb"
+  integrity sha512-uEUyaDKoSQ1M4Oq8l45hSE26SnTxL6snNnqvK/VWx5wJhmff5z0FUVJDKDanor/6w3kzE3i7XZOk+7wC0EXr1A==
+  dependencies:
+    is-obj "^2.0.0"
+
 escape-string-regexp@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-2.0.0.tgz#a30304e99daa32e23b2fd20f51babd07cffca344"
   integrity sha512-UpzcLCXolUWcNu5HtVMHYdXJjArjsF9C0aNnquZYY4uW/Vu0miy5YoWvbV345HauVvcAUnpRuhMMcqTcGOY2+w==
+
+is-obj@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/is-obj/-/is-obj-2.0.0.tgz#473fb05d973705e3fd9620545018ca8e22ef4982"
+  integrity sha512-drqDG3cbczxxEJRoOXcOjtdp1J/lyp1mNn0xaznRs8+muBhgQcrnbspox5X5fOw0HnMnbfDzvnEMEtqDEJEo8w==
 
 lokijs@^1.5.8:
   version "1.5.8"
