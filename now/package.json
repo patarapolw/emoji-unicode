@@ -10,7 +10,7 @@
     "web:watch": "cd ../packages/web && yarn build --watch"
   },
   "dependencies": {
-    "@patarapolw/qsearch": "^1.0.0",
+    "@patarapolw/qsearch": "1.0.3",
     "@types/lokijs": "^1.5.3",
     "lokijs": "^1.5.8",
     "runtypes": "^4.1.0"
