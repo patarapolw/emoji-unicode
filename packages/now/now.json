@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/search.ts": {
+      "includeFiles": "api/search/unicode.db"
+    }
+  }
+}

@@ -25,20 +25,14 @@
       :default-sort="[sort, order]"
     )
       template(slot-scope="props")
-        b-table-column(label="Unicode" field="codePoint" sortable width="50")
-          | {{'U+' + props.row.codePoint.toString(16).toLocaleUpperCase()}}
+        b-table-column(label="Unicode" field="ascii" sortable width="50")
+          | {{props.row.ascii ? 'U+' + props.row.ascii.toString(16).toLocaleUpperCase() : ''}}
         b-table-column(label="Symbol" field="symbol" width="100")
           | {{props.row.symbol}}
-        b-table-column(label="Code" field="code" sortable width="100")
-          code {{props.row.code}}
-        b-table-column(label="Alternatives" field="alt" width="100")
-          div(v-for="a in props.row.alt" :key="a")
+        b-table-column(label="Input" field="input" width="250" style="word-wrap: break-word;")
+          div(v-for="a in props.row.input" :key="a" style="padding-right: 0.5em; display: inline-block;")
             code {{a}}
-        b-table-column(label="Frequency" field="frequency" sortable width="50")
-          | {{props.row.frequency ? props.row.frequency.toExponential(3) : ''}}
         b-table-column(label="Description" field="description" sortable) {{props.row.description}}
-        b-table-column(label="Hint" field="hint" style="min-width: 200px;")
-          div(v-for="a, i in props.row.hint" :key="i") {{a}}
       template(slot="empty")
         section.section
           .content.has-text-grey.has-text-centered
@@ -49,13 +43,14 @@
 
 <script lang="ts">
 import { Vue, Component, Watch } from 'vue-property-decorator'
-import axios from 'axios'
+import axios, { CancelTokenSource } from 'axios'
 
 @Component
 export default class App extends Vue {
   output: any[] | null = null
   count = 0
   q = ''
+  qHandle: CancelTokenSource | null = null
 
   get page () {
     const pageString = Array.isArray(this.$route.query.page) ? this.$route.query.page[0] : this.$route.query.page
@@ -103,7 +98,7 @@ export default class App extends Vue {
   }
 
   async created () {
-    this.q = this.$route.query.q as string || '+type:emoji'
+    this.q = this.$route.query.q as string || ''
     this.load()
   }
 
@@ -126,17 +121,25 @@ export default class App extends Vue {
     })
 
     try {
+      if (this.qHandle) {
+        this.qHandle.cancel()
+      }
+      this.qHandle = axios.CancelToken.source()
+
       const r = await axios.post('/api/search', undefined, {
         params: {
           q: this.q,
           offset: (this.page - 1) * 5,
           sort: this.sort,
           order: this.order
-        }
+        },
+        cancelToken: this.qHandle.token
       })
 
-      this.count = r.data.count
-      Vue.set(this, 'output', r.data.data)
+      if (r.data) {
+        this.count = r.data.count
+        Vue.set(this, 'output', r.data.data)
+      }
     } catch (e) {
       Vue.set(this, 'output', [])
     }

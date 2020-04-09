@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "build": "vue-cli-service build",
-    "serve": "vue-cli-service serve"
+    "serve": "vue-cli-service serve",
+    "watch": "vue-cli-service build --watch"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.2.0",

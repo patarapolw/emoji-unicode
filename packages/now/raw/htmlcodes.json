@@ -1,0 +1,1024 @@
+[
+  {
+    "ascii": 33,
+    "symbol": "!",
+    "description": "exclamation point"
+  },
+  {
+    "ascii": 34,
+    "symbol": "\"",
+    "html": "&quot;",
+    "description": "double quotes"
+  },
+  {
+    "ascii": 35,
+    "symbol": "#",
+    "description": "number sign"
+  },
+  {
+    "ascii": 36,
+    "symbol": "$",
+    "description": "dollar sign"
+  },
+  {
+    "ascii": 37,
+    "symbol": "%",
+    "description": "percent sign"
+  },
+  {
+    "ascii": 38,
+    "symbol": "&",
+    "html": "&amp;",
+    "description": "ampersand"
+  },
+  {
+    "ascii": 39,
+    "symbol": "'",
+    "description": "single quote"
+  },
+  {
+    "ascii": 40,
+    "symbol": "(",
+    "description": "opening parenthesis"
+  },
+  {
+    "ascii": 41,
+    "symbol": ")",
+    "description": "closing parenthesis"
+  },
+  {
+    "ascii": 42,
+    "symbol": "*",
+    "description": "asterisk"
+  },
+  {
+    "ascii": 43,
+    "symbol": "+",
+    "description": "plus sign"
+  },
+  {
+    "ascii": 44,
+    "symbol": ",",
+    "description": "comma"
+  },
+  {
+    "ascii": 45,
+    "symbol": "-",
+    "description": "minus sign - hyphen"
+  },
+  {
+    "ascii": 46,
+    "symbol": ".",
+    "description": "period"
+  },
+  {
+    "ascii": 47,
+    "symbol": "/",
+    "description": "slash"
+  },
+  {
+    "ascii": 48,
+    "symbol": "0",
+    "description": "zero"
+  },
+  {
+    "ascii": 49,
+    "symbol": "1",
+    "description": "one"
+  },
+  {
+    "ascii": 50,
+    "symbol": "2",
+    "description": "two"
+  },
+  {
+    "ascii": 51,
+    "symbol": "3",
+    "description": "three"
+  },
+  {
+    "ascii": 52,
+    "symbol": "4",
+    "description": "four"
+  },
+  {
+    "ascii": 53,
+    "symbol": "5",
+    "description": "five"
+  },
+  {
+    "ascii": 54,
+    "symbol": "6",
+    "description": "six"
+  },
+  {
+    "ascii": 55,
+    "symbol": "7",
+    "description": "seven"
+  },
+  {
+    "ascii": 56,
+    "symbol": "8",
+    "description": "eight"
+  },
+  {
+    "ascii": 57,
+    "symbol": "9",
+    "description": "nine"
+  },
+  {
+    "ascii": 58,
+    "symbol": ":",
+    "description": "colon"
+  },
+  {
+    "ascii": 59,
+    "symbol": ";",
+    "description": "semicolon"
+  },
+  {
+    "ascii": 60,
+    "symbol": "<",
+    "html": "&lt;",
+    "description": "less than sign"
+  },
+  {
+    "ascii": 61,
+    "symbol": "=",
+    "description": "equal sign"
+  },
+  {
+    "ascii": 62,
+    "symbol": ">",
+    "html": "&gt;",
+    "description": "greater than sign"
+  },
+  {
+    "ascii": 63,
+    "symbol": "?",
+    "description": "question mark"
+  },
+  {
+    "ascii": 64,
+    "symbol": "@",
+    "description": "at symbol"
+  },
+  {
+    "ascii": 65,
+    "symbol": "A"
+  },
+  {
+    "ascii": 66,
+    "symbol": "B"
+  },
+  {
+    "ascii": 67,
+    "symbol": "C"
+  },
+  {
+    "ascii": 68,
+    "symbol": "D"
+  },
+  {
+    "ascii": 69,
+    "symbol": "E"
+  },
+  {
+    "ascii": 70,
+    "symbol": "F"
+  },
+  {
+    "ascii": 71,
+    "symbol": "G"
+  },
+  {
+    "ascii": 72,
+    "symbol": "H"
+  },
+  {
+    "ascii": 73,
+    "symbol": "I"
+  },
+  {
+    "ascii": 74,
+    "symbol": "J"
+  },
+  {
+    "ascii": 75,
+    "symbol": "K"
+  },
+  {
+    "ascii": 76,
+    "symbol": "L"
+  },
+  {
+    "ascii": 77,
+    "symbol": "M"
+  },
+  {
+    "ascii": 78,
+    "symbol": "N"
+  },
+  {
+    "ascii": 79,
+    "symbol": "O"
+  },
+  {
+    "ascii": 80,
+    "symbol": "P"
+  },
+  {
+    "ascii": 81,
+    "symbol": "Q"
+  },
+  {
+    "ascii": 82,
+    "symbol": "R"
+  },
+  {
+    "ascii": 83,
+    "symbol": "S"
+  },
+  {
+    "ascii": 84,
+    "symbol": "T"
+  },
+  {
+    "ascii": 85,
+    "symbol": "U"
+  },
+  {
+    "ascii": 86,
+    "symbol": "V"
+  },
+  {
+    "ascii": 87,
+    "symbol": "W"
+  },
+  {
+    "ascii": 88,
+    "symbol": "X"
+  },
+  {
+    "ascii": 89,
+    "symbol": "Y"
+  },
+  {
+    "ascii": 90,
+    "symbol": "Z"
+  },
+  {
+    "ascii": 91,
+    "symbol": "[",
+    "description": "opening bracket"
+  },
+  {
+    "ascii": 92,
+    "symbol": "\\",
+    "description": "backslash"
+  },
+  {
+    "ascii": 93,
+    "symbol": "]",
+    "description": "closing bracket"
+  },
+  {
+    "ascii": 94,
+    "symbol": "^",
+    "description": "caret - circumflex"
+  },
+  {
+    "ascii": 95,
+    "symbol": "_",
+    "description": "underscore"
+  },
+  {
+    "ascii": 96,
+    "symbol": "`",
+    "description": "grave accent"
+  },
+  {
+    "ascii": 97,
+    "symbol": "a"
+  },
+  {
+    "ascii": 98,
+    "symbol": "b"
+  },
+  {
+    "ascii": 99,
+    "symbol": "c"
+  },
+  {
+    "ascii": 100,
+    "symbol": "d"
+  },
+  {
+    "ascii": 101,
+    "symbol": "e"
+  },
+  {
+    "ascii": 102,
+    "symbol": "f"
+  },
+  {
+    "ascii": 103,
+    "symbol": "g"
+  },
+  {
+    "ascii": 104,
+    "symbol": "h"
+  },
+  {
+    "ascii": 105,
+    "symbol": "i"
+  },
+  {
+    "ascii": 106,
+    "symbol": "j"
+  },
+  {
+    "ascii": 107,
+    "symbol": "k"
+  },
+  {
+    "ascii": 108,
+    "symbol": "l"
+  },
+  {
+    "ascii": 109,
+    "symbol": "m"
+  },
+  {
+    "ascii": 110,
+    "symbol": "n"
+  },
+  {
+    "ascii": 111,
+    "symbol": "o"
+  },
+  {
+    "ascii": 112,
+    "symbol": "p"
+  },
+  {
+    "ascii": 113,
+    "symbol": "q"
+  },
+  {
+    "ascii": 114,
+    "symbol": "r"
+  },
+  {
+    "ascii": 115,
+    "symbol": "s"
+  },
+  {
+    "ascii": 116,
+    "symbol": "t"
+  },
+  {
+    "ascii": 117,
+    "symbol": "u"
+  },
+  {
+    "ascii": 118,
+    "symbol": "v"
+  },
+  {
+    "ascii": 119,
+    "symbol": "w"
+  },
+  {
+    "ascii": 120,
+    "symbol": "x"
+  },
+  {
+    "ascii": 121,
+    "symbol": "y"
+  },
+  {
+    "ascii": 122,
+    "symbol": "z"
+  },
+  {
+    "ascii": 123,
+    "symbol": "{",
+    "description": "opening brace"
+  },
+  {
+    "ascii": 124,
+    "symbol": "|",
+    "description": "vertical bar"
+  },
+  {
+    "ascii": 125,
+    "symbol": "}",
+    "description": "closing brace"
+  },
+  {
+    "ascii": 126,
+    "symbol": "~",
+    "description": "equivalency sign - tilde"
+  },
+  {
+    "ascii": 161,
+    "symbol": "¡",
+    "html": "&iexcl;",
+    "description": "inverted exclamation mark"
+  },
+  {
+    "ascii": 162,
+    "symbol": "¢",
+    "html": "&cent;",
+    "description": "cent sign"
+  },
+  {
+    "ascii": 163,
+    "symbol": "£",
+    "html": "&pound;",
+    "description": "pound sign"
+  },
+  {
+    "ascii": 164,
+    "symbol": "¤",
+    "html": "&curren;",
+    "description": "currency sign"
+  },
+  {
+    "ascii": 165,
+    "symbol": "¥",
+    "html": "&yen;",
+    "description": "yen sign"
+  },
+  {
+    "ascii": 166,
+    "symbol": "¦",
+    "html": "&brvbar;",
+    "description": "broken vertical bar"
+  },
+  {
+    "ascii": 167,
+    "symbol": "§",
+    "html": "&sect;",
+    "description": "section sign"
+  },
+  {
+    "ascii": 168,
+    "symbol": "¨",
+    "html": "&uml;",
+    "description": "spacing diaeresis - umlaut"
+  },
+  {
+    "ascii": 169,
+    "symbol": "©",
+    "html": "&copy;",
+    "description": "copyright sign"
+  },
+  {
+    "ascii": 170,
+    "symbol": "ª",
+    "html": "&ordf;",
+    "description": "feminine ordinal indicator"
+  },
+  {
+    "ascii": 171,
+    "symbol": "«",
+    "html": "&laquo;",
+    "description": "left double angle quotes"
+  },
+  {
+    "ascii": 172,
+    "symbol": "¬",
+    "html": "&not;",
+    "description": "not sign"
+  },
+  {
+    "ascii": 173,
+    "symbol": "­",
+    "html": "&shy;",
+    "description": "soft hyphen"
+  },
+  {
+    "ascii": 174,
+    "symbol": "®",
+    "html": "&reg;",
+    "description": "registered trade mark sign"
+  },
+  {
+    "ascii": 175,
+    "symbol": "¯",
+    "html": "&macr;",
+    "description": "spacing macron - overline"
+  },
+  {
+    "ascii": 176,
+    "symbol": "°",
+    "html": "&deg;",
+    "description": "degree sign"
+  },
+  {
+    "ascii": 177,
+    "symbol": "±",
+    "html": "&plusmn;",
+    "description": "plus-or-minus sign"
+  },
+  {
+    "ascii": 178,
+    "symbol": "²",
+    "html": "&sup2;",
+    "description": "superscript two - squared"
+  },
+  {
+    "ascii": 179,
+    "symbol": "³",
+    "html": "&sup3;",
+    "description": "superscript three - cubed"
+  },
+  {
+    "ascii": 180,
+    "symbol": "´",
+    "html": "&acute;",
+    "description": "acute accent - spacing acute"
+  },
+  {
+    "ascii": 181,
+    "symbol": "µ",
+    "html": "&micro;",
+    "description": "micro sign"
+  },
+  {
+    "ascii": 182,
+    "symbol": "¶",
+    "html": "&para;",
+    "description": "pilcrow sign - paragraph sign"
+  },
+  {
+    "ascii": 183,
+    "symbol": "·",
+    "html": "&middot;",
+    "description": "middle dot - Georgian comma"
+  },
+  {
+    "ascii": 184,
+    "symbol": "¸",
+    "html": "&cedil;",
+    "description": "spacing cedilla"
+  },
+  {
+    "ascii": 185,
+    "symbol": "¹",
+    "html": "&sup1;",
+    "description": "superscript one"
+  },
+  {
+    "ascii": 186,
+    "symbol": "º",
+    "html": "&ordm;",
+    "description": "masculine ordinal indicator"
+  },
+  {
+    "ascii": 187,
+    "symbol": "»",
+    "html": "&raquo;",
+    "description": "right double angle quotes"
+  },
+  {
+    "ascii": 188,
+    "symbol": "¼",
+    "html": "&frac14;",
+    "description": "fraction one quarter"
+  },
+  {
+    "ascii": 189,
+    "symbol": "½",
+    "html": "&frac12;",
+    "description": "fraction one half"
+  },
+  {
+    "ascii": 190,
+    "symbol": "¾",
+    "html": "&frac34;",
+    "description": "fraction three quarters"
+  },
+  {
+    "ascii": 191,
+    "symbol": "¿",
+    "html": "&iquest;",
+    "description": "inverted question mark"
+  },
+  {
+    "ascii": 192,
+    "symbol": "À",
+    "html": "&Agrave;",
+    "description": "latin capital letter A with grave"
+  },
+  {
+    "ascii": 193,
+    "symbol": "Á",
+    "html": "&Aacute;",
+    "description": "latin capital letter A with acute"
+  },
+  {
+    "ascii": 194,
+    "symbol": "Â",
+    "html": "&Acirc;",
+    "description": "latin capital letter A with circumflex"
+  },
+  {
+    "ascii": 195,
+    "symbol": "Ã",
+    "html": "&Atilde;",
+    "description": "latin capital letter A with tilde"
+  },
+  {
+    "ascii": 196,
+    "symbol": "Ä",
+    "html": "&Auml;",
+    "description": "latin capital letter A with diaeresis"
+  },
+  {
+    "ascii": 197,
+    "symbol": "Å",
+    "html": "&Aring;",
+    "description": "latin capital letter A with ring above"
+  },
+  {
+    "ascii": 198,
+    "symbol": "Æ",
+    "html": "&AElig;",
+    "description": "latin capital letter AE"
+  },
+  {
+    "ascii": 199,
+    "symbol": "Ç",
+    "html": "&Ccedil;",
+    "description": "latin capital letter C with cedilla"
+  },
+  {
+    "ascii": 200,
+    "symbol": "È",
+    "html": "&Egrave;",
+    "description": "latin capital letter E with grave"
+  },
+  {
+    "ascii": 201,
+    "symbol": "É",
+    "html": "&Eacute;",
+    "description": "latin capital letter E with acute"
+  },
+  {
+    "ascii": 202,
+    "symbol": "Ê",
+    "html": "&Ecirc;",
+    "description": "latin capital letter E with circumflex"
+  },
+  {
+    "ascii": 203,
+    "symbol": "Ë",
+    "html": "&Euml;",
+    "description": "latin capital letter E with diaeresis"
+  },
+  {
+    "ascii": 204,
+    "symbol": "Ì",
+    "html": "&Igrave;",
+    "description": "latin capital letter I with grave"
+  },
+  {
+    "ascii": 205,
+    "symbol": "Í",
+    "html": "&Iacute;",
+    "description": "latin capital letter I with acute"
+  },
+  {
+    "ascii": 206,
+    "symbol": "Î",
+    "html": "&Icirc;",
+    "description": "latin capital letter I with circumflex"
+  },
+  {
+    "ascii": 207,
+    "symbol": "Ï",
+    "html": "&Iuml;",
+    "description": "latin capital letter I with diaeresis"
+  },
+  {
+    "ascii": 208,
+    "symbol": "Ð",
+    "html": "&ETH;",
+    "description": "latin capital letter ETH"
+  },
+  {
+    "ascii": 209,
+    "symbol": "Ñ",
+    "html": "&Ntilde;",
+    "description": "latin capital letter N with tilde"
+  },
+  {
+    "ascii": 210,
+    "symbol": "Ò",
+    "html": "&Ograve;",
+    "description": "latin capital letter O with grave"
+  },
+  {
+    "ascii": 211,
+    "symbol": "Ó",
+    "html": "&Oacute;",
+    "description": "latin capital letter O with acute"
+  },
+  {
+    "ascii": 212,
+    "symbol": "Ô",
+    "html": "&Ocirc;",
+    "description": "latin capital letter O with circumflex"
+  },
+  {
+    "ascii": 213,
+    "symbol": "Õ",
+    "html": "&Otilde;",
+    "description": "latin capital letter O with tilde"
+  },
+  {
+    "ascii": 214,
+    "symbol": "Ö",
+    "html": "&Ouml;",
+    "description": "latin capital letter O with diaeresis"
+  },
+  {
+    "ascii": 215,
+    "symbol": "×",
+    "html": "&times;",
+    "description": "multiplication sign"
+  },
+  {
+    "ascii": 216,
+    "symbol": "Ø",
+    "html": "&Oslash;",
+    "description": "latin capital letter O with slash"
+  },
+  {
+    "ascii": 217,
+    "symbol": "Ù",
+    "html": "&Ugrave;",
+    "description": "latin capital letter U with grave"
+  },
+  {
+    "ascii": 218,
+    "symbol": "Ú",
+    "html": "&Uacute;",
+    "description": "latin capital letter U with acute"
+  },
+  {
+    "ascii": 219,
+    "symbol": "Û",
+    "html": "&Ucirc;",
+    "description": "latin capital letter U with circumflex"
+  },
+  {
+    "ascii": 220,
+    "symbol": "Ü",
+    "html": "&Uuml;",
+    "description": "latin capital letter U with diaeresis"
+  },
+  {
+    "ascii": 221,
+    "symbol": "Ý",
+    "html": "&Yacute;",
+    "description": "latin capital letter Y with acute"
+  },
+  {
+    "ascii": 222,
+    "symbol": "Þ",
+    "html": "&THORN;",
+    "description": "latin capital letter THORN"
+  },
+  {
+    "ascii": 223,
+    "symbol": "ß",
+    "html": "&szlig;",
+    "description": "latin small letter sharp s - ess-zed"
+  },
+  {
+    "ascii": 224,
+    "symbol": "à",
+    "html": "&agrave;",
+    "description": "latin small letter a with grave"
+  },
+  {
+    "ascii": 225,
+    "symbol": "á",
+    "html": "&aacute;",
+    "description": "latin small letter a with acute"
+  },
+  {
+    "ascii": 226,
+    "symbol": "â",
+    "html": "&acirc;",
+    "description": "latin small letter a with circumflex"
+  },
+  {
+    "ascii": 227,
+    "symbol": "ã",
+    "html": "&atilde;",
+    "description": "latin small letter a with tilde"
+  },
+  {
+    "ascii": 228,
+    "symbol": "ä",
+    "html": "&auml;",
+    "description": "latin small letter a with diaeresis"
+  },
+  {
+    "ascii": 229,
+    "symbol": "å",
+    "html": "&aring;",
+    "description": "latin small letter a with ring above"
+  },
+  {
+    "ascii": 230,
+    "symbol": "æ",
+    "html": "&aelig;",
+    "description": "latin small letter ae"
+  },
+  {
+    "ascii": 231,
+    "symbol": "ç",
+    "html": "&ccedil;",
+    "description": "latin small letter c with cedilla"
+  },
+  {
+    "ascii": 232,
+    "symbol": "è",
+    "html": "&egrave;",
+    "description": "latin small letter e with grave"
+  },
+  {
+    "ascii": 233,
+    "symbol": "é",
+    "html": "&eacute;",
+    "description": "latin small letter e with acute"
+  },
+  {
+    "ascii": 234,
+    "symbol": "ê",
+    "html": "&ecirc;",
+    "description": "latin small letter e with circumflex"
+  },
+  {
+    "ascii": 235,
+    "symbol": "ë",
+    "html": "&euml;",
+    "description": "latin small letter e with diaeresis"
+  },
+  {
+    "ascii": 236,
+    "symbol": "ì",
+    "html": "&igrave;",
+    "description": "latin small letter i with grave"
+  },
+  {
+    "ascii": 237,
+    "symbol": "í",
+    "html": "&iacute;",
+    "description": "latin small letter i with acute"
+  },
+  {
+    "ascii": 238,
+    "symbol": "î",
+    "html": "&icirc;",
+    "description": "latin small letter i with circumflex"
+  },
+  {
+    "ascii": 239,
+    "symbol": "ï",
+    "html": "&iuml;",
+    "description": "latin small letter i with diaeresis"
+  },
+  {
+    "ascii": 240,
+    "symbol": "ð",
+    "html": "&eth;",
+    "description": "latin small letter eth"
+  },
+  {
+    "ascii": 241,
+    "symbol": "ñ",
+    "html": "&ntilde;",
+    "description": "latin small letter n with tilde"
+  },
+  {
+    "ascii": 242,
+    "symbol": "ò",
+    "html": "&ograve;",
+    "description": "latin small letter o with grave"
+  },
+  {
+    "ascii": 243,
+    "symbol": "ó",
+    "html": "&oacute;",
+    "description": "latin small letter o with acute"
+  },
+  {
+    "ascii": 244,
+    "symbol": "ô",
+    "html": "&ocirc;",
+    "description": "latin small letter o with circumflex"
+  },
+  {
+    "ascii": 245,
+    "symbol": "õ",
+    "html": "&otilde;",
+    "description": "latin small letter o with tilde"
+  },
+  {
+    "ascii": 246,
+    "symbol": "ö",
+    "html": "&ouml;",
+    "description": "latin small letter o with diaeresis"
+  },
+  {
+    "ascii": 247,
+    "symbol": "÷",
+    "html": "&divide;",
+    "description": "division sign"
+  },
+  {
+    "ascii": 248,
+    "symbol": "ø",
+    "html": "&oslash;",
+    "description": "latin small letter o with slash"
+  },
+  {
+    "ascii": 249,
+    "symbol": "ù",
+    "html": "&ugrave;",
+    "description": "latin small letter u with grave"
+  },
+  {
+    "ascii": 250,
+    "symbol": "ú",
+    "html": "&uacute;",
+    "description": "latin small letter u with acute"
+  },
+  {
+    "ascii": 251,
+    "symbol": "û",
+    "html": "&ucirc;",
+    "description": "latin small letter u with circumflex"
+  },
+  {
+    "ascii": 252,
+    "symbol": "ü",
+    "html": "&uuml;",
+    "description": "latin small letter u with diaeresis"
+  },
+  {
+    "ascii": 253,
+    "symbol": "ý",
+    "html": "&yacute;",
+    "description": "latin small letter y with acute"
+  },
+  {
+    "ascii": 254,
+    "symbol": "þ",
+    "html": "&thorn;",
+    "description": "latin small letter thorn"
+  },
+  {
+    "ascii": 255,
+    "symbol": "ÿ",
+    "html": "&yuml;",
+    "description": "latin small letter y with diaeresis"
+  },
+  {
+    "ascii": 338,
+    "symbol": "Œ",
+    "description": "latin capital letter OE"
+  },
+  {
+    "ascii": 339,
+    "symbol": "œ",
+    "description": "latin small letter oe"
+  },
+  {
+    "ascii": 352,
+    "symbol": "Š",
+    "description": "latin capital letter S with caron"
+  },
+  {
+    "ascii": 353,
+    "symbol": "š",
+    "description": "latin small letter s with caron"
+  },
+  {
+    "ascii": 376,
+    "symbol": "Ÿ",
+    "description": "latin capital letter Y with diaeresis"
+  },
+  {
+    "ascii": 402,
+    "symbol": "ƒ",
+    "description": "latin small f with hook - function"
+  }
+]
