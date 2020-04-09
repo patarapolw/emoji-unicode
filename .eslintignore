@@ -1,9 +1,5 @@
-!**/.eslintrc*
+*.*
+!*.ts
+!*.js
+!*.vue
 node_modules
-dist
-*.svg
-*.ico
-*.json
-*.md
-*.log
-*.lock

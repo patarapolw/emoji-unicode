@@ -1,22 +1,9 @@
 {
   "name": "learn-unicode",
   "private": true,
-  "workspaces": [
-    "packages/*"
-  ],
-  "scripts": {
-    "heroku-prepare": "node heroku/prepare.js",
-    "heroku-build": "node heroku/build.js",
-    "heroku-deploy": "node heroku/deploy.js",
-    "heroku-cleanup": "node heroku/cleanup.js",
-    "deploy": "yarn heroku-prepare && yarn heroku-build && yarn heroku-deploy && yarn heroku-cleanup",
-    "dev": "node heroku/dev.js",
-    "start": "cd heroku-dist && heroku local"
-  },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.19.0",
     "@typescript-eslint/parser": "^2.19.0",
-    "death": "^1.1.0",
     "eslint": ">=6.2.2",
     "eslint-config-standard": "^14.1.0",
     "eslint-plugin-import": ">=2.18.0",
@@ -24,8 +11,6 @@
     "eslint-plugin-promise": ">=4.2.1",
     "eslint-plugin-standard": ">=4.0.0",
     "eslint-plugin-vue": "^6.1.2",
-    "glob": "^7.1.6",
-    "lerna": "^3.19.0",
     "typescript": "^3.7.5"
   }
 }
