@@ -9,7 +9,7 @@
     "bluebird-global": "^1.0.1",
     "liteorm": "^0.9.3",
     "runtypes": "^4.1.0",
-    "sqlite3": "^4.1.1"
+    "sqlite3": "^4.2.0"
   },
   "devDependencies": {
     "@now/node": "^1.4.1",
