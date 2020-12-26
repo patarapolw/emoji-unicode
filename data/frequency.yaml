@@ -1,0 +1,1 @@
+# Votes should be in the form of { [emoji]: { [name]: [score as float] } }
