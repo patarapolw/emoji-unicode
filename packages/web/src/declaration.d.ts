@@ -1,4 +1,4 @@
-declare module 'raw-loader!*' {
-  const s: string
+declare module '~data/*.yaml' {
+  const s: Record<string, unknown>
   export default s
 }

@@ -1,20 +1,19 @@
-// const dotenv = require('dotenv')
-// dotenv.config({
-//   path: '../server/.env'
-// })
-
-// process.env.VUE_APP_AUTH0_DOMAIN = process.env.AUTH0_DOMAIN
-// process.env.VUE_APP_AUTH0_CLIENT_ID = process.env.AUTH0_CLIENT_ID
-// process.env.VUE_APP_AUTH0_CALLBACK_URL = process.env.AUTH0_CALLBACK_URL
-// process.env.VUE_APP_AUTH0_AUDIENCE = process.env.AUTH0_AUDIENCE
+const path = require('path')
 
 module.exports = {
-  outputDir: '../now/public',
-  devServer: {
-    proxy: {
-      '^/api': {
-        target: 'http://localhost:3001'
-      }
-    }
+  /**
+   * 
+   * @param {import('webpack-chain')} config 
+   */
+  chainWebpack: config => {
+    config.module
+      .rule('yaml')
+      .test(/\.yaml$/)
+      .use('js-yaml-loader')
+        .loader('js-yaml-loader')
+        .end()
+    
+    config.resolve.alias
+      .set('~data', path.resolve('../../data'))
   }
 }
