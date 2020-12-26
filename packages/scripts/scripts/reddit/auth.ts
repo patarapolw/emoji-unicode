@@ -16,7 +16,7 @@ async function getToken(): Promise<{
           "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
         },
         params: {
-          scope: "read",
+          // scope: "read",
         },
       }
     )

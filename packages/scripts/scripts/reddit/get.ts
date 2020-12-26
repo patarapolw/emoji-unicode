@@ -15,6 +15,28 @@ Array.prototype.mapAsync = async function (callbackfn, thisArg) {
   return Promise.all(this.map(callbackfn, thisArg));
 };
 
+function dotProp<R>(o: any, p: string | string[], def?: R): R {
+  if (typeof o === "undefined") {
+    return def!;
+  }
+
+  const ps = typeof p === "string" ? p.split(".") : p;
+
+  if (!ps.length) {
+    return o;
+  }
+
+  if (o && typeof o === "object") {
+    if (Array.isArray(o)) {
+      return dotProp(o[parseInt(ps[0])], ps.slice(1), def);
+    }
+
+    return dotProp(o[ps[0]], ps.slice(1), def);
+  }
+
+  return def!;
+}
+
 const api = rateLimit(
   axios.create({
     baseURL: "https://oauth.reddit.com",
@@ -32,18 +54,7 @@ const api = rateLimit(
   }
 );
 
-api.interceptors.response.use(undefined, (error) => {
-  if (error.config && error.response && error.response.status === 503) {
-    console.error(error.response.data);
-    return new Promise((resolve) => setTimeout(resolve, 10000)).then(() => {
-      return api.request(error.config);
-    });
-  }
-
-  return Promise.reject(error);
-});
-
-function iterListing(apiPath = "/hot", count = 1000) {
+function iterListing(apiPath = "/random", count = 1000) {
   const limit = 50;
   const maxDepth = Math.ceil(count / limit);
 
@@ -53,6 +64,10 @@ function iterListing(apiPath = "/hot", count = 1000) {
         depth: 0,
         after: "",
         async next() {
+          if (!this.after && this.depth) {
+            return { done: true };
+          }
+
           if (this.depth < maxDepth) {
             this.depth++;
 
@@ -63,40 +78,28 @@ function iterListing(apiPath = "/hot", count = 1000) {
                   limit,
                 },
               })
-              .then(
-                ({
-                  data: {
-                    data: { children, after },
-                  },
-                }) => {
-                  this.after = after;
+              .then((r) => {
+                this.after = dotProp<string>(r, "data.data.after");
+                console.log(this.depth, this.after);
 
-                  return (children as any[]).mapAsync(
-                    ({ data: { permalink } }) =>
-                      api.get(permalink).then(
-                        ({
-                          data: [
-                            {
-                              data: {
-                                children: [
-                                  {
-                                    data: { selftext, title },
-                                  },
-                                ],
-                              },
-                            },
-                            {
-                              data: { children: comments },
-                            },
-                          ],
-                        }) =>
-                          `${title}\n${selftext}\n${comments
-                            .map(({ data: { body } }) => body)
-                            .join("\n")}`
-                      )
-                  );
-                }
-              );
+                return dotProp<any[]>(r, "data.data.children", []).mapAsync(
+                  ({ data: { permalink } }) =>
+                    api.get(permalink).then(
+                      (r) =>
+                        `${dotProp(
+                          r,
+                          "data.0.data.children.0.data.title",
+                          ""
+                        )}\n${dotProp(
+                          r,
+                          "data.0.data.children.0.data.selftext",
+                          ""
+                        )}\n${dotProp<any[]>(r, "data.1.data.children", [])
+                          .map(({ data: { body } }) => body)
+                          .join("\n")}`
+                    )
+                );
+              });
 
             return {
               done: false,
@@ -115,14 +118,31 @@ function iterListing(apiPath = "/hot", count = 1000) {
 
 async function main() {
   const outStream = fs.createWriteStream("raw/reddit.txt", {
+    flags: "w",
     encoding: "utf-8",
   });
 
   try {
-    for await (const out of iterListing()) {
+    console.log("Getting /hot");
+    for await (const out of iterListing("/hot")) {
       if (out) {
         out.map((it) => outStream.write(it + "\n"));
       }
+
+      await new Promise((resolve) => setTimeout(resolve, 10000));
+    }
+  } catch (e) {
+    console.error(e.response || e);
+  }
+
+  try {
+    console.log("Getting /top");
+    for await (const out of iterListing("/top")) {
+      if (out) {
+        out.map((it) => outStream.write(it + "\n"));
+      }
+
+      await new Promise((resolve) => setTimeout(resolve, 10000));
     }
   } catch (e) {
     console.error(e.response || e);
