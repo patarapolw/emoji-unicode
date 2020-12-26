@@ -1,576 +1,1621 @@
 - ascii: '0xd83dde02'
   entry: "\U0001F602"
-  frequency: 17.842323651452283
-- ascii: '0xd83edd23'
-  entry: "\U0001F923"
-  frequency: 5.186721991701245
-- ascii: '0xd83dde2d'
-  entry: "\U0001F62D"
-  frequency: 4.564315352697095
-- ascii: '0xd83ddc9a'
-  entry: "\U0001F49A"
-  frequency: 2.6970954356846475
-- ascii: '0xe1'
-  entry: á
-  frequency: 2.2821576763485476
-- ascii: '0xd83ddd25'
-  entry: "\U0001F525"
-  frequency: 2.2821576763485476
-- ascii: '0xd83ddc41'
-  entry: "\U0001F441"
-  frequency: 1.8672199170124482
-- ascii: '0xd83dde33'
-  entry: "\U0001F633"
-  frequency: 1.8672199170124482
-- ascii: '0xd83cdf84'
-  entry: "\U0001F384"
-  frequency: 1.8672199170124482
-- ascii: '0xd83dde4f'
-  entry: "\U0001F64F"
-  frequency: 1.6597510373443984
-- ascii: '0xe9'
-  entry: é
-  frequency: 1.4522821576763485
-- ascii: '0xd83ddc4d'
-  entry: "\U0001F44D"
-  frequency: 1.4522821576763485
-- ascii: '0xd83dde2c'
-  entry: "\U0001F62C"
-  frequency: 1.4522821576763485
-- ascii: '0xd83dde14'
-  entry: "\U0001F614"
-  frequency: 1.4522821576763485
-- ascii: '0xd83ddc4f'
-  entry: "\U0001F44F"
-  frequency: 1.2448132780082988
-- ascii: '0xd83dde03'
-  entry: "\U0001F603"
-  frequency: 1.2448132780082988
-- ascii: '0xf6'
-  entry: ö
-  frequency: 1.2448132780082988
-- ascii: '0xd83dde0d'
-  entry: "\U0001F60D"
-  frequency: 1.2448132780082988
-- ascii: '0xd83cdf82'
-  entry: "\U0001F382"
-  frequency: 1.2448132780082988
-- ascii: '0xd83ddc44'
-  entry: "\U0001F444"
-  frequency: 1.0373443983402488
-- ascii: '0xd83ddc40'
-  entry: "\U0001F440"
-  frequency: 1.0373443983402488
-- ascii: '0xd83dde04'
-  entry: "\U0001F604"
-  frequency: 1.0373443983402488
-- ascii: '0xfc'
-  entry: ü
-  frequency: 1.0373443983402488
-- ascii: '0xd83edd14'
-  entry: "\U0001F914"
-  frequency: 1.0373443983402488
-- ascii: '0xf1'
-  entry: ñ
-  frequency: 1.0373443983402488
-- ascii: '0xd83dde05'
-  entry: "\U0001F605"
-  frequency: 1.0373443983402488
-- ascii: '0xd83cdf81'
-  entry: "\U0001F381"
-  frequency: 1.0373443983402488
-- ascii: '0xd83dde44'
-  entry: "\U0001F644"
-  frequency: 0.8298755186721992
-- ascii: '0xd83dde0f'
-  entry: "\U0001F60F"
-  frequency: 0.8298755186721992
-- ascii: '0xd83dde01'
-  entry: "\U0001F601"
-  frequency: 0.8298755186721992
-- ascii: '0x2639fe0f'
-  entry: ☹️
-  frequency: 0.8298755186721992
-- ascii: '0x2764'
-  entry: ❤
-  frequency: 0.8298755186721992
-- ascii: '0xd83dde0a'
-  entry: "\U0001F60A"
-  frequency: 0.8298755186721992
-- ascii: '0xd83dde00'
-  entry: "\U0001F600"
-  frequency: 0.8298755186721992
-- ascii: '0x2728'
-  entry: ✨
-  frequency: 0.8298755186721992
-- ascii: '0xd83dde0e'
-  entry: "\U0001F60E"
-  frequency: 0.8298755186721992
-- ascii: '0xd83cdf89'
-  entry: "\U0001F389"
-  frequency: 0.8298755186721992
-- ascii: '0xd83ddc80'
-  entry: "\U0001F480"
-  frequency: 0.8298755186721992
-- ascii: '0xd83cdf88'
-  entry: "\U0001F388"
-  frequency: 0.8298755186721992
-- ascii: '0xd83dde22'
-  entry: "\U0001F622"
-  frequency: 0.6224066390041494
-- ascii: '0xd83dde0c'
-  entry: "\U0001F60C"
-  frequency: 0.6224066390041494
-- ascii: '0xd83dde1b'
-  entry: "\U0001F61B"
-  frequency: 0.6224066390041494
-- ascii: '0xd83edd26200d2642fe0f'
-  entry: "\U0001F926‍♂️"
-  frequency: 0.6224066390041494
-- ascii: '0xd7'
-  entry: ×
-  frequency: 0.6224066390041494
-- ascii: '0xb0'
-  entry: °
-  frequency: 0.6224066390041494
-- ascii: '0xd83dde09'
-  entry: "\U0001F609"
-  frequency: 0.6224066390041494
-- ascii: '0xd83dde24'
-  entry: "\U0001F624"
-  frequency: 0.6224066390041494
+  frequency: 8.887730015644788
 - ascii: '0xe4'
   entry: ä
-  frequency: 0.4149377593360996
-- ascii: '0xd83ddc9e'
-  entry: "\U0001F49E"
-  frequency: 0.4149377593360996
-- ascii: '0x270a'
-  entry: ✊
-  frequency: 0.4149377593360996
-- ascii: '0xd83dde2a'
-  entry: "\U0001F62A"
-  frequency: 0.4149377593360996
-- ascii: '0xd83dde21'
-  entry: "\U0001F621"
-  frequency: 0.4149377593360996
-- ascii: '0xd83edd37200d2642fe0f'
-  entry: "\U0001F937‍♂️"
-  frequency: 0.4149377593360996
-- ascii: '0xd83ddc97'
-  entry: "\U0001F497"
-  frequency: 0.4149377593360996
-- ascii: '0xd83ddcaf'
-  entry: "\U0001F4AF"
-  frequency: 0.4149377593360996
-- ascii: '0xa3'
-  entry: £
-  frequency: 0.4149377593360996
-- ascii: '0xd83dde12'
-  entry: "\U0001F612"
-  frequency: 0.4149377593360996
-- ascii: '0xd83dde29'
-  entry: "\U0001F629"
-  frequency: 0.4149377593360996
-- ascii: '0xd83dde42'
-  entry: "\U0001F642"
-  frequency: 0.4149377593360996
-- ascii: '0xd83ddc51'
-  entry: "\U0001F451"
-  frequency: 0.4149377593360996
-- ascii: '0xb4'
-  entry: ´
-  frequency: 0.4149377593360996
-- ascii: '0xaf'
-  entry: ¯
-  frequency: 0.4149377593360996
-- ascii: '0xd83ddca7'
-  entry: "\U0001F4A7"
-  frequency: 0.4149377593360996
-- ascii: '0xd83ddc96'
-  entry: "\U0001F496"
-  frequency: 0.4149377593360996
-- ascii: '0xd83ddc36'
-  entry: "\U0001F436"
-  frequency: 0.4149377593360996
-- ascii: '0xd83edd8b'
-  entry: "\U0001F98B"
-  frequency: 0.4149377593360996
-- ascii: '0xd83dde43'
-  entry: "\U0001F643"
-  frequency: 0.4149377593360996
-- ascii: '0xd83cdfb5'
-  entry: "\U0001F3B5"
-  frequency: 0.4149377593360996
-- ascii: '0xd83cdfc5'
-  entry: "\U0001F3C5"
-  frequency: 0.2074688796680498
-- ascii: '0xd83cdf7a'
-  entry: "\U0001F37A"
-  frequency: 0.2074688796680498
-- ascii: '0xd83cdf38'
-  entry: "\U0001F338"
-  frequency: 0.2074688796680498
-- ascii: '0xd83edd21'
-  entry: "\U0001F921"
-  frequency: 0.2074688796680498
-- ascii: '0xe3'
-  entry: ã
-  frequency: 0.2074688796680498
-- ascii: '0xd83dde1d'
-  entry: "\U0001F61D"
-  frequency: 0.2074688796680498
-- ascii: '0xd83dde07'
-  entry: "\U0001F607"
-  frequency: 0.2074688796680498
-- ascii: '0xd83dde18'
-  entry: "\U0001F618"
-  frequency: 0.2074688796680498
-- ascii: '0x270b'
-  entry: ✋
-  frequency: 0.2074688796680498
-- ascii: '0xd83edd1b'
-  entry: "\U0001F91B"
-  frequency: 0.2074688796680498
-- ascii: '0xd83edd1a'
-  entry: "\U0001F91A"
-  frequency: 0.2074688796680498
-- ascii: '0xd83ddca9'
-  entry: "\U0001F4A9"
-  frequency: 0.2074688796680498
-- ascii: '0xd83ddda4'
-  entry: "\U0001F5A4"
-  frequency: 0.2074688796680498
-- ascii: '0xa9'
-  entry: ©
-  frequency: 0.2074688796680498
+  frequency: 5.557624972062877
+- ascii: '0xfc'
+  entry: ü
+  frequency: 5.043581911644193
+- ascii: '0xd83edd23'
+  entry: "\U0001F923"
+  frequency: 4.082544885644044
+- ascii: '0xf6'
+  entry: ö
+  frequency: 3.82924830514788
+- ascii: '0xe9'
+  entry: é
+  frequency: 3.7994487074424494
+- ascii: '0xd83dddff'
+  entry: "\U0001F5FF"
+  frequency: 2.5776652015197796
+- ascii: '0xe5'
+  entry: å
+  frequency: 2.480816508977129
 - ascii: '0xe7'
   entry: ç
-  frequency: 0.2074688796680498
-- ascii: '0xef'
-  entry: ï
-  frequency: 0.2074688796680498
-- ascii: '0x153'
-  entry: œ
-  frequency: 0.2074688796680498
-- ascii: '0xd83cdf0d'
-  entry: "\U0001F30D"
-  frequency: 0.2074688796680498
-- ascii: '0xd83edd8d'
-  entry: "\U0001F98D"
-  frequency: 0.2074688796680498
-- ascii: '0xd83edd19'
-  entry: "\U0001F919"
-  frequency: 0.2074688796680498
-- ascii: '0xd83cdf44'
-  entry: "\U0001F344"
-  frequency: 0.2074688796680498
-- ascii: '0xab'
-  entry: «
-  frequency: 0.2074688796680498
-- ascii: '0xbb'
-  entry: »
-  frequency: 0.2074688796680498
-- ascii: '0xd83dde1c'
-  entry: "\U0001F61C"
-  frequency: 0.2074688796680498
-- ascii: '0xd83cdfb6'
-  entry: "\U0001F3B6"
-  frequency: 0.2074688796680498
-- ascii: '0xd83ddc0d'
-  entry: "\U0001F40D"
-  frequency: 0.2074688796680498
-- ascii: '0xd83dde38'
-  entry: "\U0001F638"
-  frequency: 0.2074688796680498
-- ascii: '0xd83edd8c'
-  entry: "\U0001F98C"
-  frequency: 0.2074688796680498
-- ascii: '0xd83edd42'
-  entry: "\U0001F942"
-  frequency: 0.2074688796680498
-- ascii: '0xd6'
-  entry: Ö
-  frequency: 0.2074688796680498
+  frequency: 1.9891231468375177
+- ascii: '0xd83dde2d'
+  entry: "\U0001F62D"
+  frequency: 1.8401251583103628
+- ascii: '0xd83dde0d'
+  entry: "\U0001F60D"
+  frequency: 1.4303806898606868
+- ascii: '0xd83dde05'
+  entry: "\U0001F605"
+  frequency: 1.1770841093645237
+- ascii: '0xd83dde33'
+  entry: "\U0001F633"
+  frequency: 1.0727855173955152
+- ascii: '0xd83dde0e'
+  entry: "\U0001F60E"
+  frequency: 1.020636221411011
 - ascii: '0xd83dde80'
   entry: "\U0001F680"
-  frequency: 0.2074688796680498
-- ascii: '0xd83ddc9c'
-  entry: "\U0001F49C"
-  frequency: 0.2074688796680498
-- ascii: '0xd83ddc9b'
-  entry: "\U0001F49B"
-  frequency: 0.2074688796680498
-- ascii: '0xd83dde25'
-  entry: "\U0001F625"
-  frequency: 0.2074688796680498
-- ascii: '0xd83edd3e200d2642fe0f'
-  entry: "\U0001F93E‍♂️"
-  frequency: 0.2074688796680498
-- ascii: '0xae'
-  entry: ®
-  frequency: 0.2074688796680498
-- ascii: '0xd83dde11'
-  entry: "\U0001F611"
-  frequency: 0.2074688796680498
-- ascii: '0xd83dde1e'
-  entry: "\U0001F61E"
-  frequency: 0.2074688796680498
-- ascii: '0xd83cdf32'
-  entry: "\U0001F332"
-  frequency: 0.2074688796680498
-- ascii: '0xd83cdf33'
-  entry: "\U0001F333"
-  frequency: 0.2074688796680498
-- ascii: '0xd83cdf31'
-  entry: "\U0001F331"
-  frequency: 0.2074688796680498
-- ascii: '0xd83cdf37'
-  entry: "\U0001F337"
-  frequency: 0.2074688796680498
-- ascii: '0xd83cdf3b'
-  entry: "\U0001F33B"
-  frequency: 0.2074688796680498
-- ascii: '0xd83edd40'
-  entry: "\U0001F940"
-  frequency: 0.2074688796680498
-- ascii: '0xd83edd85'
-  entry: "\U0001F985"
-  frequency: 0.2074688796680498
-- ascii: '0xd83dde31'
-  entry: "\U0001F631"
-  frequency: 0.2074688796680498
-- ascii: '0xd83dde4c'
-  entry: "\U0001F64C"
-  frequency: 0.2074688796680498
-- ascii: '0xd83edd17'
-  entry: "\U0001F917"
-  frequency: 0.2074688796680498
-- ascii: '0xd83ddc49'
-  entry: "\U0001F449"
-  frequency: 0.2074688796680498
-- ascii: '0xd83ddc48'
-  entry: "\U0001F448"
-  frequency: 0.2074688796680498
-- ascii: '0xd83dde2b'
-  entry: "\U0001F62B"
-  frequency: 0.2074688796680498
-- ascii: '0xd83dde20'
-  entry: "\U0001F620"
-  frequency: 0.2074688796680498
-- ascii: '0xd83dde3f'
-  entry: "\U0001F63F"
-  frequency: 0.2074688796680498
-- ascii: '0xe0'
-  entry: à
-  frequency: 0.2074688796680498
-- ascii: '0xd83cdf0e'
-  entry: "\U0001F30E"
-  frequency: 0.2074688796680498
-- ascii: '0x2620fe0f'
-  entry: ☠️
-  frequency: 0.2074688796680498
-- ascii: '0xd83dde06'
-  entry: "\U0001F606"
-  frequency: 0.2074688796680498
-- ascii: '0xd83ddd11'
-  entry: "\U0001F511"
-  frequency: 0.2074688796680498
-- ascii: '0xd83ddc95'
-  entry: "\U0001F495"
-  frequency: 0.2074688796680498
-- ascii: '0xd83cdfdd'
-  entry: "\U0001F3DD"
-  frequency: 0.2074688796680498
-- ascii: '0xd83cdf8a'
-  entry: "\U0001F38A"
-  frequency: 0.2074688796680498
-- ascii: '0xd83edd52'
-  entry: "\U0001F952"
-  frequency: 0.2074688796680498
-- ascii: '0xd83cdf51'
-  entry: "\U0001F351"
-  frequency: 0.2074688796680498
+  frequency: 0.9833867242792221
+- ascii: '0x2753'
+  entry: ❓
+  frequency: 0.9759368248528645
+- ascii: '0xd83edd14'
+  entry: "\U0001F914"
+  frequency: 0.9386873277210759
+- ascii: '0xd83ddd25'
+  entry: "\U0001F525"
+  frequency: 0.9386873277210759
+- ascii: '0xd83dde29'
+  entry: "\U0001F629"
+  frequency: 0.931237428294718
+- ascii: '0xb0'
+  entry: °
+  frequency: 0.901437830589287
 - ascii: '0xdf'
   entry: ß
-  frequency: 0.2074688796680498
+  frequency: 0.901437830589287
+- ascii: '0xd83edd52'
+  entry: "\U0001F952"
+  frequency: 0.8790881323102138
+- ascii: '0xd83dde0a'
+  entry: "\U0001F60A"
+  frequency: 0.871638232883856
+- ascii: '0x2705'
+  entry: ✅
+  frequency: 0.8194889368993519
+- ascii: '0xd83dde01'
+  entry: "\U0001F601"
+  frequency: 0.8120390374729941
+- ascii: '0xd83ddc4d'
+  entry: "\U0001F44D"
+  frequency: 0.7524398420621321
+- ascii: '0xd83dde31'
+  entry: "\U0001F631"
+  frequency: 0.7524398420621321
+- ascii: '0xd83dde14'
+  entry: "\U0001F614"
+  frequency: 0.7077404455039857
+- ascii: '0xd83dde21'
+  entry: "\U0001F621"
+  frequency: 0.700290546077628
+- ascii: '0x2764'
+  entry: ❤
+  frequency: 0.6779408477985547
+- ascii: '0xd83edd16'
+  entry: "\U0001F916"
+  frequency: 0.6779408477985547
+- ascii: '0xd83edd80'
+  entry: "\U0001F980"
+  frequency: 0.6481412500931237
+- ascii: '0xd83ddc4f'
+  entry: "\U0001F44F"
+  frequency: 0.6183416523876928
+- ascii: '0xd83ddcaf'
+  entry: "\U0001F4AF"
+  frequency: 0.5959919541086195
+- ascii: '0xd83dde24'
+  entry: "\U0001F624"
+  frequency: 0.5885420546822618
+- ascii: '0xaf'
+  entry: ¯
+  frequency: 0.5810921552559041
+- ascii: '0xd83dde09'
+  entry: "\U0001F609"
+  frequency: 0.5661923564031885
+- ascii: '0xe0'
+  entry: à
+  frequency: 0.5438426581241153
+- ascii: '0xd83dde44'
+  entry: "\U0001F644"
+  frequency: 0.5140430604186843
+- ascii: '0xd83ddc4c'
+  entry: "\U0001F44C"
+  frequency: 0.5140430604186843
+- ascii: '0xa3'
+  entry: £
+  frequency: 0.5065931609923265
+- ascii: '0xd83dde4f'
+  entry: "\U0001F64F"
+  frequency: 0.5065931609923265
+- ascii: '0xd83cdf6a'
+  entry: "\U0001F36A"
+  frequency: 0.49169336213961107
+- ascii: '0xd83cdf0d'
+  entry: "\U0001F30D"
+  frequency: 0.4842434627132534
+- ascii: '0xd83dde04'
+  entry: "\U0001F604"
+  frequency: 0.4842434627132534
+- ascii: '0xe8'
+  entry: è
+  frequency: 0.4767935632868956
+- ascii: '0xf3'
+  entry: ó
+  frequency: 0.46934366386053794
+- ascii: '0xd83cdf84'
+  entry: "\U0001F384"
+  frequency: 0.4544438650078224
+- ascii: '0xd83ddc7c'
+  entry: "\U0001F47C"
+  frequency: 0.44699396558146465
+- ascii: '0xd83dde06'
+  entry: "\U0001F606"
+  frequency: 0.40974446844967594
+- ascii: '0xd83cdf82'
+  entry: "\U0001F382"
+  frequency: 0.39484466959696046
+- ascii: '0xd83dde22'
+  entry: "\U0001F622"
+  frequency: 0.379944870744245
+- ascii: '0x2728'
+  entry: ✨
+  frequency: 0.3724949713178872
+- ascii: '0xd83ddc40'
+  entry: "\U0001F440"
+  frequency: 0.3724949713178872
+- ascii: '0xd83cdf81'
+  entry: "\U0001F381"
+  frequency: 0.36504507189152946
+- ascii: '0xd83dde00'
+  entry: "\U0001F600"
+  frequency: 0.3575951724651717
+- ascii: '0xd83cdf46'
+  entry: "\U0001F346"
+  frequency: 0.3575951724651717
+- ascii: '0xd83cdfb6'
+  entry: "\U0001F3B6"
+  frequency: 0.350145273038814
+- ascii: '0xd83ddc41'
+  entry: "\U0001F441"
+  frequency: 0.350145273038814
+- ascii: '0x270b'
+  entry: ✋
+  frequency: 0.350145273038814
+- ascii: '0xd83ddc80'
+  entry: "\U0001F480"
+  frequency: 0.3426953736124562
+- ascii: '0xd83dde0f'
+  entry: "\U0001F60F"
+  frequency: 0.32779557475974075
+- ascii: '0xd83edd24'
+  entry: "\U0001F924"
+  frequency: 0.32779557475974075
+- ascii: '0xea'
+  entry: ê
+  frequency: 0.3128957759070253
+- ascii: '0xd83ddc95'
+  entry: "\U0001F495"
+  frequency: 0.3128957759070253
+- ascii: '0xf8'
+  entry: ø
+  frequency: 0.3128957759070253
+- ascii: '0xd83edd22'
+  entry: "\U0001F922"
+  frequency: 0.3128957759070253
+- ascii: '0xf1'
+  entry: ñ
+  frequency: 0.3054458764806675
+- ascii: '0xd83dde42'
+  entry: "\U0001F642"
+  frequency: 0.29799597705430975
 - ascii: '0xed'
   entry: í
-  frequency: 0.2074688796680498
-- ascii: '0xd83cdf4c'
-  entry: "\U0001F34C"
-  frequency: 0.2074688796680498
+  frequency: 0.29799597705430975
+- ascii: '0xd83dde10'
+  entry: "\U0001F610"
+  frequency: 0.29799597705430975
+- ascii: '0xd83ddca6'
+  entry: "\U0001F4A6"
+  frequency: 0.29799597705430975
+- ascii: '0xd83edd37200d2642fe0f'
+  entry: "\U0001F937‍♂️"
+  frequency: 0.29054607762795204
+- ascii: '0xd83dde43'
+  entry: "\U0001F643"
+  frequency: 0.2830961782015943
+- ascii: '0xd83ddca3'
+  entry: "\U0001F4A3"
+  frequency: 0.2830961782015943
+- ascii: '0xd83ddcb0'
+  entry: "\U0001F4B0"
+  frequency: 0.27564627877523656
+- ascii: '0xe1'
+  entry: á
+  frequency: 0.2681963793488788
+- ascii: '0xd83ddc38'
+  entry: "\U0001F438"
+  frequency: 0.2607464799225211
+- ascii: '0x2795'
+  entry: ➕
+  frequency: 0.2607464799225211
+- ascii: '0xb4'
+  entry: ´
+  frequency: 0.25329658049616327
+- ascii: '0xd7'
+  entry: ×
+  frequency: 0.25329658049616327
+- ascii: '0xd83cdfb5'
+  entry: "\U0001F3B5"
+  frequency: 0.25329658049616327
+- ascii: '0xd83cdf89'
+  entry: "\U0001F389"
+  frequency: 0.25329658049616327
+- ascii: '0xd83ddd95'
+  entry: "\U0001F595"
+  frequency: 0.25329658049616327
+- ascii: '0x203c'
+  entry: ‼
+  frequency: 0.25329658049616327
+- ascii: '0xb7'
+  entry: ·
+  frequency: 0.24584668106980553
+- ascii: '0xd83dde03'
+  entry: "\U0001F603"
+  frequency: 0.24584668106980553
+- ascii: '0xd83cdf44'
+  entry: "\U0001F344"
+  frequency: 0.24584668106980553
+- ascii: '0xfe'
+  entry: þ
+  frequency: 0.23094688221709006
+- ascii: '0xd83dde2c'
+  entry: "\U0001F62C"
+  frequency: 0.23094688221709006
+- ascii: '0xd83dde2b'
+  entry: "\U0001F62B"
+  frequency: 0.23094688221709006
+- ascii: '0xd83edd42'
+  entry: "\U0001F942"
+  frequency: 0.22349698279073232
+- ascii: '0xd83ddc49'
+  entry: "\U0001F449"
+  frequency: 0.22349698279073232
+- ascii: '0xd83dde18'
+  entry: "\U0001F618"
+  frequency: 0.22349698279073232
+- ascii: '0xd83dde32'
+  entry: "\U0001F632"
+  frequency: 0.2160470833643746
+- ascii: '0xd83dde12'
+  entry: "\U0001F612"
+  frequency: 0.2160470833643746
+- ascii: '0xd83dde0b'
+  entry: "\U0001F60B"
+  frequency: 0.2011472845116591
+- ascii: '0xd83dde11'
+  entry: "\U0001F611"
+  frequency: 0.2011472845116591
+- ascii: '0xd83ddcaa'
+  entry: "\U0001F4AA"
+  frequency: 0.2011472845116591
+- ascii: '0xe3'
+  entry: ã
+  frequency: 0.19369738508530135
+- ascii: '0xd83ddc9c'
+  entry: "\U0001F49C"
+  frequency: 0.1862474856589436
+- ascii: '0xe6'
+  entry: æ
+  frequency: 0.17879758623258585
+- ascii: '0xd83ddc4a'
+  entry: "\U0001F44A"
+  frequency: 0.17879758623258585
+- ascii: '0xd83ddc96'
+  entry: "\U0001F496"
+  frequency: 0.1713476868062281
+- ascii: '0xd6'
+  entry: Ö
+  frequency: 0.1713476868062281
+- ascii: '0xd83dde0c'
+  entry: "\U0001F60C"
+  frequency: 0.1713476868062281
+- ascii: '0xd83dde1e'
+  entry: "\U0001F61E"
+  frequency: 0.16389778737987037
+- ascii: '0xab'
+  entry: «
+  frequency: 0.15644788795351264
+- ascii: '0xbb'
+  entry: »
+  frequency: 0.15644788795351264
+- ascii: '0xdc'
+  entry: Ü
+  frequency: 0.15644788795351264
+- ascii: '0xb2'
+  entry: ²
+  frequency: 0.15644788795351264
+- ascii: '0xd83ddc44'
+  entry: "\U0001F444"
+  frequency: 0.15644788795351264
+- ascii: '0xae'
+  entry: ®
+  frequency: 0.15644788795351264
+- ascii: '0xd83dde1c'
+  entry: "\U0001F61C"
+  frequency: 0.14899798852715487
+- ascii: '0xd83edd17'
+  entry: "\U0001F917"
+  frequency: 0.14899798852715487
+- ascii: '0xd83dde2e'
+  entry: "\U0001F62E"
+  frequency: 0.14154808910079714
+- ascii: '0xd83ddc48'
+  entry: "\U0001F448"
+  frequency: 0.14154808910079714
+- ascii: '0xd83dde3b'
+  entry: "\U0001F63B"
+  frequency: 0.14154808910079714
+- ascii: '0xf0'
+  entry: ð
+  frequency: 0.14154808910079714
+- ascii: '0xd83edd18'
+  entry: "\U0001F918"
+  frequency: 0.1340981896744394
+- ascii: '0xd83ddc51'
+  entry: "\U0001F451"
+  frequency: 0.1340981896744394
+- ascii: '0xd83ddc9a'
+  entry: "\U0001F49A"
+  frequency: 0.1340981896744394
+- ascii: '0xd83ddcb5'
+  entry: "\U0001F4B5"
+  frequency: 0.1340981896744394
+- ascii: '0xd83ddc22'
+  entry: "\U0001F422"
+  frequency: 0.1340981896744394
+- ascii: '0xd83ddc24'
+  entry: "\U0001F424"
+  frequency: 0.1340981896744394
+- ascii: '0xd83ddd2b'
+  entry: "\U0001F52B"
+  frequency: 0.12664829024808164
+- ascii: '0x270a'
+  entry: ✊
+  frequency: 0.12664829024808164
+- ascii: '0x274c'
+  entry: ❌
+  frequency: 0.12664829024808164
+- ascii: '0xd83cdf88'
+  entry: "\U0001F388"
+  frequency: 0.12664829024808164
+- ascii: '0xd83ddc25'
+  entry: "\U0001F425"
+  frequency: 0.12664829024808164
+- ascii: '0xd83edd26200d2642fe0f'
+  entry: "\U0001F926‍♂️"
+  frequency: 0.1191983908217239
+- ascii: '0xd83edd19'
+  entry: "\U0001F919"
+  frequency: 0.1191983908217239
+- ascii: '0xd83cdf7a'
+  entry: "\U0001F37A"
+  frequency: 0.1191983908217239
+- ascii: '0xd83ddca8'
+  entry: "\U0001F4A8"
+  frequency: 0.11174849139536616
+- ascii: '0xd83ddc0e'
+  entry: "\U0001F40E"
+  frequency: 0.11174849139536616
+- ascii: '0xd83cdfc5'
+  entry: "\U0001F3C5"
+  frequency: 0.11174849139536616
+- ascii: '0xd83dde08'
+  entry: "\U0001F608"
+  frequency: 0.11174849139536616
+- ascii: '0xd83dde15'
+  entry: "\U0001F615"
+  frequency: 0.11174849139536616
+- ascii: '0xd83dde1b'
+  entry: "\U0001F61B"
+  frequency: 0.11174849139536616
+- ascii: '0xd83dde20'
+  entry: "\U0001F620"
+  frequency: 0.11174849139536616
+- ascii: '0xd83cdf08'
+  entry: "\U0001F308"
+  frequency: 0.11174849139536616
+- ascii: '0xe2'
+  entry: â
+  frequency: 0.10429859196900843
+- ascii: '0x2639fe0f'
+  entry: ☹️
+  frequency: 0.10429859196900843
+- ascii: '0xc4'
+  entry: Ä
+  frequency: 0.10429859196900843
+- ascii: '0xd83dde2a'
+  entry: "\U0001F62A"
+  frequency: 0.10429859196900843
+- ascii: '0xd83dde35'
+  entry: "\U0001F635"
+  frequency: 0.09684869254265067
+- ascii: '0xd83dde07'
+  entry: "\U0001F607"
+  frequency: 0.09684869254265067
+- ascii: '0xd83dde1f'
+  entry: "\U0001F61F"
+  frequency: 0.09684869254265067
+- ascii: '0xd83dde36'
+  entry: "\U0001F636"
+  frequency: 0.09684869254265067
+- ascii: '0x2620fe0f'
+  entry: ☠️
+  frequency: 0.08939879311629292
+- ascii: '0xeb'
+  entry: ë
+  frequency: 0.08939879311629292
+- ascii: '0xd83dde4c'
+  entry: "\U0001F64C"
+  frequency: 0.08939879311629292
+- ascii: '0xd83dde1d'
+  entry: "\U0001F61D"
+  frequency: 0.08939879311629292
+- ascii: '0xd83ddda4'
+  entry: "\U0001F5A4"
+  frequency: 0.08939879311629292
+- ascii: '0xd83dde25'
+  entry: "\U0001F625"
+  frequency: 0.08939879311629292
+- ascii: '0x2122'
+  entry: ™
+  frequency: 0.08939879311629292
+- ascii: '0xd83cdf7e'
+  entry: "\U0001F37E"
+  frequency: 0.08939879311629292
+- ascii: '0xd83edd43'
+  entry: "\U0001F943"
+  frequency: 0.08939879311629292
+- ascii: '0xd83cdfae'
+  entry: "\U0001F3AE"
+  frequency: 0.08939879311629292
+- ascii: '0xd83ddcb2'
+  entry: "\U0001F4B2"
+  frequency: 0.08939879311629292
+- ascii: '0xd83dde40'
+  entry: "\U0001F640"
+  frequency: 0.08194889368993519
+- ascii: '0xfb'
+  entry: û
+  frequency: 0.08194889368993519
+- ascii: '0xd83edd27'
+  entry: "\U0001F927"
+  frequency: 0.08194889368993519
+- ascii: '0xd83cdf8a'
+  entry: "\U0001F38A"
+  frequency: 0.08194889368993519
+- ascii: '0x23f0'
+  entry: ⏰
+  frequency: 0.08194889368993519
+- ascii: '0xc7'
+  entry: Ç
+  frequency: 0.08194889368993519
+- ascii: '0xd83ddc69'
+  entry: "\U0001F469"
+  frequency: 0.08194889368993519
+- ascii: '0xd83ddc7d'
+  entry: "\U0001F47D"
+  frequency: 0.07449899426357744
+- ascii: '0xbf'
+  entry: ¿
+  frequency: 0.07449899426357744
+- ascii: '0xd83dde28'
+  entry: "\U0001F628"
+  frequency: 0.07449899426357744
+- ascii: '0xd83ddc99'
+  entry: "\U0001F499"
+  frequency: 0.07449899426357744
+- ascii: '0xd83cdf7b'
+  entry: "\U0001F37B"
+  frequency: 0.07449899426357744
+- ascii: '0xd83dde13'
+  entry: "\U0001F613"
+  frequency: 0.07449899426357744
+- ascii: '0xd83ddc94'
+  entry: "\U0001F494"
+  frequency: 0.07449899426357744
+- ascii: '0xd83ddeab'
+  entry: "\U0001F6AB"
+  frequency: 0.07449899426357744
+- ascii: '0xd83cdf51'
+  entry: "\U0001F351"
+  frequency: 0.07449899426357744
+- ascii: '0xd83dde2f'
+  entry: "\U0001F62F"
+  frequency: 0.07449899426357744
+- ascii: '0xd83ddc4e'
+  entry: "\U0001F44E"
+  frequency: 0.07449899426357744
+- ascii: '0xf9'
+  entry: ù
+  frequency: 0.07449899426357744
+- ascii: '0xd83cdff3fe0f200dd83cdf08'
+  entry: "\U0001F3F3️‍\U0001F308"
+  frequency: 0.07449899426357744
+- ascii: '0x2665'
+  entry: ♥
+  frequency: 0.0670490948372197
 - ascii: '0xc9'
   entry: É
-  frequency: 0.2074688796680498
-- ascii: 0x
-  entry: ''
+  frequency: 0.0670490948372197
+- ascii: '0x263a'
+  entry: ☺
+  frequency: 0.0670490948372197
+- ascii: '0xd83edd20'
+  entry: "\U0001F920"
+  frequency: 0.0670490948372197
+- ascii: '0xef'
+  entry: ï
+  frequency: 0.0670490948372197
+- ascii: '0xd83ddc4b'
+  entry: "\U0001F44B"
+  frequency: 0.0670490948372197
+- ascii: '0xd83dde26'
+  entry: "\U0001F626"
+  frequency: 0.0670490948372197
+- ascii: '0xd83ddc68'
+  entry: "\U0001F468"
+  frequency: 0.0670490948372197
+- ascii: '0xd83ddc8e'
+  entry: "\U0001F48E"
+  frequency: 0.0670490948372197
+- ascii: '0xd83cdf4c'
+  entry: "\U0001F34C"
+  frequency: 0.0670490948372197
+- ascii: '0xd83ddc9e'
+  entry: "\U0001F49E"
+  frequency: 0.05959919541086195
+- ascii: '0xd83edd11'
+  entry: "\U0001F911"
+  frequency: 0.05959919541086195
+- ascii: '0xd83dde48'
+  entry: "\U0001F648"
+  frequency: 0.05959919541086195
+- ascii: '0xd83ddd1b'
+  entry: "\U0001F51B"
+  frequency: 0.05959919541086195
+- ascii: '0xd83ddcab'
+  entry: "\U0001F4AB"
+  frequency: 0.05959919541086195
+- ascii: '0xd83ddc9b'
+  entry: "\U0001F49B"
+  frequency: 0.05959919541086195
+- ascii: '0xd83ddc90'
+  entry: "\U0001F490"
+  frequency: 0.05959919541086195
+- ascii: '0xd83cdf70'
+  entry: "\U0001F370"
+  frequency: 0.05959919541086195
+- ascii: '0xd83ddcc8'
+  entry: "\U0001F4C8"
+  frequency: 0.05959919541086195
+- ascii: '0x161'
+  entry: š
+  frequency: 0.05959919541086195
+- ascii: '0xd83ddc66'
+  entry: "\U0001F466"
+  frequency: 0.05959919541086195
+- ascii: '0xd83dde41'
+  entry: "\U0001F641"
+  frequency: 0.05214929598450421
+- ascii: '0xee'
+  entry: î
+  frequency: 0.05214929598450421
+- ascii: '0xd83cdf0e'
+  entry: "\U0001F30E"
+  frequency: 0.05214929598450421
+- ascii: '0x270c'
+  entry: ✌
+  frequency: 0.05214929598450421
+- ascii: '0xd83ddc97'
+  entry: "\U0001F497"
+  frequency: 0.05214929598450421
+- ascii: '0xd83edd21'
+  entry: "\U0001F921"
+  frequency: 0.05214929598450421
+- ascii: '0xd83edd47'
+  entry: "\U0001F947"
+  frequency: 0.05214929598450421
+- ascii: '0xd83cdf78'
+  entry: "\U0001F378"
+  frequency: 0.05214929598450421
+- ascii: '0xd83edd5b'
+  entry: "\U0001F95B"
+  frequency: 0.05214929598450421
+- ascii: '0xd83dde23'
+  entry: "\U0001F623"
+  frequency: 0.05214929598450421
+- ascii: '0xd83cdf33'
+  entry: "\U0001F333"
+  frequency: 0.05214929598450421
+- ascii: '0xd83cdf31'
+  entry: "\U0001F331"
+  frequency: 0.05214929598450421
+- ascii: '0xd83edd25'
+  entry: "\U0001F925"
+  frequency: 0.05214929598450421
+- ascii: '0xc6'
+  entry: Æ
+  frequency: 0.05214929598450421
+- ascii: '0xde'
+  entry: Þ
+  frequency: 0.05214929598450421
+- ascii: '0xd83ddc1d'
+  entry: "\U0001F41D"
+  frequency: 0.04469939655814646
 - ascii: '0xa1'
   entry: ¡
-- ascii: '0xa2'
-  entry: ¢
-- ascii: '0xa4'
-  entry: ¤
+  frequency: 0.04469939655814646
+- ascii: '0xd83edd1c'
+  entry: "\U0001F91C"
+  frequency: 0.04469939655814646
+- ascii: '0xfa'
+  entry: ú
+  frequency: 0.04469939655814646
+- ascii: '0xd83dde38'
+  entry: "\U0001F638"
+  frequency: 0.04469939655814646
+- ascii: '0xd83ddc0d'
+  entry: "\U0001F40D"
+  frequency: 0.04469939655814646
+- ascii: '0xd83ddde3'
+  entry: "\U0001F5E3"
+  frequency: 0.04469939655814646
+- ascii: '0xd83dde4a'
+  entry: "\U0001F64A"
+  frequency: 0.04469939655814646
+- ascii: '0xd83ddc36'
+  entry: "\U0001F436"
+  frequency: 0.04469939655814646
+- ascii: '0xd83ddc1f'
+  entry: "\U0001F41F"
+  frequency: 0.04469939655814646
+- ascii: '0xd83ddc65'
+  entry: "\U0001F465"
+  frequency: 0.04469939655814646
+- ascii: '0xd83ddcdd'
+  entry: "\U0001F4DD"
+  frequency: 0.04469939655814646
+- ascii: '0xd83ddc8d'
+  entry: "\U0001F48D"
+  frequency: 0.04469939655814646
+- ascii: '0xd83cdf1a'
+  entry: "\U0001F31A"
+  frequency: 0.04469939655814646
+- ascii: '0xd83dde19'
+  entry: "\U0001F619"
+  frequency: 0.04469939655814646
+- ascii: '0xf4'
+  entry: ô
+  frequency: 0.04469939655814646
 - ascii: '0xa5'
   entry: ¥
-- ascii: '0xa6'
-  entry: ¦
+  frequency: 0.04469939655814646
+- ascii: '0xd83dde34'
+  entry: "\U0001F634"
+  frequency: 0.04469939655814646
+- ascii: '0xd83ddc79'
+  entry: "\U0001F479"
+  frequency: 0.04469939655814646
+- ascii: '0xd83ddc6b'
+  entry: "\U0001F46B"
+  frequency: 0.04469939655814646
+- ascii: '0xd83ddcbb'
+  entry: "\U0001F4BB"
+  frequency: 0.04469939655814646
+- ascii: '0xd83cdfc3'
+  entry: "\U0001F3C3"
+  frequency: 0.04469939655814646
+- ascii: '0x2b06'
+  entry: ⬆
+  frequency: 0.04469939655814646
+- ascii: '0xd83ddc83'
+  entry: "\U0001F483"
+  frequency: 0.04469939655814646
+- ascii: '0xd83ddd7a'
+  entry: "\U0001F57A"
+  frequency: 0.04469939655814646
+- ascii: '0xd83dde37'
+  entry: "\U0001F637"
+  frequency: 0.03724949713178872
+- ascii: '0xd83cdf1e'
+  entry: "\U0001F31E"
+  frequency: 0.03724949713178872
+- ascii: '0xd83ddca9'
+  entry: "\U0001F4A9"
+  frequency: 0.03724949713178872
+- ascii: '0xd83ddc39'
+  entry: "\U0001F439"
+  frequency: 0.03724949713178872
+- ascii: '0xd83ddc08'
+  entry: "\U0001F408"
+  frequency: 0.03724949713178872
+- ascii: '0xd83ddea9'
+  entry: "\U0001F6A9"
+  frequency: 0.03724949713178872
+- ascii: '0xd83ddc9d'
+  entry: "\U0001F49D"
+  frequency: 0.03724949713178872
+- ascii: '0xd83ddcad'
+  entry: "\U0001F4AD"
+  frequency: 0.03724949713178872
+- ascii: '0xd83dde16'
+  entry: "\U0001F616"
+  frequency: 0.03724949713178872
+- ascii: '0xd1'
+  entry: Ñ
+  frequency: 0.03724949713178872
+- ascii: '0xb9'
+  entry: ¹
+  frequency: 0.03724949713178872
+- ascii: '0xd83edd1d'
+  entry: "\U0001F91D"
+  frequency: 0.03724949713178872
+- ascii: '0xd83ddca5'
+  entry: "\U0001F4A5"
+  frequency: 0.03724949713178872
+- ascii: '0xd83cdd71'
+  entry: "\U0001F171"
+  frequency: 0.03724949713178872
+- ascii: '0xd83dde27'
+  entry: "\U0001F627"
+  frequency: 0.03724949713178872
+- ascii: '0x2755'
+  entry: ❕
+  frequency: 0.03724949713178872
+- ascii: '0x153'
+  entry: œ
+  frequency: 0.03724949713178872
+- ascii: '0xd83ddc3e'
+  entry: "\U0001F43E"
+  frequency: 0.03724949713178872
+- ascii: '0xd83cdfbc'
+  entry: "\U0001F3BC"
+  frequency: 0.03724949713178872
+- ascii: '0xec'
+  entry: ì
+  frequency: 0.029799597705430975
+- ascii: '0xf2'
+  entry: ò
+  frequency: 0.029799597705430975
+- ascii: '0x2754'
+  entry: ❔
+  frequency: 0.029799597705430975
 - ascii: '0xa7'
   entry: §
+  frequency: 0.029799597705430975
+- ascii: '0x2694fe0f'
+  entry: ⚔️
+  frequency: 0.029799597705430975
+- ascii: '0xd83cdf85'
+  entry: "\U0001F385"
+  frequency: 0.029799597705430975
+- ascii: '0xd83ddc42'
+  entry: "\U0001F442"
+  frequency: 0.029799597705430975
+- ascii: '0xd83cdf37'
+  entry: "\U0001F337"
+  frequency: 0.029799597705430975
+- ascii: '0xd83ddca2'
+  entry: "\U0001F4A2"
+  frequency: 0.029799597705430975
+- ascii: '0xd83ddc45'
+  entry: "\U0001F445"
+  frequency: 0.029799597705430975
+- ascii: '0xd83edd8b'
+  entry: "\U0001F98B"
+  frequency: 0.029799597705430975
+- ascii: '0xd83cdf32'
+  entry: "\U0001F332"
+  frequency: 0.029799597705430975
+- ascii: '0xd83cdf55'
+  entry: "\U0001F355"
+  frequency: 0.029799597705430975
+- ascii: '0x2714'
+  entry: ✔
+  frequency: 0.029799597705430975
+- ascii: '0xd83ddcd6'
+  entry: "\U0001F4D6"
+  frequency: 0.029799597705430975
+- ascii: '0x2b07'
+  entry: ⬇
+  frequency: 0.029799597705430975
+- ascii: '0xd83ddd1f'
+  entry: "\U0001F51F"
+  frequency: 0.029799597705430975
+- ascii: '0x26d3'
+  entry: ⛓
+  frequency: 0.029799597705430975
+- ascii: '0xd83cdf3f'
+  entry: "\U0001F33F"
+  frequency: 0.029799597705430975
+- ascii: '0xd83ddc14'
+  entry: "\U0001F414"
+  frequency: 0.029799597705430975
+- ascii: '0xb1'
+  entry: ±
+  frequency: 0.029799597705430975
+- ascii: '0xd83edd1b'
+  entry: "\U0001F91B"
+  frequency: 0.029799597705430975
+- ascii: '0xd83ddc9f'
+  entry: "\U0001F49F"
+  frequency: 0.029799597705430975
+- ascii: '0xd83dde3d'
+  entry: "\U0001F63D"
+  frequency: 0.029799597705430975
+- ascii: '0xd83ddeac'
+  entry: "\U0001F6AC"
+  frequency: 0.029799597705430975
+- ascii: '0xd83dde17'
+  entry: "\U0001F617"
+  frequency: 0.029799597705430975
+- ascii: '0xd8'
+  entry: Ø
+  frequency: 0.029799597705430975
+- ascii: '0xd83ddcf4'
+  entry: "\U0001F4F4"
+  frequency: 0.029799597705430975
+- ascii: '0x2757'
+  entry: ❗
+  frequency: 0.029799597705430975
+- ascii: '0xd83ddcac'
+  entry: "\U0001F4AC"
+  frequency: 0.029799597705430975
+- ascii: '0xd83cdf65'
+  entry: "\U0001F365"
+  frequency: 0.029799597705430975
+- ascii: '0xd83ddea8'
+  entry: "\U0001F6A8"
+  frequency: 0.029799597705430975
+- ascii: '0xd83ddd52'
+  entry: "\U0001F552"
+  frequency: 0.029799597705430975
+- ascii: '0xd83ddd0e'
+  entry: "\U0001F50E"
+  frequency: 0.029799597705430975
+- ascii: '0xd83cdf7f'
+  entry: "\U0001F37F"
+  frequency: 0.02234969827907323
+- ascii: '0xd83ddc20'
+  entry: "\U0001F420"
+  frequency: 0.02234969827907323
+- ascii: '0xd83edd8c'
+  entry: "\U0001F98C"
+  frequency: 0.02234969827907323
+- ascii: '0xd83edd1e'
+  entry: "\U0001F91E"
+  frequency: 0.02234969827907323
+- ascii: '0xd83ddc10'
+  entry: "\U0001F410"
+  frequency: 0.02234969827907323
+- ascii: '0xd83ddc7b'
+  entry: "\U0001F47B"
+  frequency: 0.02234969827907323
+- ascii: '0xd83ddc8b'
+  entry: "\U0001F48B"
+  frequency: 0.02234969827907323
+- ascii: '0xd83ddc34'
+  entry: "\U0001F434"
+  frequency: 0.02234969827907323
+- ascii: '0xd83ddc64'
+  entry: "\U0001F464"
+  frequency: 0.02234969827907323
+- ascii: '0xd83ddc6c'
+  entry: "\U0001F46C"
+  frequency: 0.02234969827907323
+- ascii: '0x261d'
+  entry: ☝
+  frequency: 0.02234969827907323
+- ascii: '0xd83ddd2a'
+  entry: "\U0001F52A"
+  frequency: 0.02234969827907323
+- ascii: '0xd83ddc93'
+  entry: "\U0001F493"
+  frequency: 0.02234969827907323
+- ascii: '0xbd'
+  entry: ½
+  frequency: 0.02234969827907323
+- ascii: '0xd83cdf3b'
+  entry: "\U0001F33B"
+  frequency: 0.02234969827907323
+- ascii: '0xd83ddd51'
+  entry: "\U0001F551"
+  frequency: 0.02234969827907323
+- ascii: '0xd83cdf75'
+  entry: "\U0001F375"
+  frequency: 0.02234969827907323
+- ascii: '0x26c4'
+  entry: ⛄
+  frequency: 0.02234969827907323
+- ascii: '0x2b55'
+  entry: ⭕
+  frequency: 0.02234969827907323
+- ascii: '0xc5'
+  entry: Å
+  frequency: 0.02234969827907323
+- ascii: '0xa9'
+  entry: ©
+  frequency: 0.02234969827907323
+- ascii: '0xd83cdf38'
+  entry: "\U0001F338"
+  frequency: 0.02234969827907323
+- ascii: '0xd83ddc98'
+  entry: "\U0001F498"
+  frequency: 0.02234969827907323
+- ascii: '0xd83dde83'
+  entry: "\U0001F683"
+  frequency: 0.02234969827907323
+- ascii: '0xd83ddca7'
+  entry: "\U0001F4A7"
+  frequency: 0.02234969827907323
+- ascii: '0xd83cdfe1'
+  entry: "\U0001F3E1"
+  frequency: 0.02234969827907323
+- ascii: '0xd83cdf1d'
+  entry: "\U0001F31D"
+  frequency: 0.02234969827907323
+- ascii: '0xd83dde39'
+  entry: "\U0001F639"
+  frequency: 0.02234969827907323
+- ascii: '0xd83edd13'
+  entry: "\U0001F913"
+  frequency: 0.02234969827907323
+- ascii: '0xd83edd1a'
+  entry: "\U0001F91A"
+  frequency: 0.02234969827907323
+- ascii: '0xd83ddc04'
+  entry: "\U0001F404"
+  frequency: 0.02234969827907323
+- ascii: '0xd83ddc11'
+  entry: "\U0001F411"
+  frequency: 0.02234969827907323
+- ascii: '0xfd'
+  entry: ý
+  frequency: 0.02234969827907323
+- ascii: '0x2603fe0f'
+  entry: ☃️
+  frequency: 0.02234969827907323
+- ascii: '0xd83ddeb7'
+  entry: "\U0001F6B7"
+  frequency: 0.02234969827907323
+- ascii: '0xa2'
+  entry: ¢
+  frequency: 0.02234969827907323
+- ascii: '0xd83ddc6a'
+  entry: "\U0001F46A"
+  frequency: 0.02234969827907323
+- ascii: '0xd83cde50'
+  entry: "\U0001F250"
+  frequency: 0.02234969827907323
+- ascii: '0xd83ddc50'
+  entry: "\U0001F450"
+  frequency: 0.02234969827907323
+- ascii: '0x26d4'
+  entry: ⛔
+  frequency: 0.02234969827907323
+- ascii: '0xd83ddd18'
+  entry: "\U0001F518"
+  frequency: 0.02234969827907323
+- ascii: '0xd83cdf0a'
+  entry: "\U0001F30A"
+  frequency: 0.02234969827907323
+- ascii: '0xd83ddd0d'
+  entry: "\U0001F50D"
+  frequency: 0.02234969827907323
+- ascii: '0xd83edd41'
+  entry: "\U0001F941"
+  frequency: 0.02234969827907323
+- ascii: '0x26fd'
+  entry: ⛽
+  frequency: 0.02234969827907323
+- ascii: '0xd83ddcba'
+  entry: "\U0001F4BA"
+  frequency: 0.02234969827907323
+- ascii: '0x27a1'
+  entry: ➡
+  frequency: 0.02234969827907323
+- ascii: '0xd83edd33'
+  entry: "\U0001F933"
+  frequency: 0.02234969827907323
+- ascii: '0xd83ddcb8'
+  entry: "\U0001F4B8"
+  frequency: 0.02234969827907323
+- ascii: '0xd83ddcd0'
+  entry: "\U0001F4D0"
+  frequency: 0.014899798852715487
+- ascii: '0xd83edd5a'
+  entry: "\U0001F95A"
+  frequency: 0.014899798852715487
+- ascii: '0xd83ddcdc'
+  entry: "\U0001F4DC"
+  frequency: 0.014899798852715487
+- ascii: '0xd83ddd4a'
+  entry: "\U0001F54A"
+  frequency: 0.014899798852715487
+- ascii: '0xd83cdf97'
+  entry: "\U0001F397"
+  frequency: 0.014899798852715487
+- ascii: '0xd83cdf3a'
+  entry: "\U0001F33A"
+  frequency: 0.014899798852715487
+- ascii: '0xd83cdf6b'
+  entry: "\U0001F36B"
+  frequency: 0.014899798852715487
+- ascii: '0xd83ddd31'
+  entry: "\U0001F531"
+  frequency: 0.014899798852715487
+- ascii: '0xd83ddc1b'
+  entry: "\U0001F41B"
+  frequency: 0.014899798852715487
+- ascii: '0xd83cdf20'
+  entry: "\U0001F320"
+  frequency: 0.014899798852715487
+- ascii: '0xd83cdf1f'
+  entry: "\U0001F31F"
+  frequency: 0.014899798852715487
+- ascii: '0x270f'
+  entry: ✏
+  frequency: 0.014899798852715487
+- ascii: '0xd83ddc46'
+  entry: "\U0001F446"
+  frequency: 0.014899798852715487
+- ascii: '0xd83edd88'
+  entry: "\U0001F988"
+  frequency: 0.014899798852715487
+- ascii: '0xd83cdf56'
+  entry: "\U0001F356"
+  frequency: 0.014899798852715487
+- ascii: '0xd83cdfc9'
+  entry: "\U0001F3C9"
+  frequency: 0.014899798852715487
+- ascii: '0xd83ddd73'
+  entry: "\U0001F573"
+  frequency: 0.014899798852715487
+- ascii: '0xd83dde97'
+  entry: "\U0001F697"
+  frequency: 0.014899798852715487
+- ascii: '0xd83cdfdd'
+  entry: "\U0001F3DD"
+  frequency: 0.014899798852715487
+- ascii: '0xd83dddd1'
+  entry: "\U0001F5D1"
+  frequency: 0.014899798852715487
+- ascii: '0xd83edd40'
+  entry: "\U0001F940"
+  frequency: 0.014899798852715487
+- ascii: '0xd83cdf29'
+  entry: "\U0001F329"
+  frequency: 0.014899798852715487
+- ascii: '0xd83ddc16'
+  entry: "\U0001F416"
+  frequency: 0.014899798852715487
+- ascii: '0xd83ddc78'
+  entry: "\U0001F478"
+  frequency: 0.014899798852715487
+- ascii: '0xd83ddcda'
+  entry: "\U0001F4DA"
+  frequency: 0.014899798852715487
+- ascii: '0xc3'
+  entry: Ã
+  frequency: 0.014899798852715487
+- ascii: '0xd83cdf39'
+  entry: "\U0001F339"
+  frequency: 0.014899798852715487
+- ascii: '0xd83edd83'
+  entry: "\U0001F983"
+  frequency: 0.014899798852715487
+- ascii: '0xd83dde46'
+  entry: "\U0001F646"
+  frequency: 0.014899798852715487
+- ascii: '0xd83cdf80'
+  entry: "\U0001F380"
+  frequency: 0.014899798852715487
+- ascii: '0xd83ddc43'
+  entry: "\U0001F443"
+  frequency: 0.014899798852715487
+- ascii: '0x160'
+  entry: Š
+  frequency: 0.014899798852715487
+- ascii: '0xc0'
+  entry: À
+  frequency: 0.014899798852715487
+- ascii: '0xd83edd85'
+  entry: "\U0001F985"
+  frequency: 0.014899798852715487
+- ascii: '0xd83cdf0f'
+  entry: "\U0001F30F"
+  frequency: 0.014899798852715487
+- ascii: '0xd83cdf1b'
+  entry: "\U0001F31B"
+  frequency: 0.014899798852715487
+- ascii: '0xd83cdf1c'
+  entry: "\U0001F31C"
+  frequency: 0.014899798852715487
+- ascii: '0xd83edd12'
+  entry: "\U0001F912"
+  frequency: 0.014899798852715487
+- ascii: '0xd83edd10'
+  entry: "\U0001F910"
+  frequency: 0.014899798852715487
+- ascii: '0xd83ddd90'
+  entry: "\U0001F590"
+  frequency: 0.014899798852715487
+- ascii: '0xd83edd8a'
+  entry: "\U0001F98A"
+  frequency: 0.014899798852715487
+- ascii: '0xd83ddc74'
+  entry: "\U0001F474"
+  frequency: 0.014899798852715487
+- ascii: '0xd83dde49'
+  entry: "\U0001F649"
+  frequency: 0.014899798852715487
+- ascii: '0xd83edd34'
+  entry: "\U0001F934"
+  frequency: 0.014899798852715487
+- ascii: '0xd83dde3e'
+  entry: "\U0001F63E"
+  frequency: 0.014899798852715487
+- ascii: '0xd83ddce6'
+  entry: "\U0001F4E6"
+  frequency: 0.014899798852715487
+- ascii: '0xba'
+  entry: º
+  frequency: 0.014899798852715487
+- ascii: '0xd83ddcde'
+  entry: "\U0001F4DE"
+  frequency: 0.014899798852715487
+- ascii: '0x2049'
+  entry: ⁉
+  frequency: 0.014899798852715487
+- ascii: '0x2744'
+  entry: ❄
+  frequency: 0.014899798852715487
+- ascii: '0xd83ddeaa'
+  entry: "\U0001F6AA"
+  frequency: 0.014899798852715487
+- ascii: '0xd83ddc13'
+  entry: "\U0001F413"
+  frequency: 0.014899798852715487
+- ascii: '0xd83ddd00'
+  entry: "\U0001F500"
+  frequency: 0.014899798852715487
+- ascii: '0xd83cdf03'
+  entry: "\U0001F303"
+  frequency: 0.014899798852715487
+- ascii: '0xd83cdf7d'
+  entry: "\U0001F37D"
+  frequency: 0.014899798852715487
+- ascii: '0xd83ddc31'
+  entry: "\U0001F431"
+  frequency: 0.014899798852715487
+- ascii: '0xd83ddc8a'
+  entry: "\U0001F48A"
+  frequency: 0.014899798852715487
+- ascii: '0x26a1'
+  entry: ⚡
+  frequency: 0.014899798852715487
+- ascii: '0xd83dde95'
+  entry: "\U0001F695"
+  frequency: 0.014899798852715487
+- ascii: '0xac'
+  entry: ¬
+  frequency: 0.014899798852715487
+- ascii: '0xb6'
+  entry: ¶
+  frequency: 0.014899798852715487
+- ascii: '0xd83ddc7f'
+  entry: "\U0001F47F"
+  frequency: 0.014899798852715487
+- ascii: '0xd83ddc67'
+  entry: "\U0001F467"
+  frequency: 0.014899798852715487
+- ascii: '0x2716'
+  entry: ✖
+  frequency: 0.014899798852715487
+- ascii: '0xd83ddd19'
+  entry: "\U0001F519"
+  frequency: 0.014899798852715487
+- ascii: '0xd83ddd1d'
+  entry: "\U0001F51D"
+  frequency: 0.007449899426357744
+- ascii: '0xd83edd84'
+  entry: "\U0001F984"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddc81'
+  entry: "\U0001F481"
+  frequency: 0.007449899426357744
+- ascii: '0x26a0'
+  entry: ⚠
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdf79'
+  entry: "\U0001F379"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddc2c'
+  entry: "\U0001F42C"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddc33'
+  entry: "\U0001F433"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddc0b'
+  entry: "\U0001F40B"
+  frequency: 0.007449899426357744
+- ascii: '0xd83dde8f'
+  entry: "\U0001F68F"
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdfe2'
+  entry: "\U0001F3E2"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddc75'
+  entry: "\U0001F475"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddd10'
+  entry: "\U0001F510"
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdfbb'
+  entry: "\U0001F3BB"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddcf7'
+  entry: "\U0001F4F7"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddd33'
+  entry: "\U0001F533"
+  frequency: 0.007449899426357744
+- ascii: '0x2194'
+  entry: ↔
+  frequency: 0.007449899426357744
+- ascii: '0x303d'
+  entry: 〽
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddd3b'
+  entry: "\U0001F53B"
+  frequency: 0.007449899426357744
+- ascii: '0x26cf'
+  entry: ⛏
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddc7e'
+  entry: "\U0001F47E"
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdf43'
+  entry: "\U0001F343"
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdf42'
+  entry: "\U0001F342"
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdd70'
+  entry: "\U0001F170"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddd5d'
+  entry: "\U0001F55D"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddcc5'
+  entry: "\U0001F4C5"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddca1'
+  entry: "\U0001F4A1"
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdf93'
+  entry: "\U0001F393"
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdf30'
+  entry: "\U0001F330"
+  frequency: 0.007449899426357744
+- ascii: '0xce'
+  entry: Î
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdf3c'
+  entry: "\U0001F33C"
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdf40'
+  entry: "\U0001F340"
+  frequency: 0.007449899426357744
+- ascii: '0xd83edd49'
+  entry: "\U0001F949"
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdfc6'
+  entry: "\U0001F3C6"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddc2f'
+  entry: "\U0001F42F"
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdf86'
+  entry: "\U0001F386"
+  frequency: 0.007449899426357744
+- ascii: '0xd83dde82'
+  entry: "\U0001F682"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddcf8'
+  entry: "\U0001F4F8"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddc26'
+  entry: "\U0001F426"
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdff4'
+  entry: "\U0001F3F4"
+  frequency: 0.007449899426357744
+- ascii: '0x2622fe0f'
+  entry: ☢️
+  frequency: 0.007449899426357744
+- ascii: '0x2623fe0f'
+  entry: ☣️
+  frequency: 0.007449899426357744
+- ascii: '0xc1'
+  entry: Á
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdf96'
+  entry: "\U0001F396"
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdf2e'
+  entry: "\U0001F32E"
+  frequency: 0.007449899426357744
+- ascii: '0xd83edd87'
+  entry: "\U0001F987"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddcfd'
+  entry: "\U0001F4FD"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddcbf'
+  entry: "\U0001F4BF"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddecc'
+  entry: "\U0001F6CC"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddca4'
+  entry: "\U0001F4A4"
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdf36'
+  entry: "\U0001F336"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddc27'
+  entry: "\U0001F427"
+  frequency: 0.007449899426357744
+- ascii: '0xd83edd56'
+  entry: "\U0001F956"
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdf49'
+  entry: "\U0001F349"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddd34'
+  entry: "\U0001F534"
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdfaf'
+  entry: "\U0001F3AF"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddd32'
+  entry: "\U0001F532"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddc47'
+  entry: "\U0001F447"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddea2'
+  entry: "\U0001F6A2"
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdfa4'
+  entry: "\U0001F3A4"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddc85'
+  entry: "\U0001F485"
+  frequency: 0.007449899426357744
+- ascii: '0xd83dde3f'
+  entry: "\U0001F63F"
+  frequency: 0.007449899426357744
+- ascii: '0xca'
+  entry: Ê
+  frequency: 0.007449899426357744
+- ascii: '0x178'
+  entry: Ÿ
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdf5e'
+  entry: "\U0001F35E"
+  frequency: 0.007449899426357744
+- ascii: '0xd83dde9c'
+  entry: "\U0001F69C"
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdfad'
+  entry: "\U0001F3AD"
+  frequency: 0.007449899426357744
+- ascii: '0xd83edd44'
+  entry: "\U0001F944"
+  frequency: 0.007449899426357744
+- ascii: '0xd83edd86'
+  entry: "\U0001F986"
+  frequency: 0.007449899426357744
+- ascii: '0xb3'
+  entry: ³
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddcff'
+  entry: "\U0001F4FF"
+  frequency: 0.007449899426357744
+- ascii: '0xd83dde91'
+  entry: "\U0001F691"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddc35'
+  entry: "\U0001F435"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddc07'
+  entry: "\U0001F407"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddc15'
+  entry: "\U0001F415"
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdf54'
+  entry: "\U0001F354"
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdf5f'
+  entry: "\U0001F35F"
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdf69'
+  entry: "\U0001F369"
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdf6d'
+  entry: "\U0001F36D"
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdf61'
+  entry: "\U0001F361"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddd11'
+  entry: "\U0001F511"
+  frequency: 0.007449899426357744
+- ascii: '0x271dfe0f'
+  entry: ✝️
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddcc9'
+  entry: "\U0001F4C9"
+  frequency: 0.007449899426357744
+- ascii: '0x26b0fe0f'
+  entry: ⚰️
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdfe0'
+  entry: "\U0001F3E0"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddebd'
+  entry: "\U0001F6BD"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddd07'
+  entry: "\U0001F507"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddd15'
+  entry: "\U0001F515"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddc56'
+  entry: "\U0001F456"
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdfab'
+  entry: "\U0001F3AB"
+  frequency: 0.007449899426357744
+- ascii: '0xd83dde3c'
+  entry: "\U0001F63C"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddcc6'
+  entry: "\U0001F4C6"
+  frequency: 0.007449899426357744
+- ascii: '0x26e9'
+  entry: ⛩
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddc0f'
+  entry: "\U0001F40F"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddd96'
+  entry: "\U0001F596"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddc3f'
+  entry: "\U0001F43F"
+  frequency: 0.007449899426357744
+- ascii: '0xd0'
+  entry: Ð
+  frequency: 0.007449899426357744
+- ascii: '0xa6'
+  entry: ¦
+  frequency: 0.007449899426357744
+- ascii: '0xf7'
+  entry: ÷
+  frequency: 0.007449899426357744
+- ascii: '0x2b05'
+  entry: ⬅
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddd12'
+  entry: "\U0001F512"
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdf2d'
+  entry: "\U0001F32D"
+  frequency: 0.007449899426357744
+- ascii: '0x2195'
+  entry: ↕
+  frequency: 0.007449899426357744
+- ascii: '0xd83edd57'
+  entry: "\U0001F957"
+  frequency: 0.007449899426357744
+- ascii: '0xd83eddc0'
+  entry: "\U0001F9C0"
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdfdc'
+  entry: "\U0001F3DC"
+  frequency: 0.007449899426357744
+- ascii: '0xd83dde30'
+  entry: "\U0001F630"
+  frequency: 0.007449899426357744
+- ascii: '0x23e9'
+  entry: ⏩
+  frequency: 0.007449899426357744
+- ascii: '0xd83cdf10'
+  entry: "\U0001F310"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddd2c'
+  entry: "\U0001F52C"
+  frequency: 0.007449899426357744
+- ascii: '0xd83ddd2d'
+  entry: "\U0001F52D"
+  frequency: 0.007449899426357744
+- ascii: '0xd83edd89'
+  entry: "\U0001F989"
+  frequency: 0.007449899426357744
+- ascii: '0xb5'
+  entry: µ
+  frequency: 0.007449899426357744
+- ascii: '0xd83edd5e'
+  entry: "\U0001F95E"
+  frequency: 0.007449899426357744
+- ascii: '0xd9'
+  entry: Ù
+  frequency: 0.007449899426357744
+- ascii: '0xda'
+  entry: Ú
+  frequency: 0.007449899426357744
+- ascii: '0xd2'
+  entry: Ò
+  frequency: 0.007449899426357744
+- ascii: '0xa4'
+  entry: ¤
 - ascii: '0xa8'
   entry: ¨
 - ascii: '0xaa'
   entry: ª
-- ascii: '0xac'
-  entry: ¬
 - ascii: '0xad'
   entry: ­
-- ascii: '0xb1'
-  entry: ±
-- ascii: '0xb2'
-  entry: ²
-- ascii: '0xb3'
-  entry: ³
-- ascii: '0xb5'
-  entry: µ
-- ascii: '0xb6'
-  entry: ¶
-- ascii: '0xb7'
-  entry: ·
 - ascii: '0xb8'
   entry: ¸
-- ascii: '0xb9'
-  entry: ¹
-- ascii: '0xba'
-  entry: º
 - ascii: '0xbc'
   entry: ¼
-- ascii: '0xbd'
-  entry: ½
 - ascii: '0xbe'
   entry: ¾
-- ascii: '0xbf'
-  entry: ¿
-- ascii: '0xc0'
-  entry: À
-- ascii: '0xc1'
-  entry: Á
 - ascii: '0xc2'
   entry: Â
-- ascii: '0xc3'
-  entry: Ã
-- ascii: '0xc4'
-  entry: Ä
-- ascii: '0xc5'
-  entry: Å
-- ascii: '0xc6'
-  entry: Æ
-- ascii: '0xc7'
-  entry: Ç
 - ascii: '0xc8'
   entry: È
-- ascii: '0xca'
-  entry: Ê
 - ascii: '0xcb'
   entry: Ë
 - ascii: '0xcc'
   entry: Ì
 - ascii: '0xcd'
   entry: Í
-- ascii: '0xce'
-  entry: Î
 - ascii: '0xcf'
   entry: Ï
-- ascii: '0xd0'
-  entry: Ð
-- ascii: '0xd1'
-  entry: Ñ
-- ascii: '0xd2'
-  entry: Ò
 - ascii: '0xd3'
   entry: Ó
 - ascii: '0xd4'
   entry: Ô
 - ascii: '0xd5'
   entry: Õ
-- ascii: '0xd8'
-  entry: Ø
-- ascii: '0xd9'
-  entry: Ù
-- ascii: '0xda'
-  entry: Ú
 - ascii: '0xdb'
   entry: Û
-- ascii: '0xdc'
-  entry: Ü
 - ascii: '0xdd'
   entry: Ý
-- ascii: '0xde'
-  entry: Þ
-- ascii: '0xe2'
-  entry: â
-- ascii: '0xe5'
-  entry: å
-- ascii: '0xe6'
-  entry: æ
-- ascii: '0xe8'
-  entry: è
-- ascii: '0xea'
-  entry: ê
-- ascii: '0xeb'
-  entry: ë
-- ascii: '0xec'
-  entry: ì
-- ascii: '0xee'
-  entry: î
-- ascii: '0xf0'
-  entry: ð
-- ascii: '0xf2'
-  entry: ò
-- ascii: '0xf3'
-  entry: ó
-- ascii: '0xf4'
-  entry: ô
 - ascii: '0xf5'
   entry: õ
-- ascii: '0xf7'
-  entry: ÷
-- ascii: '0xf8'
-  entry: ø
-- ascii: '0xf9'
-  entry: ù
-- ascii: '0xfa'
-  entry: ú
-- ascii: '0xfb'
-  entry: û
-- ascii: '0xfd'
-  entry: ý
-- ascii: '0xfe'
-  entry: þ
 - ascii: '0xff'
   entry: ÿ
 - ascii: '0x152'
   entry: Œ
-- ascii: '0x160'
-  entry: Š
-- ascii: '0x161'
-  entry: š
-- ascii: '0x178'
-  entry: Ÿ
 - ascii: '0x192'
   entry: ƒ
-- ascii: '0x203c'
-  entry: ‼
-- ascii: '0x2049'
-  entry: ⁉
-- ascii: '0x2122'
-  entry: ™
 - ascii: '0x2139'
   entry: ℹ
-- ascii: '0x2194'
-  entry: ↔
-- ascii: '0x2195'
-  entry: ↕
 - ascii: '0x2196'
   entry: ↖
 - ascii: '0x2197'
@@ -589,8 +1634,6 @@
   entry: ⌛
 - ascii: '0x2328fe0f'
   entry: ⌨️
-- ascii: '0x23e9'
-  entry: ⏩
 - ascii: '0x23ea'
   entry: ⏪
 - ascii: '0x23eb'
@@ -603,8 +1646,6 @@
   entry: ⏮
 - ascii: '0x23ef'
   entry: ⏯
-- ascii: '0x23f0'
-  entry: ⏰
 - ascii: '0x23f1'
   entry: ⏱
 - ascii: '0x23f2'
@@ -641,8 +1682,6 @@
   entry: ☁
 - ascii: '0x2602fe0f'
   entry: ☂️
-- ascii: '0x2603fe0f'
-  entry: ☃️
 - ascii: '0x2604fe0f'
   entry: ☄️
 - ascii: '0x260e'
@@ -655,12 +1694,6 @@
   entry: ☕
 - ascii: '0x2618fe0f'
   entry: ☘️
-- ascii: '0x261d'
-  entry: ☝
-- ascii: '0x2622fe0f'
-  entry: ☢️
-- ascii: '0x2623fe0f'
-  entry: ☣️
 - ascii: '0x2626fe0f'
   entry: ☦️
 - ascii: '0x262afe0f'
@@ -671,8 +1704,6 @@
   entry: ☯️
 - ascii: '0x2638fe0f'
   entry: ☸️
-- ascii: '0x263a'
-  entry: ☺
 - ascii: '0x2648'
   entry: ♈
 - ascii: '0x2649'
@@ -701,8 +1732,6 @@
   entry: ♠
 - ascii: '0x2663'
   entry: ♣
-- ascii: '0x2665'
-  entry: ♥
 - ascii: '0x2666'
   entry: ♦
 - ascii: '0x2668'
@@ -715,8 +1744,6 @@
   entry: ⚒
 - ascii: '0x2693'
   entry: ⚓
-- ascii: '0x2694fe0f'
-  entry: ⚔️
 - ascii: '0x2696fe0f'
   entry: ⚖️
 - ascii: '0x2697fe0f'
@@ -727,40 +1754,24 @@
   entry: ⚛️
 - ascii: '0x269cfe0f'
   entry: ⚜️
-- ascii: '0x26a0'
-  entry: ⚠
-- ascii: '0x26a1'
-  entry: ⚡
 - ascii: '0x26aa'
   entry: ⚪
 - ascii: '0x26ab'
   entry: ⚫
-- ascii: '0x26b0fe0f'
-  entry: ⚰️
 - ascii: '0x26b1fe0f'
   entry: ⚱️
 - ascii: '0x26bd'
   entry: ⚽
 - ascii: '0x26be'
   entry: ⚾
-- ascii: '0x26c4'
-  entry: ⛄
 - ascii: '0x26c5'
   entry: ⛅
 - ascii: '0x26c8'
   entry: ⛈
 - ascii: '0x26ce'
   entry: ⛎
-- ascii: '0x26cf'
-  entry: ⛏
 - ascii: '0x26d1'
   entry: ⛑
-- ascii: '0x26d3'
-  entry: ⛓
-- ascii: '0x26d4'
-  entry: ⛔
-- ascii: '0x26e9'
-  entry: ⛩
 - ascii: '0x26ea'
   entry: ⛪
 - ascii: '0x26f0'
@@ -783,62 +1794,32 @@
   entry: ⛹️
 - ascii: '0x26fa'
   entry: ⛺
-- ascii: '0x26fd'
-  entry: ⛽
 - ascii: '0x2702'
   entry: ✂
-- ascii: '0x2705'
-  entry: ✅
 - ascii: '0x2708'
   entry: ✈
 - ascii: '0x2709'
   entry: ✉
-- ascii: '0x270c'
-  entry: ✌
 - ascii: '0x270dfe0f'
   entry: ✍️
-- ascii: '0x270f'
-  entry: ✏
 - ascii: '0x2712'
   entry: ✒
-- ascii: '0x2714'
-  entry: ✔
-- ascii: '0x2716'
-  entry: ✖
-- ascii: '0x271dfe0f'
-  entry: ✝️
 - ascii: '0x2721fe0f'
   entry: ✡️
 - ascii: '0x2733'
   entry: ✳
 - ascii: '0x2734'
   entry: ✴
-- ascii: '0x2744'
-  entry: ❄
 - ascii: '0x2747'
   entry: ❇
-- ascii: '0x274c'
-  entry: ❌
 - ascii: '0x274e'
   entry: ❎
-- ascii: '0x2753'
-  entry: ❓
-- ascii: '0x2754'
-  entry: ❔
-- ascii: '0x2755'
-  entry: ❕
-- ascii: '0x2757'
-  entry: ❗
 - ascii: '0x2763fe0f'
   entry: ❣️
-- ascii: '0x2795'
-  entry: ➕
 - ascii: '0x2796'
   entry: ➖
 - ascii: '0x2797'
   entry: ➗
-- ascii: '0x27a1'
-  entry: ➡
 - ascii: '0x27b0'
   entry: ➰
 - ascii: '0x27bf'
@@ -847,24 +1828,14 @@
   entry: ⤴
 - ascii: '0x2935'
   entry: ⤵
-- ascii: '0x2b05'
-  entry: ⬅
-- ascii: '0x2b06'
-  entry: ⬆
-- ascii: '0x2b07'
-  entry: ⬇
 - ascii: '0x2b1b'
   entry: ⬛
 - ascii: '0x2b1c'
   entry: ⬜
 - ascii: '0x2b50'
   entry: ⭐
-- ascii: '0x2b55'
-  entry: ⭕
 - ascii: '0x3030'
   entry: 〰
-- ascii: '0x303d'
-  entry: 〽
 - ascii: '0x3297'
   entry: ㊗
 - ascii: '0x3299'
@@ -873,10 +1844,6 @@
   entry: "\U0001F004"
 - ascii: '0xd83cdccf'
   entry: "\U0001F0CF"
-- ascii: '0xd83cdd70'
-  entry: "\U0001F170"
-- ascii: '0xd83cdd71'
-  entry: "\U0001F171"
 - ascii: '0xd83cdd7e'
   entry: "\U0001F17E"
 - ascii: '0xd83cdd7f'
@@ -949,8 +1916,6 @@
   entry: "\U0001F239"
 - ascii: '0xd83cde3a'
   entry: "\U0001F23A"
-- ascii: '0xd83cde50'
-  entry: "\U0001F250"
 - ascii: '0xd83cde51'
   entry: "\U0001F251"
 - ascii: '0xd83cdf00'
@@ -959,8 +1924,6 @@
   entry: "\U0001F301"
 - ascii: '0xd83cdf02'
   entry: "\U0001F302"
-- ascii: '0xd83cdf03'
-  entry: "\U0001F303"
 - ascii: '0xd83cdf04'
   entry: "\U0001F304"
 - ascii: '0xd83cdf05'
@@ -969,20 +1932,12 @@
   entry: "\U0001F306"
 - ascii: '0xd83cdf07'
   entry: "\U0001F307"
-- ascii: '0xd83cdf08'
-  entry: "\U0001F308"
 - ascii: '0xd83cdf09'
   entry: "\U0001F309"
-- ascii: '0xd83cdf0a'
-  entry: "\U0001F30A"
 - ascii: '0xd83cdf0b'
   entry: "\U0001F30B"
 - ascii: '0xd83cdf0c'
   entry: "\U0001F30C"
-- ascii: '0xd83cdf0f'
-  entry: "\U0001F30F"
-- ascii: '0xd83cdf10'
-  entry: "\U0001F310"
 - ascii: '0xd83cdf11'
   entry: "\U0001F311"
 - ascii: '0xd83cdf12'
@@ -1001,20 +1956,6 @@
   entry: "\U0001F318"
 - ascii: '0xd83cdf19'
   entry: "\U0001F319"
-- ascii: '0xd83cdf1a'
-  entry: "\U0001F31A"
-- ascii: '0xd83cdf1b'
-  entry: "\U0001F31B"
-- ascii: '0xd83cdf1c'
-  entry: "\U0001F31C"
-- ascii: '0xd83cdf1d'
-  entry: "\U0001F31D"
-- ascii: '0xd83cdf1e'
-  entry: "\U0001F31E"
-- ascii: '0xd83cdf1f'
-  entry: "\U0001F31F"
-- ascii: '0xd83cdf20'
-  entry: "\U0001F320"
 - ascii: '0xd83cdf21'
   entry: "\U0001F321"
 - ascii: '0xd83cdf24'
@@ -1027,58 +1968,30 @@
   entry: "\U0001F327"
 - ascii: '0xd83cdf28'
   entry: "\U0001F328"
-- ascii: '0xd83cdf29'
-  entry: "\U0001F329"
 - ascii: '0xd83cdf2a'
   entry: "\U0001F32A"
 - ascii: '0xd83cdf2b'
   entry: "\U0001F32B"
 - ascii: '0xd83cdf2c'
   entry: "\U0001F32C"
-- ascii: '0xd83cdf2d'
-  entry: "\U0001F32D"
-- ascii: '0xd83cdf2e'
-  entry: "\U0001F32E"
 - ascii: '0xd83cdf2f'
   entry: "\U0001F32F"
-- ascii: '0xd83cdf30'
-  entry: "\U0001F330"
 - ascii: '0xd83cdf34'
   entry: "\U0001F334"
 - ascii: '0xd83cdf35'
   entry: "\U0001F335"
-- ascii: '0xd83cdf36'
-  entry: "\U0001F336"
-- ascii: '0xd83cdf39'
-  entry: "\U0001F339"
-- ascii: '0xd83cdf3a'
-  entry: "\U0001F33A"
-- ascii: '0xd83cdf3c'
-  entry: "\U0001F33C"
 - ascii: '0xd83cdf3d'
   entry: "\U0001F33D"
 - ascii: '0xd83cdf3e'
   entry: "\U0001F33E"
-- ascii: '0xd83cdf3f'
-  entry: "\U0001F33F"
-- ascii: '0xd83cdf40'
-  entry: "\U0001F340"
 - ascii: '0xd83cdf41'
   entry: "\U0001F341"
-- ascii: '0xd83cdf42'
-  entry: "\U0001F342"
-- ascii: '0xd83cdf43'
-  entry: "\U0001F343"
 - ascii: '0xd83cdf45'
   entry: "\U0001F345"
-- ascii: '0xd83cdf46'
-  entry: "\U0001F346"
 - ascii: '0xd83cdf47'
   entry: "\U0001F347"
 - ascii: '0xd83cdf48'
   entry: "\U0001F348"
-- ascii: '0xd83cdf49'
-  entry: "\U0001F349"
 - ascii: '0xd83cdf4a'
   entry: "\U0001F34A"
 - ascii: '0xd83cdf4b'
@@ -1095,12 +2008,6 @@
   entry: "\U0001F352"
 - ascii: '0xd83cdf53'
   entry: "\U0001F353"
-- ascii: '0xd83cdf54'
-  entry: "\U0001F354"
-- ascii: '0xd83cdf55'
-  entry: "\U0001F355"
-- ascii: '0xd83cdf56'
-  entry: "\U0001F356"
 - ascii: '0xd83cdf57'
   entry: "\U0001F357"
 - ascii: '0xd83cdf58'
@@ -1115,44 +2022,26 @@
   entry: "\U0001F35C"
 - ascii: '0xd83cdf5d'
   entry: "\U0001F35D"
-- ascii: '0xd83cdf5e'
-  entry: "\U0001F35E"
-- ascii: '0xd83cdf5f'
-  entry: "\U0001F35F"
 - ascii: '0xd83cdf60'
   entry: "\U0001F360"
-- ascii: '0xd83cdf61'
-  entry: "\U0001F361"
 - ascii: '0xd83cdf62'
   entry: "\U0001F362"
 - ascii: '0xd83cdf63'
   entry: "\U0001F363"
 - ascii: '0xd83cdf64'
   entry: "\U0001F364"
-- ascii: '0xd83cdf65'
-  entry: "\U0001F365"
 - ascii: '0xd83cdf66'
   entry: "\U0001F366"
 - ascii: '0xd83cdf67'
   entry: "\U0001F367"
 - ascii: '0xd83cdf68'
   entry: "\U0001F368"
-- ascii: '0xd83cdf69'
-  entry: "\U0001F369"
-- ascii: '0xd83cdf6a'
-  entry: "\U0001F36A"
-- ascii: '0xd83cdf6b'
-  entry: "\U0001F36B"
 - ascii: '0xd83cdf6c'
   entry: "\U0001F36C"
-- ascii: '0xd83cdf6d'
-  entry: "\U0001F36D"
 - ascii: '0xd83cdf6e'
   entry: "\U0001F36E"
 - ascii: '0xd83cdf6f'
   entry: "\U0001F36F"
-- ascii: '0xd83cdf70'
-  entry: "\U0001F370"
 - ascii: '0xd83cdf71'
   entry: "\U0001F371"
 - ascii: '0xd83cdf72'
@@ -1161,34 +2050,14 @@
   entry: "\U0001F373"
 - ascii: '0xd83cdf74'
   entry: "\U0001F374"
-- ascii: '0xd83cdf75'
-  entry: "\U0001F375"
 - ascii: '0xd83cdf76'
   entry: "\U0001F376"
 - ascii: '0xd83cdf77'
   entry: "\U0001F377"
-- ascii: '0xd83cdf78'
-  entry: "\U0001F378"
-- ascii: '0xd83cdf79'
-  entry: "\U0001F379"
-- ascii: '0xd83cdf7b'
-  entry: "\U0001F37B"
 - ascii: '0xd83cdf7c'
   entry: "\U0001F37C"
-- ascii: '0xd83cdf7d'
-  entry: "\U0001F37D"
-- ascii: '0xd83cdf7e'
-  entry: "\U0001F37E"
-- ascii: '0xd83cdf7f'
-  entry: "\U0001F37F"
-- ascii: '0xd83cdf80'
-  entry: "\U0001F380"
 - ascii: '0xd83cdf83'
   entry: "\U0001F383"
-- ascii: '0xd83cdf85'
-  entry: "\U0001F385"
-- ascii: '0xd83cdf86'
-  entry: "\U0001F386"
 - ascii: '0xd83cdf87'
   entry: "\U0001F387"
 - ascii: '0xd83cdf8b'
@@ -1207,12 +2076,6 @@
   entry: "\U0001F391"
 - ascii: '0xd83cdf92'
   entry: "\U0001F392"
-- ascii: '0xd83cdf93'
-  entry: "\U0001F393"
-- ascii: '0xd83cdf96'
-  entry: "\U0001F396"
-- ascii: '0xd83cdf97'
-  entry: "\U0001F397"
 - ascii: '0xd83cdf99'
   entry: "\U0001F399"
 - ascii: '0xd83cdf9a'
@@ -1231,8 +2094,6 @@
   entry: "\U0001F3A2"
 - ascii: '0xd83cdfa3'
   entry: "\U0001F3A3"
-- ascii: '0xd83cdfa4'
-  entry: "\U0001F3A4"
 - ascii: '0xd83cdfa5'
   entry: "\U0001F3A5"
 - ascii: '0xd83cdfa6'
@@ -1245,16 +2106,8 @@
   entry: "\U0001F3A9"
 - ascii: '0xd83cdfaa'
   entry: "\U0001F3AA"
-- ascii: '0xd83cdfab'
-  entry: "\U0001F3AB"
 - ascii: '0xd83cdfac'
   entry: "\U0001F3AC"
-- ascii: '0xd83cdfad'
-  entry: "\U0001F3AD"
-- ascii: '0xd83cdfae'
-  entry: "\U0001F3AE"
-- ascii: '0xd83cdfaf'
-  entry: "\U0001F3AF"
 - ascii: '0xd83cdfb0'
   entry: "\U0001F3B0"
 - ascii: '0xd83cdfb1'
@@ -1273,10 +2126,6 @@
   entry: "\U0001F3B9"
 - ascii: '0xd83cdfba'
   entry: "\U0001F3BA"
-- ascii: '0xd83cdfbb'
-  entry: "\U0001F3BB"
-- ascii: '0xd83cdfbc'
-  entry: "\U0001F3BC"
 - ascii: '0xd83cdfbd'
   entry: "\U0001F3BD"
 - ascii: '0xd83cdfbe'
@@ -1289,18 +2138,12 @@
   entry: "\U0001F3C1"
 - ascii: '0xd83cdfc2'
   entry: "\U0001F3C2"
-- ascii: '0xd83cdfc3'
-  entry: "\U0001F3C3"
 - ascii: '0xd83cdfc4'
   entry: "\U0001F3C4"
-- ascii: '0xd83cdfc6'
-  entry: "\U0001F3C6"
 - ascii: '0xd83cdfc7'
   entry: "\U0001F3C7"
 - ascii: '0xd83cdfc8'
   entry: "\U0001F3C8"
-- ascii: '0xd83cdfc9'
-  entry: "\U0001F3C9"
 - ascii: '0xd83cdfca'
   entry: "\U0001F3CA"
 - ascii: '0xd83cdfcbfe0f'
@@ -1337,18 +2180,10 @@
   entry: "\U0001F3DA"
 - ascii: '0xd83cdfdb'
   entry: "\U0001F3DB"
-- ascii: '0xd83cdfdc'
-  entry: "\U0001F3DC"
 - ascii: '0xd83cdfde'
   entry: "\U0001F3DE"
 - ascii: '0xd83cdfdf'
   entry: "\U0001F3DF"
-- ascii: '0xd83cdfe0'
-  entry: "\U0001F3E0"
-- ascii: '0xd83cdfe1'
-  entry: "\U0001F3E1"
-- ascii: '0xd83cdfe2'
-  entry: "\U0001F3E2"
 - ascii: '0xd83cdfe3'
   entry: "\U0001F3E3"
 - ascii: '0xd83cdfe4'
@@ -1377,10 +2212,6 @@
   entry: "\U0001F3EF"
 - ascii: '0xd83cdff0'
   entry: "\U0001F3F0"
-- ascii: '0xd83cdff3fe0f200dd83cdf08'
-  entry: "\U0001F3F3️‍\U0001F308"
-- ascii: '0xd83cdff4'
-  entry: "\U0001F3F4"
 - ascii: '0xd83cdff5'
   entry: "\U0001F3F5"
 - ascii: '0xd83cdff7'
@@ -1399,42 +2230,18 @@
   entry: "\U0001F402"
 - ascii: '0xd83ddc03'
   entry: "\U0001F403"
-- ascii: '0xd83ddc04'
-  entry: "\U0001F404"
 - ascii: '0xd83ddc05'
   entry: "\U0001F405"
 - ascii: '0xd83ddc06'
   entry: "\U0001F406"
-- ascii: '0xd83ddc07'
-  entry: "\U0001F407"
-- ascii: '0xd83ddc08'
-  entry: "\U0001F408"
 - ascii: '0xd83ddc09'
   entry: "\U0001F409"
 - ascii: '0xd83ddc0a'
   entry: "\U0001F40A"
-- ascii: '0xd83ddc0b'
-  entry: "\U0001F40B"
 - ascii: '0xd83ddc0c'
   entry: "\U0001F40C"
-- ascii: '0xd83ddc0e'
-  entry: "\U0001F40E"
-- ascii: '0xd83ddc0f'
-  entry: "\U0001F40F"
-- ascii: '0xd83ddc10'
-  entry: "\U0001F410"
-- ascii: '0xd83ddc11'
-  entry: "\U0001F411"
 - ascii: '0xd83ddc12'
   entry: "\U0001F412"
-- ascii: '0xd83ddc13'
-  entry: "\U0001F413"
-- ascii: '0xd83ddc14'
-  entry: "\U0001F414"
-- ascii: '0xd83ddc15'
-  entry: "\U0001F415"
-- ascii: '0xd83ddc16'
-  entry: "\U0001F416"
 - ascii: '0xd83ddc17'
   entry: "\U0001F417"
 - ascii: '0xd83ddc18'
@@ -1443,32 +2250,14 @@
   entry: "\U0001F419"
 - ascii: '0xd83ddc1a'
   entry: "\U0001F41A"
-- ascii: '0xd83ddc1b'
-  entry: "\U0001F41B"
 - ascii: '0xd83ddc1c'
   entry: "\U0001F41C"
-- ascii: '0xd83ddc1d'
-  entry: "\U0001F41D"
 - ascii: '0xd83ddc1e'
   entry: "\U0001F41E"
-- ascii: '0xd83ddc1f'
-  entry: "\U0001F41F"
-- ascii: '0xd83ddc20'
-  entry: "\U0001F420"
 - ascii: '0xd83ddc21'
   entry: "\U0001F421"
-- ascii: '0xd83ddc22'
-  entry: "\U0001F422"
 - ascii: '0xd83ddc23'
   entry: "\U0001F423"
-- ascii: '0xd83ddc24'
-  entry: "\U0001F424"
-- ascii: '0xd83ddc25'
-  entry: "\U0001F425"
-- ascii: '0xd83ddc26'
-  entry: "\U0001F426"
-- ascii: '0xd83ddc27'
-  entry: "\U0001F427"
 - ascii: '0xd83ddc28'
   entry: "\U0001F428"
 - ascii: '0xd83ddc29'
@@ -1477,32 +2266,16 @@
   entry: "\U0001F42A"
 - ascii: '0xd83ddc2b'
   entry: "\U0001F42B"
-- ascii: '0xd83ddc2c'
-  entry: "\U0001F42C"
 - ascii: '0xd83ddc2d'
   entry: "\U0001F42D"
 - ascii: '0xd83ddc2e'
   entry: "\U0001F42E"
-- ascii: '0xd83ddc2f'
-  entry: "\U0001F42F"
 - ascii: '0xd83ddc30'
   entry: "\U0001F430"
-- ascii: '0xd83ddc31'
-  entry: "\U0001F431"
 - ascii: '0xd83ddc32'
   entry: "\U0001F432"
-- ascii: '0xd83ddc33'
-  entry: "\U0001F433"
-- ascii: '0xd83ddc34'
-  entry: "\U0001F434"
-- ascii: '0xd83ddc35'
-  entry: "\U0001F435"
 - ascii: '0xd83ddc37'
   entry: "\U0001F437"
-- ascii: '0xd83ddc38'
-  entry: "\U0001F438"
-- ascii: '0xd83ddc39'
-  entry: "\U0001F439"
 - ascii: '0xd83ddc3a'
   entry: "\U0001F43A"
 - ascii: '0xd83ddc3b'
@@ -1511,30 +2284,6 @@
   entry: "\U0001F43C"
 - ascii: '0xd83ddc3d'
   entry: "\U0001F43D"
-- ascii: '0xd83ddc3e'
-  entry: "\U0001F43E"
-- ascii: '0xd83ddc3f'
-  entry: "\U0001F43F"
-- ascii: '0xd83ddc42'
-  entry: "\U0001F442"
-- ascii: '0xd83ddc43'
-  entry: "\U0001F443"
-- ascii: '0xd83ddc45'
-  entry: "\U0001F445"
-- ascii: '0xd83ddc46'
-  entry: "\U0001F446"
-- ascii: '0xd83ddc47'
-  entry: "\U0001F447"
-- ascii: '0xd83ddc4a'
-  entry: "\U0001F44A"
-- ascii: '0xd83ddc4b'
-  entry: "\U0001F44B"
-- ascii: '0xd83ddc4c'
-  entry: "\U0001F44C"
-- ascii: '0xd83ddc4e'
-  entry: "\U0001F44E"
-- ascii: '0xd83ddc50'
-  entry: "\U0001F450"
 - ascii: '0xd83ddc52'
   entry: "\U0001F452"
 - ascii: '0xd83ddc53'
@@ -1543,8 +2292,6 @@
   entry: "\U0001F454"
 - ascii: '0xd83ddc55'
   entry: "\U0001F455"
-- ascii: '0xd83ddc56'
-  entry: "\U0001F456"
 - ascii: '0xd83ddc57'
   entry: "\U0001F457"
 - ascii: '0xd83ddc58'
@@ -1571,24 +2318,6 @@
   entry: "\U0001F462"
 - ascii: '0xd83ddc63'
   entry: "\U0001F463"
-- ascii: '0xd83ddc64'
-  entry: "\U0001F464"
-- ascii: '0xd83ddc65'
-  entry: "\U0001F465"
-- ascii: '0xd83ddc66'
-  entry: "\U0001F466"
-- ascii: '0xd83ddc67'
-  entry: "\U0001F467"
-- ascii: '0xd83ddc68'
-  entry: "\U0001F468"
-- ascii: '0xd83ddc69'
-  entry: "\U0001F469"
-- ascii: '0xd83ddc6a'
-  entry: "\U0001F46A"
-- ascii: '0xd83ddc6b'
-  entry: "\U0001F46B"
-- ascii: '0xd83ddc6c'
-  entry: "\U0001F46C"
 - ascii: '0xd83ddc6d'
   entry: "\U0001F46D"
 - ascii: '0xd83ddc6e'
@@ -1603,40 +2332,16 @@
   entry: "\U0001F472"
 - ascii: '0xd83ddc73'
   entry: "\U0001F473"
-- ascii: '0xd83ddc74'
-  entry: "\U0001F474"
-- ascii: '0xd83ddc75'
-  entry: "\U0001F475"
 - ascii: '0xd83ddc76'
   entry: "\U0001F476"
 - ascii: '0xd83ddc77'
   entry: "\U0001F477"
-- ascii: '0xd83ddc78'
-  entry: "\U0001F478"
-- ascii: '0xd83ddc79'
-  entry: "\U0001F479"
 - ascii: '0xd83ddc7a'
   entry: "\U0001F47A"
-- ascii: '0xd83ddc7b'
-  entry: "\U0001F47B"
-- ascii: '0xd83ddc7c'
-  entry: "\U0001F47C"
-- ascii: '0xd83ddc7d'
-  entry: "\U0001F47D"
-- ascii: '0xd83ddc7e'
-  entry: "\U0001F47E"
-- ascii: '0xd83ddc7f'
-  entry: "\U0001F47F"
-- ascii: '0xd83ddc81'
-  entry: "\U0001F481"
 - ascii: '0xd83ddc82'
   entry: "\U0001F482"
-- ascii: '0xd83ddc83'
-  entry: "\U0001F483"
 - ascii: '0xd83ddc84'
   entry: "\U0001F484"
-- ascii: '0xd83ddc85'
-  entry: "\U0001F485"
 - ascii: '0xd83ddc86'
   entry: "\U0001F486"
 - ascii: '0xd83ddc87'
@@ -1645,94 +2350,36 @@
   entry: "\U0001F488"
 - ascii: '0xd83ddc89'
   entry: "\U0001F489"
-- ascii: '0xd83ddc8a'
-  entry: "\U0001F48A"
-- ascii: '0xd83ddc8b'
-  entry: "\U0001F48B"
 - ascii: '0xd83ddc8c'
   entry: "\U0001F48C"
-- ascii: '0xd83ddc8d'
-  entry: "\U0001F48D"
-- ascii: '0xd83ddc8e'
-  entry: "\U0001F48E"
 - ascii: '0xd83ddc8f'
   entry: "\U0001F48F"
-- ascii: '0xd83ddc90'
-  entry: "\U0001F490"
 - ascii: '0xd83ddc91'
   entry: "\U0001F491"
 - ascii: '0xd83ddc92'
   entry: "\U0001F492"
-- ascii: '0xd83ddc93'
-  entry: "\U0001F493"
-- ascii: '0xd83ddc94'
-  entry: "\U0001F494"
-- ascii: '0xd83ddc98'
-  entry: "\U0001F498"
-- ascii: '0xd83ddc99'
-  entry: "\U0001F499"
-- ascii: '0xd83ddc9d'
-  entry: "\U0001F49D"
-- ascii: '0xd83ddc9f'
-  entry: "\U0001F49F"
 - ascii: '0xd83ddca0'
   entry: "\U0001F4A0"
-- ascii: '0xd83ddca1'
-  entry: "\U0001F4A1"
-- ascii: '0xd83ddca2'
-  entry: "\U0001F4A2"
-- ascii: '0xd83ddca3'
-  entry: "\U0001F4A3"
-- ascii: '0xd83ddca4'
-  entry: "\U0001F4A4"
-- ascii: '0xd83ddca5'
-  entry: "\U0001F4A5"
-- ascii: '0xd83ddca6'
-  entry: "\U0001F4A6"
-- ascii: '0xd83ddca8'
-  entry: "\U0001F4A8"
-- ascii: '0xd83ddcaa'
-  entry: "\U0001F4AA"
-- ascii: '0xd83ddcab'
-  entry: "\U0001F4AB"
-- ascii: '0xd83ddcac'
-  entry: "\U0001F4AC"
-- ascii: '0xd83ddcad'
-  entry: "\U0001F4AD"
 - ascii: '0xd83ddcae'
   entry: "\U0001F4AE"
-- ascii: '0xd83ddcb0'
-  entry: "\U0001F4B0"
 - ascii: '0xd83ddcb1'
   entry: "\U0001F4B1"
-- ascii: '0xd83ddcb2'
-  entry: "\U0001F4B2"
 - ascii: '0xd83ddcb3'
   entry: "\U0001F4B3"
 - ascii: '0xd83ddcb4'
   entry: "\U0001F4B4"
-- ascii: '0xd83ddcb5'
-  entry: "\U0001F4B5"
 - ascii: '0xd83ddcb6'
   entry: "\U0001F4B6"
 - ascii: '0xd83ddcb7'
   entry: "\U0001F4B7"
-- ascii: '0xd83ddcb8'
-  entry: "\U0001F4B8"
 - ascii: '0xd83ddcb9'
   entry: "\U0001F4B9"
-- ascii: '0xd83ddcba'
-  entry: "\U0001F4BA"
-- ascii: '0xd83ddcbb'
-  entry: "\U0001F4BB"
 - ascii: '0xd83ddcbc'
   entry: "\U0001F4BC"
 - ascii: '0xd83ddcbd'
   entry: "\U0001F4BD"
 - ascii: '0xd83ddcbe'
   entry: "\U0001F4BE"
-- ascii: '0xd83ddcbf'
-  entry: "\U0001F4BF"
 - ascii: '0xd83ddcc0'
   entry: "\U0001F4C0"
 - ascii: '0xd83ddcc1'
@@ -1743,16 +2390,8 @@
   entry: "\U0001F4C3"
 - ascii: '0xd83ddcc4'
   entry: "\U0001F4C4"
-- ascii: '0xd83ddcc5'
-  entry: "\U0001F4C5"
-- ascii: '0xd83ddcc6'
-  entry: "\U0001F4C6"
 - ascii: '0xd83ddcc7'
   entry: "\U0001F4C7"
-- ascii: '0xd83ddcc8'
-  entry: "\U0001F4C8"
-- ascii: '0xd83ddcc9'
-  entry: "\U0001F4C9"
 - ascii: '0xd83ddcca'
   entry: "\U0001F4CA"
 - ascii: '0xd83ddccb'
@@ -1765,8 +2404,6 @@
   entry: "\U0001F4CE"
 - ascii: '0xd83ddccf'
   entry: "\U0001F4CF"
-- ascii: '0xd83ddcd0'
-  entry: "\U0001F4D0"
 - ascii: '0xd83ddcd1'
   entry: "\U0001F4D1"
 - ascii: '0xd83ddcd2'
@@ -1777,24 +2414,14 @@
   entry: "\U0001F4D4"
 - ascii: '0xd83ddcd5'
   entry: "\U0001F4D5"
-- ascii: '0xd83ddcd6'
-  entry: "\U0001F4D6"
 - ascii: '0xd83ddcd7'
   entry: "\U0001F4D7"
 - ascii: '0xd83ddcd8'
   entry: "\U0001F4D8"
 - ascii: '0xd83ddcd9'
   entry: "\U0001F4D9"
-- ascii: '0xd83ddcda'
-  entry: "\U0001F4DA"
 - ascii: '0xd83ddcdb'
   entry: "\U0001F4DB"
-- ascii: '0xd83ddcdc'
-  entry: "\U0001F4DC"
-- ascii: '0xd83ddcdd'
-  entry: "\U0001F4DD"
-- ascii: '0xd83ddcde'
-  entry: "\U0001F4DE"
 - ascii: '0xd83ddcdf'
   entry: "\U0001F4DF"
 - ascii: '0xd83ddce0'
@@ -1809,8 +2436,6 @@
   entry: "\U0001F4E4"
 - ascii: '0xd83ddce5'
   entry: "\U0001F4E5"
-- ascii: '0xd83ddce6'
-  entry: "\U0001F4E6"
 - ascii: '0xd83ddce7'
   entry: "\U0001F4E7"
 - ascii: '0xd83ddce8'
@@ -1837,16 +2462,10 @@
   entry: "\U0001F4F2"
 - ascii: '0xd83ddcf3'
   entry: "\U0001F4F3"
-- ascii: '0xd83ddcf4'
-  entry: "\U0001F4F4"
 - ascii: '0xd83ddcf5'
   entry: "\U0001F4F5"
 - ascii: '0xd83ddcf6'
   entry: "\U0001F4F6"
-- ascii: '0xd83ddcf7'
-  entry: "\U0001F4F7"
-- ascii: '0xd83ddcf8'
-  entry: "\U0001F4F8"
 - ascii: '0xd83ddcf9'
   entry: "\U0001F4F9"
 - ascii: '0xd83ddcfa'
@@ -1855,12 +2474,6 @@
   entry: "\U0001F4FB"
 - ascii: '0xd83ddcfc'
   entry: "\U0001F4FC"
-- ascii: '0xd83ddcfd'
-  entry: "\U0001F4FD"
-- ascii: '0xd83ddcff'
-  entry: "\U0001F4FF"
-- ascii: '0xd83ddd00'
-  entry: "\U0001F500"
 - ascii: '0xd83ddd01'
   entry: "\U0001F501"
 - ascii: '0xd83ddd02'
@@ -1873,8 +2486,6 @@
   entry: "\U0001F505"
 - ascii: '0xd83ddd06'
   entry: "\U0001F506"
-- ascii: '0xd83ddd07'
-  entry: "\U0001F507"
 - ascii: '0xd83ddd08'
   entry: "\U0001F508"
 - ascii: '0xd83ddd09'
@@ -1885,42 +2496,22 @@
   entry: "\U0001F50B"
 - ascii: '0xd83ddd0c'
   entry: "\U0001F50C"
-- ascii: '0xd83ddd0d'
-  entry: "\U0001F50D"
-- ascii: '0xd83ddd0e'
-  entry: "\U0001F50E"
 - ascii: '0xd83ddd0f'
   entry: "\U0001F50F"
-- ascii: '0xd83ddd10'
-  entry: "\U0001F510"
-- ascii: '0xd83ddd12'
-  entry: "\U0001F512"
 - ascii: '0xd83ddd13'
   entry: "\U0001F513"
 - ascii: '0xd83ddd14'
   entry: "\U0001F514"
-- ascii: '0xd83ddd15'
-  entry: "\U0001F515"
 - ascii: '0xd83ddd16'
   entry: "\U0001F516"
 - ascii: '0xd83ddd17'
   entry: "\U0001F517"
-- ascii: '0xd83ddd18'
-  entry: "\U0001F518"
-- ascii: '0xd83ddd19'
-  entry: "\U0001F519"
 - ascii: '0xd83ddd1a'
   entry: "\U0001F51A"
-- ascii: '0xd83ddd1b'
-  entry: "\U0001F51B"
 - ascii: '0xd83ddd1c'
   entry: "\U0001F51C"
-- ascii: '0xd83ddd1d'
-  entry: "\U0001F51D"
 - ascii: '0xd83ddd1e'
   entry: "\U0001F51E"
-- ascii: '0xd83ddd1f'
-  entry: "\U0001F51F"
 - ascii: '0xd83ddd20'
   entry: "\U0001F520"
 - ascii: '0xd83ddd21'
@@ -1939,28 +2530,12 @@
   entry: "\U0001F528"
 - ascii: '0xd83ddd29'
   entry: "\U0001F529"
-- ascii: '0xd83ddd2a'
-  entry: "\U0001F52A"
-- ascii: '0xd83ddd2b'
-  entry: "\U0001F52B"
-- ascii: '0xd83ddd2c'
-  entry: "\U0001F52C"
-- ascii: '0xd83ddd2d'
-  entry: "\U0001F52D"
 - ascii: '0xd83ddd2e'
   entry: "\U0001F52E"
 - ascii: '0xd83ddd2f'
   entry: "\U0001F52F"
 - ascii: '0xd83ddd30'
   entry: "\U0001F530"
-- ascii: '0xd83ddd31'
-  entry: "\U0001F531"
-- ascii: '0xd83ddd32'
-  entry: "\U0001F532"
-- ascii: '0xd83ddd33'
-  entry: "\U0001F533"
-- ascii: '0xd83ddd34'
-  entry: "\U0001F534"
 - ascii: '0xd83ddd35'
   entry: "\U0001F535"
 - ascii: '0xd83ddd36'
@@ -1973,16 +2548,12 @@
   entry: "\U0001F539"
 - ascii: '0xd83ddd3a'
   entry: "\U0001F53A"
-- ascii: '0xd83ddd3b'
-  entry: "\U0001F53B"
 - ascii: '0xd83ddd3c'
   entry: "\U0001F53C"
 - ascii: '0xd83ddd3d'
   entry: "\U0001F53D"
 - ascii: '0xd83ddd49'
   entry: "\U0001F549"
-- ascii: '0xd83ddd4a'
-  entry: "\U0001F54A"
 - ascii: '0xd83ddd4b'
   entry: "\U0001F54B"
 - ascii: '0xd83ddd4c'
@@ -1993,10 +2564,6 @@
   entry: "\U0001F54E"
 - ascii: '0xd83ddd50'
   entry: "\U0001F550"
-- ascii: '0xd83ddd51'
-  entry: "\U0001F551"
-- ascii: '0xd83ddd52'
-  entry: "\U0001F552"
 - ascii: '0xd83ddd53'
   entry: "\U0001F553"
 - ascii: '0xd83ddd54'
@@ -2017,8 +2584,6 @@
   entry: "\U0001F55B"
 - ascii: '0xd83ddd5c'
   entry: "\U0001F55C"
-- ascii: '0xd83ddd5d'
-  entry: "\U0001F55D"
 - ascii: '0xd83ddd5e'
   entry: "\U0001F55E"
 - ascii: '0xd83ddd5f'
@@ -2043,8 +2608,6 @@
   entry: "\U0001F56F"
 - ascii: '0xd83ddd70'
   entry: "\U0001F570"
-- ascii: '0xd83ddd73'
-  entry: "\U0001F573"
 - ascii: '0xd83ddd74'
   entry: "\U0001F574"
 - ascii: '0xd83ddd75fe0f'
@@ -2057,8 +2620,6 @@
   entry: "\U0001F578"
 - ascii: '0xd83ddd79'
   entry: "\U0001F579"
-- ascii: '0xd83ddd7a'
-  entry: "\U0001F57A"
 - ascii: '0xd83ddd87'
   entry: "\U0001F587"
 - ascii: '0xd83ddd8a'
@@ -2069,12 +2630,6 @@
   entry: "\U0001F58C"
 - ascii: '0xd83ddd8d'
   entry: "\U0001F58D"
-- ascii: '0xd83ddd90'
-  entry: "\U0001F590"
-- ascii: '0xd83ddd95'
-  entry: "\U0001F595"
-- ascii: '0xd83ddd96'
-  entry: "\U0001F596"
 - ascii: '0xd83ddda5'
   entry: "\U0001F5A5"
 - ascii: '0xd83ddda8'
@@ -2091,8 +2646,6 @@
   entry: "\U0001F5C3"
 - ascii: '0xd83dddc4'
   entry: "\U0001F5C4"
-- ascii: '0xd83dddd1'
-  entry: "\U0001F5D1"
 - ascii: '0xd83dddd2'
   entry: "\U0001F5D2"
 - ascii: '0xd83dddd3'
@@ -2105,8 +2658,6 @@
   entry: "\U0001F5DE"
 - ascii: '0xd83ddde1'
   entry: "\U0001F5E1"
-- ascii: '0xd83ddde3'
-  entry: "\U0001F5E3"
 - ascii: '0xd83dddef'
   entry: "\U0001F5EF"
 - ascii: '0xd83dddf3'
@@ -2121,80 +2672,14 @@
   entry: "\U0001F5FD"
 - ascii: '0xd83dddfe'
   entry: "\U0001F5FE"
-- ascii: '0xd83dddff'
-  entry: "\U0001F5FF"
-- ascii: '0xd83dde08'
-  entry: "\U0001F608"
-- ascii: '0xd83dde0b'
-  entry: "\U0001F60B"
-- ascii: '0xd83dde10'
-  entry: "\U0001F610"
-- ascii: '0xd83dde13'
-  entry: "\U0001F613"
-- ascii: '0xd83dde15'
-  entry: "\U0001F615"
-- ascii: '0xd83dde16'
-  entry: "\U0001F616"
-- ascii: '0xd83dde17'
-  entry: "\U0001F617"
-- ascii: '0xd83dde19'
-  entry: "\U0001F619"
 - ascii: '0xd83dde1a'
   entry: "\U0001F61A"
-- ascii: '0xd83dde1f'
-  entry: "\U0001F61F"
-- ascii: '0xd83dde23'
-  entry: "\U0001F623"
-- ascii: '0xd83dde26'
-  entry: "\U0001F626"
-- ascii: '0xd83dde27'
-  entry: "\U0001F627"
-- ascii: '0xd83dde28'
-  entry: "\U0001F628"
-- ascii: '0xd83dde2e'
-  entry: "\U0001F62E"
-- ascii: '0xd83dde2f'
-  entry: "\U0001F62F"
-- ascii: '0xd83dde30'
-  entry: "\U0001F630"
-- ascii: '0xd83dde32'
-  entry: "\U0001F632"
-- ascii: '0xd83dde34'
-  entry: "\U0001F634"
-- ascii: '0xd83dde35'
-  entry: "\U0001F635"
-- ascii: '0xd83dde36'
-  entry: "\U0001F636"
-- ascii: '0xd83dde37'
-  entry: "\U0001F637"
-- ascii: '0xd83dde39'
-  entry: "\U0001F639"
 - ascii: '0xd83dde3a'
   entry: "\U0001F63A"
-- ascii: '0xd83dde3b'
-  entry: "\U0001F63B"
-- ascii: '0xd83dde3c'
-  entry: "\U0001F63C"
-- ascii: '0xd83dde3d'
-  entry: "\U0001F63D"
-- ascii: '0xd83dde3e'
-  entry: "\U0001F63E"
-- ascii: '0xd83dde40'
-  entry: "\U0001F640"
-- ascii: '0xd83dde41'
-  entry: "\U0001F641"
 - ascii: '0xd83dde45'
   entry: "\U0001F645"
-- ascii: '0xd83dde46'
-  entry: "\U0001F646"
 - ascii: '0xd83dde47'
   entry: "\U0001F647"
-- ascii: '0xd83dde48'
-  entry: "\U0001F648"
-- ascii: '0xd83dde49'
-  entry: "\U0001F649"
-- ascii: '0xd83dde4a'
-  entry: "\U0001F64A"
 - ascii: '0xd83dde4b'
   entry: "\U0001F64B"
 - ascii: '0xd83dde4d'
@@ -2203,10 +2688,6 @@
   entry: "\U0001F64E"
 - ascii: '0xd83dde81'
   entry: "\U0001F681"
-- ascii: '0xd83dde82'
-  entry: "\U0001F682"
-- ascii: '0xd83dde83'
-  entry: "\U0001F683"
 - ascii: '0xd83dde84'
   entry: "\U0001F684"
 - ascii: '0xd83dde85'
@@ -2229,24 +2710,16 @@
   entry: "\U0001F68D"
 - ascii: '0xd83dde8e'
   entry: "\U0001F68E"
-- ascii: '0xd83dde8f'
-  entry: "\U0001F68F"
 - ascii: '0xd83dde90'
   entry: "\U0001F690"
-- ascii: '0xd83dde91'
-  entry: "\U0001F691"
 - ascii: '0xd83dde92'
   entry: "\U0001F692"
 - ascii: '0xd83dde93'
   entry: "\U0001F693"
 - ascii: '0xd83dde94'
   entry: "\U0001F694"
-- ascii: '0xd83dde95'
-  entry: "\U0001F695"
 - ascii: '0xd83dde96'
   entry: "\U0001F696"
-- ascii: '0xd83dde97'
-  entry: "\U0001F697"
 - ascii: '0xd83dde98'
   entry: "\U0001F698"
 - ascii: '0xd83dde99'
@@ -2255,8 +2728,6 @@
   entry: "\U0001F69A"
 - ascii: '0xd83dde9b'
   entry: "\U0001F69B"
-- ascii: '0xd83dde9c'
-  entry: "\U0001F69C"
 - ascii: '0xd83dde9d'
   entry: "\U0001F69D"
 - ascii: '0xd83dde9e'
@@ -2267,8 +2738,6 @@
   entry: "\U0001F6A0"
 - ascii: '0xd83ddea1'
   entry: "\U0001F6A1"
-- ascii: '0xd83ddea2'
-  entry: "\U0001F6A2"
 - ascii: '0xd83ddea3'
   entry: "\U0001F6A3"
 - ascii: '0xd83ddea4'
@@ -2279,16 +2748,6 @@
   entry: "\U0001F6A6"
 - ascii: '0xd83ddea7'
   entry: "\U0001F6A7"
-- ascii: '0xd83ddea8'
-  entry: "\U0001F6A8"
-- ascii: '0xd83ddea9'
-  entry: "\U0001F6A9"
-- ascii: '0xd83ddeaa'
-  entry: "\U0001F6AA"
-- ascii: '0xd83ddeab'
-  entry: "\U0001F6AB"
-- ascii: '0xd83ddeac'
-  entry: "\U0001F6AC"
 - ascii: '0xd83ddead'
   entry: "\U0001F6AD"
 - ascii: '0xd83ddeae'
@@ -2309,8 +2768,6 @@
   entry: "\U0001F6B5"
 - ascii: '0xd83ddeb6'
   entry: "\U0001F6B6"
-- ascii: '0xd83ddeb7'
-  entry: "\U0001F6B7"
 - ascii: '0xd83ddeb8'
   entry: "\U0001F6B8"
 - ascii: '0xd83ddeb9'
@@ -2321,8 +2778,6 @@
   entry: "\U0001F6BB"
 - ascii: '0xd83ddebc'
   entry: "\U0001F6BC"
-- ascii: '0xd83ddebd'
-  entry: "\U0001F6BD"
 - ascii: '0xd83ddebe'
   entry: "\U0001F6BE"
 - ascii: '0xd83ddebf'
@@ -2341,8 +2796,6 @@
   entry: "\U0001F6C5"
 - ascii: '0xd83ddecb'
   entry: "\U0001F6CB"
-- ascii: '0xd83ddecc'
-  entry: "\U0001F6CC"
 - ascii: '0xd83ddecd'
   entry: "\U0001F6CD"
 - ascii: '0xd83ddece'
@@ -2383,42 +2836,10 @@
   entry: "\U0001F6F5"
 - ascii: '0xd83ddef6'
   entry: "\U0001F6F6"
-- ascii: '0xd83edd10'
-  entry: "\U0001F910"
-- ascii: '0xd83edd11'
-  entry: "\U0001F911"
-- ascii: '0xd83edd12'
-  entry: "\U0001F912"
-- ascii: '0xd83edd13'
-  entry: "\U0001F913"
 - ascii: '0xd83edd15'
   entry: "\U0001F915"
-- ascii: '0xd83edd16'
-  entry: "\U0001F916"
-- ascii: '0xd83edd18'
-  entry: "\U0001F918"
-- ascii: '0xd83edd1c'
-  entry: "\U0001F91C"
-- ascii: '0xd83edd1d'
-  entry: "\U0001F91D"
-- ascii: '0xd83edd1e'
-  entry: "\U0001F91E"
-- ascii: '0xd83edd20'
-  entry: "\U0001F920"
-- ascii: '0xd83edd22'
-  entry: "\U0001F922"
-- ascii: '0xd83edd24'
-  entry: "\U0001F924"
-- ascii: '0xd83edd25'
-  entry: "\U0001F925"
-- ascii: '0xd83edd27'
-  entry: "\U0001F927"
 - ascii: '0xd83edd30'
   entry: "\U0001F930"
-- ascii: '0xd83edd33'
-  entry: "\U0001F933"
-- ascii: '0xd83edd34'
-  entry: "\U0001F934"
 - ascii: '0xd83edd35'
   entry: "\U0001F935"
 - ascii: '0xd83edd36'
@@ -2433,20 +2854,12 @@
   entry: "\U0001F93C‍♂️"
 - ascii: '0xd83edd3d200d2642fe0f'
   entry: "\U0001F93D‍♂️"
-- ascii: '0xd83edd41'
-  entry: "\U0001F941"
-- ascii: '0xd83edd43'
-  entry: "\U0001F943"
-- ascii: '0xd83edd44'
-  entry: "\U0001F944"
+- ascii: '0xd83edd3e200d2642fe0f'
+  entry: "\U0001F93E‍♂️"
 - ascii: '0xd83edd45'
   entry: "\U0001F945"
-- ascii: '0xd83edd47'
-  entry: "\U0001F947"
 - ascii: '0xd83edd48'
   entry: "\U0001F948"
-- ascii: '0xd83edd49'
-  entry: "\U0001F949"
 - ascii: '0xd83edd4a'
   entry: "\U0001F94A"
 - ascii: '0xd83edd4b'
@@ -2461,44 +2874,20 @@
   entry: "\U0001F954"
 - ascii: '0xd83edd55'
   entry: "\U0001F955"
-- ascii: '0xd83edd56'
-  entry: "\U0001F956"
-- ascii: '0xd83edd57'
-  entry: "\U0001F957"
 - ascii: '0xd83edd58'
   entry: "\U0001F958"
 - ascii: '0xd83edd59'
   entry: "\U0001F959"
-- ascii: '0xd83edd5a'
-  entry: "\U0001F95A"
-- ascii: '0xd83edd5b'
-  entry: "\U0001F95B"
 - ascii: '0xd83edd5c'
   entry: "\U0001F95C"
 - ascii: '0xd83edd5d'
   entry: "\U0001F95D"
-- ascii: '0xd83edd5e'
-  entry: "\U0001F95E"
-- ascii: '0xd83edd80'
-  entry: "\U0001F980"
 - ascii: '0xd83edd81'
   entry: "\U0001F981"
 - ascii: '0xd83edd82'
   entry: "\U0001F982"
-- ascii: '0xd83edd83'
-  entry: "\U0001F983"
-- ascii: '0xd83edd84'
-  entry: "\U0001F984"
-- ascii: '0xd83edd86'
-  entry: "\U0001F986"
-- ascii: '0xd83edd87'
-  entry: "\U0001F987"
-- ascii: '0xd83edd88'
-  entry: "\U0001F988"
-- ascii: '0xd83edd89'
-  entry: "\U0001F989"
-- ascii: '0xd83edd8a'
-  entry: "\U0001F98A"
+- ascii: '0xd83edd8d'
+  entry: "\U0001F98D"
 - ascii: '0xd83edd8e'
   entry: "\U0001F98E"
 - ascii: '0xd83edd8f'
@@ -2507,5 +2896,3 @@
   entry: "\U0001F990"
 - ascii: '0xd83edd91'
   entry: "\U0001F991"
-- ascii: '0xd83eddc0'
-  entry: "\U0001F9C0"

@@ -23,7 +23,7 @@ async function main() {
     )
     .then((rs) =>
       rs.map((r) => {
-        if (!/[\x20-\x7F]/.test(r.symbol)) {
+        if (r.symbol && !/[\x20-\x7F]/.test(r.symbol)) {
           unicode.set(r.symbol, null);
         }
       })

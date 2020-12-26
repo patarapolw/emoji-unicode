@@ -5,7 +5,7 @@ import rateLimit from "axios-rate-limit";
 declare global {
   interface Array<T> {
     mapAsync<U>(
-      callbackfn: (value: T, index: number, array: T[]) => Promise<U>,
+      callbackfn: (value: T, index: number, array: T[]) => U | Promise<U>,
       thisArg?: any
     ): Promise<U[]>;
   }
@@ -54,7 +54,7 @@ const api = rateLimit(
   }
 );
 
-function iterListing(apiPath = "/random", count = 1000) {
+function iterListing(apiPath = "/hot", count = 1000) {
   const limit = 50;
   const maxDepth = Math.ceil(count / limit);
 
@@ -83,10 +83,20 @@ function iterListing(apiPath = "/random", count = 1000) {
                 console.log(this.depth, this.after);
 
                 return dotProp<any[]>(r, "data.data.children", []).mapAsync(
-                  ({ data: { permalink } }) =>
-                    api.get(permalink).then(
-                      (r) =>
-                        `${dotProp(
+                  async ({ data: { name } }) => {
+                    return api
+                      .get("/comments/" + name.split("_")[1])
+                      .then((r) => {
+                        const getComment = ({ data: { body = "", replies } }) =>
+                          body +
+                          "\n" +
+                          (replies
+                            ? dotProp<any[]>(replies, "data.children")
+                                .map((r) => getComment(r))
+                                .join("\n")
+                            : "");
+
+                        return `${dotProp(
                           r,
                           "data.0.data.children.0.data.title",
                           ""
@@ -95,9 +105,10 @@ function iterListing(apiPath = "/random", count = 1000) {
                           "data.0.data.children.0.data.selftext",
                           ""
                         )}\n${dotProp<any[]>(r, "data.1.data.children", [])
-                          .map(({ data: { body } }) => body)
-                          .join("\n")}`
-                    )
+                          .map((r) => getComment(r))
+                          .join("\n")}`;
+                      });
+                  }
                 );
               });
 
@@ -128,8 +139,6 @@ async function main() {
       if (out) {
         out.map((it) => outStream.write(it + "\n"));
       }
-
-      await new Promise((resolve) => setTimeout(resolve, 10000));
     }
   } catch (e) {
     console.error(e.response || e);
@@ -141,8 +150,6 @@ async function main() {
       if (out) {
         out.map((it) => outStream.write(it + "\n"));
       }
-
-      await new Promise((resolve) => setTimeout(resolve, 10000));
     }
   } catch (e) {
     console.error(e.response || e);
