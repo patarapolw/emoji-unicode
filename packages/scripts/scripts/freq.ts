@@ -6,7 +6,7 @@ function clone<T>(o: T): T {
   return JSON.parse(JSON.stringify(o));
 }
 
-function sumValue(o: Record<string, number | undefined>): number {
+function sumValues(o: Record<string, number | undefined>): number {
   return Object.values(o)
     .map((v) => v || 0)
     .reduce((prev, v) => prev + v, 0);
@@ -40,7 +40,7 @@ async function main() {
     {
       reddit?: number;
       showdown?: number;
-      "emoji.json"?: number;
+      "emojis.json"?: number;
     }
   >();
   for (const c of runes(fs.readFileSync("raw/reddit.txt", "utf-8"))) {
@@ -75,7 +75,7 @@ async function main() {
     .emojis) {
     const v = freqMap.get(r.emoji);
     if (v) {
-      v["emoji.json"] = 1;
+      v["emojis.json"] = 1;
       freqMap.set(r.emoji, v);
     }
   }
@@ -89,7 +89,7 @@ async function main() {
   }
 
   const sortedData = Array.from(freqMap)
-    .sort(([, a], [, b]) => sumValue(b) - sumValue(a))
+    .sort(([, a], [, b]) => sumValues(b) - sumValues(a))
     .map(([k, v]) => {
       return clone({
         ascii:

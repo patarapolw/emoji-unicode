@@ -1,10 +1,10 @@
 - 😂 (0x1f602)
     - reddit: 7.725683201657817
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤣 (0x1f923)
     - reddit: 3.5487631135863227
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ä (0xe4)
     - reddit: 4.830980442947805
@@ -12,15 +12,15 @@
     - reddit: 4.384147131200622
 - 🗿 (0x1f5ff)
     - reddit: 2.2406424038337
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ❤️ (0x2764fe0f)
     - reddit: 1.8909467685532964
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😭 (0x1f62d)
     - reddit: 1.5995337391529596
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ö (0xf6)
     - reddit: 3.328584380261624
@@ -28,9834 +28,9834 @@
     - reddit: 3.302680999870483
 - 😍 (0x1f60d)
     - reddit: 1.2433622587747701
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😅 (0x1f605)
     - reddit: 1.0231835254500712
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ‼️ (0x203cfe0f)
     - reddit: 1.0037559901567155
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😳 (0x1f633)
     - reddit: 0.9325216940810775
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😎 (0x1f60e)
     - reddit: 0.8871907783965807
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚀 (0x1f680)
     - reddit: 0.8548115529076545
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ❓ (0x2753)
     - reddit: 0.8483357078098691
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤔 (0x1f914)
     - reddit: 0.8159564823209429
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔥 (0x1f525)
     - reddit: 0.8159564823209429
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😩 (0x1f629)
     - reddit: 0.8094806372231577
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥒 (0x1f952)
     - reddit: 0.7641497215386608
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😊 (0x1f60a)
     - reddit: 0.7576738764408756
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ✅ (0x2705)
     - reddit: 0.7123429607563787
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😁 (0x1f601)
     - reddit: 0.7058671156585934
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👍 (0x1f44d)
     - reddit: 0.6540603548763114
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😱 (0x1f631)
     - reddit: 0.6540603548763114
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😔 (0x1f614)
     - reddit: 0.6152052842895998
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😡 (0x1f621)
     - reddit: 0.6087294391918145
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤖 (0x1f916)
     - reddit: 0.5893019038984587
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🦀 (0x1f980)
     - reddit: 0.5633985235073178
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👏 (0x1f44f)
     - reddit: 0.5374951431161766
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💯 (0x1f4af)
     - reddit: 0.5180676078228209
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😤 (0x1f624)
     - reddit: 0.5115917627250356
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😉 (0x1f609)
     - reddit: 0.4921642274316798
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🙄 (0x1f644)
     - reddit: 0.446833311747183
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👌 (0x1f44c)
     - reddit: 0.446833311747183
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🙏 (0x1f64f)
     - reddit: 0.44035746664939773
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍪 (0x1f36a)
     - reddit: 0.42740577645382727
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌍 (0x1f30d)
     - reddit: 0.42092993135604195
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😄 (0x1f604)
     - reddit: 0.42092993135604195
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎄 (0x1f384)
     - reddit: 0.3950265509649009
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👼 (0x1f47c)
     - reddit: 0.38855070586711565
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ☀️ (0x2600fe0f)
     - reddit: 0.3691231705737599
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😆 (0x1f606)
     - reddit: 0.35617148037818935
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎂 (0x1f382)
     - reddit: 0.34321979018261883
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😢 (0x1f622)
     - reddit: 0.3302680999870483
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ✨ (0x2728)
     - reddit: 0.32379225488926305
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ☺️ (0x263afe0f)
     - reddit: 0.32379225488926305
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👀 (0x1f440)
     - reddit: 0.32379225488926305
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎁 (0x1f381)
     - reddit: 0.3173164097914778
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😀 (0x1f600)
     - reddit: 0.31084056469369253
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍆 (0x1f346)
     - reddit: 0.31084056469369253
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎶 (0x1f3b6)
     - reddit: 0.3043647195959073
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👁 (0x1f441)
     - reddit: 0.3043647195959073
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ✋ (0x270b)
     - reddit: 0.3043647195959073
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💀 (0x1f480)
     - reddit: 0.297888874498122
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😏 (0x1f60f)
     - reddit: 0.2849371843025515
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤤 (0x1f924)
     - reddit: 0.2849371843025515
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💕 (0x1f495)
     - reddit: 0.271985494106981
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤢 (0x1f922)
     - reddit: 0.271985494106981
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🙂 (0x1f642)
     - reddit: 0.25903380391141045
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😐 (0x1f610)
     - reddit: 0.25903380391141045
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💦 (0x1f4a6)
     - reddit: 0.25903380391141045
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤷‍♂️ (0x1f937200d2642fe0f)
     - reddit: 0.2525579588136252
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🙃 (0x1f643)
     - reddit: 0.2460821137158399
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💣 (0x1f4a3)
     - reddit: 0.2460821137158399
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💰 (0x1f4b0)
     - reddit: 0.23960626861805465
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐸 (0x1f438)
     - reddit: 0.22665457842248413
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ➕ (0x2795)
     - reddit: 0.22665457842248413
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎵 (0x1f3b5)
     - reddit: 0.22017873332469887
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎉 (0x1f389)
     - reddit: 0.22017873332469887
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🖕 (0x1f595)
     - reddit: 0.22017873332469887
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😃 (0x1f603)
     - reddit: 0.21370288822691363
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍄 (0x1f344)
     - reddit: 0.21370288822691363
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😬 (0x1f62c)
     - reddit: 0.20075119803134306
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😫 (0x1f62b)
     - reddit: 0.20075119803134306
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥂 (0x1f942)
     - reddit: 0.19427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👉 (0x1f449)
     - reddit: 0.19427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😘 (0x1f618)
     - reddit: 0.19427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😲 (0x1f632)
     - reddit: 0.18779950783577257
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😒 (0x1f612)
     - reddit: 0.18779950783577257
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ♥️ (0x2665fe0f)
     - reddit: 0.18779950783577257
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😋 (0x1f60b)
     - reddit: 0.17484781764020205
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😑 (0x1f611)
     - reddit: 0.17484781764020205
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💪 (0x1f4aa)
     - reddit: 0.17484781764020205
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💜 (0x1f49c)
     - reddit: 0.16189612744463153
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - å (0xe5)
     - reddit: 2.156456417562492
 - 👊 (0x1f44a)
     - reddit: 0.15542028234684627
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💖 (0x1f496)
     - reddit: 0.148944437249061
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😌 (0x1f60c)
     - reddit: 0.148944437249061
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😞 (0x1f61e)
     - reddit: 0.14246859215127575
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👄 (0x1f444)
     - reddit: 0.1359927470534905
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤷‍♀️ (0x1f937200d2640fe0f)
     - reddit: 0.12951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😜 (0x1f61c)
     - reddit: 0.12951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤗 (0x1f917)
     - reddit: 0.12951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😮 (0x1f62e)
     - reddit: 0.12304105685791995
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👈 (0x1f448)
     - reddit: 0.12304105685791995
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⬆️ (0x2b06fe0f)
     - reddit: 0.12304105685791995
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😻 (0x1f63b)
     - reddit: 0.12304105685791995
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤘 (0x1f918)
     - reddit: 0.1165652117601347
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👑 (0x1f451)
     - reddit: 0.1165652117601347
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💚 (0x1f49a)
     - reddit: 0.1165652117601347
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💵 (0x1f4b5)
     - reddit: 0.1165652117601347
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐢 (0x1f422)
     - reddit: 0.1165652117601347
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐤 (0x1f424)
     - reddit: 0.1165652117601347
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔫 (0x1f52b)
     - reddit: 0.11008936666234943
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ✊ (0x270a)
     - reddit: 0.11008936666234943
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ❌ (0x274c)
     - reddit: 0.11008936666234943
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎈 (0x1f388)
     - reddit: 0.11008936666234943
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐥 (0x1f425)
     - reddit: 0.11008936666234943
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ↗️ (0x2197fe0f)
     - reddit: 0.10361352156456419
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤦‍♂️ (0x1f926200d2642fe0f)
     - reddit: 0.10361352156456419
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤙 (0x1f919)
     - reddit: 0.10361352156456419
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍺 (0x1f37a)
     - reddit: 0.10361352156456419
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💨 (0x1f4a8)
     - reddit: 0.09713767646677891
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐎 (0x1f40e)
     - reddit: 0.09713767646677891
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏅 (0x1f3c5)
     - reddit: 0.09713767646677891
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😈 (0x1f608)
     - reddit: 0.09713767646677891
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😕 (0x1f615)
     - reddit: 0.09713767646677891
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😛 (0x1f61b)
     - reddit: 0.09713767646677891
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😠 (0x1f620)
     - reddit: 0.09713767646677891
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌈 (0x1f308)
     - reddit: 0.09713767646677891
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ☹️ (0x2639fe0f)
     - reddit: 0.09066183136899365
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😪 (0x1f62a)
     - reddit: 0.09066183136899365
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😵 (0x1f635)
     - reddit: 0.0841859862712084
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😇 (0x1f607)
     - reddit: 0.0841859862712084
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😟 (0x1f61f)
     - reddit: 0.0841859862712084
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😶 (0x1f636)
     - reddit: 0.0841859862712084
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ☠️ (0x2620fe0f)
     - reddit: 0.07771014117342313
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🙌 (0x1f64c)
     - reddit: 0.07771014117342313
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😝 (0x1f61d)
     - reddit: 0.07771014117342313
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🖤 (0x1f5a4)
     - reddit: 0.07771014117342313
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😥 (0x1f625)
     - reddit: 0.07771014117342313
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ✌️ (0x270cfe0f)
     - reddit: 0.07771014117342313
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍾 (0x1f37e)
     - reddit: 0.07771014117342313
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥃 (0x1f943)
     - reddit: 0.07771014117342313
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎮 (0x1f3ae)
     - reddit: 0.07771014117342313
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💲 (0x1f4b2)
     - reddit: 0.07771014117342313
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🙀 (0x1f640)
     - reddit: 0.07123429607563787
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤧 (0x1f927)
     - reddit: 0.07123429607563787
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎊 (0x1f38a)
     - reddit: 0.07123429607563787
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⏰ (0x23f0)
     - reddit: 0.07123429607563787
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩 (0x1f469)
     - reddit: 0.07123429607563787
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👽 (0x1f47d)
     - reddit: 0.06475845097785261
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😨 (0x1f628)
     - reddit: 0.06475845097785261
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💙 (0x1f499)
     - reddit: 0.06475845097785261
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍻 (0x1f37b)
     - reddit: 0.06475845097785261
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😓 (0x1f613)
     - reddit: 0.06475845097785261
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💔 (0x1f494)
     - reddit: 0.06475845097785261
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚫 (0x1f6ab)
     - reddit: 0.06475845097785261
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍑 (0x1f351)
     - reddit: 0.06475845097785261
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😯 (0x1f62f)
     - reddit: 0.06475845097785261
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👎 (0x1f44e)
     - reddit: 0.06475845097785261
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏳️‍🌈 (0x1f3f3fe0f200d1f308)
     - reddit: 0.06475845097785261
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍🚀 (0x1f468200d1f680)
     - reddit: 0.05828260588006735
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤠 (0x1f920)
     - reddit: 0.05828260588006735
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👋 (0x1f44b)
     - reddit: 0.05828260588006735
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😦 (0x1f626)
     - reddit: 0.05828260588006735
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨 (0x1f468)
     - reddit: 0.05828260588006735
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💎 (0x1f48e)
     - reddit: 0.05828260588006735
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍌 (0x1f34c)
     - reddit: 0.05828260588006735
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥺 (0x1f97a)
     - reddit: 1.0555627509389975
-    - emoji.json: 1
+    - emojis.json: 1
 - 💞 (0x1f49e)
     - reddit: 0.051806760782282094
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⁉️ (0x2049fe0f)
     - reddit: 0.051806760782282094
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤑 (0x1f911)
     - reddit: 0.051806760782282094
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ↘️ (0x2198fe0f)
     - reddit: 0.051806760782282094
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🙈 (0x1f648)
     - reddit: 0.051806760782282094
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔛 (0x1f51b)
     - reddit: 0.051806760782282094
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💫 (0x1f4ab)
     - reddit: 0.051806760782282094
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💛 (0x1f49b)
     - reddit: 0.051806760782282094
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💐 (0x1f490)
     - reddit: 0.051806760782282094
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍰 (0x1f370)
     - reddit: 0.051806760782282094
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📈 (0x1f4c8)
     - reddit: 0.051806760782282094
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👦 (0x1f466)
     - reddit: 0.051806760782282094
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🙁 (0x1f641)
     - reddit: 0.04533091568449683
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌎 (0x1f30e)
     - reddit: 0.04533091568449683
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💗 (0x1f497)
     - reddit: 0.04533091568449683
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤡 (0x1f921)
     - reddit: 0.04533091568449683
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥇 (0x1f947)
     - reddit: 0.04533091568449683
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍸 (0x1f378)
     - reddit: 0.04533091568449683
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥛 (0x1f95b)
     - reddit: 0.04533091568449683
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😣 (0x1f623)
     - reddit: 0.04533091568449683
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌳 (0x1f333)
     - reddit: 0.04533091568449683
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌱 (0x1f331)
     - reddit: 0.04533091568449683
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤥 (0x1f925)
     - reddit: 0.04533091568449683
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐝 (0x1f41d)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤜 (0x1f91c)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😸 (0x1f638)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐍 (0x1f40d)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ✔️ (0x2714fe0f)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🗣 (0x1f5e3)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🙊 (0x1f64a)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐶 (0x1f436)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐟 (0x1f41f)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👥 (0x1f465)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📝 (0x1f4dd)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💍 (0x1f48d)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌚 (0x1f31a)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😙 (0x1f619)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😴 (0x1f634)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👹 (0x1f479)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👫 (0x1f46b)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💻 (0x1f4bb)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏃 (0x1f3c3)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💃 (0x1f483)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕺 (0x1f57a)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😷 (0x1f637)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌞 (0x1f31e)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💩 (0x1f4a9)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐹 (0x1f439)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐈 (0x1f408)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚩 (0x1f6a9)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💝 (0x1f49d)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💭 (0x1f4ad)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😖 (0x1f616)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤦‍♀️ (0x1f926200d2640fe0f)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤝 (0x1f91d)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💥 (0x1f4a5)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😧 (0x1f627)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ❕ (0x2755)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ❄️ (0x2744fe0f)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐾 (0x1f43e)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎼 (0x1f3bc)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⚠️ (0x26a0fe0f)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ❔ (0x2754)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⚔️ (0x2694fe0f)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ➡️ (0x27a1fe0f)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ↙️ (0x2199fe0f)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎅 (0x1f385)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👂 (0x1f442)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌷 (0x1f337)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💢 (0x1f4a2)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👅 (0x1f445)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🦋 (0x1f98b)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌲 (0x1f332)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍕 (0x1f355)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📖 (0x1f4d6)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔟 (0x1f51f)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⛓ (0x26d3)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌿 (0x1f33f)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐔 (0x1f414)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤛 (0x1f91b)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💟 (0x1f49f)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ™️ (0x2122fe0f)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😽 (0x1f63d)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚬 (0x1f6ac)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😗 (0x1f617)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🙅‍♂️ (0x1f645200d2642fe0f)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📴 (0x1f4f4)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💬 (0x1f4ac)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍥 (0x1f365)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚨 (0x1f6a8)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕒 (0x1f552)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔎 (0x1f50e)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍿 (0x1f37f)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐠 (0x1f420)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🦌 (0x1f98c)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤞 (0x1f91e)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐐 (0x1f410)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👻 (0x1f47b)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💋 (0x1f48b)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐴 (0x1f434)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👤 (0x1f464)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👬 (0x1f46c)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔪 (0x1f52a)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💓 (0x1f493)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌻 (0x1f33b)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕑 (0x1f551)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍵 (0x1f375)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌸 (0x1f338)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💘 (0x1f498)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚃 (0x1f683)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💧 (0x1f4a7)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏡 (0x1f3e1)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌝 (0x1f31d)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😹 (0x1f639)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤓 (0x1f913)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤚 (0x1f91a)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐄 (0x1f404)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐑 (0x1f411)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ☃️ (0x2603fe0f)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚷 (0x1f6b7)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👪 (0x1f46a)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🉐 (0x1f250)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👐 (0x1f450)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔘 (0x1f518)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌊 (0x1f30a)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔍 (0x1f50d)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥁 (0x1f941)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💺 (0x1f4ba)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤳 (0x1f933)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💸 (0x1f4b8)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📐 (0x1f4d0)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥚 (0x1f95a)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📜 (0x1f4dc)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ☝️ (0x261dfe0f)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕊 (0x1f54a)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎗 (0x1f397)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌺 (0x1f33a)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍫 (0x1f36b)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⬅️ (0x2b05fe0f)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔱 (0x1f531)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ↪️ (0x21aafe0f)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐛 (0x1f41b)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌠 (0x1f320)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌟 (0x1f31f)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👆 (0x1f446)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🦈 (0x1f988)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍖 (0x1f356)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏉 (0x1f3c9)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕳 (0x1f573)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚗 (0x1f697)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏝 (0x1f3dd)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🗑 (0x1f5d1)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥀 (0x1f940)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌩 (0x1f329)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐖 (0x1f416)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👸 (0x1f478)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📚 (0x1f4da)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌹 (0x1f339)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🦃 (0x1f983)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🙆 (0x1f646)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎀 (0x1f380)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👃 (0x1f443)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ©️ (0xa9fe0f)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🦅 (0x1f985)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌏 (0x1f30f)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍🎤 (0x1f469200d1f3a4)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌛 (0x1f31b)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌜 (0x1f31c)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤒 (0x1f912)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤐 (0x1f910)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🖐 (0x1f590)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🦊 (0x1f98a)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👴 (0x1f474)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🙉 (0x1f649)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤴 (0x1f934)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😾 (0x1f63e)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📦 (0x1f4e6)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📞 (0x1f4de)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚪 (0x1f6aa)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐓 (0x1f413)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍❤️‍👩 (0x1f469200d2764fe0f200d1f469)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔀 (0x1f500)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌃 (0x1f303)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍽 (0x1f37d)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐱 (0x1f431)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💊 (0x1f48a)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚕 (0x1f695)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👿 (0x1f47f)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👧 (0x1f467)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔙 (0x1f519)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔝 (0x1f51d)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🦄 (0x1f984)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💁 (0x1f481)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍹 (0x1f379)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐬 (0x1f42c)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐳 (0x1f433)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐋 (0x1f40b)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚏 (0x1f68f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏢 (0x1f3e2)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👵 (0x1f475)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔐 (0x1f510)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎻 (0x1f3bb)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📷 (0x1f4f7)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔳 (0x1f533)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤽‍♀️ (0x1f93d200d2640fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔻 (0x1f53b)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⛏ (0x26cf)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👾 (0x1f47e)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍃 (0x1f343)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍂 (0x1f342)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕝 (0x1f55d)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📅 (0x1f4c5)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💡 (0x1f4a1)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎓 (0x1f393)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌰 (0x1f330)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌼 (0x1f33c)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍀 (0x1f340)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥉 (0x1f949)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏆 (0x1f3c6)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐯 (0x1f42f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎆 (0x1f386)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚂 (0x1f682)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📸 (0x1f4f8)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐦 (0x1f426)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏴 (0x1f3f4)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ☢️ (0x2622fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ☣️ (0x2623fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎖 (0x1f396)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌮 (0x1f32e)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ✈️ (0x2708fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🦇 (0x1f987)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📽 (0x1f4fd)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💿 (0x1f4bf)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛌 (0x1f6cc)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💤 (0x1f4a4)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌶 (0x1f336)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐧 (0x1f427)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥖 (0x1f956)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍉 (0x1f349)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔴 (0x1f534)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎯 (0x1f3af)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔲 (0x1f532)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍👧 (0x1f468200d1f467)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👇 (0x1f447)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚢 (0x1f6a2)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎤 (0x1f3a4)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💅 (0x1f485)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😿 (0x1f63f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ✂️ (0x2702fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍞 (0x1f35e)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚜 (0x1f69c)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ☑️ (0x2611fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎭 (0x1f3ad)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥄 (0x1f944)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🦆 (0x1f986)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🅱️ (0x1f171fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏳️ (0x1f3f3fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📿 (0x1f4ff)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚑 (0x1f691)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐵 (0x1f435)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐇 (0x1f407)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐕 (0x1f415)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ♻️ (0x267bfe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍔 (0x1f354)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍟 (0x1f35f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍩 (0x1f369)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍭 (0x1f36d)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍡 (0x1f361)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔑 (0x1f511)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ✝️ (0x271dfe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📉 (0x1f4c9)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⚰️ (0x26b0fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏠 (0x1f3e0)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚽 (0x1f6bd)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔇 (0x1f507)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔕 (0x1f515)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👖 (0x1f456)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎫 (0x1f3ab)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😼 (0x1f63c)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📆 (0x1f4c6)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⛩ (0x26e9)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐏 (0x1f40f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🖖 (0x1f596)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐿 (0x1f43f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔒 (0x1f512)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌭 (0x1f32d)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥗 (0x1f957)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🧀 (0x1f9c0)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏜 (0x1f3dc)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😰 (0x1f630)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⏩ (0x23e9)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌐 (0x1f310)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔬 (0x1f52c)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔭 (0x1f52d)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🦉 (0x1f989)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥞 (0x1f95e)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍👩‍👧‍👧 (0x1f469200d1f469200d1f467200d1f467)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍👩‍👧‍👦 (0x1f469200d1f469200d1f467200d1f466)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍👩‍👦‍👦 (0x1f469200d1f469200d1f466200d1f466)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍👩‍👧‍👧 (0x1f468200d1f469200d1f467200d1f467)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍👩‍👧‍👦 (0x1f468200d1f469200d1f467200d1f466)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍👩‍👦‍👦 (0x1f468200d1f469200d1f466200d1f466)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍👨‍👧‍👧 (0x1f468200d1f468200d1f467200d1f467)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍👨‍👧‍👦 (0x1f468200d1f468200d1f467200d1f466)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍👨‍👦‍👦 (0x1f468200d1f468200d1f466200d1f466)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍👩‍👧 (0x1f469200d1f469200d1f467)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍👩‍👦 (0x1f469200d1f469200d1f466)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍👧‍👧 (0x1f469200d1f467200d1f467)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍👧‍👦 (0x1f469200d1f467200d1f466)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍👦‍👦 (0x1f469200d1f466200d1f466)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍👩‍👧 (0x1f468200d1f469200d1f467)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍👨‍👧 (0x1f468200d1f468200d1f467)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍👨‍👦 (0x1f468200d1f468200d1f466)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍👧‍👧 (0x1f468200d1f467200d1f467)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍👧‍👦 (0x1f468200d1f467200d1f466)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍👦‍👦 (0x1f468200d1f466200d1f466)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍👧 (0x1f469200d1f467)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍👦 (0x1f469200d1f466)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍👦 (0x1f468200d1f466)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ▶️ (0x25b6fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ◀️ (0x25c0fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ↩️ (0x21a9fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😚 (0x1f61a)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎧 (0x1f3a7)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🙋 (0x1f64b)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🙅 (0x1f645)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚶 (0x1f6b6)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔞 (0x1f51e)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌴 (0x1f334)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🙇 (0x1f647)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👯 (0x1f46f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌙 (0x1f319)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎥 (0x1f3a5)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ♣️ (0x2663fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ✖️ (0x2716fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏀 (0x1f3c0)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👭 (0x1f46d)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌵 (0x1f335)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ♨️ (0x2668fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ☎️ (0x260efe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍁 (0x1f341)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💆 (0x1f486)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💌 (0x1f48c)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🙍 (0x1f64d)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🆗 (0x1f197)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌀 (0x1f300)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💏 (0x1f48f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍❤️‍💋‍👩 (0x1f469200d2764fe0f200d1f48b200d1f469)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍❤️‍💋‍👨 (0x1f468200d2764fe0f200d1f48b200d1f468)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💑 (0x1f491)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍❤️‍👨 (0x1f468200d2764fe0f200d1f468)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎬 (0x1f3ac)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐷 (0x1f437)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏈 (0x1f3c8)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎸 (0x1f3b8)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ♦️ (0x2666fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐼 (0x1f43c)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍓 (0x1f353)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ♠️ (0x2660fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔮 (0x1f52e)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍴 (0x1f374)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📲 (0x1f4f2)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📱 (0x1f4f1)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔸 (0x1f538)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👶 (0x1f476)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👣 (0x1f463)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍷 (0x1f377)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📹 (0x1f4f9)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐰 (0x1f430)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍒 (0x1f352)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌌 (0x1f30c)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐣 (0x1f423)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📕 (0x1f4d5)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍬 (0x1f36c)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐻 (0x1f43b)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍦 (0x1f366)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍍 (0x1f34d)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌾 (0x1f33e)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💉 (0x1f489)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚮 (0x1f6ae)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ▪️ (0x25aafe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📺 (0x1f4fa)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐙 (0x1f419)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎃 (0x1f383)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍇 (0x1f347)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 😺 (0x1f63a)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⬇️ (0x2b07fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💄 (0x1f484)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ®️ (0xaefe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔊 (0x1f50a)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐒 (0x1f412)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💂 (0x1f482)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📢 (0x1f4e2)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⚾️ (0x26befe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚦 (0x1f6a6)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🆘 (0x1f198)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛅 (0x1f6c5)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👠 (0x1f460)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏊 (0x1f3ca)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👙 (0x1f459)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐘 (0x1f418)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍎 (0x1f34e)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🆒 (0x1f192)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💇 (0x1f487)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🙎 (0x1f64e)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍊 (0x1f34a)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ↔️ (0x2194fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌅 (0x1f305)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍗 (0x1f357)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔵 (0x1f535)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚘 (0x1f698)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍧 (0x1f367)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👓 (0x1f453)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌑 (0x1f311)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛃 (0x1f6c3)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔃 (0x1f503)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📍 (0x1f4cd)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌕 (0x1f315)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👟 (0x1f45f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍋 (0x1f34b)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍼 (0x1f37c)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎨 (0x1f3a8)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ✉️ (0x2709fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍝 (0x1f35d)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎐 (0x1f390)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🆙 (0x1f199)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐽 (0x1f43d)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👳 (0x1f473)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐨 (0x1f428)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ✳️ (0x2733fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔹 (0x1f539)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚿 (0x1f6bf)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍜 (0x1f35c)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎩 (0x1f3a9)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👰 (0x1f470)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏁 (0x1f3c1)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚼 (0x1f6bc)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🆕 (0x1f195)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🆓 (0x1f193)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎇 (0x1f387)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌽 (0x1f33d)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎾 (0x1f3be)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔋 (0x1f50b)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐺 (0x1f43a)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐮 (0x1f42e)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📣 (0x1f4e3)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👗 (0x1f457)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔗 (0x1f517)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍳 (0x1f373)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍱 (0x1f371)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📌 (0x1f4cc)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔜 (0x1f51c)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔁 (0x1f501)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐉 (0x1f409)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏄 (0x1f3c4)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐭 (0x1f42d)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌒 (0x1f312)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚙 (0x1f699)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🅰️ (0x1f170fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🈹 (0x1f239)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔌 (0x1f50c)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌓 (0x1f313)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👮 (0x1f46e)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎣 (0x1f3a3)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌔 (0x1f314)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚲 (0x1f6b2)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍚 (0x1f35a)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📻 (0x1f4fb)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⤵️ (0x2935fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌘 (0x1f318)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌗 (0x1f317)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👱 (0x1f471)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌖 (0x1f316)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍏 (0x1f34f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👺 (0x1f47a)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ➰ (0x27b0)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔄 (0x1f504)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍤 (0x1f364)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌄 (0x1f304)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌋 (0x1f30b)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📥 (0x1f4e5)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💒 (0x1f492)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍣 (0x1f363)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍨 (0x1f368)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⏪ (0x23ea)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍅 (0x1f345)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ✴️ (0x2734fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔺 (0x1f53a)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔆 (0x1f506)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👲 (0x1f472)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏪 (0x1f3ea)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐞 (0x1f41e)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⤴️ (0x2934fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📛 (0x1f4db)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛀 (0x1f6c0)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐊 (0x1f40a)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔨 (0x1f528)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐚 (0x1f41a)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ❇️ (0x2747fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - Ⓜ️ (0x24c2fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐩 (0x1f429)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍲 (0x1f372)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍯 (0x1f36f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎹 (0x1f3b9)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔓 (0x1f513)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🗽 (0x1f5fd)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏂 (0x1f3c2)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💮 (0x1f4ae)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👔 (0x1f454)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💠 (0x1f4a0)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚺 (0x1f6ba)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐜 (0x1f41c)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌇 (0x1f307)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⏳ (0x23f3)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🅾️ (0x1f17efe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐲 (0x1f432)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐌 (0x1f40c)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📀 (0x1f4c0)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👕 (0x1f455)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎲 (0x1f3b2)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ➖ (0x2796)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎎 (0x1f38e)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎱 (0x1f3b1)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚌 (0x1f68c)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍮 (0x1f36e)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎌 (0x1f38c)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 〽️ (0x303dfe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐫 (0x1f42b)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍛 (0x1f35b)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏥 (0x1f3e5)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔷 (0x1f537)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎋 (0x1f38b)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔔 (0x1f514)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍐 (0x1f350)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔶 (0x1f536)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕕 (0x1f555)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚔 (0x1f694)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📩 (0x1f4e9)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌂 (0x1f302)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎷 (0x1f3b7)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚴 (0x1f6b4)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚣 (0x1f6a3)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👒 (0x1f452)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👞 (0x1f45e)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏩 (0x1f3e9)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🗻 (0x1f5fb)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐪 (0x1f42a)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👜 (0x1f45c)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ❎ (0x274e)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎺 (0x1f3ba)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏫 (0x1f3eb)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌆 (0x1f306)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👷 (0x1f477)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔰 (0x1f530)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💳 (0x1f4b3)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🆔 (0x1f194)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎡 (0x1f3a1)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎳 (0x1f3b3)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💈 (0x1f488)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👛 (0x1f45b)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎢 (0x1f3a2)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐀 (0x1f400)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔼 (0x1f53c)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🗼 (0x1f5fc)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👘 (0x1f458)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚒 (0x1f692)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕦 (0x1f566)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚓 (0x1f693)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🃏 (0x1f0cf)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌉 (0x1f309)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚖 (0x1f696)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏇 (0x1f3c7)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐅 (0x1f405)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👢 (0x1f462)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐗 (0x1f417)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎒 (0x1f392)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ➿ (0x27bf)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💷 (0x1f4b7)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐂 (0x1f402)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍙 (0x1f359)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🆚 (0x1f19a)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔚 (0x1f51a)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🅿️ (0x1f17ffe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👡 (0x1f461)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💼 (0x1f4bc)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📰 (0x1f4f0)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎪 (0x1f3aa)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔯 (0x1f52f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚹 (0x1f6b9)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏰 (0x1f3f0)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔦 (0x1f526)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌁 (0x1f301)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⏫ (0x23eb)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎍 (0x1f38d)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚁 (0x1f681)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💽 (0x1f4bd)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚍 (0x1f68d)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍈 (0x1f348)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏤 (0x1f3e4)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📓 (0x1f4d3)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍢 (0x1f362)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎏 (0x1f38f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎠 (0x1f3a0)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐡 (0x1f421)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍠 (0x1f360)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎿 (0x1f3bf)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕛 (0x1f55b)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📶 (0x1f4f6)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚧 (0x1f6a7)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📡 (0x1f4e1)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💶 (0x1f4b6)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👚 (0x1f45a)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📒 (0x1f4d2)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐆 (0x1f406)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔅 (0x1f505)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏬 (0x1f3ec)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚚 (0x1f69a)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍶 (0x1f376)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚤 (0x1f6a4)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📼 (0x1f4fc)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕐 (0x1f550)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⏬ (0x23ec)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐃 (0x1f403)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔽 (0x1f53d)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💴 (0x1f4b4)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎽 (0x1f3bd)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📎 (0x1f4ce)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏧 (0x1f3e7)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎦 (0x1f3a6)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎑 (0x1f391)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📘 (0x1f4d8)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ◻️ (0x25fbfe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📮 (0x1f4ee)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📧 (0x1f4e7)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🐁 (0x1f401)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚄 (0x1f684)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔩 (0x1f529)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🆖 (0x1f196)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏨 (0x1f3e8)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚾 (0x1f6be)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏮 (0x1f3ee)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔂 (0x1f502)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📬 (0x1f4ec)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📗 (0x1f4d7)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚇 (0x1f687)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📋 (0x1f4cb)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📵 (0x1f4f5)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕓 (0x1f553)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚭 (0x1f6ad)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎰 (0x1f3b0)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕔 (0x1f554)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛁 (0x1f6c1)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚉 (0x1f689)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🍘 (0x1f358)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏦 (0x1f3e6)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔧 (0x1f527)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🈯️ (0x1f22ffe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚛 (0x1f69b)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📄 (0x1f4c4)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⛎ (0x26ce)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📊 (0x1f4ca)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📳 (0x1f4f3)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕙 (0x1f559)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕘 (0x1f558)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚅 (0x1f685)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚐 (0x1f690)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚊 (0x1f68a)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕗 (0x1f557)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🈳 (0x1f233)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚥 (0x1f6a5)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚵 (0x1f6b5)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏯 (0x1f3ef)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔖 (0x1f516)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📑 (0x1f4d1)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👝 (0x1f45d)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🆎 (0x1f18e)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📃 (0x1f4c3)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎴 (0x1f3b4)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕚 (0x1f55a)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📠 (0x1f4e0)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕖 (0x1f556)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💱 (0x1f4b1)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔉 (0x1f509)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💹 (0x1f4b9)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🆑 (0x1f191)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💾 (0x1f4be)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏣 (0x1f3e3)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔈 (0x1f508)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🗾 (0x1f5fe)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🈺 (0x1f23a)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📨 (0x1f4e8)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📙 (0x1f4d9)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚻 (0x1f6bb)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🈚️ (0x1f21afe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🈶 (0x1f236)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚋 (0x1f68b)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🈸 (0x1f238)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚎 (0x1f68e)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔢 (0x1f522)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📔 (0x1f4d4)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🈲 (0x1f232)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🈵 (0x1f235)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📯 (0x1f4ef)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏭 (0x1f3ed)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚸 (0x1f6b8)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚆 (0x1f686)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📏 (0x1f4cf)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📟 (0x1f4df)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🉑 (0x1f251)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🈴 (0x1f234)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔏 (0x1f50f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕜 (0x1f55c)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🈂️ (0x1f202fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📤 (0x1f4e4)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📫 (0x1f4eb)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚈 (0x1f688)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕤 (0x1f564)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📂 (0x1f4c2)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📁 (0x1f4c1)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚰 (0x1f6b0)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📇 (0x1f4c7)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚝 (0x1f69d)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕧 (0x1f567)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕥 (0x1f565)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔤 (0x1f524)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📪 (0x1f4ea)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕟 (0x1f55f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚞 (0x1f69e)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚯 (0x1f6af)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕞 (0x1f55e)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ➗ (0x2797)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕢 (0x1f562)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕠 (0x1f560)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔠 (0x1f520)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 📭 (0x1f4ed)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔣 (0x1f523)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚡 (0x1f6a1)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕣 (0x1f563)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕡 (0x1f561)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🔡 (0x1f521)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚠 (0x1f6a0)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🈁 (0x1f201)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛂 (0x1f6c2)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚱 (0x1f6b1)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚟 (0x1f69f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛄 (0x1f6c4)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚳 (0x1f6b3)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤕 (0x1f915)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕶 (0x1f576)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👁‍🗨 (0x1f441200d1f5e8)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕴 (0x1f574)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ❣️ (0x2763fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ✡️ (0x2721fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛐 (0x1f6d0)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🗯 (0x1f5ef)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕎 (0x1f54e)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕉 (0x1f549)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛢 (0x1f6e2)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛡 (0x1f6e1)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛠 (0x1f6e0)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛏 (0x1f6cf)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛎 (0x1f6ce)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛍 (0x1f6cd)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛋 (0x1f6cb)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🗳 (0x1f5f3)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🗡 (0x1f5e1)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🗞 (0x1f5de)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🗝 (0x1f5dd)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🗜 (0x1f5dc)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🗓 (0x1f5d3)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🗒 (0x1f5d2)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🗄 (0x1f5c4)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🗃 (0x1f5c3)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🗂 (0x1f5c2)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🖼 (0x1f5bc)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🖲 (0x1f5b2)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🖱 (0x1f5b1)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🖨 (0x1f5a8)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🖥 (0x1f5a5)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🖍 (0x1f58d)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🖌 (0x1f58c)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🖋 (0x1f58b)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🖊 (0x1f58a)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🖇 (0x1f587)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕹 (0x1f579)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕰 (0x1f570)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕯 (0x1f56f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏺 (0x1f3fa)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏷 (0x1f3f7)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎞 (0x1f39e)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎛 (0x1f39b)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎚 (0x1f39a)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎙 (0x1f399)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌡 (0x1f321)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛳 (0x1f6f3)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛰 (0x1f6f0)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛬 (0x1f6ec)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛫 (0x1f6eb)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛩 (0x1f6e9)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛥 (0x1f6e5)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛤 (0x1f6e4)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛣 (0x1f6e3)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🗺 (0x1f5fa)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕍 (0x1f54d)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕌 (0x1f54c)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕋 (0x1f54b)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏟 (0x1f3df)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏞 (0x1f3de)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏛 (0x1f3db)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏚 (0x1f3da)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏙 (0x1f3d9)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏘 (0x1f3d8)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏗 (0x1f3d7)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏖 (0x1f3d6)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏕 (0x1f3d5)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏔 (0x1f3d4)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏎 (0x1f3ce)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏍 (0x1f3cd)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏹 (0x1f3f9)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏸 (0x1f3f8)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏵 (0x1f3f5)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏓 (0x1f3d3)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏒 (0x1f3d2)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏑 (0x1f3d1)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏐 (0x1f3d0)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏏 (0x1f3cf)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🎟 (0x1f39f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌯 (0x1f32f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ☂️ (0x2602fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🦂 (0x1f982)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🦁 (0x1f981)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕸 (0x1f578)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕷 (0x1f577)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌬 (0x1f32c)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌫 (0x1f32b)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌪 (0x1f32a)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌨 (0x1f328)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌧 (0x1f327)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌦 (0x1f326)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌥 (0x1f325)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🌤 (0x1f324)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⏺ (0x23fa)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⏹ (0x23f9)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⏸ (0x23f8)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⏯ (0x23ef)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⏮ (0x23ee)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⏭ (0x23ed)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⛱ (0x26f1)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⚒ (0x2692)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⏲ (0x23f2)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⏱ (0x23f1)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⛴ (0x26f4)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⛰ (0x26f0)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⛸ (0x26f8)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⛷ (0x26f7)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⛈ (0x26c8)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⛑ (0x26d1)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛑 (0x1f6d1)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ✍️ (0x270dfe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👱‍♀️ (0x1f471200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🙍‍♂️ (0x1f64d200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🙎‍♂️ (0x1f64e200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🙆‍♂️ (0x1f646200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💁‍♂️ (0x1f481200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🙋‍♂️ (0x1f64b200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🙇‍♀️ (0x1f647200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍⚕️ (0x1f468200d2695fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍⚕️ (0x1f469200d2695fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍🎓 (0x1f468200d1f393)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍🎓 (0x1f469200d1f393)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍🏫 (0x1f468200d1f3eb)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍🏫 (0x1f469200d1f3eb)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍⚖️ (0x1f468200d2696fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍⚖️ (0x1f469200d2696fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍🌾 (0x1f468200d1f33e)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍🌾 (0x1f469200d1f33e)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍🍳 (0x1f468200d1f373)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍🍳 (0x1f469200d1f373)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍🔧 (0x1f468200d1f527)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍🔧 (0x1f469200d1f527)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍🏭 (0x1f468200d1f3ed)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍🏭 (0x1f469200d1f3ed)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍💼 (0x1f468200d1f4bc)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍💼 (0x1f469200d1f4bc)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍🔬 (0x1f468200d1f52c)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍🔬 (0x1f469200d1f52c)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍💻 (0x1f468200d1f4bb)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍💻 (0x1f469200d1f4bb)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍🎤 (0x1f468200d1f3a4)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍🎨 (0x1f468200d1f3a8)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍🎨 (0x1f469200d1f3a8)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍✈️ (0x1f468200d2708fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍✈️ (0x1f469200d2708fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍🚀 (0x1f469200d1f680)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👨‍🚒 (0x1f468200d1f692)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👩‍🚒 (0x1f469200d1f692)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👮‍♀️ (0x1f46e200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕵️ (0x1f575fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🕵️‍♀️ (0x1f575fe0f200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💂‍♀️ (0x1f482200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👷‍♀️ (0x1f477200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👳‍♀️ (0x1f473200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤵 (0x1f935)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤰 (0x1f930)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤶 (0x1f936)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💆‍♂️ (0x1f486200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 💇‍♂️ (0x1f487200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚶‍♀️ (0x1f6b6200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏃‍♀️ (0x1f3c3200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 👯‍♂️ (0x1f46f200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤺 (0x1f93a)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏌️ (0x1f3ccfe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏌️‍♀️ (0x1f3ccfe0f200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏄‍♀️ (0x1f3c4200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚣‍♀️ (0x1f6a3200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏊‍♀️ (0x1f3ca200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⛹️ (0x26f9fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⛹️‍♀️ (0x26f9fe0f200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏋️ (0x1f3cbfe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🏋️‍♀️ (0x1f3cbfe0f200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚴‍♀️ (0x1f6b4200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🚵‍♀️ (0x1f6b5200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤸‍♂️ (0x1f938200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤸‍♀️ (0x1f938200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤼‍♂️ (0x1f93c200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤼‍♀️ (0x1f93c200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤽‍♂️ (0x1f93d200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤾‍♂️ (0x1f93e200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤾‍♀️ (0x1f93e200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤹‍♂️ (0x1f939200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🤹‍♀️ (0x1f939200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🦍 (0x1f98d)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🦏 (0x1f98f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🦎 (0x1f98e)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ☘️ (0x2618fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥝 (0x1f95d)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥑 (0x1f951)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥔 (0x1f954)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥕 (0x1f955)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥜 (0x1f95c)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥐 (0x1f950)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥓 (0x1f953)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥙 (0x1f959)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥘 (0x1f958)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🦐 (0x1f990)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🦑 (0x1f991)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛵 (0x1f6f5)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛴 (0x1f6f4)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛶 (0x1f6f6)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ☁️ (0x2601fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ☄️ (0x2604fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥈 (0x1f948)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥊 (0x1f94a)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥋 (0x1f94b)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🥅 (0x1f945)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⌨️ (0x2328fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ✏️ (0x270ffe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ✒️ (0x2712fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⚙️ (0x2699fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⚖️ (0x2696fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⚗️ (0x2697fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🛒 (0x1f6d2)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⚱️ (0x26b1fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ↖️ (0x2196fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ↕️ (0x2195fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⚛️ (0x269bfe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ☸️ (0x2638fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ☯️ (0x262ffe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ☦️ (0x2626fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ☪️ (0x262afe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ☮️ (0x262efe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ⚜️ (0x269cfe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 〰️ (0x3030fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ℹ️ (0x2139fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - 🈷️ (0x1f237fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ㊗️ (0x3297fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ㊙️ (0x3299fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ▫️ (0x25abfe0f)
-    - emoji.json: 1
+    - emojis.json: 1
     - showdown: 1
 - ç (0xe7)
     - reddit: 1.7290506411086648
 - 🥰 (0x1f970)
     - reddit: 0.6022535940940292
-    - emoji.json: 1
+    - emojis.json: 1
 - ❤ (0x2764)
     - reddit: 0.5893019038984587
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤮 (0x1f92e)
     - reddit: 0.5115917627250356
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥵 (0x1f975)
     - reddit: 0.4338816215516125
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤬 (0x1f92c)
     - reddit: 0.40797824116047143
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤩 (0x1f929)
     - reddit: 0.4015023960626861
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤯 (0x1f92f)
     - reddit: 0.297888874498122
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥳 (0x1f973)
     - reddit: 0.23960626861805465
-    - emoji.json: 1
+    - emojis.json: 1
 - ‼ (0x203c)
     - reddit: 0.22017873332469887
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤪 (0x1f92a)
     - reddit: 0.18779950783577257
-    - emoji.json: 1
+    - emojis.json: 1
 - 👏🏻 (0x1f44f1f3fb)
     - reddit: 0.14246859215127575
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧐 (0x1f9d0)
     - reddit: 0.1359927470534905
-    - emoji.json: 1
+    - emojis.json: 1
 - ® (0xae)
     - reddit: 0.1359927470534905
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤨 (0x1f928)
     - reddit: 0.12951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🟥 (0x1f7e5)
     - reddit: 0.11008936666234943
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤭 (0x1f92d)
     - reddit: 0.11008936666234943
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤙🏿 (0x1f9191f3ff)
     - reddit: 0.10361352156456419
-    - emoji.json: 1
+    - emojis.json: 1
 - 👍🏻 (0x1f44d1f3fb)
     - reddit: 0.09066183136899365
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃‍♂️ (0x1f3c3200d2642fe0f)
     - reddit: 0.09066183136899365
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙏🏼 (0x1f64f1f3fc)
     - reddit: 0.0841859862712084
-    - emoji.json: 1
+    - emojis.json: 1
 - 👏🏾 (0x1f44f1f3fe)
     - reddit: 0.07771014117342313
-    - emoji.json: 1
+    - emojis.json: 1
 - ™ (0x2122)
     - reddit: 0.07771014117342313
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷🏻‍♀️ (0x1f9371f3fb200d2640fe0f)
     - reddit: 0.07771014117342313
-    - emoji.json: 1
+    - emojis.json: 1
 - 👍🏽 (0x1f44d1f3fd)
     - reddit: 0.07771014117342313
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇺🇸 (0x1f1fa1f1f8)
     - reddit: 0.07771014117342313
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥶 (0x1f976)
     - reddit: 0.07771014117342313
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙏🏽 (0x1f64f1f3fd)
     - reddit: 0.06475845097785261
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥴 (0x1f974)
     - reddit: 0.06475845097785261
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤘🏼 (0x1f9181f3fc)
     - reddit: 0.06475845097785261
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙌🏼 (0x1f64c1f3fc)
     - reddit: 0.05828260588006735
-    - emoji.json: 1
+    - emojis.json: 1
 - ♥ (0x2665)
     - reddit: 0.05828260588006735
-    - emoji.json: 1
+    - emojis.json: 1
 - ☺ (0x263a)
     - reddit: 0.05828260588006735
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷🏻‍♂️ (0x1f9371f3fb200d2642fe0f)
     - reddit: 0.05828260588006735
-    - emoji.json: 1
+    - emojis.json: 1
 - 👏🏼 (0x1f44f1f3fc)
     - reddit: 0.05828260588006735
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤫 (0x1f92b)
     - reddit: 0.05828260588006735
-    - emoji.json: 1
+    - emojis.json: 1
 - 💪🏿 (0x1f4aa1f3ff)
     - reddit: 0.05828260588006735
-    - emoji.json: 1
+    - emojis.json: 1
 - 🟨 (0x1f7e8)
     - reddit: 0.05828260588006735
-    - emoji.json: 1
+    - emojis.json: 1
 - 👁️ (0x1f441fe0f)
     - reddit: 0.051806760782282094
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷🏼‍♀️ (0x1f9371f3fc200d2640fe0f)
     - reddit: 0.04533091568449683
-    - emoji.json: 1
+    - emojis.json: 1
 - ✌ (0x270c)
     - reddit: 0.04533091568449683
-    - emoji.json: 1
+    - emojis.json: 1
 - 👍🏼 (0x1f44d1f3fc)
     - reddit: 0.04533091568449683
-    - emoji.json: 1
+    - emojis.json: 1
 - 👌🏼 (0x1f44c1f3fc)
     - reddit: 0.04533091568449683
-    - emoji.json: 1
+    - emojis.json: 1
 - 👌🏽 (0x1f44c1f3fd)
     - reddit: 0.04533091568449683
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥱 (0x1f971)
     - reddit: 0.04533091568449683
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦🏽 (0x1f9261f3fd)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤞🏼 (0x1f91e1f3fc)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧠 (0x1f9e0)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇺🇲 (0x1f1fa1f1f2)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤘🏽 (0x1f9181f3fd)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤟 (0x1f91f)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦🏻‍♂️ (0x1f9261f3fb200d2642fe0f)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏻 (0x1f3fb)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
 - ⬆ (0x2b06)
     - reddit: 0.03885507058671157
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷 (0x1f937)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏼 (0x1f3fc)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷🏼‍♂️ (0x1f9371f3fc200d2642fe0f)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷🏾‍♀️ (0x1f9371f3fe200d2640fe0f)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦🏻‍♀️ (0x1f9261f3fb200d2640fe0f)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
 - 💪🏻 (0x1f4aa1f3fb)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦 (0x1f926)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
 - 🅱 (0x1f171)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇳🇬 (0x1f1f31f1ec)
     - reddit: 0.03237922548892631
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙌🏾 (0x1f64c1f3fe)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
 - 👌🏻 (0x1f44c1f3fb)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥦 (0x1f966)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
 - ☠ (0x2620)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
 - ✔ (0x2714)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
 - ⬇ (0x2b07)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
 - ☹ (0x2639)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
 - 👆🏻 (0x1f4461f3fb)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
 - 🎅🏻 (0x1f3851f3fb)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
 - ❗ (0x2757)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇹🇩 (0x1f1f91f1e9)
     - reddit: 0.025903380391141047
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦🏼‍♂️ (0x1f9261f3fc200d2642fe0f)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
 - 👍🏾 (0x1f44d1f3fe)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤏🏻 (0x1f90f1f3fb)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷🏼 (0x1f9371f3fc)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷🏾‍♂️ (0x1f9371f3fe200d2642fe0f)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
 - ☝ (0x261d)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙌🏽 (0x1f64c1f3fd)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧢 (0x1f9e2)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛄ (0x26c4)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
 - ⭕ (0x2b55)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
 - © (0xa9)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙏🏻 (0x1f64f1f3fb)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏽 (0x1f3fd)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
 - 💪🏽 (0x1f4aa1f3fd)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇬🇧 (0x1f1ec1f1e7)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
 - 👉🏻 (0x1f4491f3fb)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛔ (0x26d4)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛽ (0x26fd)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
 - ➡ (0x27a1)
     - reddit: 0.019427535293355783
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍 (0x1f9cd)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - ✍ (0x270d)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🎖️ (0x1f396fe0f)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶‍♂️ (0x1f6b6200d2642fe0f)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨‍🦽 (0x1f468200d1f9bd)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙‍♂️ (0x1f9d9200d2642fe0f)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦰 (0x1f9b0)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🖕🏽 (0x1f5951f3fd)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤍 (0x1f90d)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 💪🏾 (0x1f4aa1f3fe)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - ✏ (0x270f)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 👈🏼 (0x1f4481f3fc)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦾 (0x1f9be)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧁 (0x1f9c1)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧡 (0x1f9e1)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦🏽‍♂️ (0x1f9261f3fd200d2642fe0f)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧃 (0x1f9c3)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 👎🏻 (0x1f44e1f3fb)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥥 (0x1f965)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 👏🏽 (0x1f44f1f3fd)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧨 (0x1f9e8)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤜🏻 (0x1f91c1f3fb)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤛🏿 (0x1f91b1f3ff)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋🏼‍♂️ (0x1f64b1f3fc200d2642fe0f)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇩🇰 (0x1f1e91f1f0)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧼 (0x1f9fc)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏴‍☠️ (0x1f3f4200d2620fe0f)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦🏽‍♀️ (0x1f9261f3fd200d2640fe0f)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - ⚜ (0x269c)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - ⁉ (0x2049)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - ❄ (0x2744)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 👂🏾 (0x1f4421f3fe)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 👰🏼 (0x1f4701f3fc)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🟦 (0x1f7e6)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇧🇷 (0x1f1e71f1f7)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - ⚡ (0x26a1)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🗣️ (0x1f5e3fe0f)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🍽️ (0x1f37dfe0f)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃🏼‍♀️ (0x1f3c31f3fc200d2640fe0f)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🖕🏼 (0x1f5951f3fc)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 👉🏼 (0x1f4491f3fc)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - ✖ (0x2716)
     - reddit: 0.012951690195570523
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇵🇱 (0x1f1f51f1f1)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇🏻‍♀️ (0x1f6471f3fb200d2640fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇯🇵 (0x1f1ef1f1f5)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛣️ (0x1f6e3fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - ⚠ (0x26a0)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇷🇸 (0x1f1f71f1f8)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍🚀 (0x1f4691f3fb200d1f680)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - ↔ (0x2194)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏳 (0x1f3f3)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 〽 (0x303d)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇪🇸 (0x1f1ea1f1f8)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🅰 (0x1f170)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤲🏻 (0x1f9321f3fb)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦞 (0x1f99e)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤞🏻 (0x1f91e1f3fb)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍🚀 (0x1f4681f3fb200d1f680)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍🚀 (0x1f4681f3fd200d1f680)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤘🏻 (0x1f9181f3fb)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋‍♀️ (0x1f64b200d2640fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋🏻‍♂️ (0x1f64b1f3fb200d2642fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤞🏽 (0x1f91e1f3fd)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘 (0x1f9d8)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁‍♀️ (0x1f481200d2640fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏾 (0x1f3fe)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛🏼‍♂️ (0x1f9db1f3fc200d2642fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋🏼‍♀️ (0x1f64b1f3fc200d2640fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛🏻 (0x1f9db1f3fb)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🗑️ (0x1f5d1fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦🏿‍♂️ (0x1f9261f3ff200d2642fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 👉🏾 (0x1f4491f3fe)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 👈🏾 (0x1f4481f3fe)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧂 (0x1f9c2)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 👈🏻 (0x1f4481f3fb)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 👇🏻 (0x1f4471f3fb)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🖕🏻 (0x1f5951f3fb)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - ⚰ (0x26b0)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍🏻‍♀️ (0x1f9cd1f3fb200d2640fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 💅🏻 (0x1f4851f3fb)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾 (0x1f4681f3fe)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦓 (0x1f993)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇰🇵 (0x1f1f01f1f5)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚‍♀️ (0x1f9da200d2640fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇩🇪 (0x1f1e91f1ea)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧒 (0x1f9d2)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🗡️ (0x1f5e1fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇨🇦 (0x1f1e81f1e6)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳🏾‍♂️ (0x1f4731f3fe200d2642fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - ⚒️ (0x2692fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃🏻‍♀️ (0x1f3c31f3fb200d2640fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷🏽‍♀️ (0x1f9371f3fd200d2640fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇺🇾 (0x1f1fa1f1fe)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦🏾 (0x1f9261f3fe)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤜🏽 (0x1f91c1f3fd)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤲 (0x1f932)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅🏽 (0x1f6451f3fd)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇮🇹 (0x1f1ee1f1f9)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳🏼 (0x1f4731f3fc)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄🏾 (0x1f3c41f3fe)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - ⌨ (0x2328)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿 (0x1f4691f3ff)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 👫🏼 (0x1f46b1f3fc)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 👊🏼 (0x1f44a1f3fc)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧒🏻 (0x1f9d21f3fb)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🖖🏻 (0x1f5961f3fb)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦🏼 (0x1f9261f3fc)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 👌🏾 (0x1f44c1f3fe)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍🚀 (0x1f9d11f3fb200d1f680)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧟‍♂️ (0x1f9df200d2642fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦴 (0x1f9b4)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍🏾‍♂️ (0x1f9cd1f3fe200d2642fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 💪🏼 (0x1f4aa1f3fc)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 👎🏾 (0x1f44e1f3fe)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇹🇭 (0x1f1f91f1ed)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - ⬅ (0x2b05)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - ↕ (0x2195)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧕 (0x1f9d5)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼 (0x1f4691f3fc)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 👊🏽 (0x1f44a1f3fd)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳🏾 (0x1f4731f3fe)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 👋🏻 (0x1f44b1f3fb)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦜 (0x1f99c)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎🏻‍♀️ (0x1f64e1f3fb200d2640fe0f)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕺🏽 (0x1f57a1f3fd)
     - reddit: 0.006475845097785262
-    - emoji.json: 1
+    - emojis.json: 1
 - 👌🏿 (0x1f44c1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - ♻ (0x267b)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👍🏿 (0x1f44d1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙏🏿 (0x1f64f1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙏🏾 (0x1f64f1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙌🏿 (0x1f64c1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙌🏻 (0x1f64c1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✌🏿 (0x270c1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✌🏾 (0x270c1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✌🏽 (0x270c1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✌🏼 (0x270c1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✌🏻 (0x270c1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁🏿‍♂ (0x1f4811f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁🏾‍♂ (0x1f4811f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁🏽‍♂ (0x1f4811f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁🏼‍♂ (0x1f4811f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁🏻‍♂ (0x1f4811f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁‍♂ (0x1f481200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁🏿 (0x1f4811f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁🏾 (0x1f4811f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁🏽 (0x1f4811f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁🏼 (0x1f4811f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁🏻 (0x1f4811f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👏🏿 (0x1f44f1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✋🏿 (0x270b1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✋🏾 (0x270b1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✋🏽 (0x270b1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✋🏼 (0x270b1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✋🏻 (0x270b1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👉🏿 (0x1f4491f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👉🏽 (0x1f4491f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👊🏿 (0x1f44a1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👊🏾 (0x1f44a1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👊🏻 (0x1f44a1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👈🏿 (0x1f4481f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👈🏽 (0x1f4481f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👋🏿 (0x1f44b1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👋🏾 (0x1f44b1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👋🏽 (0x1f44b1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👋🏼 (0x1f44b1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋🏿‍♂ (0x1f64b1f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋🏾‍♂ (0x1f64b1f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋🏽‍♂ (0x1f64b1f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋🏼‍♂ (0x1f64b1f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋🏻‍♂ (0x1f64b1f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋‍♂ (0x1f64b200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋🏿 (0x1f64b1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋🏾 (0x1f64b1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋🏽 (0x1f64b1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋🏼 (0x1f64b1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋🏻 (0x1f64b1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👎🏿 (0x1f44e1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👎🏽 (0x1f44e1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👎🏼 (0x1f44e1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💃🏿 (0x1f4831f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💃🏾 (0x1f4831f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💃🏽 (0x1f4831f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💃🏼 (0x1f4831f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💃🏻 (0x1f4831f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✊🏿 (0x270a1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✊🏾 (0x270a1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✊🏽 (0x270a1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✊🏼 (0x270a1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✊🏻 (0x270a1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👇🏿 (0x1f4471f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👇🏾 (0x1f4471f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👇🏽 (0x1f4471f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👇🏼 (0x1f4471f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅🏿‍♂ (0x1f6451f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅🏾‍♂ (0x1f6451f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅🏽‍♂ (0x1f6451f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅🏼‍♂ (0x1f6451f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅🏻‍♂ (0x1f6451f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅‍♂ (0x1f645200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅🏿 (0x1f6451f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅🏾 (0x1f6451f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅🏼 (0x1f6451f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅🏻 (0x1f6451f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆🏿‍♂ (0x1f6461f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆🏾‍♂ (0x1f6461f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆🏽‍♂ (0x1f6461f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆🏼‍♂ (0x1f6461f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆🏻‍♂ (0x1f6461f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆‍♂ (0x1f646200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆🏿 (0x1f6461f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆🏾 (0x1f6461f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆🏽 (0x1f6461f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆🏼 (0x1f6461f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆🏻 (0x1f6461f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶🏿‍♀ (0x1f6b61f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶🏾‍♀ (0x1f6b61f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶🏽‍♀ (0x1f6b61f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶🏼‍♀ (0x1f6b61f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶🏻‍♀ (0x1f6b61f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶‍♀ (0x1f6b6200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶🏿 (0x1f6b61f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶🏾 (0x1f6b61f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶🏽 (0x1f6b61f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶🏼 (0x1f6b61f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶🏻 (0x1f6b61f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⭐ (0x2b50)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👐🏿 (0x1f4501f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👐🏾 (0x1f4501f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👐🏽 (0x1f4501f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👐🏼 (0x1f4501f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👐🏻 (0x1f4501f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💅🏿 (0x1f4851f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💅🏾 (0x1f4851f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💅🏽 (0x1f4851f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💅🏼 (0x1f4851f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇🏿‍♀ (0x1f6471f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇🏾‍♀ (0x1f6471f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇🏽‍♀ (0x1f6471f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇🏼‍♀ (0x1f6471f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇🏻‍♀ (0x1f6471f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇‍♀ (0x1f647200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇🏿 (0x1f6471f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇🏾 (0x1f6471f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇🏽 (0x1f6471f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇🏼 (0x1f6471f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇🏻 (0x1f6471f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - ☁ (0x2601)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⚽ (0x26bd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👼🏿 (0x1f47c1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👼🏾 (0x1f47c1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👼🏽 (0x1f47c1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👼🏼 (0x1f47c1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👼🏻 (0x1f47c1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👯‍♂ (0x1f46f200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - ☝🏿 (0x261d1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - ☝🏾 (0x261d1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - ☝🏽 (0x261d1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - ☝🏼 (0x261d1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - ☝🏻 (0x261d1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⚓ (0x2693)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃🏿‍♀ (0x1f3c31f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃🏾‍♀ (0x1f3c31f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃🏽‍♀ (0x1f3c31f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃🏼‍♀ (0x1f3c31f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃🏻‍♀ (0x1f3c31f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃‍♀ (0x1f3c3200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃🏿 (0x1f3c31f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃🏾 (0x1f3c31f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃🏽 (0x1f3c31f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃🏼 (0x1f3c31f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃🏻 (0x1f3c31f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - ☕ (0x2615)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👆🏿 (0x1f4461f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👆🏾 (0x1f4461f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👆🏽 (0x1f4461f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👆🏼 (0x1f4461f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👸🏿 (0x1f4781f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👸🏾 (0x1f4781f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👸🏽 (0x1f4781f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👸🏼 (0x1f4781f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👸🏻 (0x1f4781f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆🏿‍♂ (0x1f4861f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆🏾‍♂ (0x1f4861f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆🏽‍♂ (0x1f4861f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆🏼‍♂ (0x1f4861f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆🏻‍♂ (0x1f4861f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆‍♂ (0x1f486200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆🏿 (0x1f4861f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆🏾 (0x1f4861f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆🏽 (0x1f4861f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆🏼 (0x1f4861f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆🏻 (0x1f4861f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍🏿‍♂ (0x1f64d1f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍🏾‍♂ (0x1f64d1f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍🏽‍♂ (0x1f64d1f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍🏼‍♂ (0x1f64d1f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍🏻‍♂ (0x1f64d1f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍‍♂ (0x1f64d200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍🏿 (0x1f64d1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍🏾 (0x1f64d1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍🏽 (0x1f64d1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍🏼 (0x1f64d1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍🏻 (0x1f64d1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - ☔ (0x2614)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🎅🏿 (0x1f3851f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🎅🏾 (0x1f3851f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🎅🏽 (0x1f3851f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🎅🏼 (0x1f3851f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛅ (0x26c5)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👶🏿 (0x1f4761f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👶🏾 (0x1f4761f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👶🏽 (0x1f4761f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👶🏼 (0x1f4761f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👶🏻 (0x1f4761f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿 (0x1f4681f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽 (0x1f4681f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼 (0x1f4681f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻 (0x1f4681f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂🏿‍♀ (0x1f4821f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂🏾‍♀ (0x1f4821f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂🏽‍♀ (0x1f4821f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂🏼‍♀ (0x1f4821f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂🏻‍♀ (0x1f4821f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂‍♀ (0x1f482200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂🏿 (0x1f4821f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂🏾 (0x1f4821f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂🏽 (0x1f4821f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂🏼 (0x1f4821f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂🏻 (0x1f4821f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👧🏿 (0x1f4671f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👧🏾 (0x1f4671f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👧🏽 (0x1f4671f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👧🏼 (0x1f4671f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👧🏻 (0x1f4671f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇫🇷 (0x1f1eb1f1f7)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾 (0x1f4691f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽 (0x1f4691f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻 (0x1f4691f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊🏿‍♀ (0x1f3ca1f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊🏾‍♀ (0x1f3ca1f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊🏽‍♀ (0x1f3ca1f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊🏼‍♀ (0x1f3ca1f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊🏻‍♀ (0x1f3ca1f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊‍♀ (0x1f3ca200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊🏿 (0x1f3ca1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊🏾 (0x1f3ca1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊🏽 (0x1f3ca1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊🏼 (0x1f3ca1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊🏻 (0x1f3ca1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇🏿‍♂ (0x1f4871f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇🏾‍♂ (0x1f4871f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇🏽‍♂ (0x1f4871f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇🏼‍♂ (0x1f4871f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇🏻‍♂ (0x1f4871f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇‍♂ (0x1f487200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇🏿 (0x1f4871f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇🏾 (0x1f4871f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇🏽 (0x1f4871f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇🏼 (0x1f4871f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇🏻 (0x1f4871f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👦🏿 (0x1f4661f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👦🏾 (0x1f4661f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👦🏽 (0x1f4661f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👦🏼 (0x1f4661f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👦🏻 (0x1f4661f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎🏿‍♂ (0x1f64e1f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎🏾‍♂ (0x1f64e1f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎🏽‍♂ (0x1f64e1f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎🏼‍♂ (0x1f64e1f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎🏻‍♂ (0x1f64e1f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎‍♂ (0x1f64e200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎🏿 (0x1f64e1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎🏾 (0x1f64e1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎🏽 (0x1f64e1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎🏼 (0x1f64e1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎🏻 (0x1f64e1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👵🏿 (0x1f4751f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👵🏾 (0x1f4751f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👵🏽 (0x1f4751f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👵🏼 (0x1f4751f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👵🏻 (0x1f4751f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⚫ (0x26ab)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⚪ (0x26aa)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👃🏿 (0x1f4431f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👃🏾 (0x1f4431f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👃🏽 (0x1f4431f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👃🏼 (0x1f4431f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👃🏻 (0x1f4431f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳🏿‍♀ (0x1f4731f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳🏾‍♀ (0x1f4731f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳🏽‍♀ (0x1f4731f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳🏼‍♀ (0x1f4731f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳🏻‍♀ (0x1f4731f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳‍♀ (0x1f473200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳🏿 (0x1f4731f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳🏽 (0x1f4731f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳🏻 (0x1f4731f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👂🏿 (0x1f4421f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👂🏽 (0x1f4421f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👂🏼 (0x1f4421f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👂🏻 (0x1f4421f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👰🏿 (0x1f4701f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👰🏾 (0x1f4701f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👰🏽 (0x1f4701f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👰🏻 (0x1f4701f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⌚ (0x231a)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👴🏿 (0x1f4741f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👴🏾 (0x1f4741f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👴🏽 (0x1f4741f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👴🏼 (0x1f4741f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👴🏻 (0x1f4741f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - ↖ (0x2196)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛳ (0x26f3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄🏿‍♀ (0x1f3c41f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄🏾‍♀ (0x1f3c41f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄🏽‍♀ (0x1f3c41f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄🏼‍♀ (0x1f3c41f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄🏻‍♀ (0x1f3c41f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄‍♀ (0x1f3c4200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄🏿 (0x1f3c41f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄🏽 (0x1f3c41f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄🏼 (0x1f3c41f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄🏻 (0x1f3c41f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - ♋ (0x264b)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮🏿‍♀ (0x1f46e1f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮🏾‍♀ (0x1f46e1f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮🏽‍♀ (0x1f46e1f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮🏼‍♀ (0x1f46e1f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮🏻‍♀ (0x1f46e1f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮‍♀ (0x1f46e200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮🏿 (0x1f46e1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮🏾 (0x1f46e1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮🏽 (0x1f46e1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮🏼 (0x1f46e1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮🏻 (0x1f46e1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇪 (0x1f1ea)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱🏿‍♀ (0x1f4711f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱🏾‍♀ (0x1f4711f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱🏽‍♀ (0x1f4711f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱🏼‍♀ (0x1f4711f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱🏻‍♀ (0x1f4711f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱‍♀ (0x1f471200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱🏿 (0x1f4711f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱🏾 (0x1f4711f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱🏽 (0x1f4711f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱🏼 (0x1f4711f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱🏻 (0x1f4711f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 〰 (0x3030)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👲🏿 (0x1f4721f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👲🏾 (0x1f4721f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👲🏽 (0x1f4721f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👲🏼 (0x1f4721f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👲🏻 (0x1f4721f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛀🏿 (0x1f6c01f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛀🏾 (0x1f6c01f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛀🏽 (0x1f6c01f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛀🏼 (0x1f6c01f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛀🏻 (0x1f6c01f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛵ (0x26f5)
-    - emoji.json: 1
+    - emojis.json: 1
 - ♒ (0x2652)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✒ (0x2712)
-    - emoji.json: 1
+    - emojis.json: 1
 - ♈ (0x2648)
-    - emoji.json: 1
+    - emojis.json: 1
 - ♏ (0x264f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ♐ (0x2650)
-    - emoji.json: 1
+    - emojis.json: 1
 - ♌ (0x264c)
-    - emoji.json: 1
+    - emojis.json: 1
 - ♊ (0x264a)
-    - emoji.json: 1
+    - emojis.json: 1
 - ♉ (0x2649)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛪ (0x26ea)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴🏿‍♀ (0x1f6b41f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴🏾‍♀ (0x1f6b41f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴🏽‍♀ (0x1f6b41f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴🏼‍♀ (0x1f6b41f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴🏻‍♀ (0x1f6b41f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴‍♀ (0x1f6b4200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴🏿 (0x1f6b41f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴🏾 (0x1f6b41f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴🏽 (0x1f6b41f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴🏼 (0x1f6b41f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴🏻 (0x1f6b41f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - ♓ (0x2653)
-    - emoji.json: 1
+    - emojis.json: 1
 - ♑ (0x2651)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣🏿‍♀ (0x1f6a31f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣🏾‍♀ (0x1f6a31f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣🏽‍♀ (0x1f6a31f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣🏼‍♀ (0x1f6a31f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣🏻‍♀ (0x1f6a31f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣‍♀ (0x1f6a3200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣🏿 (0x1f6a31f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣🏾 (0x1f6a31f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣🏽 (0x1f6a31f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣🏼 (0x1f6a31f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣🏻 (0x1f6a31f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⌛ (0x231b)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷🏿‍♀ (0x1f4771f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷🏾‍♀ (0x1f4771f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷🏽‍♀ (0x1f4771f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷🏼‍♀ (0x1f4771f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷🏻‍♀ (0x1f4771f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷‍♀ (0x1f477200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷🏿 (0x1f4771f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷🏾 (0x1f4771f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷🏽 (0x1f4771f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷🏼 (0x1f4771f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷🏻 (0x1f4771f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - ㊙ (0x3299)
-    - emoji.json: 1
+    - emojis.json: 1
 - ♎ (0x264e)
-    - emoji.json: 1
+    - emojis.json: 1
 - ♍ (0x264d)
-    - emoji.json: 1
+    - emojis.json: 1
 - ㊗ (0x3297)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇷🇺 (0x1f1f71f1fa)
-    - emoji.json: 1
+    - emojis.json: 1
 - ℹ (0x2139)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛺ (0x26fa)
-    - emoji.json: 1
+    - emojis.json: 1
 - ◾ (0x25fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - ▫ (0x25ab)
-    - emoji.json: 1
+    - emojis.json: 1
 - ◼ (0x25fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇰🇷 (0x1f1f01f1f7)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⬜ (0x2b1c)
-    - emoji.json: 1
+    - emojis.json: 1
 - ♿ (0x267f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛲ (0x26f2)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⬛ (0x2b1b)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇨🇳 (0x1f1e81f1f3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵🏿‍♀ (0x1f6b51f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵🏾‍♀ (0x1f6b51f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵🏽‍♀ (0x1f6b51f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵🏼‍♀ (0x1f6b51f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵🏻‍♀ (0x1f6b51f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵‍♀ (0x1f6b5200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵🏿 (0x1f6b51f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵🏾 (0x1f6b51f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵🏽 (0x1f6b51f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵🏼 (0x1f6b51f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵🏻 (0x1f6b51f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - ◽ (0x25fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🀄 (0x1f004)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🈷 (0x1f237)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏳‍🌈 (0x1f3f3200d1f308)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵🏿‍♀ (0x1f5751f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵🏾‍♀ (0x1f5751f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵🏽‍♀ (0x1f5751f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵🏼‍♀ (0x1f5751f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵🏻‍♀ (0x1f5751f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵‍♀ (0x1f575200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵🏿 (0x1f5751f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵🏾 (0x1f5751f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵🏽 (0x1f5751f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵🏼 (0x1f5751f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵🏻 (0x1f5751f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵 (0x1f575)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤘🏿 (0x1f9181f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤘🏾 (0x1f9181f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🖖🏿 (0x1f5961f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🖖🏾 (0x1f5961f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🖖🏽 (0x1f5961f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🖖🏼 (0x1f5961f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🖕🏿 (0x1f5951f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🖕🏾 (0x1f5951f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🖐🏿 (0x1f5901f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🖐🏾 (0x1f5901f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🖐🏽 (0x1f5901f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🖐🏼 (0x1f5901f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🖐🏻 (0x1f5901f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✍🏿 (0x270d1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✍🏾 (0x270d1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✍🏽 (0x270d1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✍🏼 (0x270d1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✍🏻 (0x270d1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋🏿‍♀ (0x1f3cb1f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋🏾‍♀ (0x1f3cb1f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋🏽‍♀ (0x1f3cb1f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋🏼‍♀ (0x1f3cb1f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋🏻‍♀ (0x1f3cb1f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋‍♀ (0x1f3cb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋🏿 (0x1f3cb1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋🏾 (0x1f3cb1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋🏽 (0x1f3cb1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋🏼 (0x1f3cb1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋🏻 (0x1f3cb1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋 (0x1f3cb)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹🏿‍♀ (0x26f91f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹🏾‍♀ (0x26f91f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹🏽‍♀ (0x26f91f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹🏼‍♀ (0x26f91f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹🏻‍♀ (0x26f91f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹‍♀ (0x26f9200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹🏿 (0x26f91f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹🏾 (0x26f91f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹🏽 (0x26f91f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹🏼 (0x26f91f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹🏻 (0x26f91f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹ (0x26f9)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌 (0x1f3cc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌‍♀ (0x1f3cc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - *️⃣ (0x2afe0f20e3)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⚛ (0x269b)
-    - emoji.json: 1
+    - emojis.json: 1
 - ☸ (0x2638)
-    - emoji.json: 1
+    - emojis.json: 1
 - ☯ (0x262f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ☮ (0x262e)
-    - emoji.json: 1
+    - emojis.json: 1
 - ☪ (0x262a)
-    - emoji.json: 1
+    - emojis.json: 1
 - ☦ (0x2626)
-    - emoji.json: 1
+    - emojis.json: 1
 - ☣ (0x2623)
-    - emoji.json: 1
+    - emojis.json: 1
 - ☢ (0x2622)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⚱ (0x26b1)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⚙ (0x2699)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⚗ (0x2697)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⚖ (0x2696)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⚔ (0x2694)
-    - emoji.json: 1
+    - emojis.json: 1
 - ☘ (0x2618)
-    - emoji.json: 1
+    - emojis.json: 1
 - ☄ (0x2604)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇦🇨 (0x1f1e61f1e8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇦🇩 (0x1f1e61f1e9)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇦🇪 (0x1f1e61f1ea)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇦🇫 (0x1f1e61f1eb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇦🇬 (0x1f1e61f1ec)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇦🇮 (0x1f1e61f1ee)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇦🇱 (0x1f1e61f1f1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇦🇲 (0x1f1e61f1f2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇦🇴 (0x1f1e61f1f4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇦🇶 (0x1f1e61f1f6)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇦🇷 (0x1f1e61f1f7)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇦🇸 (0x1f1e61f1f8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇦🇹 (0x1f1e61f1f9)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇦🇺 (0x1f1e61f1fa)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇦🇼 (0x1f1e61f1fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇦🇽 (0x1f1e61f1fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇦🇿 (0x1f1e61f1ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇧🇦 (0x1f1e71f1e6)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇧🇧 (0x1f1e71f1e7)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇧🇩 (0x1f1e71f1e9)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇧🇪 (0x1f1e71f1ea)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇧🇫 (0x1f1e71f1eb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇧🇬 (0x1f1e71f1ec)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇧🇭 (0x1f1e71f1ed)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇧🇮 (0x1f1e71f1ee)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇧🇯 (0x1f1e71f1ef)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇧🇱 (0x1f1e71f1f1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇧🇲 (0x1f1e71f1f2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇧🇳 (0x1f1e71f1f3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇧🇴 (0x1f1e71f1f4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇧🇶 (0x1f1e71f1f6)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇧🇸 (0x1f1e71f1f8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇧🇹 (0x1f1e71f1f9)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇧🇻 (0x1f1e71f1fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇧🇼 (0x1f1e71f1fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇧🇾 (0x1f1e71f1fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇧🇿 (0x1f1e71f1ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇨🇨 (0x1f1e81f1e8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇨🇩 (0x1f1e81f1e9)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇨🇫 (0x1f1e81f1eb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇨🇬 (0x1f1e81f1ec)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇨🇭 (0x1f1e81f1ed)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇨🇮 (0x1f1e81f1ee)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇨🇰 (0x1f1e81f1f0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇨🇱 (0x1f1e81f1f1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇨🇲 (0x1f1e81f1f2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇨🇴 (0x1f1e81f1f4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇨🇵 (0x1f1e81f1f5)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇨🇷 (0x1f1e81f1f7)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇨🇺 (0x1f1e81f1fa)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇨🇻 (0x1f1e81f1fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇨🇼 (0x1f1e81f1fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇨🇽 (0x1f1e81f1fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇨🇾 (0x1f1e81f1fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇨🇿 (0x1f1e81f1ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇩🇬 (0x1f1e91f1ec)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇩🇯 (0x1f1e91f1ef)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇩🇲 (0x1f1e91f1f2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇩🇴 (0x1f1e91f1f4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇩🇿 (0x1f1e91f1ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇪🇦 (0x1f1ea1f1e6)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇪🇨 (0x1f1ea1f1e8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇪🇪 (0x1f1ea1f1ea)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇪🇬 (0x1f1ea1f1ec)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇪🇭 (0x1f1ea1f1ed)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇪🇷 (0x1f1ea1f1f7)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇪🇹 (0x1f1ea1f1f9)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇪🇺 (0x1f1ea1f1fa)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇫🇮 (0x1f1eb1f1ee)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇫🇯 (0x1f1eb1f1ef)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇫🇰 (0x1f1eb1f1f0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇫🇲 (0x1f1eb1f1f2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇫🇴 (0x1f1eb1f1f4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇬🇦 (0x1f1ec1f1e6)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇬🇩 (0x1f1ec1f1e9)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇬🇪 (0x1f1ec1f1ea)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇬🇫 (0x1f1ec1f1eb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇬🇬 (0x1f1ec1f1ec)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇬🇭 (0x1f1ec1f1ed)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇬🇮 (0x1f1ec1f1ee)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇬🇱 (0x1f1ec1f1f1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇬🇲 (0x1f1ec1f1f2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇬🇳 (0x1f1ec1f1f3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇬🇵 (0x1f1ec1f1f5)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇬🇶 (0x1f1ec1f1f6)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇬🇷 (0x1f1ec1f1f7)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇬🇸 (0x1f1ec1f1f8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇬🇹 (0x1f1ec1f1f9)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇬🇺 (0x1f1ec1f1fa)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇬🇼 (0x1f1ec1f1fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇬🇾 (0x1f1ec1f1fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇭🇰 (0x1f1ed1f1f0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇭🇲 (0x1f1ed1f1f2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇭🇳 (0x1f1ed1f1f3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇭🇷 (0x1f1ed1f1f7)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇭🇹 (0x1f1ed1f1f9)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇭🇺 (0x1f1ed1f1fa)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇮🇨 (0x1f1ee1f1e8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇮🇩 (0x1f1ee1f1e9)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇮🇪 (0x1f1ee1f1ea)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇮🇱 (0x1f1ee1f1f1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇮🇲 (0x1f1ee1f1f2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇮🇳 (0x1f1ee1f1f3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇮🇴 (0x1f1ee1f1f4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇮🇶 (0x1f1ee1f1f6)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇮🇷 (0x1f1ee1f1f7)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇮🇸 (0x1f1ee1f1f8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇯🇪 (0x1f1ef1f1ea)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇯🇲 (0x1f1ef1f1f2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇯🇴 (0x1f1ef1f1f4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇰🇪 (0x1f1f01f1ea)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇰🇬 (0x1f1f01f1ec)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇰🇭 (0x1f1f01f1ed)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇰🇮 (0x1f1f01f1ee)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇰🇲 (0x1f1f01f1f2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇰🇳 (0x1f1f01f1f3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇰🇼 (0x1f1f01f1fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇰🇾 (0x1f1f01f1fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇰🇿 (0x1f1f01f1ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇱🇦 (0x1f1f11f1e6)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇱🇧 (0x1f1f11f1e7)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇱🇨 (0x1f1f11f1e8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇱🇮 (0x1f1f11f1ee)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇱🇰 (0x1f1f11f1f0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇱🇷 (0x1f1f11f1f7)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇱🇸 (0x1f1f11f1f8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇱🇹 (0x1f1f11f1f9)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇱🇺 (0x1f1f11f1fa)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇱🇻 (0x1f1f11f1fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇱🇾 (0x1f1f11f1fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇲🇦 (0x1f1f21f1e6)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇲🇨 (0x1f1f21f1e8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇲🇩 (0x1f1f21f1e9)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇲🇪 (0x1f1f21f1ea)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇲🇫 (0x1f1f21f1eb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇲🇬 (0x1f1f21f1ec)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇲🇭 (0x1f1f21f1ed)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇲🇰 (0x1f1f21f1f0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇲🇱 (0x1f1f21f1f1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇲🇲 (0x1f1f21f1f2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇲🇳 (0x1f1f21f1f3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇲🇴 (0x1f1f21f1f4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇲🇵 (0x1f1f21f1f5)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇲🇶 (0x1f1f21f1f6)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇲🇷 (0x1f1f21f1f7)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇲🇸 (0x1f1f21f1f8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇲🇹 (0x1f1f21f1f9)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇲🇺 (0x1f1f21f1fa)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇲🇻 (0x1f1f21f1fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇲🇼 (0x1f1f21f1fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇲🇽 (0x1f1f21f1fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇲🇾 (0x1f1f21f1fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇲🇿 (0x1f1f21f1ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇳🇦 (0x1f1f31f1e6)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇳🇨 (0x1f1f31f1e8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇳🇪 (0x1f1f31f1ea)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇳🇫 (0x1f1f31f1eb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇳🇮 (0x1f1f31f1ee)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇳🇱 (0x1f1f31f1f1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇳🇴 (0x1f1f31f1f4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇳🇵 (0x1f1f31f1f5)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇳🇷 (0x1f1f31f1f7)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇳🇺 (0x1f1f31f1fa)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇳🇿 (0x1f1f31f1ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇴🇲 (0x1f1f41f1f2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇵🇦 (0x1f1f51f1e6)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇵🇪 (0x1f1f51f1ea)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇵🇫 (0x1f1f51f1eb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇵🇬 (0x1f1f51f1ec)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇵🇭 (0x1f1f51f1ed)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇵🇰 (0x1f1f51f1f0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇵🇲 (0x1f1f51f1f2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇵🇳 (0x1f1f51f1f3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇵🇷 (0x1f1f51f1f7)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇵🇸 (0x1f1f51f1f8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇵🇹 (0x1f1f51f1f9)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇵🇼 (0x1f1f51f1fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇵🇾 (0x1f1f51f1fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇶🇦 (0x1f1f61f1e6)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇷🇪 (0x1f1f71f1ea)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇷🇴 (0x1f1f71f1f4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇷🇼 (0x1f1f71f1fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇸🇦 (0x1f1f81f1e6)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇸🇧 (0x1f1f81f1e7)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇸🇨 (0x1f1f81f1e8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇸🇩 (0x1f1f81f1e9)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇸🇪 (0x1f1f81f1ea)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇸🇬 (0x1f1f81f1ec)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇸🇭 (0x1f1f81f1ed)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇸🇮 (0x1f1f81f1ee)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇸🇯 (0x1f1f81f1ef)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇸🇰 (0x1f1f81f1f0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇸🇱 (0x1f1f81f1f1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇸🇲 (0x1f1f81f1f2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇸🇳 (0x1f1f81f1f3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇸🇴 (0x1f1f81f1f4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇸🇷 (0x1f1f81f1f7)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇸🇸 (0x1f1f81f1f8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇸🇹 (0x1f1f81f1f9)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇸🇻 (0x1f1f81f1fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇸🇽 (0x1f1f81f1fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇸🇾 (0x1f1f81f1fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇸🇿 (0x1f1f81f1ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇹🇦 (0x1f1f91f1e6)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇹🇨 (0x1f1f91f1e8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇹🇫 (0x1f1f91f1eb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇹🇬 (0x1f1f91f1ec)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇹🇯 (0x1f1f91f1ef)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇹🇰 (0x1f1f91f1f0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇹🇱 (0x1f1f91f1f1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇹🇲 (0x1f1f91f1f2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇹🇳 (0x1f1f91f1f3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇹🇴 (0x1f1f91f1f4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇹🇷 (0x1f1f91f1f7)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇹🇹 (0x1f1f91f1f9)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇹🇻 (0x1f1f91f1fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇹🇼 (0x1f1f91f1fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇹🇿 (0x1f1f91f1ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇺🇦 (0x1f1fa1f1e6)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇺🇬 (0x1f1fa1f1ec)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇺🇿 (0x1f1fa1f1ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇻🇦 (0x1f1fb1f1e6)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇻🇨 (0x1f1fb1f1e8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇻🇪 (0x1f1fb1f1ea)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇻🇬 (0x1f1fb1f1ec)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇻🇮 (0x1f1fb1f1ee)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇻🇳 (0x1f1fb1f1f3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇻🇺 (0x1f1fb1f1fa)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇼🇫 (0x1f1fc1f1eb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇼🇸 (0x1f1fc1f1f8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇽🇰 (0x1f1fd1f1f0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇾🇪 (0x1f1fe1f1ea)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇾🇹 (0x1f1fe1f1f9)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇿🇦 (0x1f1ff1f1e6)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇿🇲 (0x1f1ff1f1f2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇿🇼 (0x1f1ff1f1fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🗨 (0x1f5e8)
-    - emoji.json: 1
+    - emojis.json: 1
 - ♠ (0x2660)
-    - emoji.json: 1
+    - emojis.json: 1
 - ♦ (0x2666)
-    - emoji.json: 1
+    - emojis.json: 1
 - ♣ (0x2663)
-    - emoji.json: 1
+    - emojis.json: 1
 - 0️⃣ (0x30fe0f20e3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 1️⃣ (0x31fe0f20e3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 2️⃣ (0x32fe0f20e3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 3️⃣ (0x33fe0f20e3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 4️⃣ (0x34fe0f20e3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 5️⃣ (0x35fe0f20e3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 6️⃣ (0x36fe0f20e3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 7️⃣ (0x37fe0f20e3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 8️⃣ (0x38fe0f20e3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 9️⃣ (0x39fe0f20e3)
-    - emoji.json: 1
+    - emojis.json: 1
 - #⃣ (0x2320e3)
-    - emoji.json: 1
+    - emojis.json: 1
 - *⃣ (0x2a20e3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 0⃣ (0x3020e3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 1⃣ (0x3120e3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 2⃣ (0x3220e3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 3⃣ (0x3320e3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 4⃣ (0x3420e3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 5⃣ (0x3520e3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 6⃣ (0x3620e3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 7⃣ (0x3720e3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 8⃣ (0x3820e3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 9⃣ (0x3920e3)
-    - emoji.json: 1
+    - emojis.json: 1
 - ❣ (0x2763)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤎 (0x1f90e)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕳️ (0x1f573fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👁️‍🗨️ (0x1f441fe0f200d1f5e8fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👁‍🗨️ (0x1f441200d1f5e8fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👁️‍🗨 (0x1f441fe0f200d1f5e8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🗨️ (0x1f5e8fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🗯️ (0x1f5effe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤚🏻 (0x1f91a1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤚🏼 (0x1f91a1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤚🏽 (0x1f91a1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤚🏾 (0x1f91a1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤚🏿 (0x1f91a1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🖐️ (0x1f590fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤏 (0x1f90f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤏🏼 (0x1f90f1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤏🏽 (0x1f90f1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤏🏾 (0x1f90f1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤏🏿 (0x1f90f1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤞🏾 (0x1f91e1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤞🏿 (0x1f91e1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤟🏻 (0x1f91f1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤟🏼 (0x1f91f1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤟🏽 (0x1f91f1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤟🏾 (0x1f91f1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤟🏿 (0x1f91f1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤙🏻 (0x1f9191f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤙🏼 (0x1f9191f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤙🏽 (0x1f9191f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤙🏾 (0x1f9191f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤛🏻 (0x1f91b1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤛🏼 (0x1f91b1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤛🏽 (0x1f91b1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤛🏾 (0x1f91b1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤜🏼 (0x1f91c1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤜🏾 (0x1f91c1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤜🏿 (0x1f91c1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤲🏼 (0x1f9321f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤲🏽 (0x1f9321f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤲🏾 (0x1f9321f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤲🏿 (0x1f9321f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤳🏻 (0x1f9331f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤳🏼 (0x1f9331f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤳🏽 (0x1f9331f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤳🏾 (0x1f9331f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤳🏿 (0x1f9331f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦿 (0x1f9bf)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦵 (0x1f9b5)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦵🏻 (0x1f9b51f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦵🏼 (0x1f9b51f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦵🏽 (0x1f9b51f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦵🏾 (0x1f9b51f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦵🏿 (0x1f9b51f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦶 (0x1f9b6)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦶🏻 (0x1f9b61f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦶🏼 (0x1f9b61f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦶🏽 (0x1f9b61f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦶🏾 (0x1f9b61f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦶🏿 (0x1f9b61f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦻 (0x1f9bb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦻🏻 (0x1f9bb1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦻🏼 (0x1f9bb1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦻🏽 (0x1f9bb1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦻🏾 (0x1f9bb1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦻🏿 (0x1f9bb1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦷 (0x1f9b7)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧒🏼 (0x1f9d21f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧒🏽 (0x1f9d21f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧒🏾 (0x1f9d21f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧒🏿 (0x1f9d21f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑 (0x1f9d1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻 (0x1f9d11f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼 (0x1f9d11f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽 (0x1f9d11f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾 (0x1f9d11f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿 (0x1f9d11f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧔 (0x1f9d4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧔🏻 (0x1f9d41f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧔🏼 (0x1f9d41f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧔🏽 (0x1f9d41f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧔🏾 (0x1f9d41f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧔🏿 (0x1f9d41f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨‍🦰 (0x1f468200d1f9b0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍🦰 (0x1f4681f3fb200d1f9b0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍🦰 (0x1f4681f3fc200d1f9b0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍🦰 (0x1f4681f3fd200d1f9b0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍🦰 (0x1f4681f3fe200d1f9b0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍🦰 (0x1f4681f3ff200d1f9b0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨‍🦱 (0x1f468200d1f9b1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍🦱 (0x1f4681f3fb200d1f9b1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍🦱 (0x1f4681f3fc200d1f9b1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍🦱 (0x1f4681f3fd200d1f9b1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍🦱 (0x1f4681f3fe200d1f9b1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍🦱 (0x1f4681f3ff200d1f9b1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨‍🦳 (0x1f468200d1f9b3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍🦳 (0x1f4681f3fb200d1f9b3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍🦳 (0x1f4681f3fc200d1f9b3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍🦳 (0x1f4681f3fd200d1f9b3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍🦳 (0x1f4681f3fe200d1f9b3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍🦳 (0x1f4681f3ff200d1f9b3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨‍🦲 (0x1f468200d1f9b2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍🦲 (0x1f4681f3fb200d1f9b2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍🦲 (0x1f4681f3fc200d1f9b2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍🦲 (0x1f4681f3fd200d1f9b2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍🦲 (0x1f4681f3fe200d1f9b2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍🦲 (0x1f4681f3ff200d1f9b2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩‍🦰 (0x1f469200d1f9b0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍🦰 (0x1f4691f3fb200d1f9b0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍🦰 (0x1f4691f3fc200d1f9b0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍🦰 (0x1f4691f3fd200d1f9b0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍🦰 (0x1f4691f3fe200d1f9b0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍🦰 (0x1f4691f3ff200d1f9b0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍🦰 (0x1f9d1200d1f9b0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍🦰 (0x1f9d11f3fb200d1f9b0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍🦰 (0x1f9d11f3fc200d1f9b0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍🦰 (0x1f9d11f3fd200d1f9b0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍🦰 (0x1f9d11f3fe200d1f9b0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍🦰 (0x1f9d11f3ff200d1f9b0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩‍🦱 (0x1f469200d1f9b1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍🦱 (0x1f4691f3fb200d1f9b1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍🦱 (0x1f4691f3fc200d1f9b1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍🦱 (0x1f4691f3fd200d1f9b1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍🦱 (0x1f4691f3fe200d1f9b1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍🦱 (0x1f4691f3ff200d1f9b1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍🦱 (0x1f9d1200d1f9b1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍🦱 (0x1f9d11f3fb200d1f9b1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍🦱 (0x1f9d11f3fc200d1f9b1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍🦱 (0x1f9d11f3fd200d1f9b1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍🦱 (0x1f9d11f3fe200d1f9b1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍🦱 (0x1f9d11f3ff200d1f9b1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩‍🦳 (0x1f469200d1f9b3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍🦳 (0x1f4691f3fb200d1f9b3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍🦳 (0x1f4691f3fc200d1f9b3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍🦳 (0x1f4691f3fd200d1f9b3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍🦳 (0x1f4691f3fe200d1f9b3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍🦳 (0x1f4691f3ff200d1f9b3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍🦳 (0x1f9d1200d1f9b3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍🦳 (0x1f9d11f3fb200d1f9b3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍🦳 (0x1f9d11f3fc200d1f9b3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍🦳 (0x1f9d11f3fd200d1f9b3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍🦳 (0x1f9d11f3fe200d1f9b3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍🦳 (0x1f9d11f3ff200d1f9b3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩‍🦲 (0x1f469200d1f9b2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍🦲 (0x1f4691f3fb200d1f9b2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍🦲 (0x1f4691f3fc200d1f9b2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍🦲 (0x1f4691f3fd200d1f9b2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍🦲 (0x1f4691f3fe200d1f9b2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍🦲 (0x1f4691f3ff200d1f9b2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍🦲 (0x1f9d1200d1f9b2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍🦲 (0x1f9d11f3fb200d1f9b2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍🦲 (0x1f9d11f3fc200d1f9b2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍🦲 (0x1f9d11f3fd200d1f9b2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍🦲 (0x1f9d11f3fe200d1f9b2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍🦲 (0x1f9d11f3ff200d1f9b2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱🏻‍♀️ (0x1f4711f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱🏼‍♀️ (0x1f4711f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱🏽‍♀️ (0x1f4711f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱🏾‍♀️ (0x1f4711f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱🏿‍♀️ (0x1f4711f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱‍♂️ (0x1f471200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱‍♂ (0x1f471200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱🏻‍♂️ (0x1f4711f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱🏻‍♂ (0x1f4711f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱🏼‍♂️ (0x1f4711f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱🏼‍♂ (0x1f4711f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱🏽‍♂️ (0x1f4711f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱🏽‍♂ (0x1f4711f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱🏾‍♂️ (0x1f4711f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱🏾‍♂ (0x1f4711f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱🏿‍♂️ (0x1f4711f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👱🏿‍♂ (0x1f4711f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧓 (0x1f9d3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧓🏻 (0x1f9d31f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧓🏼 (0x1f9d31f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧓🏽 (0x1f9d31f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧓🏾 (0x1f9d31f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧓🏿 (0x1f9d31f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍🏻‍♂️ (0x1f64d1f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍🏼‍♂️ (0x1f64d1f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍🏽‍♂️ (0x1f64d1f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍🏾‍♂️ (0x1f64d1f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍🏿‍♂️ (0x1f64d1f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍‍♀️ (0x1f64d200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍‍♀ (0x1f64d200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍🏻‍♀️ (0x1f64d1f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍🏻‍♀ (0x1f64d1f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍🏼‍♀️ (0x1f64d1f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍🏼‍♀ (0x1f64d1f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍🏽‍♀️ (0x1f64d1f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍🏽‍♀ (0x1f64d1f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍🏾‍♀️ (0x1f64d1f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍🏾‍♀ (0x1f64d1f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍🏿‍♀️ (0x1f64d1f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙍🏿‍♀ (0x1f64d1f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎🏻‍♂️ (0x1f64e1f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎🏼‍♂️ (0x1f64e1f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎🏽‍♂️ (0x1f64e1f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎🏾‍♂️ (0x1f64e1f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎🏿‍♂️ (0x1f64e1f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎‍♀️ (0x1f64e200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎‍♀ (0x1f64e200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎🏻‍♀ (0x1f64e1f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎🏼‍♀️ (0x1f64e1f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎🏼‍♀ (0x1f64e1f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎🏽‍♀️ (0x1f64e1f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎🏽‍♀ (0x1f64e1f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎🏾‍♀️ (0x1f64e1f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎🏾‍♀ (0x1f64e1f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎🏿‍♀️ (0x1f64e1f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙎🏿‍♀ (0x1f64e1f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅🏻‍♂️ (0x1f6451f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅🏼‍♂️ (0x1f6451f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅🏽‍♂️ (0x1f6451f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅🏾‍♂️ (0x1f6451f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅🏿‍♂️ (0x1f6451f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅‍♀️ (0x1f645200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅‍♀ (0x1f645200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅🏻‍♀️ (0x1f6451f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅🏻‍♀ (0x1f6451f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅🏼‍♀️ (0x1f6451f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅🏼‍♀ (0x1f6451f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅🏽‍♀️ (0x1f6451f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅🏽‍♀ (0x1f6451f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅🏾‍♀️ (0x1f6451f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅🏾‍♀ (0x1f6451f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅🏿‍♀️ (0x1f6451f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙅🏿‍♀ (0x1f6451f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆🏻‍♂️ (0x1f6461f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆🏼‍♂️ (0x1f6461f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆🏽‍♂️ (0x1f6461f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆🏾‍♂️ (0x1f6461f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆🏿‍♂️ (0x1f6461f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆‍♀️ (0x1f646200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆‍♀ (0x1f646200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆🏻‍♀️ (0x1f6461f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆🏻‍♀ (0x1f6461f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆🏼‍♀️ (0x1f6461f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆🏼‍♀ (0x1f6461f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆🏽‍♀️ (0x1f6461f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆🏽‍♀ (0x1f6461f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆🏾‍♀️ (0x1f6461f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆🏾‍♀ (0x1f6461f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆🏿‍♀️ (0x1f6461f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙆🏿‍♀ (0x1f6461f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁🏻‍♂️ (0x1f4811f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁🏼‍♂️ (0x1f4811f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁🏽‍♂️ (0x1f4811f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁🏾‍♂️ (0x1f4811f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁🏿‍♂️ (0x1f4811f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁‍♀ (0x1f481200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁🏻‍♀️ (0x1f4811f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁🏻‍♀ (0x1f4811f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁🏼‍♀️ (0x1f4811f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁🏼‍♀ (0x1f4811f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁🏽‍♀️ (0x1f4811f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁🏽‍♀ (0x1f4811f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁🏾‍♀️ (0x1f4811f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁🏾‍♀ (0x1f4811f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁🏿‍♀️ (0x1f4811f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💁🏿‍♀ (0x1f4811f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋🏽‍♂️ (0x1f64b1f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋🏾‍♂️ (0x1f64b1f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋🏿‍♂️ (0x1f64b1f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋‍♀ (0x1f64b200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋🏻‍♀️ (0x1f64b1f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋🏻‍♀ (0x1f64b1f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋🏼‍♀ (0x1f64b1f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋🏽‍♀️ (0x1f64b1f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋🏽‍♀ (0x1f64b1f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋🏾‍♀️ (0x1f64b1f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋🏾‍♀ (0x1f64b1f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋🏿‍♀️ (0x1f64b1f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙋🏿‍♀ (0x1f64b1f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏 (0x1f9cf)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏🏻 (0x1f9cf1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏🏼 (0x1f9cf1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏🏽 (0x1f9cf1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏🏾 (0x1f9cf1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏🏿 (0x1f9cf1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏‍♂️ (0x1f9cf200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏‍♂ (0x1f9cf200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏🏻‍♂️ (0x1f9cf1f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏🏻‍♂ (0x1f9cf1f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏🏼‍♂️ (0x1f9cf1f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏🏼‍♂ (0x1f9cf1f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏🏽‍♂️ (0x1f9cf1f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏🏽‍♂ (0x1f9cf1f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏🏾‍♂️ (0x1f9cf1f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏🏾‍♂ (0x1f9cf1f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏🏿‍♂️ (0x1f9cf1f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏🏿‍♂ (0x1f9cf1f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏‍♀️ (0x1f9cf200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏‍♀ (0x1f9cf200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏🏻‍♀️ (0x1f9cf1f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏🏻‍♀ (0x1f9cf1f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏🏼‍♀️ (0x1f9cf1f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏🏼‍♀ (0x1f9cf1f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏🏽‍♀️ (0x1f9cf1f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏🏽‍♀ (0x1f9cf1f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏🏾‍♀️ (0x1f9cf1f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏🏾‍♀ (0x1f9cf1f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏🏿‍♀️ (0x1f9cf1f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧏🏿‍♀ (0x1f9cf1f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇‍♂️ (0x1f647200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇‍♂ (0x1f647200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇🏻‍♂️ (0x1f6471f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇🏻‍♂ (0x1f6471f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇🏼‍♂️ (0x1f6471f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇🏼‍♂ (0x1f6471f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇🏽‍♂️ (0x1f6471f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇🏽‍♂ (0x1f6471f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇🏾‍♂️ (0x1f6471f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇🏾‍♂ (0x1f6471f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇🏿‍♂️ (0x1f6471f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇🏿‍♂ (0x1f6471f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇🏼‍♀️ (0x1f6471f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇🏽‍♀️ (0x1f6471f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇🏾‍♀️ (0x1f6471f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🙇🏿‍♀️ (0x1f6471f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦🏻 (0x1f9261f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦🏿 (0x1f9261f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦‍♂ (0x1f926200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦🏻‍♂ (0x1f9261f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦🏼‍♂ (0x1f9261f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦🏽‍♂ (0x1f9261f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦🏾‍♂️ (0x1f9261f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦🏾‍♂ (0x1f9261f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦🏿‍♂ (0x1f9261f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦‍♀ (0x1f926200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦🏻‍♀ (0x1f9261f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦🏼‍♀️ (0x1f9261f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦🏼‍♀ (0x1f9261f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦🏽‍♀ (0x1f9261f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦🏾‍♀️ (0x1f9261f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦🏾‍♀ (0x1f9261f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦🏿‍♀️ (0x1f9261f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤦🏿‍♀ (0x1f9261f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷🏻 (0x1f9371f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷🏽 (0x1f9371f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷🏾 (0x1f9371f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷🏿 (0x1f9371f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷‍♂ (0x1f937200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷🏻‍♂ (0x1f9371f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷🏼‍♂ (0x1f9371f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷🏽‍♂️ (0x1f9371f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷🏽‍♂ (0x1f9371f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷🏾‍♂ (0x1f9371f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷🏿‍♂️ (0x1f9371f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷🏿‍♂ (0x1f9371f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷‍♀ (0x1f937200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷🏻‍♀ (0x1f9371f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷🏼‍♀ (0x1f9371f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷🏽‍♀ (0x1f9371f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷🏾‍♀ (0x1f9371f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷🏿‍♀️ (0x1f9371f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤷🏿‍♀ (0x1f9371f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍⚕️ (0x1f9d1200d2695fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍⚕ (0x1f9d1200d2695)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍⚕️ (0x1f9d11f3fb200d2695fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍⚕ (0x1f9d11f3fb200d2695)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍⚕️ (0x1f9d11f3fc200d2695fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍⚕ (0x1f9d11f3fc200d2695)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍⚕️ (0x1f9d11f3fd200d2695fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍⚕ (0x1f9d11f3fd200d2695)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍⚕️ (0x1f9d11f3fe200d2695fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍⚕ (0x1f9d11f3fe200d2695)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍⚕️ (0x1f9d11f3ff200d2695fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍⚕ (0x1f9d11f3ff200d2695)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨‍⚕ (0x1f468200d2695)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍⚕️ (0x1f4681f3fb200d2695fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍⚕ (0x1f4681f3fb200d2695)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍⚕️ (0x1f4681f3fc200d2695fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍⚕ (0x1f4681f3fc200d2695)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍⚕️ (0x1f4681f3fd200d2695fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍⚕ (0x1f4681f3fd200d2695)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍⚕️ (0x1f4681f3fe200d2695fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍⚕ (0x1f4681f3fe200d2695)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍⚕️ (0x1f4681f3ff200d2695fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍⚕ (0x1f4681f3ff200d2695)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩‍⚕ (0x1f469200d2695)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍⚕️ (0x1f4691f3fb200d2695fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍⚕ (0x1f4691f3fb200d2695)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍⚕️ (0x1f4691f3fc200d2695fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍⚕ (0x1f4691f3fc200d2695)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍⚕️ (0x1f4691f3fd200d2695fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍⚕ (0x1f4691f3fd200d2695)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍⚕️ (0x1f4691f3fe200d2695fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍⚕ (0x1f4691f3fe200d2695)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍⚕️ (0x1f4691f3ff200d2695fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍⚕ (0x1f4691f3ff200d2695)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍🎓 (0x1f9d1200d1f393)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍🎓 (0x1f9d11f3fb200d1f393)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍🎓 (0x1f9d11f3fc200d1f393)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍🎓 (0x1f9d11f3fd200d1f393)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍🎓 (0x1f9d11f3fe200d1f393)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍🎓 (0x1f9d11f3ff200d1f393)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍🎓 (0x1f4681f3fb200d1f393)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍🎓 (0x1f4681f3fc200d1f393)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍🎓 (0x1f4681f3fd200d1f393)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍🎓 (0x1f4681f3fe200d1f393)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍🎓 (0x1f4681f3ff200d1f393)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍🎓 (0x1f4691f3fb200d1f393)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍🎓 (0x1f4691f3fc200d1f393)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍🎓 (0x1f4691f3fd200d1f393)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍🎓 (0x1f4691f3fe200d1f393)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍🎓 (0x1f4691f3ff200d1f393)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍🏫 (0x1f9d1200d1f3eb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍🏫 (0x1f9d11f3fb200d1f3eb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍🏫 (0x1f9d11f3fc200d1f3eb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍🏫 (0x1f9d11f3fd200d1f3eb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍🏫 (0x1f9d11f3fe200d1f3eb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍🏫 (0x1f9d11f3ff200d1f3eb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍🏫 (0x1f4681f3fb200d1f3eb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍🏫 (0x1f4681f3fc200d1f3eb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍🏫 (0x1f4681f3fd200d1f3eb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍🏫 (0x1f4681f3fe200d1f3eb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍🏫 (0x1f4681f3ff200d1f3eb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍🏫 (0x1f4691f3fb200d1f3eb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍🏫 (0x1f4691f3fc200d1f3eb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍🏫 (0x1f4691f3fd200d1f3eb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍🏫 (0x1f4691f3fe200d1f3eb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍🏫 (0x1f4691f3ff200d1f3eb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍⚖️ (0x1f9d1200d2696fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍⚖ (0x1f9d1200d2696)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍⚖️ (0x1f9d11f3fb200d2696fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍⚖ (0x1f9d11f3fb200d2696)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍⚖️ (0x1f9d11f3fc200d2696fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍⚖ (0x1f9d11f3fc200d2696)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍⚖️ (0x1f9d11f3fd200d2696fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍⚖ (0x1f9d11f3fd200d2696)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍⚖️ (0x1f9d11f3fe200d2696fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍⚖ (0x1f9d11f3fe200d2696)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍⚖️ (0x1f9d11f3ff200d2696fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍⚖ (0x1f9d11f3ff200d2696)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨‍⚖ (0x1f468200d2696)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍⚖️ (0x1f4681f3fb200d2696fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍⚖ (0x1f4681f3fb200d2696)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍⚖️ (0x1f4681f3fc200d2696fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍⚖ (0x1f4681f3fc200d2696)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍⚖️ (0x1f4681f3fd200d2696fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍⚖ (0x1f4681f3fd200d2696)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍⚖️ (0x1f4681f3fe200d2696fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍⚖ (0x1f4681f3fe200d2696)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍⚖️ (0x1f4681f3ff200d2696fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍⚖ (0x1f4681f3ff200d2696)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩‍⚖ (0x1f469200d2696)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍⚖️ (0x1f4691f3fb200d2696fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍⚖ (0x1f4691f3fb200d2696)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍⚖️ (0x1f4691f3fc200d2696fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍⚖ (0x1f4691f3fc200d2696)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍⚖️ (0x1f4691f3fd200d2696fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍⚖ (0x1f4691f3fd200d2696)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍⚖️ (0x1f4691f3fe200d2696fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍⚖ (0x1f4691f3fe200d2696)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍⚖️ (0x1f4691f3ff200d2696fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍⚖ (0x1f4691f3ff200d2696)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍🌾 (0x1f9d1200d1f33e)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍🌾 (0x1f9d11f3fb200d1f33e)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍🌾 (0x1f9d11f3fc200d1f33e)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍🌾 (0x1f9d11f3fd200d1f33e)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍🌾 (0x1f9d11f3fe200d1f33e)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍🌾 (0x1f9d11f3ff200d1f33e)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍🌾 (0x1f4681f3fb200d1f33e)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍🌾 (0x1f4681f3fc200d1f33e)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍🌾 (0x1f4681f3fd200d1f33e)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍🌾 (0x1f4681f3fe200d1f33e)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍🌾 (0x1f4681f3ff200d1f33e)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍🌾 (0x1f4691f3fb200d1f33e)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍🌾 (0x1f4691f3fc200d1f33e)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍🌾 (0x1f4691f3fd200d1f33e)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍🌾 (0x1f4691f3fe200d1f33e)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍🌾 (0x1f4691f3ff200d1f33e)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍🍳 (0x1f9d1200d1f373)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍🍳 (0x1f9d11f3fb200d1f373)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍🍳 (0x1f9d11f3fc200d1f373)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍🍳 (0x1f9d11f3fd200d1f373)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍🍳 (0x1f9d11f3fe200d1f373)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍🍳 (0x1f9d11f3ff200d1f373)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍🍳 (0x1f4681f3fb200d1f373)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍🍳 (0x1f4681f3fc200d1f373)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍🍳 (0x1f4681f3fd200d1f373)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍🍳 (0x1f4681f3fe200d1f373)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍🍳 (0x1f4681f3ff200d1f373)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍🍳 (0x1f4691f3fb200d1f373)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍🍳 (0x1f4691f3fc200d1f373)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍🍳 (0x1f4691f3fd200d1f373)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍🍳 (0x1f4691f3fe200d1f373)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍🍳 (0x1f4691f3ff200d1f373)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍🔧 (0x1f9d1200d1f527)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍🔧 (0x1f9d11f3fb200d1f527)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍🔧 (0x1f9d11f3fc200d1f527)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍🔧 (0x1f9d11f3fd200d1f527)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍🔧 (0x1f9d11f3fe200d1f527)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍🔧 (0x1f9d11f3ff200d1f527)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍🔧 (0x1f4681f3fb200d1f527)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍🔧 (0x1f4681f3fc200d1f527)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍🔧 (0x1f4681f3fd200d1f527)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍🔧 (0x1f4681f3fe200d1f527)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍🔧 (0x1f4681f3ff200d1f527)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍🔧 (0x1f4691f3fb200d1f527)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍🔧 (0x1f4691f3fc200d1f527)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍🔧 (0x1f4691f3fd200d1f527)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍🔧 (0x1f4691f3fe200d1f527)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍🔧 (0x1f4691f3ff200d1f527)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍🏭 (0x1f9d1200d1f3ed)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍🏭 (0x1f9d11f3fb200d1f3ed)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍🏭 (0x1f9d11f3fc200d1f3ed)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍🏭 (0x1f9d11f3fd200d1f3ed)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍🏭 (0x1f9d11f3fe200d1f3ed)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍🏭 (0x1f9d11f3ff200d1f3ed)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍🏭 (0x1f4681f3fb200d1f3ed)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍🏭 (0x1f4681f3fc200d1f3ed)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍🏭 (0x1f4681f3fd200d1f3ed)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍🏭 (0x1f4681f3fe200d1f3ed)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍🏭 (0x1f4681f3ff200d1f3ed)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍🏭 (0x1f4691f3fb200d1f3ed)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍🏭 (0x1f4691f3fc200d1f3ed)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍🏭 (0x1f4691f3fd200d1f3ed)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍🏭 (0x1f4691f3fe200d1f3ed)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍🏭 (0x1f4691f3ff200d1f3ed)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍💼 (0x1f9d1200d1f4bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍💼 (0x1f9d11f3fb200d1f4bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍💼 (0x1f9d11f3fc200d1f4bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍💼 (0x1f9d11f3fd200d1f4bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍💼 (0x1f9d11f3fe200d1f4bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍💼 (0x1f9d11f3ff200d1f4bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍💼 (0x1f4681f3fb200d1f4bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍💼 (0x1f4681f3fc200d1f4bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍💼 (0x1f4681f3fd200d1f4bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍💼 (0x1f4681f3fe200d1f4bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍💼 (0x1f4681f3ff200d1f4bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍💼 (0x1f4691f3fb200d1f4bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍💼 (0x1f4691f3fc200d1f4bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍💼 (0x1f4691f3fd200d1f4bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍💼 (0x1f4691f3fe200d1f4bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍💼 (0x1f4691f3ff200d1f4bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍🔬 (0x1f9d1200d1f52c)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍🔬 (0x1f9d11f3fb200d1f52c)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍🔬 (0x1f9d11f3fc200d1f52c)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍🔬 (0x1f9d11f3fd200d1f52c)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍🔬 (0x1f9d11f3fe200d1f52c)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍🔬 (0x1f9d11f3ff200d1f52c)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍🔬 (0x1f4681f3fb200d1f52c)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍🔬 (0x1f4681f3fc200d1f52c)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍🔬 (0x1f4681f3fd200d1f52c)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍🔬 (0x1f4681f3fe200d1f52c)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍🔬 (0x1f4681f3ff200d1f52c)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍🔬 (0x1f4691f3fb200d1f52c)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍🔬 (0x1f4691f3fc200d1f52c)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍🔬 (0x1f4691f3fd200d1f52c)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍🔬 (0x1f4691f3fe200d1f52c)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍🔬 (0x1f4691f3ff200d1f52c)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍💻 (0x1f9d1200d1f4bb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍💻 (0x1f9d11f3fb200d1f4bb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍💻 (0x1f9d11f3fc200d1f4bb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍💻 (0x1f9d11f3fd200d1f4bb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍💻 (0x1f9d11f3fe200d1f4bb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍💻 (0x1f9d11f3ff200d1f4bb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍💻 (0x1f4681f3fb200d1f4bb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍💻 (0x1f4681f3fc200d1f4bb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍💻 (0x1f4681f3fd200d1f4bb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍💻 (0x1f4681f3fe200d1f4bb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍💻 (0x1f4681f3ff200d1f4bb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍💻 (0x1f4691f3fb200d1f4bb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍💻 (0x1f4691f3fc200d1f4bb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍💻 (0x1f4691f3fd200d1f4bb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍💻 (0x1f4691f3fe200d1f4bb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍💻 (0x1f4691f3ff200d1f4bb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍🎤 (0x1f9d1200d1f3a4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍🎤 (0x1f9d11f3fb200d1f3a4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍🎤 (0x1f9d11f3fc200d1f3a4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍🎤 (0x1f9d11f3fd200d1f3a4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍🎤 (0x1f9d11f3fe200d1f3a4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍🎤 (0x1f9d11f3ff200d1f3a4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍🎤 (0x1f4681f3fb200d1f3a4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍🎤 (0x1f4681f3fc200d1f3a4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍🎤 (0x1f4681f3fd200d1f3a4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍🎤 (0x1f4681f3fe200d1f3a4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍🎤 (0x1f4681f3ff200d1f3a4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍🎤 (0x1f4691f3fb200d1f3a4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍🎤 (0x1f4691f3fc200d1f3a4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍🎤 (0x1f4691f3fd200d1f3a4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍🎤 (0x1f4691f3fe200d1f3a4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍🎤 (0x1f4691f3ff200d1f3a4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍🎨 (0x1f9d1200d1f3a8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍🎨 (0x1f9d11f3fb200d1f3a8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍🎨 (0x1f9d11f3fc200d1f3a8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍🎨 (0x1f9d11f3fd200d1f3a8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍🎨 (0x1f9d11f3fe200d1f3a8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍🎨 (0x1f9d11f3ff200d1f3a8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍🎨 (0x1f4681f3fb200d1f3a8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍🎨 (0x1f4681f3fc200d1f3a8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍🎨 (0x1f4681f3fd200d1f3a8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍🎨 (0x1f4681f3fe200d1f3a8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍🎨 (0x1f4681f3ff200d1f3a8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍🎨 (0x1f4691f3fb200d1f3a8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍🎨 (0x1f4691f3fc200d1f3a8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍🎨 (0x1f4691f3fd200d1f3a8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍🎨 (0x1f4691f3fe200d1f3a8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍🎨 (0x1f4691f3ff200d1f3a8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍✈️ (0x1f9d1200d2708fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍✈ (0x1f9d1200d2708)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍✈️ (0x1f9d11f3fb200d2708fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍✈ (0x1f9d11f3fb200d2708)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍✈️ (0x1f9d11f3fc200d2708fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍✈ (0x1f9d11f3fc200d2708)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍✈️ (0x1f9d11f3fd200d2708fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍✈ (0x1f9d11f3fd200d2708)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍✈️ (0x1f9d11f3fe200d2708fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍✈ (0x1f9d11f3fe200d2708)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍✈️ (0x1f9d11f3ff200d2708fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍✈ (0x1f9d11f3ff200d2708)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨‍✈ (0x1f468200d2708)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍✈️ (0x1f4681f3fb200d2708fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍✈ (0x1f4681f3fb200d2708)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍✈️ (0x1f4681f3fc200d2708fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍✈ (0x1f4681f3fc200d2708)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍✈️ (0x1f4681f3fd200d2708fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍✈ (0x1f4681f3fd200d2708)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍✈️ (0x1f4681f3fe200d2708fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍✈ (0x1f4681f3fe200d2708)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍✈️ (0x1f4681f3ff200d2708fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍✈ (0x1f4681f3ff200d2708)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩‍✈ (0x1f469200d2708)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍✈️ (0x1f4691f3fb200d2708fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍✈ (0x1f4691f3fb200d2708)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍✈️ (0x1f4691f3fc200d2708fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍✈ (0x1f4691f3fc200d2708)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍✈️ (0x1f4691f3fd200d2708fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍✈ (0x1f4691f3fd200d2708)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍✈️ (0x1f4691f3fe200d2708fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍✈ (0x1f4691f3fe200d2708)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍✈️ (0x1f4691f3ff200d2708fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍✈ (0x1f4691f3ff200d2708)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍🚀 (0x1f9d1200d1f680)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍🚀 (0x1f9d11f3fc200d1f680)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍🚀 (0x1f9d11f3fd200d1f680)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍🚀 (0x1f9d11f3fe200d1f680)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍🚀 (0x1f9d11f3ff200d1f680)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍🚀 (0x1f4681f3fc200d1f680)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍🚀 (0x1f4681f3fe200d1f680)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍🚀 (0x1f4681f3ff200d1f680)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍🚀 (0x1f4691f3fc200d1f680)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍🚀 (0x1f4691f3fd200d1f680)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍🚀 (0x1f4691f3fe200d1f680)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍🚀 (0x1f4691f3ff200d1f680)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍🚒 (0x1f9d1200d1f692)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍🚒 (0x1f9d11f3fb200d1f692)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍🚒 (0x1f9d11f3fc200d1f692)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍🚒 (0x1f9d11f3fd200d1f692)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍🚒 (0x1f9d11f3fe200d1f692)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍🚒 (0x1f9d11f3ff200d1f692)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍🚒 (0x1f4681f3fb200d1f692)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍🚒 (0x1f4681f3fc200d1f692)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍🚒 (0x1f4681f3fd200d1f692)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍🚒 (0x1f4681f3fe200d1f692)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍🚒 (0x1f4681f3ff200d1f692)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍🚒 (0x1f4691f3fb200d1f692)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍🚒 (0x1f4691f3fc200d1f692)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍🚒 (0x1f4691f3fd200d1f692)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍🚒 (0x1f4691f3fe200d1f692)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍🚒 (0x1f4691f3ff200d1f692)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮‍♂️ (0x1f46e200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮‍♂ (0x1f46e200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮🏻‍♂️ (0x1f46e1f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮🏻‍♂ (0x1f46e1f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮🏼‍♂️ (0x1f46e1f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮🏼‍♂ (0x1f46e1f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮🏽‍♂️ (0x1f46e1f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮🏽‍♂ (0x1f46e1f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮🏾‍♂️ (0x1f46e1f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮🏾‍♂ (0x1f46e1f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮🏿‍♂️ (0x1f46e1f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮🏿‍♂ (0x1f46e1f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮🏻‍♀️ (0x1f46e1f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮🏼‍♀️ (0x1f46e1f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮🏽‍♀️ (0x1f46e1f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮🏾‍♀️ (0x1f46e1f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👮🏿‍♀️ (0x1f46e1f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵️‍♂️ (0x1f575fe0f200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵‍♂️ (0x1f575200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵️‍♂ (0x1f575fe0f200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵‍♂ (0x1f575200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵🏻‍♂️ (0x1f5751f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵🏻‍♂ (0x1f5751f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵🏼‍♂️ (0x1f5751f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵🏼‍♂ (0x1f5751f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵🏽‍♂️ (0x1f5751f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵🏽‍♂ (0x1f5751f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵🏾‍♂️ (0x1f5751f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵🏾‍♂ (0x1f5751f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵🏿‍♂️ (0x1f5751f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵🏿‍♂ (0x1f5751f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵‍♀️ (0x1f575200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵️‍♀ (0x1f575fe0f200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵🏻‍♀️ (0x1f5751f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵🏼‍♀️ (0x1f5751f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵🏽‍♀️ (0x1f5751f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵🏾‍♀️ (0x1f5751f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕵🏿‍♀️ (0x1f5751f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂‍♂️ (0x1f482200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂‍♂ (0x1f482200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂🏻‍♂️ (0x1f4821f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂🏻‍♂ (0x1f4821f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂🏼‍♂️ (0x1f4821f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂🏼‍♂ (0x1f4821f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂🏽‍♂️ (0x1f4821f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂🏽‍♂ (0x1f4821f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂🏾‍♂️ (0x1f4821f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂🏾‍♂ (0x1f4821f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂🏿‍♂️ (0x1f4821f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂🏿‍♂ (0x1f4821f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂🏻‍♀️ (0x1f4821f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂🏼‍♀️ (0x1f4821f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂🏽‍♀️ (0x1f4821f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂🏾‍♀️ (0x1f4821f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💂🏿‍♀️ (0x1f4821f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷‍♂️ (0x1f477200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷‍♂ (0x1f477200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷🏻‍♂️ (0x1f4771f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷🏻‍♂ (0x1f4771f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷🏼‍♂️ (0x1f4771f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷🏼‍♂ (0x1f4771f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷🏽‍♂️ (0x1f4771f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷🏽‍♂ (0x1f4771f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷🏾‍♂️ (0x1f4771f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷🏾‍♂ (0x1f4771f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷🏿‍♂️ (0x1f4771f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷🏿‍♂ (0x1f4771f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷🏻‍♀️ (0x1f4771f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷🏼‍♀️ (0x1f4771f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷🏽‍♀️ (0x1f4771f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷🏾‍♀️ (0x1f4771f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👷🏿‍♀️ (0x1f4771f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤴🏻 (0x1f9341f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤴🏼 (0x1f9341f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤴🏽 (0x1f9341f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤴🏾 (0x1f9341f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤴🏿 (0x1f9341f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳‍♂️ (0x1f473200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳‍♂ (0x1f473200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳🏻‍♂️ (0x1f4731f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳🏻‍♂ (0x1f4731f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳🏼‍♂️ (0x1f4731f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳🏼‍♂ (0x1f4731f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳🏽‍♂️ (0x1f4731f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳🏽‍♂ (0x1f4731f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳🏾‍♂ (0x1f4731f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳🏿‍♂️ (0x1f4731f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳🏿‍♂ (0x1f4731f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳🏻‍♀️ (0x1f4731f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳🏼‍♀️ (0x1f4731f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳🏽‍♀️ (0x1f4731f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳🏾‍♀️ (0x1f4731f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👳🏿‍♀️ (0x1f4731f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧕🏻 (0x1f9d51f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧕🏼 (0x1f9d51f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧕🏽 (0x1f9d51f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧕🏾 (0x1f9d51f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧕🏿 (0x1f9d51f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤵🏻 (0x1f9351f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤵🏼 (0x1f9351f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤵🏽 (0x1f9351f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤵🏾 (0x1f9351f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤵🏿 (0x1f9351f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤰🏻 (0x1f9301f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤰🏼 (0x1f9301f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤰🏽 (0x1f9301f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤰🏾 (0x1f9301f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤰🏿 (0x1f9301f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤱 (0x1f931)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤱🏻 (0x1f9311f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤱🏼 (0x1f9311f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤱🏽 (0x1f9311f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤱🏾 (0x1f9311f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤱🏿 (0x1f9311f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤶🏻 (0x1f9361f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤶🏼 (0x1f9361f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤶🏽 (0x1f9361f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤶🏾 (0x1f9361f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤶🏿 (0x1f9361f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸 (0x1f9b8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸🏻 (0x1f9b81f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸🏼 (0x1f9b81f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸🏽 (0x1f9b81f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸🏾 (0x1f9b81f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸🏿 (0x1f9b81f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸‍♂️ (0x1f9b8200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸‍♂ (0x1f9b8200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸🏻‍♂️ (0x1f9b81f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸🏻‍♂ (0x1f9b81f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸🏼‍♂️ (0x1f9b81f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸🏼‍♂ (0x1f9b81f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸🏽‍♂️ (0x1f9b81f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸🏽‍♂ (0x1f9b81f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸🏾‍♂️ (0x1f9b81f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸🏾‍♂ (0x1f9b81f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸🏿‍♂️ (0x1f9b81f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸🏿‍♂ (0x1f9b81f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸‍♀️ (0x1f9b8200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸‍♀ (0x1f9b8200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸🏻‍♀️ (0x1f9b81f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸🏻‍♀ (0x1f9b81f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸🏼‍♀️ (0x1f9b81f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸🏼‍♀ (0x1f9b81f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸🏽‍♀️ (0x1f9b81f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸🏽‍♀ (0x1f9b81f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸🏾‍♀️ (0x1f9b81f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸🏾‍♀ (0x1f9b81f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸🏿‍♀️ (0x1f9b81f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦸🏿‍♀ (0x1f9b81f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹 (0x1f9b9)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹🏻 (0x1f9b91f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹🏼 (0x1f9b91f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹🏽 (0x1f9b91f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹🏾 (0x1f9b91f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹🏿 (0x1f9b91f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹‍♂️ (0x1f9b9200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹‍♂ (0x1f9b9200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹🏻‍♂️ (0x1f9b91f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹🏻‍♂ (0x1f9b91f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹🏼‍♂️ (0x1f9b91f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹🏼‍♂ (0x1f9b91f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹🏽‍♂️ (0x1f9b91f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹🏽‍♂ (0x1f9b91f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹🏾‍♂️ (0x1f9b91f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹🏾‍♂ (0x1f9b91f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹🏿‍♂️ (0x1f9b91f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹🏿‍♂ (0x1f9b91f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹‍♀️ (0x1f9b9200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹‍♀ (0x1f9b9200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹🏻‍♀️ (0x1f9b91f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹🏻‍♀ (0x1f9b91f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹🏼‍♀️ (0x1f9b91f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹🏼‍♀ (0x1f9b91f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹🏽‍♀️ (0x1f9b91f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹🏽‍♀ (0x1f9b91f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹🏾‍♀️ (0x1f9b91f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹🏾‍♀ (0x1f9b91f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹🏿‍♀️ (0x1f9b91f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦹🏿‍♀ (0x1f9b91f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙 (0x1f9d9)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙🏻 (0x1f9d91f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙🏼 (0x1f9d91f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙🏽 (0x1f9d91f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙🏾 (0x1f9d91f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙🏿 (0x1f9d91f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙‍♂ (0x1f9d9200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙🏻‍♂️ (0x1f9d91f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙🏻‍♂ (0x1f9d91f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙🏼‍♂️ (0x1f9d91f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙🏼‍♂ (0x1f9d91f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙🏽‍♂️ (0x1f9d91f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙🏽‍♂ (0x1f9d91f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙🏾‍♂️ (0x1f9d91f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙🏾‍♂ (0x1f9d91f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙🏿‍♂️ (0x1f9d91f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙🏿‍♂ (0x1f9d91f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙‍♀️ (0x1f9d9200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙‍♀ (0x1f9d9200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙🏻‍♀️ (0x1f9d91f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙🏻‍♀ (0x1f9d91f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙🏼‍♀️ (0x1f9d91f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙🏼‍♀ (0x1f9d91f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙🏽‍♀️ (0x1f9d91f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙🏽‍♀ (0x1f9d91f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙🏾‍♀️ (0x1f9d91f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙🏾‍♀ (0x1f9d91f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙🏿‍♀️ (0x1f9d91f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧙🏿‍♀ (0x1f9d91f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚 (0x1f9da)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚🏻 (0x1f9da1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚🏼 (0x1f9da1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚🏽 (0x1f9da1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚🏾 (0x1f9da1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚🏿 (0x1f9da1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚‍♂️ (0x1f9da200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚‍♂ (0x1f9da200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚🏻‍♂️ (0x1f9da1f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚🏻‍♂ (0x1f9da1f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚🏼‍♂️ (0x1f9da1f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚🏼‍♂ (0x1f9da1f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚🏽‍♂️ (0x1f9da1f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚🏽‍♂ (0x1f9da1f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚🏾‍♂️ (0x1f9da1f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚🏾‍♂ (0x1f9da1f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚🏿‍♂️ (0x1f9da1f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚🏿‍♂ (0x1f9da1f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚‍♀ (0x1f9da200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚🏻‍♀️ (0x1f9da1f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚🏻‍♀ (0x1f9da1f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚🏼‍♀️ (0x1f9da1f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚🏼‍♀ (0x1f9da1f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚🏽‍♀️ (0x1f9da1f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚🏽‍♀ (0x1f9da1f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚🏾‍♀️ (0x1f9da1f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚🏾‍♀ (0x1f9da1f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚🏿‍♀️ (0x1f9da1f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧚🏿‍♀ (0x1f9da1f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛 (0x1f9db)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛🏼 (0x1f9db1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛🏽 (0x1f9db1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛🏾 (0x1f9db1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛🏿 (0x1f9db1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛‍♂️ (0x1f9db200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛‍♂ (0x1f9db200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛🏻‍♂️ (0x1f9db1f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛🏻‍♂ (0x1f9db1f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛🏼‍♂ (0x1f9db1f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛🏽‍♂️ (0x1f9db1f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛🏽‍♂ (0x1f9db1f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛🏾‍♂️ (0x1f9db1f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛🏾‍♂ (0x1f9db1f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛🏿‍♂️ (0x1f9db1f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛🏿‍♂ (0x1f9db1f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛‍♀️ (0x1f9db200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛‍♀ (0x1f9db200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛🏻‍♀️ (0x1f9db1f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛🏻‍♀ (0x1f9db1f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛🏼‍♀️ (0x1f9db1f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛🏼‍♀ (0x1f9db1f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛🏽‍♀️ (0x1f9db1f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛🏽‍♀ (0x1f9db1f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛🏾‍♀️ (0x1f9db1f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛🏾‍♀ (0x1f9db1f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛🏿‍♀️ (0x1f9db1f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧛🏿‍♀ (0x1f9db1f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜 (0x1f9dc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜🏻 (0x1f9dc1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜🏼 (0x1f9dc1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜🏽 (0x1f9dc1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜🏾 (0x1f9dc1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜🏿 (0x1f9dc1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜‍♂️ (0x1f9dc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜‍♂ (0x1f9dc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜🏻‍♂️ (0x1f9dc1f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜🏻‍♂ (0x1f9dc1f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜🏼‍♂️ (0x1f9dc1f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜🏼‍♂ (0x1f9dc1f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜🏽‍♂️ (0x1f9dc1f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜🏽‍♂ (0x1f9dc1f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜🏾‍♂️ (0x1f9dc1f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜🏾‍♂ (0x1f9dc1f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜🏿‍♂️ (0x1f9dc1f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜🏿‍♂ (0x1f9dc1f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜‍♀️ (0x1f9dc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜‍♀ (0x1f9dc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜🏻‍♀️ (0x1f9dc1f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜🏻‍♀ (0x1f9dc1f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜🏼‍♀️ (0x1f9dc1f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜🏼‍♀ (0x1f9dc1f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜🏽‍♀️ (0x1f9dc1f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜🏽‍♀ (0x1f9dc1f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜🏾‍♀️ (0x1f9dc1f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜🏾‍♀ (0x1f9dc1f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜🏿‍♀️ (0x1f9dc1f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧜🏿‍♀ (0x1f9dc1f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝 (0x1f9dd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝🏻 (0x1f9dd1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝🏼 (0x1f9dd1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝🏽 (0x1f9dd1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝🏾 (0x1f9dd1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝🏿 (0x1f9dd1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝‍♂️ (0x1f9dd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝‍♂ (0x1f9dd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝🏻‍♂️ (0x1f9dd1f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝🏻‍♂ (0x1f9dd1f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝🏼‍♂️ (0x1f9dd1f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝🏼‍♂ (0x1f9dd1f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝🏽‍♂️ (0x1f9dd1f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝🏽‍♂ (0x1f9dd1f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝🏾‍♂️ (0x1f9dd1f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝🏾‍♂ (0x1f9dd1f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝🏿‍♂️ (0x1f9dd1f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝🏿‍♂ (0x1f9dd1f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝‍♀️ (0x1f9dd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝‍♀ (0x1f9dd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝🏻‍♀️ (0x1f9dd1f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝🏻‍♀ (0x1f9dd1f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝🏼‍♀️ (0x1f9dd1f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝🏼‍♀ (0x1f9dd1f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝🏽‍♀️ (0x1f9dd1f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝🏽‍♀ (0x1f9dd1f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝🏾‍♀️ (0x1f9dd1f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝🏾‍♀ (0x1f9dd1f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝🏿‍♀️ (0x1f9dd1f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧝🏿‍♀ (0x1f9dd1f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧞 (0x1f9de)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧞‍♂️ (0x1f9de200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧞‍♂ (0x1f9de200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧞‍♀️ (0x1f9de200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧞‍♀ (0x1f9de200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧟 (0x1f9df)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧟‍♂ (0x1f9df200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧟‍♀️ (0x1f9df200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧟‍♀ (0x1f9df200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆🏻‍♂️ (0x1f4861f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆🏼‍♂️ (0x1f4861f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆🏽‍♂️ (0x1f4861f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆🏾‍♂️ (0x1f4861f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆🏿‍♂️ (0x1f4861f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆‍♀️ (0x1f486200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆‍♀ (0x1f486200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆🏻‍♀️ (0x1f4861f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆🏻‍♀ (0x1f4861f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆🏼‍♀️ (0x1f4861f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆🏼‍♀ (0x1f4861f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆🏽‍♀️ (0x1f4861f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆🏽‍♀ (0x1f4861f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆🏾‍♀️ (0x1f4861f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆🏾‍♀ (0x1f4861f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆🏿‍♀️ (0x1f4861f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💆🏿‍♀ (0x1f4861f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇🏻‍♂️ (0x1f4871f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇🏼‍♂️ (0x1f4871f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇🏽‍♂️ (0x1f4871f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇🏾‍♂️ (0x1f4871f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇🏿‍♂️ (0x1f4871f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇‍♀️ (0x1f487200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇‍♀ (0x1f487200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇🏻‍♀️ (0x1f4871f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇🏻‍♀ (0x1f4871f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇🏼‍♀️ (0x1f4871f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇🏼‍♀ (0x1f4871f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇🏽‍♀️ (0x1f4871f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇🏽‍♀ (0x1f4871f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇🏾‍♀️ (0x1f4871f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇🏾‍♀ (0x1f4871f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇🏿‍♀️ (0x1f4871f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 💇🏿‍♀ (0x1f4871f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶‍♂ (0x1f6b6200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶🏻‍♂️ (0x1f6b61f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶🏻‍♂ (0x1f6b61f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶🏼‍♂️ (0x1f6b61f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶🏼‍♂ (0x1f6b61f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶🏽‍♂️ (0x1f6b61f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶🏽‍♂ (0x1f6b61f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶🏾‍♂️ (0x1f6b61f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶🏾‍♂ (0x1f6b61f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶🏿‍♂️ (0x1f6b61f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶🏿‍♂ (0x1f6b61f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶🏻‍♀️ (0x1f6b61f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶🏼‍♀️ (0x1f6b61f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶🏽‍♀️ (0x1f6b61f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶🏾‍♀️ (0x1f6b61f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚶🏿‍♀️ (0x1f6b61f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍🏻 (0x1f9cd1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍🏼 (0x1f9cd1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍🏽 (0x1f9cd1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍🏾 (0x1f9cd1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍🏿 (0x1f9cd1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍‍♂️ (0x1f9cd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍‍♂ (0x1f9cd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍🏻‍♂️ (0x1f9cd1f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍🏻‍♂ (0x1f9cd1f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍🏼‍♂️ (0x1f9cd1f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍🏼‍♂ (0x1f9cd1f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍🏽‍♂️ (0x1f9cd1f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍🏽‍♂ (0x1f9cd1f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍🏾‍♂ (0x1f9cd1f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍🏿‍♂️ (0x1f9cd1f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍🏿‍♂ (0x1f9cd1f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍‍♀️ (0x1f9cd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍‍♀ (0x1f9cd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍🏻‍♀ (0x1f9cd1f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍🏼‍♀️ (0x1f9cd1f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍🏼‍♀ (0x1f9cd1f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍🏽‍♀️ (0x1f9cd1f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍🏽‍♀ (0x1f9cd1f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍🏾‍♀️ (0x1f9cd1f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍🏾‍♀ (0x1f9cd1f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍🏿‍♀️ (0x1f9cd1f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧍🏿‍♀ (0x1f9cd1f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎 (0x1f9ce)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎🏻 (0x1f9ce1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎🏼 (0x1f9ce1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎🏽 (0x1f9ce1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎🏾 (0x1f9ce1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎🏿 (0x1f9ce1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎‍♂️ (0x1f9ce200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎‍♂ (0x1f9ce200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎🏻‍♂️ (0x1f9ce1f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎🏻‍♂ (0x1f9ce1f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎🏼‍♂️ (0x1f9ce1f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎🏼‍♂ (0x1f9ce1f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎🏽‍♂️ (0x1f9ce1f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎🏽‍♂ (0x1f9ce1f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎🏾‍♂️ (0x1f9ce1f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎🏾‍♂ (0x1f9ce1f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎🏿‍♂️ (0x1f9ce1f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎🏿‍♂ (0x1f9ce1f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎‍♀️ (0x1f9ce200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎‍♀ (0x1f9ce200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎🏻‍♀️ (0x1f9ce1f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎🏻‍♀ (0x1f9ce1f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎🏼‍♀️ (0x1f9ce1f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎🏼‍♀ (0x1f9ce1f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎🏽‍♀️ (0x1f9ce1f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎🏽‍♀ (0x1f9ce1f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎🏾‍♀️ (0x1f9ce1f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎🏾‍♀ (0x1f9ce1f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎🏿‍♀️ (0x1f9ce1f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧎🏿‍♀ (0x1f9ce1f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍🦯 (0x1f9d1200d1f9af)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍🦯 (0x1f9d11f3fb200d1f9af)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍🦯 (0x1f9d11f3fc200d1f9af)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍🦯 (0x1f9d11f3fd200d1f9af)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍🦯 (0x1f9d11f3fe200d1f9af)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍🦯 (0x1f9d11f3ff200d1f9af)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨‍🦯 (0x1f468200d1f9af)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍🦯 (0x1f4681f3fb200d1f9af)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍🦯 (0x1f4681f3fc200d1f9af)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍🦯 (0x1f4681f3fd200d1f9af)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍🦯 (0x1f4681f3fe200d1f9af)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍🦯 (0x1f4681f3ff200d1f9af)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩‍🦯 (0x1f469200d1f9af)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍🦯 (0x1f4691f3fb200d1f9af)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍🦯 (0x1f4691f3fc200d1f9af)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍🦯 (0x1f4691f3fd200d1f9af)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍🦯 (0x1f4691f3fe200d1f9af)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍🦯 (0x1f4691f3ff200d1f9af)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍🦼 (0x1f9d1200d1f9bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍🦼 (0x1f9d11f3fb200d1f9bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍🦼 (0x1f9d11f3fc200d1f9bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍🦼 (0x1f9d11f3fd200d1f9bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍🦼 (0x1f9d11f3fe200d1f9bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍🦼 (0x1f9d11f3ff200d1f9bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨‍🦼 (0x1f468200d1f9bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍🦼 (0x1f4681f3fb200d1f9bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍🦼 (0x1f4681f3fc200d1f9bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍🦼 (0x1f4681f3fd200d1f9bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍🦼 (0x1f4681f3fe200d1f9bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍🦼 (0x1f4681f3ff200d1f9bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩‍🦼 (0x1f469200d1f9bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍🦼 (0x1f4691f3fb200d1f9bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍🦼 (0x1f4691f3fc200d1f9bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍🦼 (0x1f4691f3fd200d1f9bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍🦼 (0x1f4691f3fe200d1f9bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍🦼 (0x1f4691f3ff200d1f9bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍🦽 (0x1f9d1200d1f9bd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍🦽 (0x1f9d11f3fb200d1f9bd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍🦽 (0x1f9d11f3fc200d1f9bd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍🦽 (0x1f9d11f3fd200d1f9bd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍🦽 (0x1f9d11f3fe200d1f9bd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍🦽 (0x1f9d11f3ff200d1f9bd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍🦽 (0x1f4681f3fb200d1f9bd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍🦽 (0x1f4681f3fc200d1f9bd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍🦽 (0x1f4681f3fd200d1f9bd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍🦽 (0x1f4681f3fe200d1f9bd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍🦽 (0x1f4681f3ff200d1f9bd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩‍🦽 (0x1f469200d1f9bd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍🦽 (0x1f4691f3fb200d1f9bd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍🦽 (0x1f4691f3fc200d1f9bd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍🦽 (0x1f4691f3fd200d1f9bd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍🦽 (0x1f4691f3fe200d1f9bd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍🦽 (0x1f4691f3ff200d1f9bd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃‍♂ (0x1f3c3200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃🏻‍♂️ (0x1f3c31f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃🏻‍♂ (0x1f3c31f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃🏼‍♂️ (0x1f3c31f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃🏼‍♂ (0x1f3c31f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃🏽‍♂️ (0x1f3c31f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃🏽‍♂ (0x1f3c31f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃🏾‍♂️ (0x1f3c31f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃🏾‍♂ (0x1f3c31f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃🏿‍♂️ (0x1f3c31f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃🏿‍♂ (0x1f3c31f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃🏽‍♀️ (0x1f3c31f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃🏾‍♀️ (0x1f3c31f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏃🏿‍♀️ (0x1f3c31f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕺🏻 (0x1f57a1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕺🏼 (0x1f57a1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕺🏾 (0x1f57a1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕺🏿 (0x1f57a1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕴️ (0x1f574fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕴🏻 (0x1f5741f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕴🏼 (0x1f5741f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕴🏽 (0x1f5741f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕴🏾 (0x1f5741f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕴🏿 (0x1f5741f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👯‍♀️ (0x1f46f200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👯‍♀ (0x1f46f200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖 (0x1f9d6)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖🏻 (0x1f9d61f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖🏼 (0x1f9d61f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖🏽 (0x1f9d61f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖🏾 (0x1f9d61f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖🏿 (0x1f9d61f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖‍♂️ (0x1f9d6200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖‍♂ (0x1f9d6200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖🏻‍♂️ (0x1f9d61f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖🏻‍♂ (0x1f9d61f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖🏼‍♂️ (0x1f9d61f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖🏼‍♂ (0x1f9d61f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖🏽‍♂️ (0x1f9d61f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖🏽‍♂ (0x1f9d61f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖🏾‍♂️ (0x1f9d61f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖🏾‍♂ (0x1f9d61f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖🏿‍♂️ (0x1f9d61f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖🏿‍♂ (0x1f9d61f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖‍♀️ (0x1f9d6200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖‍♀ (0x1f9d6200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖🏻‍♀️ (0x1f9d61f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖🏻‍♀ (0x1f9d61f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖🏼‍♀️ (0x1f9d61f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖🏼‍♀ (0x1f9d61f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖🏽‍♀️ (0x1f9d61f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖🏽‍♀ (0x1f9d61f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖🏾‍♀️ (0x1f9d61f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖🏾‍♀ (0x1f9d61f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖🏿‍♀️ (0x1f9d61f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧖🏿‍♀ (0x1f9d61f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗 (0x1f9d7)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗🏻 (0x1f9d71f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗🏼 (0x1f9d71f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗🏽 (0x1f9d71f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗🏾 (0x1f9d71f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗🏿 (0x1f9d71f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗‍♂️ (0x1f9d7200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗‍♂ (0x1f9d7200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗🏻‍♂️ (0x1f9d71f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗🏻‍♂ (0x1f9d71f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗🏼‍♂️ (0x1f9d71f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗🏼‍♂ (0x1f9d71f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗🏽‍♂️ (0x1f9d71f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗🏽‍♂ (0x1f9d71f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗🏾‍♂️ (0x1f9d71f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗🏾‍♂ (0x1f9d71f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗🏿‍♂️ (0x1f9d71f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗🏿‍♂ (0x1f9d71f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗‍♀️ (0x1f9d7200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗‍♀ (0x1f9d7200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗🏻‍♀️ (0x1f9d71f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗🏻‍♀ (0x1f9d71f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗🏼‍♀️ (0x1f9d71f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗🏼‍♀ (0x1f9d71f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗🏽‍♀️ (0x1f9d71f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗🏽‍♀ (0x1f9d71f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗🏾‍♀️ (0x1f9d71f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗🏾‍♀ (0x1f9d71f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗🏿‍♀️ (0x1f9d71f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧗🏿‍♀ (0x1f9d71f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏇🏻 (0x1f3c71f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏇🏼 (0x1f3c71f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏇🏽 (0x1f3c71f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏇🏾 (0x1f3c71f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏇🏿 (0x1f3c71f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛷️ (0x26f7fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏂🏻 (0x1f3c21f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏂🏼 (0x1f3c21f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏂🏽 (0x1f3c21f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏂🏾 (0x1f3c21f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏂🏿 (0x1f3c21f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌🏻 (0x1f3cc1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌🏼 (0x1f3cc1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌🏽 (0x1f3cc1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌🏾 (0x1f3cc1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌🏿 (0x1f3cc1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌️‍♂️ (0x1f3ccfe0f200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌‍♂️ (0x1f3cc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌️‍♂ (0x1f3ccfe0f200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌‍♂ (0x1f3cc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌🏻‍♂️ (0x1f3cc1f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌🏻‍♂ (0x1f3cc1f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌🏼‍♂️ (0x1f3cc1f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌🏼‍♂ (0x1f3cc1f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌🏽‍♂️ (0x1f3cc1f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌🏽‍♂ (0x1f3cc1f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌🏾‍♂️ (0x1f3cc1f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌🏾‍♂ (0x1f3cc1f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌🏿‍♂️ (0x1f3cc1f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌🏿‍♂ (0x1f3cc1f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌‍♀️ (0x1f3cc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌️‍♀ (0x1f3ccfe0f200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌🏻‍♀️ (0x1f3cc1f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌🏻‍♀ (0x1f3cc1f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌🏼‍♀️ (0x1f3cc1f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌🏼‍♀ (0x1f3cc1f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌🏽‍♀️ (0x1f3cc1f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌🏽‍♀ (0x1f3cc1f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌🏾‍♀️ (0x1f3cc1f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌🏾‍♀ (0x1f3cc1f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌🏿‍♀️ (0x1f3cc1f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏌🏿‍♀ (0x1f3cc1f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄‍♂️ (0x1f3c4200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄‍♂ (0x1f3c4200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄🏻‍♂️ (0x1f3c41f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄🏻‍♂ (0x1f3c41f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄🏼‍♂️ (0x1f3c41f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄🏼‍♂ (0x1f3c41f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄🏽‍♂️ (0x1f3c41f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄🏽‍♂ (0x1f3c41f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄🏾‍♂️ (0x1f3c41f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄🏾‍♂ (0x1f3c41f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄🏿‍♂️ (0x1f3c41f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄🏿‍♂ (0x1f3c41f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄🏻‍♀️ (0x1f3c41f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄🏼‍♀️ (0x1f3c41f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄🏽‍♀️ (0x1f3c41f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄🏾‍♀️ (0x1f3c41f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏄🏿‍♀️ (0x1f3c41f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣‍♂️ (0x1f6a3200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣‍♂ (0x1f6a3200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣🏻‍♂️ (0x1f6a31f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣🏻‍♂ (0x1f6a31f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣🏼‍♂️ (0x1f6a31f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣🏼‍♂ (0x1f6a31f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣🏽‍♂️ (0x1f6a31f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣🏽‍♂ (0x1f6a31f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣🏾‍♂️ (0x1f6a31f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣🏾‍♂ (0x1f6a31f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣🏿‍♂️ (0x1f6a31f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣🏿‍♂ (0x1f6a31f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣🏻‍♀️ (0x1f6a31f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣🏼‍♀️ (0x1f6a31f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣🏽‍♀️ (0x1f6a31f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣🏾‍♀️ (0x1f6a31f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚣🏿‍♀️ (0x1f6a31f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊‍♂️ (0x1f3ca200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊‍♂ (0x1f3ca200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊🏻‍♂️ (0x1f3ca1f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊🏻‍♂ (0x1f3ca1f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊🏼‍♂️ (0x1f3ca1f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊🏼‍♂ (0x1f3ca1f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊🏽‍♂️ (0x1f3ca1f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊🏽‍♂ (0x1f3ca1f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊🏾‍♂️ (0x1f3ca1f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊🏾‍♂ (0x1f3ca1f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊🏿‍♂️ (0x1f3ca1f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊🏿‍♂ (0x1f3ca1f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊🏻‍♀️ (0x1f3ca1f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊🏼‍♀️ (0x1f3ca1f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊🏽‍♀️ (0x1f3ca1f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊🏾‍♀️ (0x1f3ca1f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏊🏿‍♀️ (0x1f3ca1f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹️‍♂️ (0x26f9fe0f200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹‍♂️ (0x26f9200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹️‍♂ (0x26f9fe0f200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹‍♂ (0x26f9200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹🏻‍♂️ (0x26f91f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹🏻‍♂ (0x26f91f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹🏼‍♂️ (0x26f91f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹🏼‍♂ (0x26f91f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹🏽‍♂️ (0x26f91f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹🏽‍♂ (0x26f91f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹🏾‍♂️ (0x26f91f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹🏾‍♂ (0x26f91f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹🏿‍♂️ (0x26f91f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹🏿‍♂ (0x26f91f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹‍♀️ (0x26f9200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹️‍♀ (0x26f9fe0f200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹🏻‍♀️ (0x26f91f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹🏼‍♀️ (0x26f91f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹🏽‍♀️ (0x26f91f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹🏾‍♀️ (0x26f91f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛹🏿‍♀️ (0x26f91f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋️‍♂️ (0x1f3cbfe0f200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋‍♂️ (0x1f3cb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋️‍♂ (0x1f3cbfe0f200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋‍♂ (0x1f3cb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋🏻‍♂️ (0x1f3cb1f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋🏻‍♂ (0x1f3cb1f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋🏼‍♂️ (0x1f3cb1f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋🏼‍♂ (0x1f3cb1f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋🏽‍♂️ (0x1f3cb1f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋🏽‍♂ (0x1f3cb1f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋🏾‍♂️ (0x1f3cb1f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋🏾‍♂ (0x1f3cb1f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋🏿‍♂️ (0x1f3cb1f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋🏿‍♂ (0x1f3cb1f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋‍♀️ (0x1f3cb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋️‍♀ (0x1f3cbfe0f200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋🏻‍♀️ (0x1f3cb1f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋🏼‍♀️ (0x1f3cb1f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋🏽‍♀️ (0x1f3cb1f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋🏾‍♀️ (0x1f3cb1f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏋🏿‍♀️ (0x1f3cb1f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴‍♂️ (0x1f6b4200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴‍♂ (0x1f6b4200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴🏻‍♂️ (0x1f6b41f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴🏻‍♂ (0x1f6b41f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴🏼‍♂️ (0x1f6b41f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴🏼‍♂ (0x1f6b41f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴🏽‍♂️ (0x1f6b41f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴🏽‍♂ (0x1f6b41f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴🏾‍♂️ (0x1f6b41f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴🏾‍♂ (0x1f6b41f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴🏿‍♂️ (0x1f6b41f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴🏿‍♂ (0x1f6b41f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴🏻‍♀️ (0x1f6b41f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴🏼‍♀️ (0x1f6b41f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴🏽‍♀️ (0x1f6b41f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴🏾‍♀️ (0x1f6b41f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚴🏿‍♀️ (0x1f6b41f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵‍♂️ (0x1f6b5200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵‍♂ (0x1f6b5200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵🏻‍♂️ (0x1f6b51f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵🏻‍♂ (0x1f6b51f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵🏼‍♂️ (0x1f6b51f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵🏼‍♂ (0x1f6b51f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵🏽‍♂️ (0x1f6b51f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵🏽‍♂ (0x1f6b51f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵🏾‍♂️ (0x1f6b51f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵🏾‍♂ (0x1f6b51f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵🏿‍♂️ (0x1f6b51f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵🏿‍♂ (0x1f6b51f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵🏻‍♀️ (0x1f6b51f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵🏼‍♀️ (0x1f6b51f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵🏽‍♀️ (0x1f6b51f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵🏾‍♀️ (0x1f6b51f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🚵🏿‍♀️ (0x1f6b51f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸 (0x1f938)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸🏻 (0x1f9381f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸🏼 (0x1f9381f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸🏽 (0x1f9381f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸🏾 (0x1f9381f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸🏿 (0x1f9381f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸‍♂ (0x1f938200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸🏻‍♂️ (0x1f9381f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸🏻‍♂ (0x1f9381f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸🏼‍♂️ (0x1f9381f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸🏼‍♂ (0x1f9381f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸🏽‍♂️ (0x1f9381f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸🏽‍♂ (0x1f9381f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸🏾‍♂️ (0x1f9381f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸🏾‍♂ (0x1f9381f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸🏿‍♂️ (0x1f9381f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸🏿‍♂ (0x1f9381f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸‍♀ (0x1f938200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸🏻‍♀️ (0x1f9381f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸🏻‍♀ (0x1f9381f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸🏼‍♀️ (0x1f9381f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸🏼‍♀ (0x1f9381f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸🏽‍♀️ (0x1f9381f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸🏽‍♀ (0x1f9381f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸🏾‍♀️ (0x1f9381f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸🏾‍♀ (0x1f9381f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸🏿‍♀️ (0x1f9381f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤸🏿‍♀ (0x1f9381f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤼 (0x1f93c)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤼‍♂ (0x1f93c200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤼‍♀ (0x1f93c200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽 (0x1f93d)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽🏻 (0x1f93d1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽🏼 (0x1f93d1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽🏽 (0x1f93d1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽🏾 (0x1f93d1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽🏿 (0x1f93d1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽‍♂ (0x1f93d200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽🏻‍♂️ (0x1f93d1f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽🏻‍♂ (0x1f93d1f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽🏼‍♂️ (0x1f93d1f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽🏼‍♂ (0x1f93d1f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽🏽‍♂️ (0x1f93d1f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽🏽‍♂ (0x1f93d1f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽🏾‍♂️ (0x1f93d1f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽🏾‍♂ (0x1f93d1f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽🏿‍♂️ (0x1f93d1f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽🏿‍♂ (0x1f93d1f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽‍♀ (0x1f93d200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽🏻‍♀️ (0x1f93d1f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽🏻‍♀ (0x1f93d1f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽🏼‍♀️ (0x1f93d1f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽🏼‍♀ (0x1f93d1f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽🏽‍♀️ (0x1f93d1f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽🏽‍♀ (0x1f93d1f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽🏾‍♀️ (0x1f93d1f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽🏾‍♀ (0x1f93d1f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽🏿‍♀️ (0x1f93d1f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤽🏿‍♀ (0x1f93d1f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾 (0x1f93e)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾🏻 (0x1f93e1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾🏼 (0x1f93e1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾🏽 (0x1f93e1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾🏾 (0x1f93e1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾🏿 (0x1f93e1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾‍♂ (0x1f93e200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾🏻‍♂️ (0x1f93e1f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾🏻‍♂ (0x1f93e1f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾🏼‍♂️ (0x1f93e1f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾🏼‍♂ (0x1f93e1f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾🏽‍♂️ (0x1f93e1f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾🏽‍♂ (0x1f93e1f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾🏾‍♂️ (0x1f93e1f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾🏾‍♂ (0x1f93e1f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾🏿‍♂️ (0x1f93e1f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾🏿‍♂ (0x1f93e1f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾‍♀ (0x1f93e200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾🏻‍♀️ (0x1f93e1f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾🏻‍♀ (0x1f93e1f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾🏼‍♀️ (0x1f93e1f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾🏼‍♀ (0x1f93e1f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾🏽‍♀️ (0x1f93e1f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾🏽‍♀ (0x1f93e1f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾🏾‍♀️ (0x1f93e1f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾🏾‍♀ (0x1f93e1f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾🏿‍♀️ (0x1f93e1f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤾🏿‍♀ (0x1f93e1f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹 (0x1f939)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹🏻 (0x1f9391f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹🏼 (0x1f9391f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹🏽 (0x1f9391f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹🏾 (0x1f9391f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹🏿 (0x1f9391f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹‍♂ (0x1f939200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹🏻‍♂️ (0x1f9391f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹🏻‍♂ (0x1f9391f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹🏼‍♂️ (0x1f9391f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹🏼‍♂ (0x1f9391f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹🏽‍♂️ (0x1f9391f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹🏽‍♂ (0x1f9391f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹🏾‍♂️ (0x1f9391f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹🏾‍♂ (0x1f9391f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹🏿‍♂️ (0x1f9391f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹🏿‍♂ (0x1f9391f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹‍♀ (0x1f939200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹🏻‍♀️ (0x1f9391f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹🏻‍♀ (0x1f9391f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹🏼‍♀️ (0x1f9391f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹🏼‍♀ (0x1f9391f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹🏽‍♀️ (0x1f9391f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹🏽‍♀ (0x1f9391f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹🏾‍♀️ (0x1f9391f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹🏾‍♀ (0x1f9391f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹🏿‍♀️ (0x1f9391f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤹🏿‍♀ (0x1f9391f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘🏻 (0x1f9d81f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘🏼 (0x1f9d81f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘🏽 (0x1f9d81f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘🏾 (0x1f9d81f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘🏿 (0x1f9d81f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘‍♂️ (0x1f9d8200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘‍♂ (0x1f9d8200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘🏻‍♂️ (0x1f9d81f3fb200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘🏻‍♂ (0x1f9d81f3fb200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘🏼‍♂️ (0x1f9d81f3fc200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘🏼‍♂ (0x1f9d81f3fc200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘🏽‍♂️ (0x1f9d81f3fd200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘🏽‍♂ (0x1f9d81f3fd200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘🏾‍♂️ (0x1f9d81f3fe200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘🏾‍♂ (0x1f9d81f3fe200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘🏿‍♂️ (0x1f9d81f3ff200d2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘🏿‍♂ (0x1f9d81f3ff200d2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘‍♀️ (0x1f9d8200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘‍♀ (0x1f9d8200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘🏻‍♀️ (0x1f9d81f3fb200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘🏻‍♀ (0x1f9d81f3fb200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘🏼‍♀️ (0x1f9d81f3fc200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘🏼‍♀ (0x1f9d81f3fc200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘🏽‍♀️ (0x1f9d81f3fd200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘🏽‍♀ (0x1f9d81f3fd200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘🏾‍♀️ (0x1f9d81f3fe200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘🏾‍♀ (0x1f9d81f3fe200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘🏿‍♀️ (0x1f9d81f3ff200d2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧘🏿‍♀ (0x1f9d81f3ff200d2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛌🏻 (0x1f6cc1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛌🏼 (0x1f6cc1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛌🏽 (0x1f6cc1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛌🏾 (0x1f6cc1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛌🏿 (0x1f6cc1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑‍🤝‍🧑 (0x1f9d1200d1f91d200d1f9d1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍🤝‍🧑🏻 (0x1f9d11f3fb200d1f91d200d1f9d11f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍🤝‍🧑🏼 (0x1f9d11f3fb200d1f91d200d1f9d11f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍🤝‍🧑🏽 (0x1f9d11f3fb200d1f91d200d1f9d11f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍🤝‍🧑🏾 (0x1f9d11f3fb200d1f91d200d1f9d11f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏻‍🤝‍🧑🏿 (0x1f9d11f3fb200d1f91d200d1f9d11f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍🤝‍🧑🏻 (0x1f9d11f3fc200d1f91d200d1f9d11f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍🤝‍🧑🏼 (0x1f9d11f3fc200d1f91d200d1f9d11f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍🤝‍🧑🏽 (0x1f9d11f3fc200d1f91d200d1f9d11f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍🤝‍🧑🏾 (0x1f9d11f3fc200d1f91d200d1f9d11f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏼‍🤝‍🧑🏿 (0x1f9d11f3fc200d1f91d200d1f9d11f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍🤝‍🧑🏻 (0x1f9d11f3fd200d1f91d200d1f9d11f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍🤝‍🧑🏼 (0x1f9d11f3fd200d1f91d200d1f9d11f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍🤝‍🧑🏽 (0x1f9d11f3fd200d1f91d200d1f9d11f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍🤝‍🧑🏾 (0x1f9d11f3fd200d1f91d200d1f9d11f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏽‍🤝‍🧑🏿 (0x1f9d11f3fd200d1f91d200d1f9d11f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍🤝‍🧑🏻 (0x1f9d11f3fe200d1f91d200d1f9d11f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍🤝‍🧑🏼 (0x1f9d11f3fe200d1f91d200d1f9d11f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍🤝‍🧑🏽 (0x1f9d11f3fe200d1f91d200d1f9d11f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍🤝‍🧑🏾 (0x1f9d11f3fe200d1f91d200d1f9d11f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏾‍🤝‍🧑🏿 (0x1f9d11f3fe200d1f91d200d1f9d11f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍🤝‍🧑🏻 (0x1f9d11f3ff200d1f91d200d1f9d11f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍🤝‍🧑🏼 (0x1f9d11f3ff200d1f91d200d1f9d11f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍🤝‍🧑🏽 (0x1f9d11f3ff200d1f91d200d1f9d11f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍🤝‍🧑🏾 (0x1f9d11f3ff200d1f91d200d1f9d11f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧑🏿‍🤝‍🧑🏿 (0x1f9d11f3ff200d1f91d200d1f9d11f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👭🏻 (0x1f46d1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍🤝‍👩🏼 (0x1f4691f3fb200d1f91d200d1f4691f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍🤝‍👩🏽 (0x1f4691f3fb200d1f91d200d1f4691f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍🤝‍👩🏾 (0x1f4691f3fb200d1f91d200d1f4691f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍🤝‍👩🏿 (0x1f4691f3fb200d1f91d200d1f4691f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍🤝‍👩🏻 (0x1f4691f3fc200d1f91d200d1f4691f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👭🏼 (0x1f46d1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍🤝‍👩🏽 (0x1f4691f3fc200d1f91d200d1f4691f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍🤝‍👩🏾 (0x1f4691f3fc200d1f91d200d1f4691f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍🤝‍👩🏿 (0x1f4691f3fc200d1f91d200d1f4691f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍🤝‍👩🏻 (0x1f4691f3fd200d1f91d200d1f4691f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍🤝‍👩🏼 (0x1f4691f3fd200d1f91d200d1f4691f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👭🏽 (0x1f46d1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍🤝‍👩🏾 (0x1f4691f3fd200d1f91d200d1f4691f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍🤝‍👩🏿 (0x1f4691f3fd200d1f91d200d1f4691f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍🤝‍👩🏻 (0x1f4691f3fe200d1f91d200d1f4691f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍🤝‍👩🏼 (0x1f4691f3fe200d1f91d200d1f4691f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍🤝‍👩🏽 (0x1f4691f3fe200d1f91d200d1f4691f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👭🏾 (0x1f46d1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍🤝‍👩🏿 (0x1f4691f3fe200d1f91d200d1f4691f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍🤝‍👩🏻 (0x1f4691f3ff200d1f91d200d1f4691f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍🤝‍👩🏼 (0x1f4691f3ff200d1f91d200d1f4691f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍🤝‍👩🏽 (0x1f4691f3ff200d1f91d200d1f4691f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍🤝‍👩🏾 (0x1f4691f3ff200d1f91d200d1f4691f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👭🏿 (0x1f46d1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👫🏻 (0x1f46b1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍🤝‍👨🏼 (0x1f4691f3fb200d1f91d200d1f4681f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍🤝‍👨🏽 (0x1f4691f3fb200d1f91d200d1f4681f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍🤝‍👨🏾 (0x1f4691f3fb200d1f91d200d1f4681f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏻‍🤝‍👨🏿 (0x1f4691f3fb200d1f91d200d1f4681f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍🤝‍👨🏻 (0x1f4691f3fc200d1f91d200d1f4681f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍🤝‍👨🏽 (0x1f4691f3fc200d1f91d200d1f4681f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍🤝‍👨🏾 (0x1f4691f3fc200d1f91d200d1f4681f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏼‍🤝‍👨🏿 (0x1f4691f3fc200d1f91d200d1f4681f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍🤝‍👨🏻 (0x1f4691f3fd200d1f91d200d1f4681f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍🤝‍👨🏼 (0x1f4691f3fd200d1f91d200d1f4681f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👫🏽 (0x1f46b1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍🤝‍👨🏾 (0x1f4691f3fd200d1f91d200d1f4681f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏽‍🤝‍👨🏿 (0x1f4691f3fd200d1f91d200d1f4681f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍🤝‍👨🏻 (0x1f4691f3fe200d1f91d200d1f4681f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍🤝‍👨🏼 (0x1f4691f3fe200d1f91d200d1f4681f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍🤝‍👨🏽 (0x1f4691f3fe200d1f91d200d1f4681f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👫🏾 (0x1f46b1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏾‍🤝‍👨🏿 (0x1f4691f3fe200d1f91d200d1f4681f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍🤝‍👨🏻 (0x1f4691f3ff200d1f91d200d1f4681f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍🤝‍👨🏼 (0x1f4691f3ff200d1f91d200d1f4681f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍🤝‍👨🏽 (0x1f4691f3ff200d1f91d200d1f4681f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩🏿‍🤝‍👨🏾 (0x1f4691f3ff200d1f91d200d1f4681f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👫🏿 (0x1f46b1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👬🏻 (0x1f46c1f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍🤝‍👨🏼 (0x1f4681f3fb200d1f91d200d1f4681f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍🤝‍👨🏽 (0x1f4681f3fb200d1f91d200d1f4681f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍🤝‍👨🏾 (0x1f4681f3fb200d1f91d200d1f4681f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏻‍🤝‍👨🏿 (0x1f4681f3fb200d1f91d200d1f4681f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍🤝‍👨🏻 (0x1f4681f3fc200d1f91d200d1f4681f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👬🏼 (0x1f46c1f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍🤝‍👨🏽 (0x1f4681f3fc200d1f91d200d1f4681f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍🤝‍👨🏾 (0x1f4681f3fc200d1f91d200d1f4681f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏼‍🤝‍👨🏿 (0x1f4681f3fc200d1f91d200d1f4681f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍🤝‍👨🏻 (0x1f4681f3fd200d1f91d200d1f4681f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍🤝‍👨🏼 (0x1f4681f3fd200d1f91d200d1f4681f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👬🏽 (0x1f46c1f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍🤝‍👨🏾 (0x1f4681f3fd200d1f91d200d1f4681f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏽‍🤝‍👨🏿 (0x1f4681f3fd200d1f91d200d1f4681f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍🤝‍👨🏻 (0x1f4681f3fe200d1f91d200d1f4681f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍🤝‍👨🏼 (0x1f4681f3fe200d1f91d200d1f4681f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍🤝‍👨🏽 (0x1f4681f3fe200d1f91d200d1f4681f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👬🏾 (0x1f46c1f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏾‍🤝‍👨🏿 (0x1f4681f3fe200d1f91d200d1f4681f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍🤝‍👨🏻 (0x1f4681f3ff200d1f91d200d1f4681f3fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍🤝‍👨🏼 (0x1f4681f3ff200d1f91d200d1f4681f3fc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍🤝‍👨🏽 (0x1f4681f3ff200d1f91d200d1f4681f3fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨🏿‍🤝‍👨🏾 (0x1f4681f3ff200d1f91d200d1f4681f3fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👬🏿 (0x1f46c1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩‍❤️‍💋‍👨 (0x1f469200d2764fe0f200d1f48b200d1f468)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩‍❤‍💋‍👨 (0x1f469200d2764200d1f48b200d1f468)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨‍❤‍💋‍👨 (0x1f468200d2764200d1f48b200d1f468)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩‍❤‍💋‍👩 (0x1f469200d2764200d1f48b200d1f469)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩‍❤️‍👨 (0x1f469200d2764fe0f200d1f468)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩‍❤‍👨 (0x1f469200d2764200d1f468)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨‍❤‍👨 (0x1f468200d2764200d1f468)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👩‍❤‍👩 (0x1f469200d2764200d1f469)
-    - emoji.json: 1
+    - emojis.json: 1
 - 👨‍👩‍👦 (0x1f468200d1f469200d1f466)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏿 (0x1f3ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦱 (0x1f9b1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦳 (0x1f9b3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦲 (0x1f9b2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦧 (0x1f9a7)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦮 (0x1f9ae)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🐕‍🦺 (0x1f415200d1f9ba)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦝 (0x1f99d)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦙 (0x1f999)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦒 (0x1f992)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦛 (0x1f99b)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🐿️ (0x1f43ffe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦔 (0x1f994)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦥 (0x1f9a5)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦦 (0x1f9a6)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦨 (0x1f9a8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦘 (0x1f998)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦡 (0x1f9a1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕊️ (0x1f54afe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦢 (0x1f9a2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦩 (0x1f9a9)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦚 (0x1f99a)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦕 (0x1f995)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦖 (0x1f996)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦗 (0x1f997)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕷️ (0x1f577fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕸️ (0x1f578fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦟 (0x1f99f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦠 (0x1f9a0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏵️ (0x1f3f5fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥭 (0x1f96d)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🌶️ (0x1f336fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥬 (0x1f96c)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧄 (0x1f9c4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧅 (0x1f9c5)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥨 (0x1f968)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥯 (0x1f96f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧇 (0x1f9c7)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥩 (0x1f969)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥪 (0x1f96a)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧆 (0x1f9c6)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥣 (0x1f963)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧈 (0x1f9c8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥫 (0x1f96b)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥮 (0x1f96e)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥟 (0x1f95f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥠 (0x1f960)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥡 (0x1f961)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦪 (0x1f9aa)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥧 (0x1f967)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥤 (0x1f964)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧉 (0x1f9c9)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧊 (0x1f9ca)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥢 (0x1f962)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🗺️ (0x1f5fafe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧭 (0x1f9ed)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏔️ (0x1f3d4fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛰️ (0x26f0fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏕️ (0x1f3d5fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏖️ (0x1f3d6fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏜️ (0x1f3dcfe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏝️ (0x1f3ddfe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏞️ (0x1f3defe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏟️ (0x1f3dffe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏛️ (0x1f3dbfe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏗️ (0x1f3d7fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧱 (0x1f9f1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏘️ (0x1f3d8fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏚️ (0x1f3dafe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛕 (0x1f6d5)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛩️ (0x26e9fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏙️ (0x1f3d9fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ♨ (0x2668)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏎️ (0x1f3cefe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏍️ (0x1f3cdfe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦽 (0x1f9bd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦼 (0x1f9bc)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛺 (0x1f6fa)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛹 (0x1f6f9)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛤️ (0x1f6e4fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛢️ (0x1f6e2fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛳️ (0x1f6f3fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛴️ (0x26f4fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛥️ (0x1f6e5fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✈ (0x2708)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛩️ (0x1f6e9fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🪂 (0x1fa82)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛰️ (0x1f6f0fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛸 (0x1f6f8)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛎️ (0x1f6cefe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧳 (0x1f9f3)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⏱️ (0x23f1fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⏲️ (0x23f2fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕰️ (0x1f570fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🌡️ (0x1f321fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ☀ (0x2600)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🪐 (0x1fa90)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛈️ (0x26c8fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🌤️ (0x1f324fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🌥️ (0x1f325fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🌦️ (0x1f326fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🌧️ (0x1f327fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🌨️ (0x1f328fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🌩️ (0x1f329fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🌪️ (0x1f32afe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🌫️ (0x1f32bfe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🌬️ (0x1f32cfe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ☂ (0x2602)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛱️ (0x26f1fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ☃ (0x2603)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧧 (0x1f9e7)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🎗️ (0x1f397fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🎟️ (0x1f39ffe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⚾ (0x26be)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥎 (0x1f94e)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥏 (0x1f94f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥍 (0x1f94d)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛸️ (0x26f8fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🤿 (0x1f93f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛷 (0x1f6f7)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥌 (0x1f94c)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🪀 (0x1fa80)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🪁 (0x1fa81)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧿 (0x1f9ff)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕹️ (0x1f579fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧩 (0x1f9e9)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧸 (0x1f9f8)
-    - emoji.json: 1
+    - emojis.json: 1
 - ♟️ (0x265ffe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ♟ (0x265f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🖼️ (0x1f5bcfe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧵 (0x1f9f5)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧶 (0x1f9f6)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕶️ (0x1f576fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥽 (0x1f97d)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥼 (0x1f97c)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦺 (0x1f9ba)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧣 (0x1f9e3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧤 (0x1f9e4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧥 (0x1f9e5)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧦 (0x1f9e6)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥻 (0x1f97b)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🩱 (0x1fa71)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🩲 (0x1fa72)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🩳 (0x1fa73)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛍️ (0x1f6cdfe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥾 (0x1f97e)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🥿 (0x1f97f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🩰 (0x1fa70)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛑️ (0x26d1fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🎙️ (0x1f399fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🎚️ (0x1f39afe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🎛️ (0x1f39bfe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🪕 (0x1fa95)
-    - emoji.json: 1
+    - emojis.json: 1
 - ☎ (0x260e)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🖥️ (0x1f5a5fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🖨️ (0x1f5a8fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🖱️ (0x1f5b1fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🖲️ (0x1f5b2fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧮 (0x1f9ee)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🎞️ (0x1f39efe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 📽️ (0x1f4fdfe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕯️ (0x1f56ffe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🪔 (0x1fa94)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🗞️ (0x1f5defe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏷️ (0x1f3f7fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧾 (0x1f9fe)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✉ (0x2709)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🗳️ (0x1f5f3fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🖋️ (0x1f58bfe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🖊️ (0x1f58afe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🖌️ (0x1f58cfe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🖍️ (0x1f58dfe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🗂️ (0x1f5c2fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🗒️ (0x1f5d2fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🗓️ (0x1f5d3fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🖇️ (0x1f587fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✂ (0x2702)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🗃️ (0x1f5c3fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🗄️ (0x1f5c4fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🗝️ (0x1f5ddfe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🪓 (0x1fa93)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛏️ (0x26cffe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛠️ (0x1f6e0fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛡️ (0x1f6e1fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🗜️ (0x1f5dcfe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🦯 (0x1f9af)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⛓️ (0x26d3fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧰 (0x1f9f0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧲 (0x1f9f2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧪 (0x1f9ea)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧫 (0x1f9eb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧬 (0x1f9ec)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🩸 (0x1fa78)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🩹 (0x1fa79)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🩺 (0x1fa7a)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛏️ (0x1f6cffe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🛋️ (0x1f6cbfe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🪑 (0x1fa91)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🪒 (0x1fa92)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧴 (0x1f9f4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧷 (0x1f9f7)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧹 (0x1f9f9)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧺 (0x1f9fa)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧻 (0x1f9fb)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧽 (0x1f9fd)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🧯 (0x1f9ef)
-    - emoji.json: 1
+    - emojis.json: 1
 - ↗ (0x2197)
-    - emoji.json: 1
+    - emojis.json: 1
 - ↘ (0x2198)
-    - emoji.json: 1
+    - emojis.json: 1
 - ↙ (0x2199)
-    - emoji.json: 1
+    - emojis.json: 1
 - ↩ (0x21a9)
-    - emoji.json: 1
+    - emojis.json: 1
 - ↪ (0x21aa)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⤴ (0x2934)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⤵ (0x2935)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🕉️ (0x1f549fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✡ (0x2721)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✝ (0x271d)
-    - emoji.json: 1
+    - emojis.json: 1
 - ▶ (0x25b6)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⏭️ (0x23edfe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⏯️ (0x23effe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ◀ (0x25c0)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⏮️ (0x23eefe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⏸️ (0x23f8fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⏹️ (0x23f9fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⏺️ (0x23fafe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⏏️ (0x23cffe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⏏ (0x23cf)
-    - emoji.json: 1
+    - emojis.json: 1
 - ♀️ (0x2640fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ♀ (0x2640)
-    - emoji.json: 1
+    - emojis.json: 1
 - ♂️ (0x2642fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ♂ (0x2642)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⚕️ (0x2695fe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ⚕ (0x2695)
-    - emoji.json: 1
+    - emojis.json: 1
 - ♾️ (0x267efe0f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ♾ (0x267e)
-    - emoji.json: 1
+    - emojis.json: 1
 - ☑ (0x2611)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✳ (0x2733)
-    - emoji.json: 1
+    - emojis.json: 1
 - ✴ (0x2734)
-    - emoji.json: 1
+    - emojis.json: 1
 - ❇ (0x2747)
-    - emoji.json: 1
+    - emojis.json: 1
 - #️⃣ (0x23fe0f20e3)
-    - emoji.json: 1
+    - emojis.json: 1
 - Ⓜ (0x24c2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🅾 (0x1f17e)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🅿 (0x1f17f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🈂 (0x1f202)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🈯 (0x1f22f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🈚 (0x1f21a)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🟠 (0x1f7e0)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🟡 (0x1f7e1)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🟢 (0x1f7e2)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🟣 (0x1f7e3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🟤 (0x1f7e4)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🟧 (0x1f7e7)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🟩 (0x1f7e9)
-    - emoji.json: 1
+    - emojis.json: 1
 - ▪ (0x25aa)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏴‍☠ (0x1f3f4200d2620)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🇺🇳 (0x1f1fa1f1f3)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (0x1f3f4e0067e0062e0065e006ee0067e007f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 (0x1f3f4e0067e0062e0073e0063e0074e007f)
-    - emoji.json: 1
+    - emojis.json: 1
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (0x1f3f4e0067e0062e0077e006ce0073e007f)
-    - emoji.json: 1
+    - emojis.json: 1
 - ° (0xb0)
     - reddit: 0.7835772568320166
 - ß (0xdf)

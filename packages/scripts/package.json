@@ -3,9 +3,12 @@
   "private": true,
   "author": "Pacharapol Withayasakpunt <patarapolw@gmail.com> (https://polvcode.dev)",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "better-sqlite3": "^7.1.2"
+  },
   "devDependencies": {
     "@now/node": "^1.8.5",
+    "@types/better-sqlite3": "^5.4.1",
     "@types/cheerio": "^0.22.23",
     "@types/js-yaml": "^3.12.5",
     "@types/showdown": "^1.9.3",
