@@ -3,14 +3,7 @@
   "private": true,
   "author": "Pacharapol Withayasakpunt <patarapolw@gmail.com> (https://polvcode.dev)",
   "license": "MIT",
-  "dependencies": {
-    "@patarapolw/qsearch": "^1.2.2",
-    "bluebird": "^3.7.2",
-    "bluebird-global": "^1.0.1",
-    "liteorm": "patarapolw/liteorm",
-    "runtypes": "^5.0.1",
-    "sqlite3": "^5.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@now/node": "^1.8.5",
     "@types/cheerio": "^0.22.23",
