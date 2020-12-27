@@ -1,0 +1,6142 @@
+[
+  {
+    "ascii": "0x1f44d",
+    "symbol": "👍",
+    "description": ":+1:"
+  },
+  {
+    "ascii": "0x1f44e",
+    "symbol": "👎",
+    "description": ":-1:"
+  },
+  {
+    "ascii": "0x1f4af",
+    "symbol": "💯",
+    "description": ":100:"
+  },
+  {
+    "ascii": "0x1f522",
+    "symbol": "🔢",
+    "description": ":1234:"
+  },
+  {
+    "ascii": "0x1f947",
+    "symbol": "🥇",
+    "description": ":1st_place_medal:"
+  },
+  {
+    "ascii": "0x1f948",
+    "symbol": "🥈",
+    "description": ":2nd_place_medal:"
+  },
+  {
+    "ascii": "0x1f949",
+    "symbol": "🥉",
+    "description": ":3rd_place_medal:"
+  },
+  {
+    "ascii": "0x1f3b1",
+    "symbol": "🎱",
+    "description": ":8ball:"
+  },
+  {
+    "ascii": "0x1f170fe0f",
+    "symbol": "🅰️",
+    "description": ":a:"
+  },
+  {
+    "ascii": "0x1f18e",
+    "symbol": "🆎",
+    "description": ":ab:"
+  },
+  {
+    "ascii": "0x1f524",
+    "symbol": "🔤",
+    "description": ":abc:"
+  },
+  {
+    "ascii": "0x1f521",
+    "symbol": "🔡",
+    "description": ":abcd:"
+  },
+  {
+    "ascii": "0x1f251",
+    "symbol": "🉑",
+    "description": ":accept:"
+  },
+  {
+    "ascii": "0x1f6a1",
+    "symbol": "🚡",
+    "description": ":aerial_tramway:"
+  },
+  {
+    "ascii": "0x2708fe0f",
+    "symbol": "✈️",
+    "description": ":airplane:"
+  },
+  {
+    "ascii": "0x23f0",
+    "symbol": "⏰",
+    "description": ":alarm_clock:"
+  },
+  {
+    "ascii": "0x2697fe0f",
+    "symbol": "⚗️",
+    "description": ":alembic:"
+  },
+  {
+    "ascii": "0x1f47d",
+    "symbol": "👽",
+    "description": ":alien:"
+  },
+  {
+    "ascii": "0x1f691",
+    "symbol": "🚑",
+    "description": ":ambulance:"
+  },
+  {
+    "ascii": "0x1f3fa",
+    "symbol": "🏺",
+    "description": ":amphora:"
+  },
+  {
+    "ascii": "0x2693fe0f",
+    "symbol": "⚓️",
+    "description": ":anchor:"
+  },
+  {
+    "ascii": "0x1f47c",
+    "symbol": "👼",
+    "description": ":angel:"
+  },
+  {
+    "ascii": "0x1f4a2",
+    "symbol": "💢",
+    "description": ":anger:"
+  },
+  {
+    "ascii": "0x1f620",
+    "symbol": "😠",
+    "description": ":angry:"
+  },
+  {
+    "ascii": "0x1f627",
+    "symbol": "😧",
+    "description": ":anguished:"
+  },
+  {
+    "ascii": "0x1f41c",
+    "symbol": "🐜",
+    "description": ":ant:"
+  },
+  {
+    "ascii": "0x1f34e",
+    "symbol": "🍎",
+    "description": ":apple:"
+  },
+  {
+    "ascii": "0x2652fe0f",
+    "symbol": "♒️",
+    "description": ":aquarius:"
+  },
+  {
+    "ascii": "0x2648fe0f",
+    "symbol": "♈️",
+    "description": ":aries:"
+  },
+  {
+    "ascii": "0x25c0fe0f",
+    "symbol": "◀️",
+    "description": ":arrow_backward:"
+  },
+  {
+    "ascii": "0x23ec",
+    "symbol": "⏬",
+    "description": ":arrow_double_down:"
+  },
+  {
+    "ascii": "0x23eb",
+    "symbol": "⏫",
+    "description": ":arrow_double_up:"
+  },
+  {
+    "ascii": "0x2b07fe0f",
+    "symbol": "⬇️",
+    "description": ":arrow_down:"
+  },
+  {
+    "ascii": "0x1f53d",
+    "symbol": "🔽",
+    "description": ":arrow_down_small:"
+  },
+  {
+    "ascii": "0x25b6fe0f",
+    "symbol": "▶️",
+    "description": ":arrow_forward:"
+  },
+  {
+    "ascii": "0x2935fe0f",
+    "symbol": "⤵️",
+    "description": ":arrow_heading_down:"
+  },
+  {
+    "ascii": "0x2934fe0f",
+    "symbol": "⤴️",
+    "description": ":arrow_heading_up:"
+  },
+  {
+    "ascii": "0x2b05fe0f",
+    "symbol": "⬅️",
+    "description": ":arrow_left:"
+  },
+  {
+    "ascii": "0x2199fe0f",
+    "symbol": "↙️",
+    "description": ":arrow_lower_left:"
+  },
+  {
+    "ascii": "0x2198fe0f",
+    "symbol": "↘️",
+    "description": ":arrow_lower_right:"
+  },
+  {
+    "ascii": "0x27a1fe0f",
+    "symbol": "➡️",
+    "description": ":arrow_right:"
+  },
+  {
+    "ascii": "0x21aafe0f",
+    "symbol": "↪️",
+    "description": ":arrow_right_hook:"
+  },
+  {
+    "ascii": "0x2b06fe0f",
+    "symbol": "⬆️",
+    "description": ":arrow_up:"
+  },
+  {
+    "ascii": "0x2195fe0f",
+    "symbol": "↕️",
+    "description": ":arrow_up_down:"
+  },
+  {
+    "ascii": "0x1f53c",
+    "symbol": "🔼",
+    "description": ":arrow_up_small:"
+  },
+  {
+    "ascii": "0x2196fe0f",
+    "symbol": "↖️",
+    "description": ":arrow_upper_left:"
+  },
+  {
+    "ascii": "0x2197fe0f",
+    "symbol": "↗️",
+    "description": ":arrow_upper_right:"
+  },
+  {
+    "ascii": "0x1f503",
+    "symbol": "🔃",
+    "description": ":arrows_clockwise:"
+  },
+  {
+    "ascii": "0x1f504",
+    "symbol": "🔄",
+    "description": ":arrows_counterclockwise:"
+  },
+  {
+    "ascii": "0x1f3a8",
+    "symbol": "🎨",
+    "description": ":art:"
+  },
+  {
+    "ascii": "0x1f69b",
+    "symbol": "🚛",
+    "description": ":articulated_lorry:"
+  },
+  {
+    "ascii": "0x1f6f0",
+    "symbol": "🛰",
+    "description": ":artificial_satellite:"
+  },
+  {
+    "ascii": "0x1f632",
+    "symbol": "😲",
+    "description": ":astonished:"
+  },
+  {
+    "ascii": "0x1f45f",
+    "symbol": "👟",
+    "description": ":athletic_shoe:"
+  },
+  {
+    "ascii": "0x1f3e7",
+    "symbol": "🏧",
+    "description": ":atm:"
+  },
+  {
+    "ascii": "0x269bfe0f",
+    "symbol": "⚛️",
+    "description": ":atom_symbol:"
+  },
+  {
+    "ascii": "0x1f951",
+    "symbol": "🥑",
+    "description": ":avocado:"
+  },
+  {
+    "ascii": "0x1f171fe0f",
+    "symbol": "🅱️",
+    "description": ":b:"
+  },
+  {
+    "ascii": "0x1f476",
+    "symbol": "👶",
+    "description": ":baby:"
+  },
+  {
+    "ascii": "0x1f37c",
+    "symbol": "🍼",
+    "description": ":baby_bottle:"
+  },
+  {
+    "ascii": "0x1f424",
+    "symbol": "🐤",
+    "description": ":baby_chick:"
+  },
+  {
+    "ascii": "0x1f6bc",
+    "symbol": "🚼",
+    "description": ":baby_symbol:"
+  },
+  {
+    "ascii": "0x1f519",
+    "symbol": "🔙",
+    "description": ":back:"
+  },
+  {
+    "ascii": "0x1f953",
+    "symbol": "🥓",
+    "description": ":bacon:"
+  },
+  {
+    "ascii": "0x1f3f8",
+    "symbol": "🏸",
+    "description": ":badminton:"
+  },
+  {
+    "ascii": "0x1f6c4",
+    "symbol": "🛄",
+    "description": ":baggage_claim:"
+  },
+  {
+    "ascii": "0x1f956",
+    "symbol": "🥖",
+    "description": ":baguette_bread:"
+  },
+  {
+    "ascii": "0x2696fe0f",
+    "symbol": "⚖️",
+    "description": ":balance_scale:"
+  },
+  {
+    "ascii": "0x1f388",
+    "symbol": "🎈",
+    "description": ":balloon:"
+  },
+  {
+    "ascii": "0x1f5f3",
+    "symbol": "🗳",
+    "description": ":ballot_box:"
+  },
+  {
+    "ascii": "0x2611fe0f",
+    "symbol": "☑️",
+    "description": ":ballot_box_with_check:"
+  },
+  {
+    "ascii": "0x1f38d",
+    "symbol": "🎍",
+    "description": ":bamboo:"
+  },
+  {
+    "ascii": "0x1f34c",
+    "symbol": "🍌",
+    "description": ":banana:"
+  },
+  {
+    "ascii": "0x203cfe0f",
+    "symbol": "‼️",
+    "description": ":bangbang:"
+  },
+  {
+    "ascii": "0x1f3e6",
+    "symbol": "🏦",
+    "description": ":bank:"
+  },
+  {
+    "ascii": "0x1f4ca",
+    "symbol": "📊",
+    "description": ":bar_chart:"
+  },
+  {
+    "ascii": "0x1f488",
+    "symbol": "💈",
+    "description": ":barber:"
+  },
+  {
+    "ascii": "0x26befe0f",
+    "symbol": "⚾️",
+    "description": ":baseball:"
+  },
+  {
+    "ascii": "0x1f3c0",
+    "symbol": "🏀",
+    "description": ":basketball:"
+  },
+  {
+    "ascii": "0x26f9fe0f",
+    "symbol": "⛹️",
+    "description": ":basketball_man:"
+  },
+  {
+    "ascii": "0x26f9fe0f200d2640fe0f",
+    "symbol": "⛹️‍♀️",
+    "description": ":basketball_woman:"
+  },
+  {
+    "ascii": "0x1f987",
+    "symbol": "🦇",
+    "description": ":bat:"
+  },
+  {
+    "ascii": "0x1f6c0",
+    "symbol": "🛀",
+    "description": ":bath:"
+  },
+  {
+    "ascii": "0x1f6c1",
+    "symbol": "🛁",
+    "description": ":bathtub:"
+  },
+  {
+    "ascii": "0x1f50b",
+    "symbol": "🔋",
+    "description": ":battery:"
+  },
+  {
+    "ascii": "0x1f3d6",
+    "symbol": "🏖",
+    "description": ":beach_umbrella:"
+  },
+  {
+    "ascii": "0x1f43b",
+    "symbol": "🐻",
+    "description": ":bear:"
+  },
+  {
+    "ascii": "0x1f6cf",
+    "symbol": "🛏",
+    "description": ":bed:"
+  },
+  {
+    "ascii": "0x1f41d",
+    "symbol": "🐝",
+    "description": ":bee:"
+  },
+  {
+    "ascii": "0x1f37a",
+    "symbol": "🍺",
+    "description": ":beer:"
+  },
+  {
+    "ascii": "0x1f37b",
+    "symbol": "🍻",
+    "description": ":beers:"
+  },
+  {
+    "ascii": "0x1f41e",
+    "symbol": "🐞",
+    "description": ":beetle:"
+  },
+  {
+    "ascii": "0x1f530",
+    "symbol": "🔰",
+    "description": ":beginner:"
+  },
+  {
+    "ascii": "0x1f514",
+    "symbol": "🔔",
+    "description": ":bell:"
+  },
+  {
+    "ascii": "0x1f6ce",
+    "symbol": "🛎",
+    "description": ":bellhop_bell:"
+  },
+  {
+    "ascii": "0x1f371",
+    "symbol": "🍱",
+    "description": ":bento:"
+  },
+  {
+    "ascii": "0x1f6b4",
+    "symbol": "🚴",
+    "description": ":biking_man:"
+  },
+  {
+    "ascii": "0x1f6b2",
+    "symbol": "🚲",
+    "description": ":bike:"
+  },
+  {
+    "ascii": "0x1f6b4",
+    "symbol": "🚴",
+    "description": ":biking_man:"
+  },
+  {
+    "ascii": "0x1f6b4200d2640fe0f",
+    "symbol": "🚴‍♀️",
+    "description": ":biking_woman:"
+  },
+  {
+    "ascii": "0x1f459",
+    "symbol": "👙",
+    "description": ":bikini:"
+  },
+  {
+    "ascii": "0x2623fe0f",
+    "symbol": "☣️",
+    "description": ":biohazard:"
+  },
+  {
+    "ascii": "0x1f426",
+    "symbol": "🐦",
+    "description": ":bird:"
+  },
+  {
+    "ascii": "0x1f382",
+    "symbol": "🎂",
+    "description": ":birthday:"
+  },
+  {
+    "ascii": "0x26abfe0f",
+    "symbol": "⚫️",
+    "description": ":black_circle:"
+  },
+  {
+    "ascii": "0x1f3f4",
+    "symbol": "🏴",
+    "description": ":black_flag:"
+  },
+  {
+    "ascii": "0x1f5a4",
+    "symbol": "🖤",
+    "description": ":black_heart:"
+  },
+  {
+    "ascii": "0x1f0cf",
+    "symbol": "🃏",
+    "description": ":black_joker:"
+  },
+  {
+    "ascii": "0x2b1bfe0f",
+    "symbol": "⬛️",
+    "description": ":black_large_square:"
+  },
+  {
+    "ascii": "0x25fefe0f",
+    "symbol": "◾️",
+    "description": ":black_medium_small_square:"
+  },
+  {
+    "ascii": "0x25fcfe0f",
+    "symbol": "◼️",
+    "description": ":black_medium_square:"
+  },
+  {
+    "ascii": "0x2712fe0f",
+    "symbol": "✒️",
+    "description": ":black_nib:"
+  },
+  {
+    "ascii": "0x25aafe0f",
+    "symbol": "▪️",
+    "description": ":black_small_square:"
+  },
+  {
+    "ascii": "0x1f532",
+    "symbol": "🔲",
+    "description": ":black_square_button:"
+  },
+  {
+    "ascii": "0x1f471",
+    "symbol": "👱",
+    "description": ":blonde_man:"
+  },
+  {
+    "ascii": "0x1f471200d2640fe0f",
+    "symbol": "👱‍♀️",
+    "description": ":blonde_woman:"
+  },
+  {
+    "ascii": "0x1f33c",
+    "symbol": "🌼",
+    "description": ":blossom:"
+  },
+  {
+    "ascii": "0x1f421",
+    "symbol": "🐡",
+    "description": ":blowfish:"
+  },
+  {
+    "ascii": "0x1f4d8",
+    "symbol": "📘",
+    "description": ":blue_book:"
+  },
+  {
+    "ascii": "0x1f699",
+    "symbol": "🚙",
+    "description": ":blue_car:"
+  },
+  {
+    "ascii": "0x1f499",
+    "symbol": "💙",
+    "description": ":blue_heart:"
+  },
+  {
+    "ascii": "0x1f60a",
+    "symbol": "😊",
+    "description": ":blush:"
+  },
+  {
+    "ascii": "0x1f417",
+    "symbol": "🐗",
+    "description": ":boar:"
+  },
+  {
+    "ascii": "0x26f5fe0f",
+    "symbol": "⛵️",
+    "description": ":boat:"
+  },
+  {
+    "ascii": "0x1f4a3",
+    "symbol": "💣",
+    "description": ":bomb:"
+  },
+  {
+    "ascii": "0x1f4d6",
+    "symbol": "📖",
+    "description": ":book:"
+  },
+  {
+    "ascii": "0x1f516",
+    "symbol": "🔖",
+    "description": ":bookmark:"
+  },
+  {
+    "ascii": "0x1f4d1",
+    "symbol": "📑",
+    "description": ":bookmark_tabs:"
+  },
+  {
+    "ascii": "0x1f4da",
+    "symbol": "📚",
+    "description": ":books:"
+  },
+  {
+    "ascii": "0x1f4a5",
+    "symbol": "💥",
+    "description": ":boom:"
+  },
+  {
+    "ascii": "0x1f462",
+    "symbol": "👢",
+    "description": ":boot:"
+  },
+  {
+    "ascii": "0x1f490",
+    "symbol": "💐",
+    "description": ":bouquet:"
+  },
+  {
+    "ascii": "0x1f647",
+    "symbol": "🙇",
+    "description": ":bowing_man:"
+  },
+  {
+    "ascii": "0x1f3f9",
+    "symbol": "🏹",
+    "description": ":bow_and_arrow:"
+  },
+  {
+    "ascii": "0x1f647",
+    "symbol": "🙇",
+    "description": ":bowing_man:"
+  },
+  {
+    "ascii": "0x1f647200d2640fe0f",
+    "symbol": "🙇‍♀️",
+    "description": ":bowing_woman:"
+  },
+  {
+    "ascii": "0x1f3b3",
+    "symbol": "🎳",
+    "description": ":bowling:"
+  },
+  {
+    "ascii": "0x1f94a",
+    "symbol": "🥊",
+    "description": ":boxing_glove:"
+  },
+  {
+    "ascii": "0x1f466",
+    "symbol": "👦",
+    "description": ":boy:"
+  },
+  {
+    "ascii": "0x1f35e",
+    "symbol": "🍞",
+    "description": ":bread:"
+  },
+  {
+    "ascii": "0x1f470",
+    "symbol": "👰",
+    "description": ":bride_with_veil:"
+  },
+  {
+    "ascii": "0x1f309",
+    "symbol": "🌉",
+    "description": ":bridge_at_night:"
+  },
+  {
+    "ascii": "0x1f4bc",
+    "symbol": "💼",
+    "description": ":briefcase:"
+  },
+  {
+    "ascii": "0x1f494",
+    "symbol": "💔",
+    "description": ":broken_heart:"
+  },
+  {
+    "ascii": "0x1f41b",
+    "symbol": "🐛",
+    "description": ":bug:"
+  },
+  {
+    "ascii": "0x1f3d7",
+    "symbol": "🏗",
+    "description": ":building_construction:"
+  },
+  {
+    "ascii": "0x1f4a1",
+    "symbol": "💡",
+    "description": ":bulb:"
+  },
+  {
+    "ascii": "0x1f685",
+    "symbol": "🚅",
+    "description": ":bullettrain_front:"
+  },
+  {
+    "ascii": "0x1f684",
+    "symbol": "🚄",
+    "description": ":bullettrain_side:"
+  },
+  {
+    "ascii": "0x1f32f",
+    "symbol": "🌯",
+    "description": ":burrito:"
+  },
+  {
+    "ascii": "0x1f68c",
+    "symbol": "🚌",
+    "description": ":bus:"
+  },
+  {
+    "ascii": "0x1f574",
+    "symbol": "🕴",
+    "description": ":business_suit_levitating:"
+  },
+  {
+    "ascii": "0x1f68f",
+    "symbol": "🚏",
+    "description": ":busstop:"
+  },
+  {
+    "ascii": "0x1f464",
+    "symbol": "👤",
+    "description": ":bust_in_silhouette:"
+  },
+  {
+    "ascii": "0x1f465",
+    "symbol": "👥",
+    "description": ":busts_in_silhouette:"
+  },
+  {
+    "ascii": "0x1f98b",
+    "symbol": "🦋",
+    "description": ":butterfly:"
+  },
+  {
+    "ascii": "0x1f335",
+    "symbol": "🌵",
+    "description": ":cactus:"
+  },
+  {
+    "ascii": "0x1f370",
+    "symbol": "🍰",
+    "description": ":cake:"
+  },
+  {
+    "ascii": "0x1f4c6",
+    "symbol": "📆",
+    "description": ":calendar:"
+  },
+  {
+    "ascii": "0x1f919",
+    "symbol": "🤙",
+    "description": ":call_me_hand:"
+  },
+  {
+    "ascii": "0x1f4f2",
+    "symbol": "📲",
+    "description": ":calling:"
+  },
+  {
+    "ascii": "0x1f42b",
+    "symbol": "🐫",
+    "description": ":camel:"
+  },
+  {
+    "ascii": "0x1f4f7",
+    "symbol": "📷",
+    "description": ":camera:"
+  },
+  {
+    "ascii": "0x1f4f8",
+    "symbol": "📸",
+    "description": ":camera_flash:"
+  },
+  {
+    "ascii": "0x1f3d5",
+    "symbol": "🏕",
+    "description": ":camping:"
+  },
+  {
+    "ascii": "0x264bfe0f",
+    "symbol": "♋️",
+    "description": ":cancer:"
+  },
+  {
+    "ascii": "0x1f56f",
+    "symbol": "🕯",
+    "description": ":candle:"
+  },
+  {
+    "ascii": "0x1f36c",
+    "symbol": "🍬",
+    "description": ":candy:"
+  },
+  {
+    "ascii": "0x1f6f6",
+    "symbol": "🛶",
+    "description": ":canoe:"
+  },
+  {
+    "ascii": "0x1f520",
+    "symbol": "🔠",
+    "description": ":capital_abcd:"
+  },
+  {
+    "ascii": "0x2651fe0f",
+    "symbol": "♑️",
+    "description": ":capricorn:"
+  },
+  {
+    "ascii": "0x1f697",
+    "symbol": "🚗",
+    "description": ":car:"
+  },
+  {
+    "ascii": "0x1f5c3",
+    "symbol": "🗃",
+    "description": ":card_file_box:"
+  },
+  {
+    "ascii": "0x1f4c7",
+    "symbol": "📇",
+    "description": ":card_index:"
+  },
+  {
+    "ascii": "0x1f5c2",
+    "symbol": "🗂",
+    "description": ":card_index_dividers:"
+  },
+  {
+    "ascii": "0x1f3a0",
+    "symbol": "🎠",
+    "description": ":carousel_horse:"
+  },
+  {
+    "ascii": "0x1f955",
+    "symbol": "🥕",
+    "description": ":carrot:"
+  },
+  {
+    "ascii": "0x1f431",
+    "symbol": "🐱",
+    "description": ":cat:"
+  },
+  {
+    "ascii": "0x1f408",
+    "symbol": "🐈",
+    "description": ":cat2:"
+  },
+  {
+    "ascii": "0x1f4bf",
+    "symbol": "💿",
+    "description": ":cd:"
+  },
+  {
+    "ascii": "0x26d3",
+    "symbol": "⛓",
+    "description": ":chains:"
+  },
+  {
+    "ascii": "0x1f37e",
+    "symbol": "🍾",
+    "description": ":champagne:"
+  },
+  {
+    "ascii": "0x1f4b9",
+    "symbol": "💹",
+    "description": ":chart:"
+  },
+  {
+    "ascii": "0x1f4c9",
+    "symbol": "📉",
+    "description": ":chart_with_downwards_trend:"
+  },
+  {
+    "ascii": "0x1f4c8",
+    "symbol": "📈",
+    "description": ":chart_with_upwards_trend:"
+  },
+  {
+    "ascii": "0x1f3c1",
+    "symbol": "🏁",
+    "description": ":checkered_flag:"
+  },
+  {
+    "ascii": "0x1f9c0",
+    "symbol": "🧀",
+    "description": ":cheese:"
+  },
+  {
+    "ascii": "0x1f352",
+    "symbol": "🍒",
+    "description": ":cherries:"
+  },
+  {
+    "ascii": "0x1f338",
+    "symbol": "🌸",
+    "description": ":cherry_blossom:"
+  },
+  {
+    "ascii": "0x1f330",
+    "symbol": "🌰",
+    "description": ":chestnut:"
+  },
+  {
+    "ascii": "0x1f414",
+    "symbol": "🐔",
+    "description": ":chicken:"
+  },
+  {
+    "ascii": "0x1f6b8",
+    "symbol": "🚸",
+    "description": ":children_crossing:"
+  },
+  {
+    "ascii": "0x1f43f",
+    "symbol": "🐿",
+    "description": ":chipmunk:"
+  },
+  {
+    "ascii": "0x1f36b",
+    "symbol": "🍫",
+    "description": ":chocolate_bar:"
+  },
+  {
+    "ascii": "0x1f384",
+    "symbol": "🎄",
+    "description": ":christmas_tree:"
+  },
+  {
+    "ascii": "0x26eafe0f",
+    "symbol": "⛪️",
+    "description": ":church:"
+  },
+  {
+    "ascii": "0x1f3a6",
+    "symbol": "🎦",
+    "description": ":cinema:"
+  },
+  {
+    "ascii": "0x1f3aa",
+    "symbol": "🎪",
+    "description": ":circus_tent:"
+  },
+  {
+    "ascii": "0x1f307",
+    "symbol": "🌇",
+    "description": ":city_sunrise:"
+  },
+  {
+    "ascii": "0x1f306",
+    "symbol": "🌆",
+    "description": ":city_sunset:"
+  },
+  {
+    "ascii": "0x1f3d9",
+    "symbol": "🏙",
+    "description": ":cityscape:"
+  },
+  {
+    "ascii": "0x1f191",
+    "symbol": "🆑",
+    "description": ":cl:"
+  },
+  {
+    "ascii": "0x1f5dc",
+    "symbol": "🗜",
+    "description": ":clamp:"
+  },
+  {
+    "ascii": "0x1f44f",
+    "symbol": "👏",
+    "description": ":clap:"
+  },
+  {
+    "ascii": "0x1f3ac",
+    "symbol": "🎬",
+    "description": ":clapper:"
+  },
+  {
+    "ascii": "0x1f3db",
+    "symbol": "🏛",
+    "description": ":classical_building:"
+  },
+  {
+    "ascii": "0x1f942",
+    "symbol": "🥂",
+    "description": ":clinking_glasses:"
+  },
+  {
+    "ascii": "0x1f4cb",
+    "symbol": "📋",
+    "description": ":clipboard:"
+  },
+  {
+    "ascii": "0x1f550",
+    "symbol": "🕐",
+    "description": ":clock1:"
+  },
+  {
+    "ascii": "0x1f559",
+    "symbol": "🕙",
+    "description": ":clock10:"
+  },
+  {
+    "ascii": "0x1f565",
+    "symbol": "🕥",
+    "description": ":clock1030:"
+  },
+  {
+    "ascii": "0x1f55a",
+    "symbol": "🕚",
+    "description": ":clock11:"
+  },
+  {
+    "ascii": "0x1f566",
+    "symbol": "🕦",
+    "description": ":clock1130:"
+  },
+  {
+    "ascii": "0x1f55b",
+    "symbol": "🕛",
+    "description": ":clock12:"
+  },
+  {
+    "ascii": "0x1f567",
+    "symbol": "🕧",
+    "description": ":clock1230:"
+  },
+  {
+    "ascii": "0x1f55c",
+    "symbol": "🕜",
+    "description": ":clock130:"
+  },
+  {
+    "ascii": "0x1f551",
+    "symbol": "🕑",
+    "description": ":clock2:"
+  },
+  {
+    "ascii": "0x1f55d",
+    "symbol": "🕝",
+    "description": ":clock230:"
+  },
+  {
+    "ascii": "0x1f552",
+    "symbol": "🕒",
+    "description": ":clock3:"
+  },
+  {
+    "ascii": "0x1f55e",
+    "symbol": "🕞",
+    "description": ":clock330:"
+  },
+  {
+    "ascii": "0x1f553",
+    "symbol": "🕓",
+    "description": ":clock4:"
+  },
+  {
+    "ascii": "0x1f55f",
+    "symbol": "🕟",
+    "description": ":clock430:"
+  },
+  {
+    "ascii": "0x1f554",
+    "symbol": "🕔",
+    "description": ":clock5:"
+  },
+  {
+    "ascii": "0x1f560",
+    "symbol": "🕠",
+    "description": ":clock530:"
+  },
+  {
+    "ascii": "0x1f555",
+    "symbol": "🕕",
+    "description": ":clock6:"
+  },
+  {
+    "ascii": "0x1f561",
+    "symbol": "🕡",
+    "description": ":clock630:"
+  },
+  {
+    "ascii": "0x1f556",
+    "symbol": "🕖",
+    "description": ":clock7:"
+  },
+  {
+    "ascii": "0x1f562",
+    "symbol": "🕢",
+    "description": ":clock730:"
+  },
+  {
+    "ascii": "0x1f557",
+    "symbol": "🕗",
+    "description": ":clock8:"
+  },
+  {
+    "ascii": "0x1f563",
+    "symbol": "🕣",
+    "description": ":clock830:"
+  },
+  {
+    "ascii": "0x1f558",
+    "symbol": "🕘",
+    "description": ":clock9:"
+  },
+  {
+    "ascii": "0x1f564",
+    "symbol": "🕤",
+    "description": ":clock930:"
+  },
+  {
+    "ascii": "0x1f4d5",
+    "symbol": "📕",
+    "description": ":closed_book:"
+  },
+  {
+    "ascii": "0x1f510",
+    "symbol": "🔐",
+    "description": ":closed_lock_with_key:"
+  },
+  {
+    "ascii": "0x1f302",
+    "symbol": "🌂",
+    "description": ":closed_umbrella:"
+  },
+  {
+    "ascii": "0x2601fe0f",
+    "symbol": "☁️",
+    "description": ":cloud:"
+  },
+  {
+    "ascii": "0x1f329",
+    "symbol": "🌩",
+    "description": ":cloud_with_lightning:"
+  },
+  {
+    "ascii": "0x26c8",
+    "symbol": "⛈",
+    "description": ":cloud_with_lightning_and_rain:"
+  },
+  {
+    "ascii": "0x1f327",
+    "symbol": "🌧",
+    "description": ":cloud_with_rain:"
+  },
+  {
+    "ascii": "0x1f328",
+    "symbol": "🌨",
+    "description": ":cloud_with_snow:"
+  },
+  {
+    "ascii": "0x1f921",
+    "symbol": "🤡",
+    "description": ":clown_face:"
+  },
+  {
+    "ascii": "0x2663fe0f",
+    "symbol": "♣️",
+    "description": ":clubs:"
+  },
+  {
+    "ascii": "0x1f378",
+    "symbol": "🍸",
+    "description": ":cocktail:"
+  },
+  {
+    "ascii": "0x2615fe0f",
+    "symbol": "☕️",
+    "description": ":coffee:"
+  },
+  {
+    "ascii": "0x26b0fe0f",
+    "symbol": "⚰️",
+    "description": ":coffin:"
+  },
+  {
+    "ascii": "0x1f630",
+    "symbol": "😰",
+    "description": ":cold_sweat:"
+  },
+  {
+    "ascii": "0x1f4a5",
+    "symbol": "💥",
+    "description": ":boom:"
+  },
+  {
+    "ascii": "0x2604fe0f",
+    "symbol": "☄️",
+    "description": ":comet:"
+  },
+  {
+    "ascii": "0x1f4bb",
+    "symbol": "💻",
+    "description": ":computer:"
+  },
+  {
+    "ascii": "0x1f5b1",
+    "symbol": "🖱",
+    "description": ":computer_mouse:"
+  },
+  {
+    "ascii": "0x1f38a",
+    "symbol": "🎊",
+    "description": ":confetti_ball:"
+  },
+  {
+    "ascii": "0x1f616",
+    "symbol": "😖",
+    "description": ":confounded:"
+  },
+  {
+    "ascii": "0x1f615",
+    "symbol": "😕",
+    "description": ":confused:"
+  },
+  {
+    "ascii": "0x3297fe0f",
+    "symbol": "㊗️",
+    "description": ":congratulations:"
+  },
+  {
+    "ascii": "0x1f6a7",
+    "symbol": "🚧",
+    "description": ":construction:"
+  },
+  {
+    "ascii": "0x1f477",
+    "symbol": "👷",
+    "description": ":construction_worker_man:"
+  },
+  {
+    "ascii": "0x1f477",
+    "symbol": "👷",
+    "description": ":construction_worker_man:"
+  },
+  {
+    "ascii": "0x1f477200d2640fe0f",
+    "symbol": "👷‍♀️",
+    "description": ":construction_worker_woman:"
+  },
+  {
+    "ascii": "0x1f39b",
+    "symbol": "🎛",
+    "description": ":control_knobs:"
+  },
+  {
+    "ascii": "0x1f3ea",
+    "symbol": "🏪",
+    "description": ":convenience_store:"
+  },
+  {
+    "ascii": "0x1f36a",
+    "symbol": "🍪",
+    "description": ":cookie:"
+  },
+  {
+    "ascii": "0x1f192",
+    "symbol": "🆒",
+    "description": ":cool:"
+  },
+  {
+    "ascii": "0x1f46e",
+    "symbol": "👮",
+    "description": ":policeman:"
+  },
+  {
+    "ascii": "0xa9fe0f",
+    "symbol": "©️",
+    "description": ":copyright:"
+  },
+  {
+    "ascii": "0x1f33d",
+    "symbol": "🌽",
+    "description": ":corn:"
+  },
+  {
+    "ascii": "0x1f6cb",
+    "symbol": "🛋",
+    "description": ":couch_and_lamp:"
+  },
+  {
+    "ascii": "0x1f46b",
+    "symbol": "👫",
+    "description": ":couple:"
+  },
+  {
+    "ascii": "0x1f491",
+    "symbol": "💑",
+    "description": ":couple_with_heart_woman_man:"
+  },
+  {
+    "ascii": "0x1f468200d2764fe0f200d1f468",
+    "symbol": "👨‍❤️‍👨",
+    "description": ":couple_with_heart_man_man:"
+  },
+  {
+    "ascii": "0x1f491",
+    "symbol": "💑",
+    "description": ":couple_with_heart_woman_man:"
+  },
+  {
+    "ascii": "0x1f469200d2764fe0f200d1f469",
+    "symbol": "👩‍❤️‍👩",
+    "description": ":couple_with_heart_woman_woman:"
+  },
+  {
+    "ascii": "0x1f468200d2764fe0f200d1f48b200d1f468",
+    "symbol": "👨‍❤️‍💋‍👨",
+    "description": ":couplekiss_man_man:"
+  },
+  {
+    "ascii": "0x1f48f",
+    "symbol": "💏",
+    "description": ":couplekiss_man_woman:"
+  },
+  {
+    "ascii": "0x1f469200d2764fe0f200d1f48b200d1f469",
+    "symbol": "👩‍❤️‍💋‍👩",
+    "description": ":couplekiss_woman_woman:"
+  },
+  {
+    "ascii": "0x1f42e",
+    "symbol": "🐮",
+    "description": ":cow:"
+  },
+  {
+    "ascii": "0x1f404",
+    "symbol": "🐄",
+    "description": ":cow2:"
+  },
+  {
+    "ascii": "0x1f920",
+    "symbol": "🤠",
+    "description": ":cowboy_hat_face:"
+  },
+  {
+    "ascii": "0x1f980",
+    "symbol": "🦀",
+    "description": ":crab:"
+  },
+  {
+    "ascii": "0x1f58d",
+    "symbol": "🖍",
+    "description": ":crayon:"
+  },
+  {
+    "ascii": "0x1f4b3",
+    "symbol": "💳",
+    "description": ":credit_card:"
+  },
+  {
+    "ascii": "0x1f319",
+    "symbol": "🌙",
+    "description": ":crescent_moon:"
+  },
+  {
+    "ascii": "0x1f3cf",
+    "symbol": "🏏",
+    "description": ":cricket:"
+  },
+  {
+    "ascii": "0x1f40a",
+    "symbol": "🐊",
+    "description": ":crocodile:"
+  },
+  {
+    "ascii": "0x1f950",
+    "symbol": "🥐",
+    "description": ":croissant:"
+  },
+  {
+    "ascii": "0x1f91e",
+    "symbol": "🤞",
+    "description": ":crossed_fingers:"
+  },
+  {
+    "ascii": "0x1f38c",
+    "symbol": "🎌",
+    "description": ":crossed_flags:"
+  },
+  {
+    "ascii": "0x2694fe0f",
+    "symbol": "⚔️",
+    "description": ":crossed_swords:"
+  },
+  {
+    "ascii": "0x1f451",
+    "symbol": "👑",
+    "description": ":crown:"
+  },
+  {
+    "ascii": "0x1f622",
+    "symbol": "😢",
+    "description": ":cry:"
+  },
+  {
+    "ascii": "0x1f63f",
+    "symbol": "😿",
+    "description": ":crying_cat_face:"
+  },
+  {
+    "ascii": "0x1f52e",
+    "symbol": "🔮",
+    "description": ":crystal_ball:"
+  },
+  {
+    "ascii": "0x1f952",
+    "symbol": "🥒",
+    "description": ":cucumber:"
+  },
+  {
+    "ascii": "0x1f498",
+    "symbol": "💘",
+    "description": ":cupid:"
+  },
+  {
+    "ascii": "0x27b0",
+    "symbol": "➰",
+    "description": ":curly_loop:"
+  },
+  {
+    "ascii": "0x1f4b1",
+    "symbol": "💱",
+    "description": ":currency_exchange:"
+  },
+  {
+    "ascii": "0x1f35b",
+    "symbol": "🍛",
+    "description": ":curry:"
+  },
+  {
+    "ascii": "0x1f36e",
+    "symbol": "🍮",
+    "description": ":custard:"
+  },
+  {
+    "ascii": "0x1f6c3",
+    "symbol": "🛃",
+    "description": ":customs:"
+  },
+  {
+    "ascii": "0x1f300",
+    "symbol": "🌀",
+    "description": ":cyclone:"
+  },
+  {
+    "ascii": "0x1f5e1",
+    "symbol": "🗡",
+    "description": ":dagger:"
+  },
+  {
+    "ascii": "0x1f483",
+    "symbol": "💃",
+    "description": ":dancer:"
+  },
+  {
+    "ascii": "0x1f46f",
+    "symbol": "👯",
+    "description": ":dancing_women:"
+  },
+  {
+    "ascii": "0x1f46f200d2642fe0f",
+    "symbol": "👯‍♂️",
+    "description": ":dancing_men:"
+  },
+  {
+    "ascii": "0x1f46f",
+    "symbol": "👯",
+    "description": ":dancing_women:"
+  },
+  {
+    "ascii": "0x1f361",
+    "symbol": "🍡",
+    "description": ":dango:"
+  },
+  {
+    "ascii": "0x1f576",
+    "symbol": "🕶",
+    "description": ":dark_sunglasses:"
+  },
+  {
+    "ascii": "0x1f3af",
+    "symbol": "🎯",
+    "description": ":dart:"
+  },
+  {
+    "ascii": "0x1f4a8",
+    "symbol": "💨",
+    "description": ":dash:"
+  },
+  {
+    "ascii": "0x1f4c5",
+    "symbol": "📅",
+    "description": ":date:"
+  },
+  {
+    "ascii": "0x1f333",
+    "symbol": "🌳",
+    "description": ":deciduous_tree:"
+  },
+  {
+    "ascii": "0x1f98c",
+    "symbol": "🦌",
+    "description": ":deer:"
+  },
+  {
+    "ascii": "0x1f3ec",
+    "symbol": "🏬",
+    "description": ":department_store:"
+  },
+  {
+    "ascii": "0x1f3da",
+    "symbol": "🏚",
+    "description": ":derelict_house:"
+  },
+  {
+    "ascii": "0x1f3dc",
+    "symbol": "🏜",
+    "description": ":desert:"
+  },
+  {
+    "ascii": "0x1f3dd",
+    "symbol": "🏝",
+    "description": ":desert_island:"
+  },
+  {
+    "ascii": "0x1f5a5",
+    "symbol": "🖥",
+    "description": ":desktop_computer:"
+  },
+  {
+    "ascii": "0x1f575fe0f",
+    "symbol": "🕵️",
+    "description": ":male_detective:"
+  },
+  {
+    "ascii": "0x1f4a0",
+    "symbol": "💠",
+    "description": ":diamond_shape_with_a_dot_inside:"
+  },
+  {
+    "ascii": "0x2666fe0f",
+    "symbol": "♦️",
+    "description": ":diamonds:"
+  },
+  {
+    "ascii": "0x1f61e",
+    "symbol": "😞",
+    "description": ":disappointed:"
+  },
+  {
+    "ascii": "0x1f625",
+    "symbol": "😥",
+    "description": ":disappointed_relieved:"
+  },
+  {
+    "ascii": "0x1f4ab",
+    "symbol": "💫",
+    "description": ":dizzy:"
+  },
+  {
+    "ascii": "0x1f635",
+    "symbol": "😵",
+    "description": ":dizzy_face:"
+  },
+  {
+    "ascii": "0x1f6af",
+    "symbol": "🚯",
+    "description": ":do_not_litter:"
+  },
+  {
+    "ascii": "0x1f436",
+    "symbol": "🐶",
+    "description": ":dog:"
+  },
+  {
+    "ascii": "0x1f415",
+    "symbol": "🐕",
+    "description": ":dog2:"
+  },
+  {
+    "ascii": "0x1f4b5",
+    "symbol": "💵",
+    "description": ":dollar:"
+  },
+  {
+    "ascii": "0x1f38e",
+    "symbol": "🎎",
+    "description": ":dolls:"
+  },
+  {
+    "ascii": "0x1f42c",
+    "symbol": "🐬",
+    "description": ":dolphin:"
+  },
+  {
+    "ascii": "0x1f6aa",
+    "symbol": "🚪",
+    "description": ":door:"
+  },
+  {
+    "ascii": "0x1f369",
+    "symbol": "🍩",
+    "description": ":doughnut:"
+  },
+  {
+    "ascii": "0x1f54a",
+    "symbol": "🕊",
+    "description": ":dove:"
+  },
+  {
+    "ascii": "0x1f409",
+    "symbol": "🐉",
+    "description": ":dragon:"
+  },
+  {
+    "ascii": "0x1f432",
+    "symbol": "🐲",
+    "description": ":dragon_face:"
+  },
+  {
+    "ascii": "0x1f457",
+    "symbol": "👗",
+    "description": ":dress:"
+  },
+  {
+    "ascii": "0x1f42a",
+    "symbol": "🐪",
+    "description": ":dromedary_camel:"
+  },
+  {
+    "ascii": "0x1f924",
+    "symbol": "🤤",
+    "description": ":drooling_face:"
+  },
+  {
+    "ascii": "0x1f4a7",
+    "symbol": "💧",
+    "description": ":droplet:"
+  },
+  {
+    "ascii": "0x1f941",
+    "symbol": "🥁",
+    "description": ":drum:"
+  },
+  {
+    "ascii": "0x1f986",
+    "symbol": "🦆",
+    "description": ":duck:"
+  },
+  {
+    "ascii": "0x1f4c0",
+    "symbol": "📀",
+    "description": ":dvd:"
+  },
+  {
+    "ascii": "0x1f4e7",
+    "symbol": "📧",
+    "description": ":e-mail:"
+  },
+  {
+    "ascii": "0x1f985",
+    "symbol": "🦅",
+    "description": ":eagle:"
+  },
+  {
+    "ascii": "0x1f442",
+    "symbol": "👂",
+    "description": ":ear:"
+  },
+  {
+    "ascii": "0x1f33e",
+    "symbol": "🌾",
+    "description": ":ear_of_rice:"
+  },
+  {
+    "ascii": "0x1f30d",
+    "symbol": "🌍",
+    "description": ":earth_africa:"
+  },
+  {
+    "ascii": "0x1f30e",
+    "symbol": "🌎",
+    "description": ":earth_americas:"
+  },
+  {
+    "ascii": "0x1f30f",
+    "symbol": "🌏",
+    "description": ":earth_asia:"
+  },
+  {
+    "ascii": "0x1f95a",
+    "symbol": "🥚",
+    "description": ":egg:"
+  },
+  {
+    "ascii": "0x1f346",
+    "symbol": "🍆",
+    "description": ":eggplant:"
+  },
+  {
+    "ascii": "0x2734fe0f",
+    "symbol": "✴️",
+    "description": ":eight_pointed_black_star:"
+  },
+  {
+    "ascii": "0x2733fe0f",
+    "symbol": "✳️",
+    "description": ":eight_spoked_asterisk:"
+  },
+  {
+    "ascii": "0x1f50c",
+    "symbol": "🔌",
+    "description": ":electric_plug:"
+  },
+  {
+    "ascii": "0x1f418",
+    "symbol": "🐘",
+    "description": ":elephant:"
+  },
+  {
+    "ascii": "0x2709fe0f",
+    "symbol": "✉️",
+    "description": ":email:"
+  },
+  {
+    "ascii": "0x1f51a",
+    "symbol": "🔚",
+    "description": ":end:"
+  },
+  {
+    "ascii": "0x2709fe0f",
+    "symbol": "✉️",
+    "description": ":email:"
+  },
+  {
+    "ascii": "0x1f4e9",
+    "symbol": "📩",
+    "description": ":envelope_with_arrow:"
+  },
+  {
+    "ascii": "0x1f4b6",
+    "symbol": "💶",
+    "description": ":euro:"
+  },
+  {
+    "ascii": "0x1f3f0",
+    "symbol": "🏰",
+    "description": ":european_castle:"
+  },
+  {
+    "ascii": "0x1f3e4",
+    "symbol": "🏤",
+    "description": ":european_post_office:"
+  },
+  {
+    "ascii": "0x1f332",
+    "symbol": "🌲",
+    "description": ":evergreen_tree:"
+  },
+  {
+    "ascii": "0x2757fe0f",
+    "symbol": "❗️",
+    "description": ":exclamation:"
+  },
+  {
+    "ascii": "0x1f611",
+    "symbol": "😑",
+    "description": ":expressionless:"
+  },
+  {
+    "ascii": "0x1f441",
+    "symbol": "👁",
+    "description": ":eye:"
+  },
+  {
+    "ascii": "0x1f441200d1f5e8",
+    "symbol": "👁‍🗨",
+    "description": ":eye_speech_bubble:"
+  },
+  {
+    "ascii": "0x1f453",
+    "symbol": "👓",
+    "description": ":eyeglasses:"
+  },
+  {
+    "ascii": "0x1f440",
+    "symbol": "👀",
+    "description": ":eyes:"
+  },
+  {
+    "ascii": "0x1f915",
+    "symbol": "🤕",
+    "description": ":face_with_head_bandage:"
+  },
+  {
+    "ascii": "0x1f912",
+    "symbol": "🤒",
+    "description": ":face_with_thermometer:"
+  },
+  {
+    "ascii": "0x1f44a",
+    "symbol": "👊",
+    "description": ":fist_oncoming:"
+  },
+  {
+    "ascii": "0x1f3ed",
+    "symbol": "🏭",
+    "description": ":factory:"
+  },
+  {
+    "ascii": "0x1f342",
+    "symbol": "🍂",
+    "description": ":fallen_leaf:"
+  },
+  {
+    "ascii": "0x1f46a",
+    "symbol": "👪",
+    "description": ":family_man_woman_boy:"
+  },
+  {
+    "ascii": "0x1f468200d1f466",
+    "symbol": "👨‍👦",
+    "description": ":family_man_boy:"
+  },
+  {
+    "ascii": "0x1f468200d1f466200d1f466",
+    "symbol": "👨‍👦‍👦",
+    "description": ":family_man_boy_boy:"
+  },
+  {
+    "ascii": "0x1f468200d1f467",
+    "symbol": "👨‍👧",
+    "description": ":family_man_girl:"
+  },
+  {
+    "ascii": "0x1f468200d1f467200d1f466",
+    "symbol": "👨‍👧‍👦",
+    "description": ":family_man_girl_boy:"
+  },
+  {
+    "ascii": "0x1f468200d1f467200d1f467",
+    "symbol": "👨‍👧‍👧",
+    "description": ":family_man_girl_girl:"
+  },
+  {
+    "ascii": "0x1f468200d1f468200d1f466",
+    "symbol": "👨‍👨‍👦",
+    "description": ":family_man_man_boy:"
+  },
+  {
+    "ascii": "0x1f468200d1f468200d1f466200d1f466",
+    "symbol": "👨‍👨‍👦‍👦",
+    "description": ":family_man_man_boy_boy:"
+  },
+  {
+    "ascii": "0x1f468200d1f468200d1f467",
+    "symbol": "👨‍👨‍👧",
+    "description": ":family_man_man_girl:"
+  },
+  {
+    "ascii": "0x1f468200d1f468200d1f467200d1f466",
+    "symbol": "👨‍👨‍👧‍👦",
+    "description": ":family_man_man_girl_boy:"
+  },
+  {
+    "ascii": "0x1f468200d1f468200d1f467200d1f467",
+    "symbol": "👨‍👨‍👧‍👧",
+    "description": ":family_man_man_girl_girl:"
+  },
+  {
+    "ascii": "0x1f46a",
+    "symbol": "👪",
+    "description": ":family_man_woman_boy:"
+  },
+  {
+    "ascii": "0x1f468200d1f469200d1f466200d1f466",
+    "symbol": "👨‍👩‍👦‍👦",
+    "description": ":family_man_woman_boy_boy:"
+  },
+  {
+    "ascii": "0x1f468200d1f469200d1f467",
+    "symbol": "👨‍👩‍👧",
+    "description": ":family_man_woman_girl:"
+  },
+  {
+    "ascii": "0x1f468200d1f469200d1f467200d1f466",
+    "symbol": "👨‍👩‍👧‍👦",
+    "description": ":family_man_woman_girl_boy:"
+  },
+  {
+    "ascii": "0x1f468200d1f469200d1f467200d1f467",
+    "symbol": "👨‍👩‍👧‍👧",
+    "description": ":family_man_woman_girl_girl:"
+  },
+  {
+    "ascii": "0x1f469200d1f466",
+    "symbol": "👩‍👦",
+    "description": ":family_woman_boy:"
+  },
+  {
+    "ascii": "0x1f469200d1f466200d1f466",
+    "symbol": "👩‍👦‍👦",
+    "description": ":family_woman_boy_boy:"
+  },
+  {
+    "ascii": "0x1f469200d1f467",
+    "symbol": "👩‍👧",
+    "description": ":family_woman_girl:"
+  },
+  {
+    "ascii": "0x1f469200d1f467200d1f466",
+    "symbol": "👩‍👧‍👦",
+    "description": ":family_woman_girl_boy:"
+  },
+  {
+    "ascii": "0x1f469200d1f467200d1f467",
+    "symbol": "👩‍👧‍👧",
+    "description": ":family_woman_girl_girl:"
+  },
+  {
+    "ascii": "0x1f469200d1f469200d1f466",
+    "symbol": "👩‍👩‍👦",
+    "description": ":family_woman_woman_boy:"
+  },
+  {
+    "ascii": "0x1f469200d1f469200d1f466200d1f466",
+    "symbol": "👩‍👩‍👦‍👦",
+    "description": ":family_woman_woman_boy_boy:"
+  },
+  {
+    "ascii": "0x1f469200d1f469200d1f467",
+    "symbol": "👩‍👩‍👧",
+    "description": ":family_woman_woman_girl:"
+  },
+  {
+    "ascii": "0x1f469200d1f469200d1f467200d1f466",
+    "symbol": "👩‍👩‍👧‍👦",
+    "description": ":family_woman_woman_girl_boy:"
+  },
+  {
+    "ascii": "0x1f469200d1f469200d1f467200d1f467",
+    "symbol": "👩‍👩‍👧‍👧",
+    "description": ":family_woman_woman_girl_girl:"
+  },
+  {
+    "ascii": "0x23e9",
+    "symbol": "⏩",
+    "description": ":fast_forward:"
+  },
+  {
+    "ascii": "0x1f4e0",
+    "symbol": "📠",
+    "description": ":fax:"
+  },
+  {
+    "ascii": "0x1f628",
+    "symbol": "😨",
+    "description": ":fearful:"
+  },
+  {
+    "ascii": "0x1f43e",
+    "symbol": "🐾",
+    "description": ":feet:"
+  },
+  {
+    "ascii": "0x1f575fe0f200d2640fe0f",
+    "symbol": "🕵️‍♀️",
+    "description": ":female_detective:"
+  },
+  {
+    "ascii": "0x1f3a1",
+    "symbol": "🎡",
+    "description": ":ferris_wheel:"
+  },
+  {
+    "ascii": "0x26f4",
+    "symbol": "⛴",
+    "description": ":ferry:"
+  },
+  {
+    "ascii": "0x1f3d1",
+    "symbol": "🏑",
+    "description": ":field_hockey:"
+  },
+  {
+    "ascii": "0x1f5c4",
+    "symbol": "🗄",
+    "description": ":file_cabinet:"
+  },
+  {
+    "ascii": "0x1f4c1",
+    "symbol": "📁",
+    "description": ":file_folder:"
+  },
+  {
+    "ascii": "0x1f4fd",
+    "symbol": "📽",
+    "description": ":film_projector:"
+  },
+  {
+    "ascii": "0x1f39e",
+    "symbol": "🎞",
+    "description": ":film_strip:"
+  },
+  {
+    "ascii": "0x1f525",
+    "symbol": "🔥",
+    "description": ":fire:"
+  },
+  {
+    "ascii": "0x1f692",
+    "symbol": "🚒",
+    "description": ":fire_engine:"
+  },
+  {
+    "ascii": "0x1f386",
+    "symbol": "🎆",
+    "description": ":fireworks:"
+  },
+  {
+    "ascii": "0x1f313",
+    "symbol": "🌓",
+    "description": ":first_quarter_moon:"
+  },
+  {
+    "ascii": "0x1f31b",
+    "symbol": "🌛",
+    "description": ":first_quarter_moon_with_face:"
+  },
+  {
+    "ascii": "0x1f41f",
+    "symbol": "🐟",
+    "description": ":fish:"
+  },
+  {
+    "ascii": "0x1f365",
+    "symbol": "🍥",
+    "description": ":fish_cake:"
+  },
+  {
+    "ascii": "0x1f3a3",
+    "symbol": "🎣",
+    "description": ":fishing_pole_and_fish:"
+  },
+  {
+    "ascii": "0x270a",
+    "symbol": "✊",
+    "description": ":fist_raised:"
+  },
+  {
+    "ascii": "0x1f91b",
+    "symbol": "🤛",
+    "description": ":fist_left:"
+  },
+  {
+    "ascii": "0x1f44a",
+    "symbol": "👊",
+    "description": ":fist_oncoming:"
+  },
+  {
+    "ascii": "0x270a",
+    "symbol": "✊",
+    "description": ":fist_raised:"
+  },
+  {
+    "ascii": "0x1f91c",
+    "symbol": "🤜",
+    "description": ":fist_right:"
+  },
+  {
+    "ascii": "0x1f38f",
+    "symbol": "🎏",
+    "description": ":flags:"
+  },
+  {
+    "ascii": "0x1f526",
+    "symbol": "🔦",
+    "description": ":flashlight:"
+  },
+  {
+    "ascii": "0x269cfe0f",
+    "symbol": "⚜️",
+    "description": ":fleur_de_lis:"
+  },
+  {
+    "ascii": "0x1f6ec",
+    "symbol": "🛬",
+    "description": ":flight_arrival:"
+  },
+  {
+    "ascii": "0x1f6eb",
+    "symbol": "🛫",
+    "description": ":flight_departure:"
+  },
+  {
+    "ascii": "0x1f42c",
+    "symbol": "🐬",
+    "description": ":dolphin:"
+  },
+  {
+    "ascii": "0x1f4be",
+    "symbol": "💾",
+    "description": ":floppy_disk:"
+  },
+  {
+    "ascii": "0x1f3b4",
+    "symbol": "🎴",
+    "description": ":flower_playing_cards:"
+  },
+  {
+    "ascii": "0x1f633",
+    "symbol": "😳",
+    "description": ":flushed:"
+  },
+  {
+    "ascii": "0x1f32b",
+    "symbol": "🌫",
+    "description": ":fog:"
+  },
+  {
+    "ascii": "0x1f301",
+    "symbol": "🌁",
+    "description": ":foggy:"
+  },
+  {
+    "ascii": "0x1f3c8",
+    "symbol": "🏈",
+    "description": ":football:"
+  },
+  {
+    "ascii": "0x1f463",
+    "symbol": "👣",
+    "description": ":footprints:"
+  },
+  {
+    "ascii": "0x1f374",
+    "symbol": "🍴",
+    "description": ":fork_and_knife:"
+  },
+  {
+    "ascii": "0x26f2fe0f",
+    "symbol": "⛲️",
+    "description": ":fountain:"
+  },
+  {
+    "ascii": "0x1f58b",
+    "symbol": "🖋",
+    "description": ":fountain_pen:"
+  },
+  {
+    "ascii": "0x1f340",
+    "symbol": "🍀",
+    "description": ":four_leaf_clover:"
+  },
+  {
+    "ascii": "0x1f98a",
+    "symbol": "🦊",
+    "description": ":fox_face:"
+  },
+  {
+    "ascii": "0x1f5bc",
+    "symbol": "🖼",
+    "description": ":framed_picture:"
+  },
+  {
+    "ascii": "0x1f193",
+    "symbol": "🆓",
+    "description": ":free:"
+  },
+  {
+    "ascii": "0x1f373",
+    "symbol": "🍳",
+    "description": ":fried_egg:"
+  },
+  {
+    "ascii": "0x1f364",
+    "symbol": "🍤",
+    "description": ":fried_shrimp:"
+  },
+  {
+    "ascii": "0x1f35f",
+    "symbol": "🍟",
+    "description": ":fries:"
+  },
+  {
+    "ascii": "0x1f438",
+    "symbol": "🐸",
+    "description": ":frog:"
+  },
+  {
+    "ascii": "0x1f626",
+    "symbol": "😦",
+    "description": ":frowning:"
+  },
+  {
+    "ascii": "0x2639fe0f",
+    "symbol": "☹️",
+    "description": ":frowning_face:"
+  },
+  {
+    "ascii": "0x1f64d200d2642fe0f",
+    "symbol": "🙍‍♂️",
+    "description": ":frowning_man:"
+  },
+  {
+    "ascii": "0x1f64d",
+    "symbol": "🙍",
+    "description": ":frowning_woman:"
+  },
+  {
+    "ascii": "0x1f595",
+    "symbol": "🖕",
+    "description": ":middle_finger:"
+  },
+  {
+    "ascii": "0x26fdfe0f",
+    "symbol": "⛽️",
+    "description": ":fuelpump:"
+  },
+  {
+    "ascii": "0x1f315",
+    "symbol": "🌕",
+    "description": ":full_moon:"
+  },
+  {
+    "ascii": "0x1f31d",
+    "symbol": "🌝",
+    "description": ":full_moon_with_face:"
+  },
+  {
+    "ascii": "0x26b1fe0f",
+    "symbol": "⚱️",
+    "description": ":funeral_urn:"
+  },
+  {
+    "ascii": "0x1f3b2",
+    "symbol": "🎲",
+    "description": ":game_die:"
+  },
+  {
+    "ascii": "0x2699fe0f",
+    "symbol": "⚙️",
+    "description": ":gear:"
+  },
+  {
+    "ascii": "0x1f48e",
+    "symbol": "💎",
+    "description": ":gem:"
+  },
+  {
+    "ascii": "0x264afe0f",
+    "symbol": "♊️",
+    "description": ":gemini:"
+  },
+  {
+    "ascii": "0x1f47b",
+    "symbol": "👻",
+    "description": ":ghost:"
+  },
+  {
+    "ascii": "0x1f381",
+    "symbol": "🎁",
+    "description": ":gift:"
+  },
+  {
+    "ascii": "0x1f49d",
+    "symbol": "💝",
+    "description": ":gift_heart:"
+  },
+  {
+    "ascii": "0x1f467",
+    "symbol": "👧",
+    "description": ":girl:"
+  },
+  {
+    "ascii": "0x1f310",
+    "symbol": "🌐",
+    "description": ":globe_with_meridians:"
+  },
+  {
+    "ascii": "0x1f945",
+    "symbol": "🥅",
+    "description": ":goal_net:"
+  },
+  {
+    "ascii": "0x1f410",
+    "symbol": "🐐",
+    "description": ":goat:"
+  },
+  {
+    "ascii": "0x26f3fe0f",
+    "symbol": "⛳️",
+    "description": ":golf:"
+  },
+  {
+    "ascii": "0x1f3ccfe0f",
+    "symbol": "🏌️",
+    "description": ":golfing_man:"
+  },
+  {
+    "ascii": "0x1f3ccfe0f200d2640fe0f",
+    "symbol": "🏌️‍♀️",
+    "description": ":golfing_woman:"
+  },
+  {
+    "ascii": "0x1f98d",
+    "symbol": "🦍",
+    "description": ":gorilla:"
+  },
+  {
+    "ascii": "0x1f347",
+    "symbol": "🍇",
+    "description": ":grapes:"
+  },
+  {
+    "ascii": "0x1f34f",
+    "symbol": "🍏",
+    "description": ":green_apple:"
+  },
+  {
+    "ascii": "0x1f4d7",
+    "symbol": "📗",
+    "description": ":green_book:"
+  },
+  {
+    "ascii": "0x1f49a",
+    "symbol": "💚",
+    "description": ":green_heart:"
+  },
+  {
+    "ascii": "0x1f957",
+    "symbol": "🥗",
+    "description": ":green_salad:"
+  },
+  {
+    "ascii": "0x2755",
+    "symbol": "❕",
+    "description": ":grey_exclamation:"
+  },
+  {
+    "ascii": "0x2754",
+    "symbol": "❔",
+    "description": ":grey_question:"
+  },
+  {
+    "ascii": "0x1f62c",
+    "symbol": "😬",
+    "description": ":grimacing:"
+  },
+  {
+    "ascii": "0x1f601",
+    "symbol": "😁",
+    "description": ":grin:"
+  },
+  {
+    "ascii": "0x1f600",
+    "symbol": "😀",
+    "description": ":grinning:"
+  },
+  {
+    "ascii": "0x1f482",
+    "symbol": "💂",
+    "description": ":guardsman:"
+  },
+  {
+    "ascii": "0x1f482200d2640fe0f",
+    "symbol": "💂‍♀️",
+    "description": ":guardswoman:"
+  },
+  {
+    "ascii": "0x1f3b8",
+    "symbol": "🎸",
+    "description": ":guitar:"
+  },
+  {
+    "ascii": "0x1f52b",
+    "symbol": "🔫",
+    "description": ":gun:"
+  },
+  {
+    "ascii": "0x1f487",
+    "symbol": "💇",
+    "description": ":haircut_woman:"
+  },
+  {
+    "ascii": "0x1f487200d2642fe0f",
+    "symbol": "💇‍♂️",
+    "description": ":haircut_man:"
+  },
+  {
+    "ascii": "0x1f487",
+    "symbol": "💇",
+    "description": ":haircut_woman:"
+  },
+  {
+    "ascii": "0x1f354",
+    "symbol": "🍔",
+    "description": ":hamburger:"
+  },
+  {
+    "ascii": "0x1f528",
+    "symbol": "🔨",
+    "description": ":hammer:"
+  },
+  {
+    "ascii": "0x2692",
+    "symbol": "⚒",
+    "description": ":hammer_and_pick:"
+  },
+  {
+    "ascii": "0x1f6e0",
+    "symbol": "🛠",
+    "description": ":hammer_and_wrench:"
+  },
+  {
+    "ascii": "0x1f439",
+    "symbol": "🐹",
+    "description": ":hamster:"
+  },
+  {
+    "ascii": "0x270b",
+    "symbol": "✋",
+    "description": ":hand:"
+  },
+  {
+    "ascii": "0x1f45c",
+    "symbol": "👜",
+    "description": ":handbag:"
+  },
+  {
+    "ascii": "0x1f91d",
+    "symbol": "🤝",
+    "description": ":handshake:"
+  },
+  {
+    "ascii": "0x1f4a9",
+    "symbol": "💩",
+    "description": ":hankey:"
+  },
+  {
+    "ascii": "0x1f425",
+    "symbol": "🐥",
+    "description": ":hatched_chick:"
+  },
+  {
+    "ascii": "0x1f423",
+    "symbol": "🐣",
+    "description": ":hatching_chick:"
+  },
+  {
+    "ascii": "0x1f3a7",
+    "symbol": "🎧",
+    "description": ":headphones:"
+  },
+  {
+    "ascii": "0x1f649",
+    "symbol": "🙉",
+    "description": ":hear_no_evil:"
+  },
+  {
+    "ascii": "0x2764fe0f",
+    "symbol": "❤️",
+    "description": ":heart:"
+  },
+  {
+    "ascii": "0x1f49f",
+    "symbol": "💟",
+    "description": ":heart_decoration:"
+  },
+  {
+    "ascii": "0x1f60d",
+    "symbol": "😍",
+    "description": ":heart_eyes:"
+  },
+  {
+    "ascii": "0x1f63b",
+    "symbol": "😻",
+    "description": ":heart_eyes_cat:"
+  },
+  {
+    "ascii": "0x1f493",
+    "symbol": "💓",
+    "description": ":heartbeat:"
+  },
+  {
+    "ascii": "0x1f497",
+    "symbol": "💗",
+    "description": ":heartpulse:"
+  },
+  {
+    "ascii": "0x2665fe0f",
+    "symbol": "♥️",
+    "description": ":hearts:"
+  },
+  {
+    "ascii": "0x2714fe0f",
+    "symbol": "✔️",
+    "description": ":heavy_check_mark:"
+  },
+  {
+    "ascii": "0x2797",
+    "symbol": "➗",
+    "description": ":heavy_division_sign:"
+  },
+  {
+    "ascii": "0x1f4b2",
+    "symbol": "💲",
+    "description": ":heavy_dollar_sign:"
+  },
+  {
+    "ascii": "0x2757fe0f",
+    "symbol": "❗️",
+    "description": ":exclamation:"
+  },
+  {
+    "ascii": "0x2763fe0f",
+    "symbol": "❣️",
+    "description": ":heavy_heart_exclamation:"
+  },
+  {
+    "ascii": "0x2796",
+    "symbol": "➖",
+    "description": ":heavy_minus_sign:"
+  },
+  {
+    "ascii": "0x2716fe0f",
+    "symbol": "✖️",
+    "description": ":heavy_multiplication_x:"
+  },
+  {
+    "ascii": "0x2795",
+    "symbol": "➕",
+    "description": ":heavy_plus_sign:"
+  },
+  {
+    "ascii": "0x1f681",
+    "symbol": "🚁",
+    "description": ":helicopter:"
+  },
+  {
+    "ascii": "0x1f33f",
+    "symbol": "🌿",
+    "description": ":herb:"
+  },
+  {
+    "ascii": "0x1f33a",
+    "symbol": "🌺",
+    "description": ":hibiscus:"
+  },
+  {
+    "ascii": "0x1f506",
+    "symbol": "🔆",
+    "description": ":high_brightness:"
+  },
+  {
+    "ascii": "0x1f460",
+    "symbol": "👠",
+    "description": ":high_heel:"
+  },
+  {
+    "ascii": "0x1f52a",
+    "symbol": "🔪",
+    "description": ":hocho:"
+  },
+  {
+    "ascii": "0x1f573",
+    "symbol": "🕳",
+    "description": ":hole:"
+  },
+  {
+    "ascii": "0x1f36f",
+    "symbol": "🍯",
+    "description": ":honey_pot:"
+  },
+  {
+    "ascii": "0x1f41d",
+    "symbol": "🐝",
+    "description": ":bee:"
+  },
+  {
+    "ascii": "0x1f434",
+    "symbol": "🐴",
+    "description": ":horse:"
+  },
+  {
+    "ascii": "0x1f3c7",
+    "symbol": "🏇",
+    "description": ":horse_racing:"
+  },
+  {
+    "ascii": "0x1f3e5",
+    "symbol": "🏥",
+    "description": ":hospital:"
+  },
+  {
+    "ascii": "0x1f336",
+    "symbol": "🌶",
+    "description": ":hot_pepper:"
+  },
+  {
+    "ascii": "0x1f32d",
+    "symbol": "🌭",
+    "description": ":hotdog:"
+  },
+  {
+    "ascii": "0x1f3e8",
+    "symbol": "🏨",
+    "description": ":hotel:"
+  },
+  {
+    "ascii": "0x2668fe0f",
+    "symbol": "♨️",
+    "description": ":hotsprings:"
+  },
+  {
+    "ascii": "0x231bfe0f",
+    "symbol": "⌛️",
+    "description": ":hourglass:"
+  },
+  {
+    "ascii": "0x23f3",
+    "symbol": "⏳",
+    "description": ":hourglass_flowing_sand:"
+  },
+  {
+    "ascii": "0x1f3e0",
+    "symbol": "🏠",
+    "description": ":house:"
+  },
+  {
+    "ascii": "0x1f3e1",
+    "symbol": "🏡",
+    "description": ":house_with_garden:"
+  },
+  {
+    "ascii": "0x1f3d8",
+    "symbol": "🏘",
+    "description": ":houses:"
+  },
+  {
+    "ascii": "0x1f917",
+    "symbol": "🤗",
+    "description": ":hugs:"
+  },
+  {
+    "ascii": "0x1f62f",
+    "symbol": "😯",
+    "description": ":hushed:"
+  },
+  {
+    "ascii": "0x1f368",
+    "symbol": "🍨",
+    "description": ":ice_cream:"
+  },
+  {
+    "ascii": "0x1f3d2",
+    "symbol": "🏒",
+    "description": ":ice_hockey:"
+  },
+  {
+    "ascii": "0x26f8",
+    "symbol": "⛸",
+    "description": ":ice_skate:"
+  },
+  {
+    "ascii": "0x1f366",
+    "symbol": "🍦",
+    "description": ":icecream:"
+  },
+  {
+    "ascii": "0x1f194",
+    "symbol": "🆔",
+    "description": ":id:"
+  },
+  {
+    "ascii": "0x1f250",
+    "symbol": "🉐",
+    "description": ":ideograph_advantage:"
+  },
+  {
+    "ascii": "0x1f47f",
+    "symbol": "👿",
+    "description": ":imp:"
+  },
+  {
+    "ascii": "0x1f4e5",
+    "symbol": "📥",
+    "description": ":inbox_tray:"
+  },
+  {
+    "ascii": "0x1f4e8",
+    "symbol": "📨",
+    "description": ":incoming_envelope:"
+  },
+  {
+    "ascii": "0x1f481",
+    "symbol": "💁",
+    "description": ":tipping_hand_woman:"
+  },
+  {
+    "ascii": "0x2139fe0f",
+    "symbol": "ℹ️",
+    "description": ":information_source:"
+  },
+  {
+    "ascii": "0x1f607",
+    "symbol": "😇",
+    "description": ":innocent:"
+  },
+  {
+    "ascii": "0x2049fe0f",
+    "symbol": "⁉️",
+    "description": ":interrobang:"
+  },
+  {
+    "ascii": "0x1f4f1",
+    "symbol": "📱",
+    "description": ":iphone:"
+  },
+  {
+    "ascii": "0x1f3ee",
+    "symbol": "🏮",
+    "description": ":izakaya_lantern:"
+  },
+  {
+    "ascii": "0x1f383",
+    "symbol": "🎃",
+    "description": ":jack_o_lantern:"
+  },
+  {
+    "ascii": "0x1f5fe",
+    "symbol": "🗾",
+    "description": ":japan:"
+  },
+  {
+    "ascii": "0x1f3ef",
+    "symbol": "🏯",
+    "description": ":japanese_castle:"
+  },
+  {
+    "ascii": "0x1f47a",
+    "symbol": "👺",
+    "description": ":japanese_goblin:"
+  },
+  {
+    "ascii": "0x1f479",
+    "symbol": "👹",
+    "description": ":japanese_ogre:"
+  },
+  {
+    "ascii": "0x1f456",
+    "symbol": "👖",
+    "description": ":jeans:"
+  },
+  {
+    "ascii": "0x1f602",
+    "symbol": "😂",
+    "description": ":joy:"
+  },
+  {
+    "ascii": "0x1f639",
+    "symbol": "😹",
+    "description": ":joy_cat:"
+  },
+  {
+    "ascii": "0x1f579",
+    "symbol": "🕹",
+    "description": ":joystick:"
+  },
+  {
+    "ascii": "0x1f54b",
+    "symbol": "🕋",
+    "description": ":kaaba:"
+  },
+  {
+    "ascii": "0x1f511",
+    "symbol": "🔑",
+    "description": ":key:"
+  },
+  {
+    "ascii": "0x2328fe0f",
+    "symbol": "⌨️",
+    "description": ":keyboard:"
+  },
+  {
+    "ascii": "0x1f51f",
+    "symbol": "🔟",
+    "description": ":keycap_ten:"
+  },
+  {
+    "ascii": "0x1f6f4",
+    "symbol": "🛴",
+    "description": ":kick_scooter:"
+  },
+  {
+    "ascii": "0x1f458",
+    "symbol": "👘",
+    "description": ":kimono:"
+  },
+  {
+    "ascii": "0x1f48b",
+    "symbol": "💋",
+    "description": ":kiss:"
+  },
+  {
+    "ascii": "0x1f617",
+    "symbol": "😗",
+    "description": ":kissing:"
+  },
+  {
+    "ascii": "0x1f63d",
+    "symbol": "😽",
+    "description": ":kissing_cat:"
+  },
+  {
+    "ascii": "0x1f61a",
+    "symbol": "😚",
+    "description": ":kissing_closed_eyes:"
+  },
+  {
+    "ascii": "0x1f618",
+    "symbol": "😘",
+    "description": ":kissing_heart:"
+  },
+  {
+    "ascii": "0x1f619",
+    "symbol": "😙",
+    "description": ":kissing_smiling_eyes:"
+  },
+  {
+    "ascii": "0x1f95d",
+    "symbol": "🥝",
+    "description": ":kiwi_fruit:"
+  },
+  {
+    "ascii": "0x1f52a",
+    "symbol": "🔪",
+    "description": ":hocho:"
+  },
+  {
+    "ascii": "0x1f428",
+    "symbol": "🐨",
+    "description": ":koala:"
+  },
+  {
+    "ascii": "0x1f201",
+    "symbol": "🈁",
+    "description": ":koko:"
+  },
+  {
+    "ascii": "0x1f3f7",
+    "symbol": "🏷",
+    "description": ":label:"
+  },
+  {
+    "ascii": "0x1f3ee",
+    "symbol": "🏮",
+    "description": ":izakaya_lantern:"
+  },
+  {
+    "ascii": "0x1f535",
+    "symbol": "🔵",
+    "description": ":large_blue_circle:"
+  },
+  {
+    "ascii": "0x1f537",
+    "symbol": "🔷",
+    "description": ":large_blue_diamond:"
+  },
+  {
+    "ascii": "0x1f536",
+    "symbol": "🔶",
+    "description": ":large_orange_diamond:"
+  },
+  {
+    "ascii": "0x1f317",
+    "symbol": "🌗",
+    "description": ":last_quarter_moon:"
+  },
+  {
+    "ascii": "0x1f31c",
+    "symbol": "🌜",
+    "description": ":last_quarter_moon_with_face:"
+  },
+  {
+    "ascii": "0x271dfe0f",
+    "symbol": "✝️",
+    "description": ":latin_cross:"
+  },
+  {
+    "ascii": "0x1f606",
+    "symbol": "😆",
+    "description": ":laughing:"
+  },
+  {
+    "ascii": "0x1f343",
+    "symbol": "🍃",
+    "description": ":leaves:"
+  },
+  {
+    "ascii": "0x1f4d2",
+    "symbol": "📒",
+    "description": ":ledger:"
+  },
+  {
+    "ascii": "0x1f6c5",
+    "symbol": "🛅",
+    "description": ":left_luggage:"
+  },
+  {
+    "ascii": "0x2194fe0f",
+    "symbol": "↔️",
+    "description": ":left_right_arrow:"
+  },
+  {
+    "ascii": "0x21a9fe0f",
+    "symbol": "↩️",
+    "description": ":leftwards_arrow_with_hook:"
+  },
+  {
+    "ascii": "0x1f34b",
+    "symbol": "🍋",
+    "description": ":lemon:"
+  },
+  {
+    "ascii": "0x264cfe0f",
+    "symbol": "♌️",
+    "description": ":leo:"
+  },
+  {
+    "ascii": "0x1f406",
+    "symbol": "🐆",
+    "description": ":leopard:"
+  },
+  {
+    "ascii": "0x1f39a",
+    "symbol": "🎚",
+    "description": ":level_slider:"
+  },
+  {
+    "ascii": "0x264efe0f",
+    "symbol": "♎️",
+    "description": ":libra:"
+  },
+  {
+    "ascii": "0x1f688",
+    "symbol": "🚈",
+    "description": ":light_rail:"
+  },
+  {
+    "ascii": "0x1f517",
+    "symbol": "🔗",
+    "description": ":link:"
+  },
+  {
+    "ascii": "0x1f981",
+    "symbol": "🦁",
+    "description": ":lion:"
+  },
+  {
+    "ascii": "0x1f444",
+    "symbol": "👄",
+    "description": ":lips:"
+  },
+  {
+    "ascii": "0x1f484",
+    "symbol": "💄",
+    "description": ":lipstick:"
+  },
+  {
+    "ascii": "0x1f98e",
+    "symbol": "🦎",
+    "description": ":lizard:"
+  },
+  {
+    "ascii": "0x1f512",
+    "symbol": "🔒",
+    "description": ":lock:"
+  },
+  {
+    "ascii": "0x1f50f",
+    "symbol": "🔏",
+    "description": ":lock_with_ink_pen:"
+  },
+  {
+    "ascii": "0x1f36d",
+    "symbol": "🍭",
+    "description": ":lollipop:"
+  },
+  {
+    "ascii": "0x27bf",
+    "symbol": "➿",
+    "description": ":loop:"
+  },
+  {
+    "ascii": "0x1f50a",
+    "symbol": "🔊",
+    "description": ":loud_sound:"
+  },
+  {
+    "ascii": "0x1f4e2",
+    "symbol": "📢",
+    "description": ":loudspeaker:"
+  },
+  {
+    "ascii": "0x1f3e9",
+    "symbol": "🏩",
+    "description": ":love_hotel:"
+  },
+  {
+    "ascii": "0x1f48c",
+    "symbol": "💌",
+    "description": ":love_letter:"
+  },
+  {
+    "ascii": "0x1f505",
+    "symbol": "🔅",
+    "description": ":low_brightness:"
+  },
+  {
+    "ascii": "0x1f925",
+    "symbol": "🤥",
+    "description": ":lying_face:"
+  },
+  {
+    "ascii": "0x24c2fe0f",
+    "symbol": "Ⓜ️",
+    "description": ":m:"
+  },
+  {
+    "ascii": "0x1f50d",
+    "symbol": "🔍",
+    "description": ":mag:"
+  },
+  {
+    "ascii": "0x1f50e",
+    "symbol": "🔎",
+    "description": ":mag_right:"
+  },
+  {
+    "ascii": "0x1f004fe0f",
+    "symbol": "🀄️",
+    "description": ":mahjong:"
+  },
+  {
+    "ascii": "0x1f4eb",
+    "symbol": "📫",
+    "description": ":mailbox:"
+  },
+  {
+    "ascii": "0x1f4ea",
+    "symbol": "📪",
+    "description": ":mailbox_closed:"
+  },
+  {
+    "ascii": "0x1f4ec",
+    "symbol": "📬",
+    "description": ":mailbox_with_mail:"
+  },
+  {
+    "ascii": "0x1f4ed",
+    "symbol": "📭",
+    "description": ":mailbox_with_no_mail:"
+  },
+  {
+    "ascii": "0x1f575fe0f",
+    "symbol": "🕵️",
+    "description": ":male_detective:"
+  },
+  {
+    "ascii": "0x1f468",
+    "symbol": "👨",
+    "description": ":man:"
+  },
+  {
+    "ascii": "0x1f468200d1f3a8",
+    "symbol": "👨‍🎨",
+    "description": ":man_artist:"
+  },
+  {
+    "ascii": "0x1f468200d1f680",
+    "symbol": "👨‍🚀",
+    "description": ":man_astronaut:"
+  },
+  {
+    "ascii": "0x1f938200d2642fe0f",
+    "symbol": "🤸‍♂️",
+    "description": ":man_cartwheeling:"
+  },
+  {
+    "ascii": "0x1f468200d1f373",
+    "symbol": "👨‍🍳",
+    "description": ":man_cook:"
+  },
+  {
+    "ascii": "0x1f57a",
+    "symbol": "🕺",
+    "description": ":man_dancing:"
+  },
+  {
+    "ascii": "0x1f926200d2642fe0f",
+    "symbol": "🤦‍♂️",
+    "description": ":man_facepalming:"
+  },
+  {
+    "ascii": "0x1f468200d1f3ed",
+    "symbol": "👨‍🏭",
+    "description": ":man_factory_worker:"
+  },
+  {
+    "ascii": "0x1f468200d1f33e",
+    "symbol": "👨‍🌾",
+    "description": ":man_farmer:"
+  },
+  {
+    "ascii": "0x1f468200d1f692",
+    "symbol": "👨‍🚒",
+    "description": ":man_firefighter:"
+  },
+  {
+    "ascii": "0x1f468200d2695fe0f",
+    "symbol": "👨‍⚕️",
+    "description": ":man_health_worker:"
+  },
+  {
+    "ascii": "0x1f935",
+    "symbol": "🤵",
+    "description": ":man_in_tuxedo:"
+  },
+  {
+    "ascii": "0x1f468200d2696fe0f",
+    "symbol": "👨‍⚖️",
+    "description": ":man_judge:"
+  },
+  {
+    "ascii": "0x1f939200d2642fe0f",
+    "symbol": "🤹‍♂️",
+    "description": ":man_juggling:"
+  },
+  {
+    "ascii": "0x1f468200d1f527",
+    "symbol": "👨‍🔧",
+    "description": ":man_mechanic:"
+  },
+  {
+    "ascii": "0x1f468200d1f4bc",
+    "symbol": "👨‍💼",
+    "description": ":man_office_worker:"
+  },
+  {
+    "ascii": "0x1f468200d2708fe0f",
+    "symbol": "👨‍✈️",
+    "description": ":man_pilot:"
+  },
+  {
+    "ascii": "0x1f93e200d2642fe0f",
+    "symbol": "🤾‍♂️",
+    "description": ":man_playing_handball:"
+  },
+  {
+    "ascii": "0x1f93d200d2642fe0f",
+    "symbol": "🤽‍♂️",
+    "description": ":man_playing_water_polo:"
+  },
+  {
+    "ascii": "0x1f468200d1f52c",
+    "symbol": "👨‍🔬",
+    "description": ":man_scientist:"
+  },
+  {
+    "ascii": "0x1f937200d2642fe0f",
+    "symbol": "🤷‍♂️",
+    "description": ":man_shrugging:"
+  },
+  {
+    "ascii": "0x1f468200d1f3a4",
+    "symbol": "👨‍🎤",
+    "description": ":man_singer:"
+  },
+  {
+    "ascii": "0x1f468200d1f393",
+    "symbol": "👨‍🎓",
+    "description": ":man_student:"
+  },
+  {
+    "ascii": "0x1f468200d1f3eb",
+    "symbol": "👨‍🏫",
+    "description": ":man_teacher:"
+  },
+  {
+    "ascii": "0x1f468200d1f4bb",
+    "symbol": "👨‍💻",
+    "description": ":man_technologist:"
+  },
+  {
+    "ascii": "0x1f472",
+    "symbol": "👲",
+    "description": ":man_with_gua_pi_mao:"
+  },
+  {
+    "ascii": "0x1f473",
+    "symbol": "👳",
+    "description": ":man_with_turban:"
+  },
+  {
+    "ascii": "0x1f34a",
+    "symbol": "🍊",
+    "description": ":tangerine:"
+  },
+  {
+    "ascii": "0x1f45e",
+    "symbol": "👞",
+    "description": ":mans_shoe:"
+  },
+  {
+    "ascii": "0x1f570",
+    "symbol": "🕰",
+    "description": ":mantelpiece_clock:"
+  },
+  {
+    "ascii": "0x1f341",
+    "symbol": "🍁",
+    "description": ":maple_leaf:"
+  },
+  {
+    "ascii": "0x1f94b",
+    "symbol": "🥋",
+    "description": ":martial_arts_uniform:"
+  },
+  {
+    "ascii": "0x1f637",
+    "symbol": "😷",
+    "description": ":mask:"
+  },
+  {
+    "ascii": "0x1f486",
+    "symbol": "💆",
+    "description": ":massage_woman:"
+  },
+  {
+    "ascii": "0x1f486200d2642fe0f",
+    "symbol": "💆‍♂️",
+    "description": ":massage_man:"
+  },
+  {
+    "ascii": "0x1f486",
+    "symbol": "💆",
+    "description": ":massage_woman:"
+  },
+  {
+    "ascii": "0x1f356",
+    "symbol": "🍖",
+    "description": ":meat_on_bone:"
+  },
+  {
+    "ascii": "0x1f396",
+    "symbol": "🎖",
+    "description": ":medal_military:"
+  },
+  {
+    "ascii": "0x1f3c5",
+    "symbol": "🏅",
+    "description": ":medal_sports:"
+  },
+  {
+    "ascii": "0x1f4e3",
+    "symbol": "📣",
+    "description": ":mega:"
+  },
+  {
+    "ascii": "0x1f348",
+    "symbol": "🍈",
+    "description": ":melon:"
+  },
+  {
+    "ascii": "0x1f4dd",
+    "symbol": "📝",
+    "description": ":memo:"
+  },
+  {
+    "ascii": "0x1f93c200d2642fe0f",
+    "symbol": "🤼‍♂️",
+    "description": ":men_wrestling:"
+  },
+  {
+    "ascii": "0x1f54e",
+    "symbol": "🕎",
+    "description": ":menorah:"
+  },
+  {
+    "ascii": "0x1f6b9",
+    "symbol": "🚹",
+    "description": ":mens:"
+  },
+  {
+    "ascii": "0x1f918",
+    "symbol": "🤘",
+    "description": ":metal:"
+  },
+  {
+    "ascii": "0x1f687",
+    "symbol": "🚇",
+    "description": ":metro:"
+  },
+  {
+    "ascii": "0x1f3a4",
+    "symbol": "🎤",
+    "description": ":microphone:"
+  },
+  {
+    "ascii": "0x1f52c",
+    "symbol": "🔬",
+    "description": ":microscope:"
+  },
+  {
+    "ascii": "0x1f595",
+    "symbol": "🖕",
+    "description": ":middle_finger:"
+  },
+  {
+    "ascii": "0x1f95b",
+    "symbol": "🥛",
+    "description": ":milk_glass:"
+  },
+  {
+    "ascii": "0x1f30c",
+    "symbol": "🌌",
+    "description": ":milky_way:"
+  },
+  {
+    "ascii": "0x1f690",
+    "symbol": "🚐",
+    "description": ":minibus:"
+  },
+  {
+    "ascii": "0x1f4bd",
+    "symbol": "💽",
+    "description": ":minidisc:"
+  },
+  {
+    "ascii": "0x1f4f4",
+    "symbol": "📴",
+    "description": ":mobile_phone_off:"
+  },
+  {
+    "ascii": "0x1f911",
+    "symbol": "🤑",
+    "description": ":money_mouth_face:"
+  },
+  {
+    "ascii": "0x1f4b8",
+    "symbol": "💸",
+    "description": ":money_with_wings:"
+  },
+  {
+    "ascii": "0x1f4b0",
+    "symbol": "💰",
+    "description": ":moneybag:"
+  },
+  {
+    "ascii": "0x1f412",
+    "symbol": "🐒",
+    "description": ":monkey:"
+  },
+  {
+    "ascii": "0x1f435",
+    "symbol": "🐵",
+    "description": ":monkey_face:"
+  },
+  {
+    "ascii": "0x1f69d",
+    "symbol": "🚝",
+    "description": ":monorail:"
+  },
+  {
+    "ascii": "0x1f314",
+    "symbol": "🌔",
+    "description": ":moon:"
+  },
+  {
+    "ascii": "0x1f393",
+    "symbol": "🎓",
+    "description": ":mortar_board:"
+  },
+  {
+    "ascii": "0x1f54c",
+    "symbol": "🕌",
+    "description": ":mosque:"
+  },
+  {
+    "ascii": "0x1f6e5",
+    "symbol": "🛥",
+    "description": ":motor_boat:"
+  },
+  {
+    "ascii": "0x1f6f5",
+    "symbol": "🛵",
+    "description": ":motor_scooter:"
+  },
+  {
+    "ascii": "0x1f3cd",
+    "symbol": "🏍",
+    "description": ":motorcycle:"
+  },
+  {
+    "ascii": "0x1f6e3",
+    "symbol": "🛣",
+    "description": ":motorway:"
+  },
+  {
+    "ascii": "0x1f5fb",
+    "symbol": "🗻",
+    "description": ":mount_fuji:"
+  },
+  {
+    "ascii": "0x26f0",
+    "symbol": "⛰",
+    "description": ":mountain:"
+  },
+  {
+    "ascii": "0x1f6b5",
+    "symbol": "🚵",
+    "description": ":mountain_biking_man:"
+  },
+  {
+    "ascii": "0x1f6b5",
+    "symbol": "🚵",
+    "description": ":mountain_biking_man:"
+  },
+  {
+    "ascii": "0x1f6b5200d2640fe0f",
+    "symbol": "🚵‍♀️",
+    "description": ":mountain_biking_woman:"
+  },
+  {
+    "ascii": "0x1f6a0",
+    "symbol": "🚠",
+    "description": ":mountain_cableway:"
+  },
+  {
+    "ascii": "0x1f69e",
+    "symbol": "🚞",
+    "description": ":mountain_railway:"
+  },
+  {
+    "ascii": "0x1f3d4",
+    "symbol": "🏔",
+    "description": ":mountain_snow:"
+  },
+  {
+    "ascii": "0x1f42d",
+    "symbol": "🐭",
+    "description": ":mouse:"
+  },
+  {
+    "ascii": "0x1f401",
+    "symbol": "🐁",
+    "description": ":mouse2:"
+  },
+  {
+    "ascii": "0x1f3a5",
+    "symbol": "🎥",
+    "description": ":movie_camera:"
+  },
+  {
+    "ascii": "0x1f5ff",
+    "symbol": "🗿",
+    "description": ":moyai:"
+  },
+  {
+    "ascii": "0x1f936",
+    "symbol": "🤶",
+    "description": ":mrs_claus:"
+  },
+  {
+    "ascii": "0x1f4aa",
+    "symbol": "💪",
+    "description": ":muscle:"
+  },
+  {
+    "ascii": "0x1f344",
+    "symbol": "🍄",
+    "description": ":mushroom:"
+  },
+  {
+    "ascii": "0x1f3b9",
+    "symbol": "🎹",
+    "description": ":musical_keyboard:"
+  },
+  {
+    "ascii": "0x1f3b5",
+    "symbol": "🎵",
+    "description": ":musical_note:"
+  },
+  {
+    "ascii": "0x1f3bc",
+    "symbol": "🎼",
+    "description": ":musical_score:"
+  },
+  {
+    "ascii": "0x1f507",
+    "symbol": "🔇",
+    "description": ":mute:"
+  },
+  {
+    "ascii": "0x1f485",
+    "symbol": "💅",
+    "description": ":nail_care:"
+  },
+  {
+    "ascii": "0x1f4db",
+    "symbol": "📛",
+    "description": ":name_badge:"
+  },
+  {
+    "ascii": "0x1f3de",
+    "symbol": "🏞",
+    "description": ":national_park:"
+  },
+  {
+    "ascii": "0x1f922",
+    "symbol": "🤢",
+    "description": ":nauseated_face:"
+  },
+  {
+    "ascii": "0x1f454",
+    "symbol": "👔",
+    "description": ":necktie:"
+  },
+  {
+    "ascii": "0x274e",
+    "symbol": "❎",
+    "description": ":negative_squared_cross_mark:"
+  },
+  {
+    "ascii": "0x1f913",
+    "symbol": "🤓",
+    "description": ":nerd_face:"
+  },
+  {
+    "ascii": "0x1f610",
+    "symbol": "😐",
+    "description": ":neutral_face:"
+  },
+  {
+    "ascii": "0x1f195",
+    "symbol": "🆕",
+    "description": ":new:"
+  },
+  {
+    "ascii": "0x1f311",
+    "symbol": "🌑",
+    "description": ":new_moon:"
+  },
+  {
+    "ascii": "0x1f31a",
+    "symbol": "🌚",
+    "description": ":new_moon_with_face:"
+  },
+  {
+    "ascii": "0x1f4f0",
+    "symbol": "📰",
+    "description": ":newspaper:"
+  },
+  {
+    "ascii": "0x1f5de",
+    "symbol": "🗞",
+    "description": ":newspaper_roll:"
+  },
+  {
+    "ascii": "0x23ed",
+    "symbol": "⏭",
+    "description": ":next_track_button:"
+  },
+  {
+    "ascii": "0x1f196",
+    "symbol": "🆖",
+    "description": ":ng:"
+  },
+  {
+    "ascii": "0x1f645200d2642fe0f",
+    "symbol": "🙅‍♂️",
+    "description": ":no_good_man:"
+  },
+  {
+    "ascii": "0x1f645",
+    "symbol": "🙅",
+    "description": ":no_good_woman:"
+  },
+  {
+    "ascii": "0x1f303",
+    "symbol": "🌃",
+    "description": ":night_with_stars:"
+  },
+  {
+    "ascii": "0x1f515",
+    "symbol": "🔕",
+    "description": ":no_bell:"
+  },
+  {
+    "ascii": "0x1f6b3",
+    "symbol": "🚳",
+    "description": ":no_bicycles:"
+  },
+  {
+    "ascii": "0x26d4fe0f",
+    "symbol": "⛔️",
+    "description": ":no_entry:"
+  },
+  {
+    "ascii": "0x1f6ab",
+    "symbol": "🚫",
+    "description": ":no_entry_sign:"
+  },
+  {
+    "ascii": "0x1f645",
+    "symbol": "🙅",
+    "description": ":no_good_woman:"
+  },
+  {
+    "ascii": "0x1f645200d2642fe0f",
+    "symbol": "🙅‍♂️",
+    "description": ":no_good_man:"
+  },
+  {
+    "ascii": "0x1f645",
+    "symbol": "🙅",
+    "description": ":no_good_woman:"
+  },
+  {
+    "ascii": "0x1f4f5",
+    "symbol": "📵",
+    "description": ":no_mobile_phones:"
+  },
+  {
+    "ascii": "0x1f636",
+    "symbol": "😶",
+    "description": ":no_mouth:"
+  },
+  {
+    "ascii": "0x1f6b7",
+    "symbol": "🚷",
+    "description": ":no_pedestrians:"
+  },
+  {
+    "ascii": "0x1f6ad",
+    "symbol": "🚭",
+    "description": ":no_smoking:"
+  },
+  {
+    "ascii": "0x1f6b1",
+    "symbol": "🚱",
+    "description": ":non-potable_water:"
+  },
+  {
+    "ascii": "0x1f443",
+    "symbol": "👃",
+    "description": ":nose:"
+  },
+  {
+    "ascii": "0x1f4d3",
+    "symbol": "📓",
+    "description": ":notebook:"
+  },
+  {
+    "ascii": "0x1f4d4",
+    "symbol": "📔",
+    "description": ":notebook_with_decorative_cover:"
+  },
+  {
+    "ascii": "0x1f3b6",
+    "symbol": "🎶",
+    "description": ":notes:"
+  },
+  {
+    "ascii": "0x1f529",
+    "symbol": "🔩",
+    "description": ":nut_and_bolt:"
+  },
+  {
+    "ascii": "0x2b55fe0f",
+    "symbol": "⭕️",
+    "description": ":o:"
+  },
+  {
+    "ascii": "0x1f17efe0f",
+    "symbol": "🅾️",
+    "description": ":o2:"
+  },
+  {
+    "ascii": "0x1f30a",
+    "symbol": "🌊",
+    "description": ":ocean:"
+  },
+  {
+    "ascii": "0x",
+    "symbol": "",
+    "description": ":octocat:"
+  },
+  {
+    "ascii": "0x1f419",
+    "symbol": "🐙",
+    "description": ":octopus:"
+  },
+  {
+    "ascii": "0x1f362",
+    "symbol": "🍢",
+    "description": ":oden:"
+  },
+  {
+    "ascii": "0x1f3e2",
+    "symbol": "🏢",
+    "description": ":office:"
+  },
+  {
+    "ascii": "0x1f6e2",
+    "symbol": "🛢",
+    "description": ":oil_drum:"
+  },
+  {
+    "ascii": "0x1f197",
+    "symbol": "🆗",
+    "description": ":ok:"
+  },
+  {
+    "ascii": "0x1f44c",
+    "symbol": "👌",
+    "description": ":ok_hand:"
+  },
+  {
+    "ascii": "0x1f646200d2642fe0f",
+    "symbol": "🙆‍♂️",
+    "description": ":ok_man:"
+  },
+  {
+    "ascii": "0x1f646",
+    "symbol": "🙆",
+    "description": ":ok_woman:"
+  },
+  {
+    "ascii": "0x1f5dd",
+    "symbol": "🗝",
+    "description": ":old_key:"
+  },
+  {
+    "ascii": "0x1f474",
+    "symbol": "👴",
+    "description": ":older_man:"
+  },
+  {
+    "ascii": "0x1f475",
+    "symbol": "👵",
+    "description": ":older_woman:"
+  },
+  {
+    "ascii": "0x1f549",
+    "symbol": "🕉",
+    "description": ":om:"
+  },
+  {
+    "ascii": "0x1f51b",
+    "symbol": "🔛",
+    "description": ":on:"
+  },
+  {
+    "ascii": "0x1f698",
+    "symbol": "🚘",
+    "description": ":oncoming_automobile:"
+  },
+  {
+    "ascii": "0x1f68d",
+    "symbol": "🚍",
+    "description": ":oncoming_bus:"
+  },
+  {
+    "ascii": "0x1f694",
+    "symbol": "🚔",
+    "description": ":oncoming_police_car:"
+  },
+  {
+    "ascii": "0x1f696",
+    "symbol": "🚖",
+    "description": ":oncoming_taxi:"
+  },
+  {
+    "ascii": "0x1f4d6",
+    "symbol": "📖",
+    "description": ":book:"
+  },
+  {
+    "ascii": "0x1f4c2",
+    "symbol": "📂",
+    "description": ":open_file_folder:"
+  },
+  {
+    "ascii": "0x1f450",
+    "symbol": "👐",
+    "description": ":open_hands:"
+  },
+  {
+    "ascii": "0x1f62e",
+    "symbol": "😮",
+    "description": ":open_mouth:"
+  },
+  {
+    "ascii": "0x2602fe0f",
+    "symbol": "☂️",
+    "description": ":open_umbrella:"
+  },
+  {
+    "ascii": "0x26ce",
+    "symbol": "⛎",
+    "description": ":ophiuchus:"
+  },
+  {
+    "ascii": "0x1f34a",
+    "symbol": "🍊",
+    "description": ":tangerine:"
+  },
+  {
+    "ascii": "0x1f4d9",
+    "symbol": "📙",
+    "description": ":orange_book:"
+  },
+  {
+    "ascii": "0x2626fe0f",
+    "symbol": "☦️",
+    "description": ":orthodox_cross:"
+  },
+  {
+    "ascii": "0x1f4e4",
+    "symbol": "📤",
+    "description": ":outbox_tray:"
+  },
+  {
+    "ascii": "0x1f989",
+    "symbol": "🦉",
+    "description": ":owl:"
+  },
+  {
+    "ascii": "0x1f402",
+    "symbol": "🐂",
+    "description": ":ox:"
+  },
+  {
+    "ascii": "0x1f4e6",
+    "symbol": "📦",
+    "description": ":package:"
+  },
+  {
+    "ascii": "0x1f4c4",
+    "symbol": "📄",
+    "description": ":page_facing_up:"
+  },
+  {
+    "ascii": "0x1f4c3",
+    "symbol": "📃",
+    "description": ":page_with_curl:"
+  },
+  {
+    "ascii": "0x1f4df",
+    "symbol": "📟",
+    "description": ":pager:"
+  },
+  {
+    "ascii": "0x1f58c",
+    "symbol": "🖌",
+    "description": ":paintbrush:"
+  },
+  {
+    "ascii": "0x1f334",
+    "symbol": "🌴",
+    "description": ":palm_tree:"
+  },
+  {
+    "ascii": "0x1f95e",
+    "symbol": "🥞",
+    "description": ":pancakes:"
+  },
+  {
+    "ascii": "0x1f43c",
+    "symbol": "🐼",
+    "description": ":panda_face:"
+  },
+  {
+    "ascii": "0x1f4ce",
+    "symbol": "📎",
+    "description": ":paperclip:"
+  },
+  {
+    "ascii": "0x1f587",
+    "symbol": "🖇",
+    "description": ":paperclips:"
+  },
+  {
+    "ascii": "0x26f1",
+    "symbol": "⛱",
+    "description": ":parasol_on_ground:"
+  },
+  {
+    "ascii": "0x1f17ffe0f",
+    "symbol": "🅿️",
+    "description": ":parking:"
+  },
+  {
+    "ascii": "0x303dfe0f",
+    "symbol": "〽️",
+    "description": ":part_alternation_mark:"
+  },
+  {
+    "ascii": "0x26c5fe0f",
+    "symbol": "⛅️",
+    "description": ":partly_sunny:"
+  },
+  {
+    "ascii": "0x1f6f3",
+    "symbol": "🛳",
+    "description": ":passenger_ship:"
+  },
+  {
+    "ascii": "0x1f6c2",
+    "symbol": "🛂",
+    "description": ":passport_control:"
+  },
+  {
+    "ascii": "0x23f8",
+    "symbol": "⏸",
+    "description": ":pause_button:"
+  },
+  {
+    "ascii": "0x1f43e",
+    "symbol": "🐾",
+    "description": ":feet:"
+  },
+  {
+    "ascii": "0x262efe0f",
+    "symbol": "☮️",
+    "description": ":peace_symbol:"
+  },
+  {
+    "ascii": "0x1f351",
+    "symbol": "🍑",
+    "description": ":peach:"
+  },
+  {
+    "ascii": "0x1f95c",
+    "symbol": "🥜",
+    "description": ":peanuts:"
+  },
+  {
+    "ascii": "0x1f350",
+    "symbol": "🍐",
+    "description": ":pear:"
+  },
+  {
+    "ascii": "0x1f58a",
+    "symbol": "🖊",
+    "description": ":pen:"
+  },
+  {
+    "ascii": "0x1f4dd",
+    "symbol": "📝",
+    "description": ":memo:"
+  },
+  {
+    "ascii": "0x270ffe0f",
+    "symbol": "✏️",
+    "description": ":pencil2:"
+  },
+  {
+    "ascii": "0x1f427",
+    "symbol": "🐧",
+    "description": ":penguin:"
+  },
+  {
+    "ascii": "0x1f614",
+    "symbol": "😔",
+    "description": ":pensive:"
+  },
+  {
+    "ascii": "0x1f3ad",
+    "symbol": "🎭",
+    "description": ":performing_arts:"
+  },
+  {
+    "ascii": "0x1f623",
+    "symbol": "😣",
+    "description": ":persevere:"
+  },
+  {
+    "ascii": "0x1f93a",
+    "symbol": "🤺",
+    "description": ":person_fencing:"
+  },
+  {
+    "ascii": "0x1f64d",
+    "symbol": "🙍",
+    "description": ":frowning_woman:"
+  },
+  {
+    "ascii": "0x1f471",
+    "symbol": "👱",
+    "description": ":blonde_man:"
+  },
+  {
+    "ascii": "0x1f64e",
+    "symbol": "🙎",
+    "description": ":pouting_woman:"
+  },
+  {
+    "ascii": "0x260efe0f",
+    "symbol": "☎️",
+    "description": ":phone:"
+  },
+  {
+    "ascii": "0x26cf",
+    "symbol": "⛏",
+    "description": ":pick:"
+  },
+  {
+    "ascii": "0x1f437",
+    "symbol": "🐷",
+    "description": ":pig:"
+  },
+  {
+    "ascii": "0x1f416",
+    "symbol": "🐖",
+    "description": ":pig2:"
+  },
+  {
+    "ascii": "0x1f43d",
+    "symbol": "🐽",
+    "description": ":pig_nose:"
+  },
+  {
+    "ascii": "0x1f48a",
+    "symbol": "💊",
+    "description": ":pill:"
+  },
+  {
+    "ascii": "0x1f34d",
+    "symbol": "🍍",
+    "description": ":pineapple:"
+  },
+  {
+    "ascii": "0x1f3d3",
+    "symbol": "🏓",
+    "description": ":ping_pong:"
+  },
+  {
+    "ascii": "0x2653fe0f",
+    "symbol": "♓️",
+    "description": ":pisces:"
+  },
+  {
+    "ascii": "0x1f355",
+    "symbol": "🍕",
+    "description": ":pizza:"
+  },
+  {
+    "ascii": "0x1f6d0",
+    "symbol": "🛐",
+    "description": ":place_of_worship:"
+  },
+  {
+    "ascii": "0x1f37d",
+    "symbol": "🍽",
+    "description": ":plate_with_cutlery:"
+  },
+  {
+    "ascii": "0x23ef",
+    "symbol": "⏯",
+    "description": ":play_or_pause_button:"
+  },
+  {
+    "ascii": "0x1f447",
+    "symbol": "👇",
+    "description": ":point_down:"
+  },
+  {
+    "ascii": "0x1f448",
+    "symbol": "👈",
+    "description": ":point_left:"
+  },
+  {
+    "ascii": "0x1f449",
+    "symbol": "👉",
+    "description": ":point_right:"
+  },
+  {
+    "ascii": "0x261dfe0f",
+    "symbol": "☝️",
+    "description": ":point_up:"
+  },
+  {
+    "ascii": "0x1f446",
+    "symbol": "👆",
+    "description": ":point_up_2:"
+  },
+  {
+    "ascii": "0x1f693",
+    "symbol": "🚓",
+    "description": ":police_car:"
+  },
+  {
+    "ascii": "0x1f46e",
+    "symbol": "👮",
+    "description": ":policeman:"
+  },
+  {
+    "ascii": "0x1f46e200d2640fe0f",
+    "symbol": "👮‍♀️",
+    "description": ":policewoman:"
+  },
+  {
+    "ascii": "0x1f429",
+    "symbol": "🐩",
+    "description": ":poodle:"
+  },
+  {
+    "ascii": "0x1f4a9",
+    "symbol": "💩",
+    "description": ":hankey:"
+  },
+  {
+    "ascii": "0x1f37f",
+    "symbol": "🍿",
+    "description": ":popcorn:"
+  },
+  {
+    "ascii": "0x1f3e3",
+    "symbol": "🏣",
+    "description": ":post_office:"
+  },
+  {
+    "ascii": "0x1f4ef",
+    "symbol": "📯",
+    "description": ":postal_horn:"
+  },
+  {
+    "ascii": "0x1f4ee",
+    "symbol": "📮",
+    "description": ":postbox:"
+  },
+  {
+    "ascii": "0x1f6b0",
+    "symbol": "🚰",
+    "description": ":potable_water:"
+  },
+  {
+    "ascii": "0x1f954",
+    "symbol": "🥔",
+    "description": ":potato:"
+  },
+  {
+    "ascii": "0x1f45d",
+    "symbol": "👝",
+    "description": ":pouch:"
+  },
+  {
+    "ascii": "0x1f357",
+    "symbol": "🍗",
+    "description": ":poultry_leg:"
+  },
+  {
+    "ascii": "0x1f4b7",
+    "symbol": "💷",
+    "description": ":pound:"
+  },
+  {
+    "ascii": "0x1f621",
+    "symbol": "😡",
+    "description": ":rage:"
+  },
+  {
+    "ascii": "0x1f63e",
+    "symbol": "😾",
+    "description": ":pouting_cat:"
+  },
+  {
+    "ascii": "0x1f64e200d2642fe0f",
+    "symbol": "🙎‍♂️",
+    "description": ":pouting_man:"
+  },
+  {
+    "ascii": "0x1f64e",
+    "symbol": "🙎",
+    "description": ":pouting_woman:"
+  },
+  {
+    "ascii": "0x1f64f",
+    "symbol": "🙏",
+    "description": ":pray:"
+  },
+  {
+    "ascii": "0x1f4ff",
+    "symbol": "📿",
+    "description": ":prayer_beads:"
+  },
+  {
+    "ascii": "0x1f930",
+    "symbol": "🤰",
+    "description": ":pregnant_woman:"
+  },
+  {
+    "ascii": "0x23ee",
+    "symbol": "⏮",
+    "description": ":previous_track_button:"
+  },
+  {
+    "ascii": "0x1f934",
+    "symbol": "🤴",
+    "description": ":prince:"
+  },
+  {
+    "ascii": "0x1f478",
+    "symbol": "👸",
+    "description": ":princess:"
+  },
+  {
+    "ascii": "0x1f5a8",
+    "symbol": "🖨",
+    "description": ":printer:"
+  },
+  {
+    "ascii": "0x1f44a",
+    "symbol": "👊",
+    "description": ":fist_oncoming:"
+  },
+  {
+    "ascii": "0x1f49c",
+    "symbol": "💜",
+    "description": ":purple_heart:"
+  },
+  {
+    "ascii": "0x1f45b",
+    "symbol": "👛",
+    "description": ":purse:"
+  },
+  {
+    "ascii": "0x1f4cc",
+    "symbol": "📌",
+    "description": ":pushpin:"
+  },
+  {
+    "ascii": "0x1f6ae",
+    "symbol": "🚮",
+    "description": ":put_litter_in_its_place:"
+  },
+  {
+    "ascii": "0x2753",
+    "symbol": "❓",
+    "description": ":question:"
+  },
+  {
+    "ascii": "0x1f430",
+    "symbol": "🐰",
+    "description": ":rabbit:"
+  },
+  {
+    "ascii": "0x1f407",
+    "symbol": "🐇",
+    "description": ":rabbit2:"
+  },
+  {
+    "ascii": "0x1f40e",
+    "symbol": "🐎",
+    "description": ":racehorse:"
+  },
+  {
+    "ascii": "0x1f3ce",
+    "symbol": "🏎",
+    "description": ":racing_car:"
+  },
+  {
+    "ascii": "0x1f4fb",
+    "symbol": "📻",
+    "description": ":radio:"
+  },
+  {
+    "ascii": "0x1f518",
+    "symbol": "🔘",
+    "description": ":radio_button:"
+  },
+  {
+    "ascii": "0x2622fe0f",
+    "symbol": "☢️",
+    "description": ":radioactive:"
+  },
+  {
+    "ascii": "0x1f621",
+    "symbol": "😡",
+    "description": ":rage:"
+  },
+  {
+    "ascii": "0x1f683",
+    "symbol": "🚃",
+    "description": ":railway_car:"
+  },
+  {
+    "ascii": "0x1f6e4",
+    "symbol": "🛤",
+    "description": ":railway_track:"
+  },
+  {
+    "ascii": "0x1f308",
+    "symbol": "🌈",
+    "description": ":rainbow:"
+  },
+  {
+    "ascii": "0x1f3f3fe0f200d1f308",
+    "symbol": "🏳️‍🌈",
+    "description": ":rainbow_flag:"
+  },
+  {
+    "ascii": "0x1f91a",
+    "symbol": "🤚",
+    "description": ":raised_back_of_hand:"
+  },
+  {
+    "ascii": "0x270b",
+    "symbol": "✋",
+    "description": ":hand:"
+  },
+  {
+    "ascii": "0x1f590",
+    "symbol": "🖐",
+    "description": ":raised_hand_with_fingers_splayed:"
+  },
+  {
+    "ascii": "0x1f64c",
+    "symbol": "🙌",
+    "description": ":raised_hands:"
+  },
+  {
+    "ascii": "0x1f64b",
+    "symbol": "🙋",
+    "description": ":raising_hand_woman:"
+  },
+  {
+    "ascii": "0x1f64b200d2642fe0f",
+    "symbol": "🙋‍♂️",
+    "description": ":raising_hand_man:"
+  },
+  {
+    "ascii": "0x1f64b",
+    "symbol": "🙋",
+    "description": ":raising_hand_woman:"
+  },
+  {
+    "ascii": "0x1f40f",
+    "symbol": "🐏",
+    "description": ":ram:"
+  },
+  {
+    "ascii": "0x1f35c",
+    "symbol": "🍜",
+    "description": ":ramen:"
+  },
+  {
+    "ascii": "0x1f400",
+    "symbol": "🐀",
+    "description": ":rat:"
+  },
+  {
+    "ascii": "0x23fa",
+    "symbol": "⏺",
+    "description": ":record_button:"
+  },
+  {
+    "ascii": "0x267bfe0f",
+    "symbol": "♻️",
+    "description": ":recycle:"
+  },
+  {
+    "ascii": "0x1f697",
+    "symbol": "🚗",
+    "description": ":car:"
+  },
+  {
+    "ascii": "0x1f534",
+    "symbol": "🔴",
+    "description": ":red_circle:"
+  },
+  {
+    "ascii": "0xaefe0f",
+    "symbol": "®️",
+    "description": ":registered:"
+  },
+  {
+    "ascii": "0x263afe0f",
+    "symbol": "☺️",
+    "description": ":relaxed:"
+  },
+  {
+    "ascii": "0x1f60c",
+    "symbol": "😌",
+    "description": ":relieved:"
+  },
+  {
+    "ascii": "0x1f397",
+    "symbol": "🎗",
+    "description": ":reminder_ribbon:"
+  },
+  {
+    "ascii": "0x1f501",
+    "symbol": "🔁",
+    "description": ":repeat:"
+  },
+  {
+    "ascii": "0x1f502",
+    "symbol": "🔂",
+    "description": ":repeat_one:"
+  },
+  {
+    "ascii": "0x26d1",
+    "symbol": "⛑",
+    "description": ":rescue_worker_helmet:"
+  },
+  {
+    "ascii": "0x1f6bb",
+    "symbol": "🚻",
+    "description": ":restroom:"
+  },
+  {
+    "ascii": "0x1f49e",
+    "symbol": "💞",
+    "description": ":revolving_hearts:"
+  },
+  {
+    "ascii": "0x23ea",
+    "symbol": "⏪",
+    "description": ":rewind:"
+  },
+  {
+    "ascii": "0x1f98f",
+    "symbol": "🦏",
+    "description": ":rhinoceros:"
+  },
+  {
+    "ascii": "0x1f380",
+    "symbol": "🎀",
+    "description": ":ribbon:"
+  },
+  {
+    "ascii": "0x1f35a",
+    "symbol": "🍚",
+    "description": ":rice:"
+  },
+  {
+    "ascii": "0x1f359",
+    "symbol": "🍙",
+    "description": ":rice_ball:"
+  },
+  {
+    "ascii": "0x1f358",
+    "symbol": "🍘",
+    "description": ":rice_cracker:"
+  },
+  {
+    "ascii": "0x1f391",
+    "symbol": "🎑",
+    "description": ":rice_scene:"
+  },
+  {
+    "ascii": "0x1f5ef",
+    "symbol": "🗯",
+    "description": ":right_anger_bubble:"
+  },
+  {
+    "ascii": "0x1f48d",
+    "symbol": "💍",
+    "description": ":ring:"
+  },
+  {
+    "ascii": "0x1f916",
+    "symbol": "🤖",
+    "description": ":robot:"
+  },
+  {
+    "ascii": "0x1f680",
+    "symbol": "🚀",
+    "description": ":rocket:"
+  },
+  {
+    "ascii": "0x1f923",
+    "symbol": "🤣",
+    "description": ":rofl:"
+  },
+  {
+    "ascii": "0x1f644",
+    "symbol": "🙄",
+    "description": ":roll_eyes:"
+  },
+  {
+    "ascii": "0x1f3a2",
+    "symbol": "🎢",
+    "description": ":roller_coaster:"
+  },
+  {
+    "ascii": "0x1f413",
+    "symbol": "🐓",
+    "description": ":rooster:"
+  },
+  {
+    "ascii": "0x1f339",
+    "symbol": "🌹",
+    "description": ":rose:"
+  },
+  {
+    "ascii": "0x1f3f5",
+    "symbol": "🏵",
+    "description": ":rosette:"
+  },
+  {
+    "ascii": "0x1f6a8",
+    "symbol": "🚨",
+    "description": ":rotating_light:"
+  },
+  {
+    "ascii": "0x1f4cd",
+    "symbol": "📍",
+    "description": ":round_pushpin:"
+  },
+  {
+    "ascii": "0x1f6a3",
+    "symbol": "🚣",
+    "description": ":rowing_man:"
+  },
+  {
+    "ascii": "0x1f6a3",
+    "symbol": "🚣",
+    "description": ":rowing_man:"
+  },
+  {
+    "ascii": "0x1f6a3200d2640fe0f",
+    "symbol": "🚣‍♀️",
+    "description": ":rowing_woman:"
+  },
+  {
+    "ascii": "0x1f3c9",
+    "symbol": "🏉",
+    "description": ":rugby_football:"
+  },
+  {
+    "ascii": "0x1f3c3",
+    "symbol": "🏃",
+    "description": ":running_man:"
+  },
+  {
+    "ascii": "0x1f3c3",
+    "symbol": "🏃",
+    "description": ":running_man:"
+  },
+  {
+    "ascii": "0x1f3c3",
+    "symbol": "🏃",
+    "description": ":running_man:"
+  },
+  {
+    "ascii": "0x1f3bd",
+    "symbol": "🎽",
+    "description": ":running_shirt_with_sash:"
+  },
+  {
+    "ascii": "0x1f3c3200d2640fe0f",
+    "symbol": "🏃‍♀️",
+    "description": ":running_woman:"
+  },
+  {
+    "ascii": "0x1f202fe0f",
+    "symbol": "🈂️",
+    "description": ":sa:"
+  },
+  {
+    "ascii": "0x2650fe0f",
+    "symbol": "♐️",
+    "description": ":sagittarius:"
+  },
+  {
+    "ascii": "0x26f5fe0f",
+    "symbol": "⛵️",
+    "description": ":boat:"
+  },
+  {
+    "ascii": "0x1f376",
+    "symbol": "🍶",
+    "description": ":sake:"
+  },
+  {
+    "ascii": "0x1f461",
+    "symbol": "👡",
+    "description": ":sandal:"
+  },
+  {
+    "ascii": "0x1f385",
+    "symbol": "🎅",
+    "description": ":santa:"
+  },
+  {
+    "ascii": "0x1f4e1",
+    "symbol": "📡",
+    "description": ":satellite:"
+  },
+  {
+    "ascii": "0x1f606",
+    "symbol": "😆",
+    "description": ":laughing:"
+  },
+  {
+    "ascii": "0x1f3b7",
+    "symbol": "🎷",
+    "description": ":saxophone:"
+  },
+  {
+    "ascii": "0x1f3eb",
+    "symbol": "🏫",
+    "description": ":school:"
+  },
+  {
+    "ascii": "0x1f392",
+    "symbol": "🎒",
+    "description": ":school_satchel:"
+  },
+  {
+    "ascii": "0x2702fe0f",
+    "symbol": "✂️",
+    "description": ":scissors:"
+  },
+  {
+    "ascii": "0x1f982",
+    "symbol": "🦂",
+    "description": ":scorpion:"
+  },
+  {
+    "ascii": "0x264ffe0f",
+    "symbol": "♏️",
+    "description": ":scorpius:"
+  },
+  {
+    "ascii": "0x1f631",
+    "symbol": "😱",
+    "description": ":scream:"
+  },
+  {
+    "ascii": "0x1f640",
+    "symbol": "🙀",
+    "description": ":scream_cat:"
+  },
+  {
+    "ascii": "0x1f4dc",
+    "symbol": "📜",
+    "description": ":scroll:"
+  },
+  {
+    "ascii": "0x1f4ba",
+    "symbol": "💺",
+    "description": ":seat:"
+  },
+  {
+    "ascii": "0x3299fe0f",
+    "symbol": "㊙️",
+    "description": ":secret:"
+  },
+  {
+    "ascii": "0x1f648",
+    "symbol": "🙈",
+    "description": ":see_no_evil:"
+  },
+  {
+    "ascii": "0x1f331",
+    "symbol": "🌱",
+    "description": ":seedling:"
+  },
+  {
+    "ascii": "0x1f933",
+    "symbol": "🤳",
+    "description": ":selfie:"
+  },
+  {
+    "ascii": "0x1f958",
+    "symbol": "🥘",
+    "description": ":shallow_pan_of_food:"
+  },
+  {
+    "ascii": "0x2618fe0f",
+    "symbol": "☘️",
+    "description": ":shamrock:"
+  },
+  {
+    "ascii": "0x1f988",
+    "symbol": "🦈",
+    "description": ":shark:"
+  },
+  {
+    "ascii": "0x1f367",
+    "symbol": "🍧",
+    "description": ":shaved_ice:"
+  },
+  {
+    "ascii": "0x1f411",
+    "symbol": "🐑",
+    "description": ":sheep:"
+  },
+  {
+    "ascii": "0x1f41a",
+    "symbol": "🐚",
+    "description": ":shell:"
+  },
+  {
+    "ascii": "0x1f6e1",
+    "symbol": "🛡",
+    "description": ":shield:"
+  },
+  {
+    "ascii": "0x26e9",
+    "symbol": "⛩",
+    "description": ":shinto_shrine:"
+  },
+  {
+    "ascii": "0x1f6a2",
+    "symbol": "🚢",
+    "description": ":ship:"
+  },
+  {
+    "ascii": "0x1f455",
+    "symbol": "👕",
+    "description": ":shirt:"
+  },
+  {
+    "ascii": "0x1f4a9",
+    "symbol": "💩",
+    "description": ":hankey:"
+  },
+  {
+    "ascii": "0x1f45e",
+    "symbol": "👞",
+    "description": ":mans_shoe:"
+  },
+  {
+    "ascii": "0x1f6cd",
+    "symbol": "🛍",
+    "description": ":shopping:"
+  },
+  {
+    "ascii": "0x1f6d2",
+    "symbol": "🛒",
+    "description": ":shopping_cart:"
+  },
+  {
+    "ascii": "0x1f6bf",
+    "symbol": "🚿",
+    "description": ":shower:"
+  },
+  {
+    "ascii": "0x1f990",
+    "symbol": "🦐",
+    "description": ":shrimp:"
+  },
+  {
+    "ascii": "0x1f4f6",
+    "symbol": "📶",
+    "description": ":signal_strength:"
+  },
+  {
+    "ascii": "0x1f52f",
+    "symbol": "🔯",
+    "description": ":six_pointed_star:"
+  },
+  {
+    "ascii": "0x1f3bf",
+    "symbol": "🎿",
+    "description": ":ski:"
+  },
+  {
+    "ascii": "0x26f7",
+    "symbol": "⛷",
+    "description": ":skier:"
+  },
+  {
+    "ascii": "0x1f480",
+    "symbol": "💀",
+    "description": ":skull:"
+  },
+  {
+    "ascii": "0x2620fe0f",
+    "symbol": "☠️",
+    "description": ":skull_and_crossbones:"
+  },
+  {
+    "ascii": "0x1f634",
+    "symbol": "😴",
+    "description": ":sleeping:"
+  },
+  {
+    "ascii": "0x1f6cc",
+    "symbol": "🛌",
+    "description": ":sleeping_bed:"
+  },
+  {
+    "ascii": "0x1f62a",
+    "symbol": "😪",
+    "description": ":sleepy:"
+  },
+  {
+    "ascii": "0x1f641",
+    "symbol": "🙁",
+    "description": ":slightly_frowning_face:"
+  },
+  {
+    "ascii": "0x1f642",
+    "symbol": "🙂",
+    "description": ":slightly_smiling_face:"
+  },
+  {
+    "ascii": "0x1f3b0",
+    "symbol": "🎰",
+    "description": ":slot_machine:"
+  },
+  {
+    "ascii": "0x1f6e9",
+    "symbol": "🛩",
+    "description": ":small_airplane:"
+  },
+  {
+    "ascii": "0x1f539",
+    "symbol": "🔹",
+    "description": ":small_blue_diamond:"
+  },
+  {
+    "ascii": "0x1f538",
+    "symbol": "🔸",
+    "description": ":small_orange_diamond:"
+  },
+  {
+    "ascii": "0x1f53a",
+    "symbol": "🔺",
+    "description": ":small_red_triangle:"
+  },
+  {
+    "ascii": "0x1f53b",
+    "symbol": "🔻",
+    "description": ":small_red_triangle_down:"
+  },
+  {
+    "ascii": "0x1f604",
+    "symbol": "😄",
+    "description": ":smile:"
+  },
+  {
+    "ascii": "0x1f638",
+    "symbol": "😸",
+    "description": ":smile_cat:"
+  },
+  {
+    "ascii": "0x1f603",
+    "symbol": "😃",
+    "description": ":smiley:"
+  },
+  {
+    "ascii": "0x1f63a",
+    "symbol": "😺",
+    "description": ":smiley_cat:"
+  },
+  {
+    "ascii": "0x1f608",
+    "symbol": "😈",
+    "description": ":smiling_imp:"
+  },
+  {
+    "ascii": "0x1f60f",
+    "symbol": "😏",
+    "description": ":smirk:"
+  },
+  {
+    "ascii": "0x1f63c",
+    "symbol": "😼",
+    "description": ":smirk_cat:"
+  },
+  {
+    "ascii": "0x1f6ac",
+    "symbol": "🚬",
+    "description": ":smoking:"
+  },
+  {
+    "ascii": "0x1f40c",
+    "symbol": "🐌",
+    "description": ":snail:"
+  },
+  {
+    "ascii": "0x1f40d",
+    "symbol": "🐍",
+    "description": ":snake:"
+  },
+  {
+    "ascii": "0x1f927",
+    "symbol": "🤧",
+    "description": ":sneezing_face:"
+  },
+  {
+    "ascii": "0x1f3c2",
+    "symbol": "🏂",
+    "description": ":snowboarder:"
+  },
+  {
+    "ascii": "0x2744fe0f",
+    "symbol": "❄️",
+    "description": ":snowflake:"
+  },
+  {
+    "ascii": "0x26c4fe0f",
+    "symbol": "⛄️",
+    "description": ":snowman:"
+  },
+  {
+    "ascii": "0x2603fe0f",
+    "symbol": "☃️",
+    "description": ":snowman_with_snow:"
+  },
+  {
+    "ascii": "0x1f62d",
+    "symbol": "😭",
+    "description": ":sob:"
+  },
+  {
+    "ascii": "0x26bdfe0f",
+    "symbol": "⚽️",
+    "description": ":soccer:"
+  },
+  {
+    "ascii": "0x1f51c",
+    "symbol": "🔜",
+    "description": ":soon:"
+  },
+  {
+    "ascii": "0x1f198",
+    "symbol": "🆘",
+    "description": ":sos:"
+  },
+  {
+    "ascii": "0x1f509",
+    "symbol": "🔉",
+    "description": ":sound:"
+  },
+  {
+    "ascii": "0x1f47e",
+    "symbol": "👾",
+    "description": ":space_invader:"
+  },
+  {
+    "ascii": "0x2660fe0f",
+    "symbol": "♠️",
+    "description": ":spades:"
+  },
+  {
+    "ascii": "0x1f35d",
+    "symbol": "🍝",
+    "description": ":spaghetti:"
+  },
+  {
+    "ascii": "0x2747fe0f",
+    "symbol": "❇️",
+    "description": ":sparkle:"
+  },
+  {
+    "ascii": "0x1f387",
+    "symbol": "🎇",
+    "description": ":sparkler:"
+  },
+  {
+    "ascii": "0x2728",
+    "symbol": "✨",
+    "description": ":sparkles:"
+  },
+  {
+    "ascii": "0x1f496",
+    "symbol": "💖",
+    "description": ":sparkling_heart:"
+  },
+  {
+    "ascii": "0x1f64a",
+    "symbol": "🙊",
+    "description": ":speak_no_evil:"
+  },
+  {
+    "ascii": "0x1f508",
+    "symbol": "🔈",
+    "description": ":speaker:"
+  },
+  {
+    "ascii": "0x1f5e3",
+    "symbol": "🗣",
+    "description": ":speaking_head:"
+  },
+  {
+    "ascii": "0x1f4ac",
+    "symbol": "💬",
+    "description": ":speech_balloon:"
+  },
+  {
+    "ascii": "0x1f6a4",
+    "symbol": "🚤",
+    "description": ":speedboat:"
+  },
+  {
+    "ascii": "0x1f577",
+    "symbol": "🕷",
+    "description": ":spider:"
+  },
+  {
+    "ascii": "0x1f578",
+    "symbol": "🕸",
+    "description": ":spider_web:"
+  },
+  {
+    "ascii": "0x1f5d3",
+    "symbol": "🗓",
+    "description": ":spiral_calendar:"
+  },
+  {
+    "ascii": "0x1f5d2",
+    "symbol": "🗒",
+    "description": ":spiral_notepad:"
+  },
+  {
+    "ascii": "0x1f944",
+    "symbol": "🥄",
+    "description": ":spoon:"
+  },
+  {
+    "ascii": "0x1f991",
+    "symbol": "🦑",
+    "description": ":squid:"
+  },
+  {
+    "ascii": "0x1f3df",
+    "symbol": "🏟",
+    "description": ":stadium:"
+  },
+  {
+    "ascii": "0x2b50fe0f",
+    "symbol": "⭐️",
+    "description": ":star:"
+  },
+  {
+    "ascii": "0x1f31f",
+    "symbol": "🌟",
+    "description": ":star2:"
+  },
+  {
+    "ascii": "0x262afe0f",
+    "symbol": "☪️",
+    "description": ":star_and_crescent:"
+  },
+  {
+    "ascii": "0x2721fe0f",
+    "symbol": "✡️",
+    "description": ":star_of_david:"
+  },
+  {
+    "ascii": "0x1f320",
+    "symbol": "🌠",
+    "description": ":stars:"
+  },
+  {
+    "ascii": "0x1f689",
+    "symbol": "🚉",
+    "description": ":station:"
+  },
+  {
+    "ascii": "0x1f5fd",
+    "symbol": "🗽",
+    "description": ":statue_of_liberty:"
+  },
+  {
+    "ascii": "0x1f682",
+    "symbol": "🚂",
+    "description": ":steam_locomotive:"
+  },
+  {
+    "ascii": "0x1f372",
+    "symbol": "🍲",
+    "description": ":stew:"
+  },
+  {
+    "ascii": "0x23f9",
+    "symbol": "⏹",
+    "description": ":stop_button:"
+  },
+  {
+    "ascii": "0x1f6d1",
+    "symbol": "🛑",
+    "description": ":stop_sign:"
+  },
+  {
+    "ascii": "0x23f1",
+    "symbol": "⏱",
+    "description": ":stopwatch:"
+  },
+  {
+    "ascii": "0x1f4cf",
+    "symbol": "📏",
+    "description": ":straight_ruler:"
+  },
+  {
+    "ascii": "0x1f353",
+    "symbol": "🍓",
+    "description": ":strawberry:"
+  },
+  {
+    "ascii": "0x1f61b",
+    "symbol": "😛",
+    "description": ":stuck_out_tongue:"
+  },
+  {
+    "ascii": "0x1f61d",
+    "symbol": "😝",
+    "description": ":stuck_out_tongue_closed_eyes:"
+  },
+  {
+    "ascii": "0x1f61c",
+    "symbol": "😜",
+    "description": ":stuck_out_tongue_winking_eye:"
+  },
+  {
+    "ascii": "0x1f399",
+    "symbol": "🎙",
+    "description": ":studio_microphone:"
+  },
+  {
+    "ascii": "0x1f959",
+    "symbol": "🥙",
+    "description": ":stuffed_flatbread:"
+  },
+  {
+    "ascii": "0x1f325",
+    "symbol": "🌥",
+    "description": ":sun_behind_large_cloud:"
+  },
+  {
+    "ascii": "0x1f326",
+    "symbol": "🌦",
+    "description": ":sun_behind_rain_cloud:"
+  },
+  {
+    "ascii": "0x1f324",
+    "symbol": "🌤",
+    "description": ":sun_behind_small_cloud:"
+  },
+  {
+    "ascii": "0x1f31e",
+    "symbol": "🌞",
+    "description": ":sun_with_face:"
+  },
+  {
+    "ascii": "0x1f33b",
+    "symbol": "🌻",
+    "description": ":sunflower:"
+  },
+  {
+    "ascii": "0x1f60e",
+    "symbol": "😎",
+    "description": ":sunglasses:"
+  },
+  {
+    "ascii": "0x2600fe0f",
+    "symbol": "☀️",
+    "description": ":sunny:"
+  },
+  {
+    "ascii": "0x1f305",
+    "symbol": "🌅",
+    "description": ":sunrise:"
+  },
+  {
+    "ascii": "0x1f304",
+    "symbol": "🌄",
+    "description": ":sunrise_over_mountains:"
+  },
+  {
+    "ascii": "0x1f3c4",
+    "symbol": "🏄",
+    "description": ":surfing_man:"
+  },
+  {
+    "ascii": "0x1f3c4",
+    "symbol": "🏄",
+    "description": ":surfing_man:"
+  },
+  {
+    "ascii": "0x1f3c4200d2640fe0f",
+    "symbol": "🏄‍♀️",
+    "description": ":surfing_woman:"
+  },
+  {
+    "ascii": "0x1f363",
+    "symbol": "🍣",
+    "description": ":sushi:"
+  },
+  {
+    "ascii": "0x1f69f",
+    "symbol": "🚟",
+    "description": ":suspension_railway:"
+  },
+  {
+    "ascii": "0x1f613",
+    "symbol": "😓",
+    "description": ":sweat:"
+  },
+  {
+    "ascii": "0x1f4a6",
+    "symbol": "💦",
+    "description": ":sweat_drops:"
+  },
+  {
+    "ascii": "0x1f605",
+    "symbol": "😅",
+    "description": ":sweat_smile:"
+  },
+  {
+    "ascii": "0x1f360",
+    "symbol": "🍠",
+    "description": ":sweet_potato:"
+  },
+  {
+    "ascii": "0x1f3ca",
+    "symbol": "🏊",
+    "description": ":swimming_man:"
+  },
+  {
+    "ascii": "0x1f3ca",
+    "symbol": "🏊",
+    "description": ":swimming_man:"
+  },
+  {
+    "ascii": "0x1f3ca200d2640fe0f",
+    "symbol": "🏊‍♀️",
+    "description": ":swimming_woman:"
+  },
+  {
+    "ascii": "0x1f523",
+    "symbol": "🔣",
+    "description": ":symbols:"
+  },
+  {
+    "ascii": "0x1f54d",
+    "symbol": "🕍",
+    "description": ":synagogue:"
+  },
+  {
+    "ascii": "0x1f489",
+    "symbol": "💉",
+    "description": ":syringe:"
+  },
+  {
+    "ascii": "0x1f32e",
+    "symbol": "🌮",
+    "description": ":taco:"
+  },
+  {
+    "ascii": "0x1f389",
+    "symbol": "🎉",
+    "description": ":tada:"
+  },
+  {
+    "ascii": "0x1f38b",
+    "symbol": "🎋",
+    "description": ":tanabata_tree:"
+  },
+  {
+    "ascii": "0x1f34a",
+    "symbol": "🍊",
+    "description": ":tangerine:"
+  },
+  {
+    "ascii": "0x2649fe0f",
+    "symbol": "♉️",
+    "description": ":taurus:"
+  },
+  {
+    "ascii": "0x1f695",
+    "symbol": "🚕",
+    "description": ":taxi:"
+  },
+  {
+    "ascii": "0x1f375",
+    "symbol": "🍵",
+    "description": ":tea:"
+  },
+  {
+    "ascii": "0x260efe0f",
+    "symbol": "☎️",
+    "description": ":phone:"
+  },
+  {
+    "ascii": "0x1f4de",
+    "symbol": "📞",
+    "description": ":telephone_receiver:"
+  },
+  {
+    "ascii": "0x1f52d",
+    "symbol": "🔭",
+    "description": ":telescope:"
+  },
+  {
+    "ascii": "0x1f3be",
+    "symbol": "🎾",
+    "description": ":tennis:"
+  },
+  {
+    "ascii": "0x26fafe0f",
+    "symbol": "⛺️",
+    "description": ":tent:"
+  },
+  {
+    "ascii": "0x1f321",
+    "symbol": "🌡",
+    "description": ":thermometer:"
+  },
+  {
+    "ascii": "0x1f914",
+    "symbol": "🤔",
+    "description": ":thinking:"
+  },
+  {
+    "ascii": "0x1f4ad",
+    "symbol": "💭",
+    "description": ":thought_balloon:"
+  },
+  {
+    "ascii": "0x1f44e",
+    "symbol": "👎",
+    "description": ":-1:"
+  },
+  {
+    "ascii": "0x1f44d",
+    "symbol": "👍",
+    "description": ":+1:"
+  },
+  {
+    "ascii": "0x1f3ab",
+    "symbol": "🎫",
+    "description": ":ticket:"
+  },
+  {
+    "ascii": "0x1f39f",
+    "symbol": "🎟",
+    "description": ":tickets:"
+  },
+  {
+    "ascii": "0x1f42f",
+    "symbol": "🐯",
+    "description": ":tiger:"
+  },
+  {
+    "ascii": "0x1f405",
+    "symbol": "🐅",
+    "description": ":tiger2:"
+  },
+  {
+    "ascii": "0x23f2",
+    "symbol": "⏲",
+    "description": ":timer_clock:"
+  },
+  {
+    "ascii": "0x1f481200d2642fe0f",
+    "symbol": "💁‍♂️",
+    "description": ":tipping_hand_man:"
+  },
+  {
+    "ascii": "0x1f481",
+    "symbol": "💁",
+    "description": ":tipping_hand_woman:"
+  },
+  {
+    "ascii": "0x1f62b",
+    "symbol": "😫",
+    "description": ":tired_face:"
+  },
+  {
+    "ascii": "0x2122fe0f",
+    "symbol": "™️",
+    "description": ":tm:"
+  },
+  {
+    "ascii": "0x1f6bd",
+    "symbol": "🚽",
+    "description": ":toilet:"
+  },
+  {
+    "ascii": "0x1f5fc",
+    "symbol": "🗼",
+    "description": ":tokyo_tower:"
+  },
+  {
+    "ascii": "0x1f345",
+    "symbol": "🍅",
+    "description": ":tomato:"
+  },
+  {
+    "ascii": "0x1f445",
+    "symbol": "👅",
+    "description": ":tongue:"
+  },
+  {
+    "ascii": "0x1f51d",
+    "symbol": "🔝",
+    "description": ":top:"
+  },
+  {
+    "ascii": "0x1f3a9",
+    "symbol": "🎩",
+    "description": ":tophat:"
+  },
+  {
+    "ascii": "0x1f32a",
+    "symbol": "🌪",
+    "description": ":tornado:"
+  },
+  {
+    "ascii": "0x1f5b2",
+    "symbol": "🖲",
+    "description": ":trackball:"
+  },
+  {
+    "ascii": "0x1f69c",
+    "symbol": "🚜",
+    "description": ":tractor:"
+  },
+  {
+    "ascii": "0x1f6a5",
+    "symbol": "🚥",
+    "description": ":traffic_light:"
+  },
+  {
+    "ascii": "0x1f68b",
+    "symbol": "🚋",
+    "description": ":train:"
+  },
+  {
+    "ascii": "0x1f686",
+    "symbol": "🚆",
+    "description": ":train2:"
+  },
+  {
+    "ascii": "0x1f68a",
+    "symbol": "🚊",
+    "description": ":tram:"
+  },
+  {
+    "ascii": "0x1f6a9",
+    "symbol": "🚩",
+    "description": ":triangular_flag_on_post:"
+  },
+  {
+    "ascii": "0x1f4d0",
+    "symbol": "📐",
+    "description": ":triangular_ruler:"
+  },
+  {
+    "ascii": "0x1f531",
+    "symbol": "🔱",
+    "description": ":trident:"
+  },
+  {
+    "ascii": "0x1f624",
+    "symbol": "😤",
+    "description": ":triumph:"
+  },
+  {
+    "ascii": "0x1f68e",
+    "symbol": "🚎",
+    "description": ":trolleybus:"
+  },
+  {
+    "ascii": "0x1f3c6",
+    "symbol": "🏆",
+    "description": ":trophy:"
+  },
+  {
+    "ascii": "0x1f379",
+    "symbol": "🍹",
+    "description": ":tropical_drink:"
+  },
+  {
+    "ascii": "0x1f420",
+    "symbol": "🐠",
+    "description": ":tropical_fish:"
+  },
+  {
+    "ascii": "0x1f69a",
+    "symbol": "🚚",
+    "description": ":truck:"
+  },
+  {
+    "ascii": "0x1f3ba",
+    "symbol": "🎺",
+    "description": ":trumpet:"
+  },
+  {
+    "ascii": "0x1f455",
+    "symbol": "👕",
+    "description": ":shirt:"
+  },
+  {
+    "ascii": "0x1f337",
+    "symbol": "🌷",
+    "description": ":tulip:"
+  },
+  {
+    "ascii": "0x1f943",
+    "symbol": "🥃",
+    "description": ":tumbler_glass:"
+  },
+  {
+    "ascii": "0x1f983",
+    "symbol": "🦃",
+    "description": ":turkey:"
+  },
+  {
+    "ascii": "0x1f422",
+    "symbol": "🐢",
+    "description": ":turtle:"
+  },
+  {
+    "ascii": "0x1f4fa",
+    "symbol": "📺",
+    "description": ":tv:"
+  },
+  {
+    "ascii": "0x1f500",
+    "symbol": "🔀",
+    "description": ":twisted_rightwards_arrows:"
+  },
+  {
+    "ascii": "0x1f495",
+    "symbol": "💕",
+    "description": ":two_hearts:"
+  },
+  {
+    "ascii": "0x1f46c",
+    "symbol": "👬",
+    "description": ":two_men_holding_hands:"
+  },
+  {
+    "ascii": "0x1f46d",
+    "symbol": "👭",
+    "description": ":two_women_holding_hands:"
+  },
+  {
+    "ascii": "0x1f239",
+    "symbol": "🈹",
+    "description": ":u5272:"
+  },
+  {
+    "ascii": "0x1f234",
+    "symbol": "🈴",
+    "description": ":u5408:"
+  },
+  {
+    "ascii": "0x1f23a",
+    "symbol": "🈺",
+    "description": ":u55b6:"
+  },
+  {
+    "ascii": "0x1f22ffe0f",
+    "symbol": "🈯️",
+    "description": ":u6307:"
+  },
+  {
+    "ascii": "0x1f237fe0f",
+    "symbol": "🈷️",
+    "description": ":u6708:"
+  },
+  {
+    "ascii": "0x1f236",
+    "symbol": "🈶",
+    "description": ":u6709:"
+  },
+  {
+    "ascii": "0x1f235",
+    "symbol": "🈵",
+    "description": ":u6e80:"
+  },
+  {
+    "ascii": "0x1f21afe0f",
+    "symbol": "🈚️",
+    "description": ":u7121:"
+  },
+  {
+    "ascii": "0x1f238",
+    "symbol": "🈸",
+    "description": ":u7533:"
+  },
+  {
+    "ascii": "0x1f232",
+    "symbol": "🈲",
+    "description": ":u7981:"
+  },
+  {
+    "ascii": "0x1f233",
+    "symbol": "🈳",
+    "description": ":u7a7a:"
+  },
+  {
+    "ascii": "0x2614fe0f",
+    "symbol": "☔️",
+    "description": ":umbrella:"
+  },
+  {
+    "ascii": "0x1f612",
+    "symbol": "😒",
+    "description": ":unamused:"
+  },
+  {
+    "ascii": "0x1f51e",
+    "symbol": "🔞",
+    "description": ":underage:"
+  },
+  {
+    "ascii": "0x1f984",
+    "symbol": "🦄",
+    "description": ":unicorn:"
+  },
+  {
+    "ascii": "0x1f513",
+    "symbol": "🔓",
+    "description": ":unlock:"
+  },
+  {
+    "ascii": "0x1f199",
+    "symbol": "🆙",
+    "description": ":up:"
+  },
+  {
+    "ascii": "0x1f643",
+    "symbol": "🙃",
+    "description": ":upside_down_face:"
+  },
+  {
+    "ascii": "0x270cfe0f",
+    "symbol": "✌️",
+    "description": ":v:"
+  },
+  {
+    "ascii": "0x1f6a6",
+    "symbol": "🚦",
+    "description": ":vertical_traffic_light:"
+  },
+  {
+    "ascii": "0x1f4fc",
+    "symbol": "📼",
+    "description": ":vhs:"
+  },
+  {
+    "ascii": "0x1f4f3",
+    "symbol": "📳",
+    "description": ":vibration_mode:"
+  },
+  {
+    "ascii": "0x1f4f9",
+    "symbol": "📹",
+    "description": ":video_camera:"
+  },
+  {
+    "ascii": "0x1f3ae",
+    "symbol": "🎮",
+    "description": ":video_game:"
+  },
+  {
+    "ascii": "0x1f3bb",
+    "symbol": "🎻",
+    "description": ":violin:"
+  },
+  {
+    "ascii": "0x264dfe0f",
+    "symbol": "♍️",
+    "description": ":virgo:"
+  },
+  {
+    "ascii": "0x1f30b",
+    "symbol": "🌋",
+    "description": ":volcano:"
+  },
+  {
+    "ascii": "0x1f3d0",
+    "symbol": "🏐",
+    "description": ":volleyball:"
+  },
+  {
+    "ascii": "0x1f19a",
+    "symbol": "🆚",
+    "description": ":vs:"
+  },
+  {
+    "ascii": "0x1f596",
+    "symbol": "🖖",
+    "description": ":vulcan_salute:"
+  },
+  {
+    "ascii": "0x1f6b6",
+    "symbol": "🚶",
+    "description": ":walking_man:"
+  },
+  {
+    "ascii": "0x1f6b6",
+    "symbol": "🚶",
+    "description": ":walking_man:"
+  },
+  {
+    "ascii": "0x1f6b6200d2640fe0f",
+    "symbol": "🚶‍♀️",
+    "description": ":walking_woman:"
+  },
+  {
+    "ascii": "0x1f318",
+    "symbol": "🌘",
+    "description": ":waning_crescent_moon:"
+  },
+  {
+    "ascii": "0x1f316",
+    "symbol": "🌖",
+    "description": ":waning_gibbous_moon:"
+  },
+  {
+    "ascii": "0x26a0fe0f",
+    "symbol": "⚠️",
+    "description": ":warning:"
+  },
+  {
+    "ascii": "0x1f5d1",
+    "symbol": "🗑",
+    "description": ":wastebasket:"
+  },
+  {
+    "ascii": "0x231afe0f",
+    "symbol": "⌚️",
+    "description": ":watch:"
+  },
+  {
+    "ascii": "0x1f403",
+    "symbol": "🐃",
+    "description": ":water_buffalo:"
+  },
+  {
+    "ascii": "0x1f349",
+    "symbol": "🍉",
+    "description": ":watermelon:"
+  },
+  {
+    "ascii": "0x1f44b",
+    "symbol": "👋",
+    "description": ":wave:"
+  },
+  {
+    "ascii": "0x3030fe0f",
+    "symbol": "〰️",
+    "description": ":wavy_dash:"
+  },
+  {
+    "ascii": "0x1f312",
+    "symbol": "🌒",
+    "description": ":waxing_crescent_moon:"
+  },
+  {
+    "ascii": "0x1f314",
+    "symbol": "🌔",
+    "description": ":moon:"
+  },
+  {
+    "ascii": "0x1f6be",
+    "symbol": "🚾",
+    "description": ":wc:"
+  },
+  {
+    "ascii": "0x1f629",
+    "symbol": "😩",
+    "description": ":weary:"
+  },
+  {
+    "ascii": "0x1f492",
+    "symbol": "💒",
+    "description": ":wedding:"
+  },
+  {
+    "ascii": "0x1f3cbfe0f",
+    "symbol": "🏋️",
+    "description": ":weight_lifting_man:"
+  },
+  {
+    "ascii": "0x1f3cbfe0f200d2640fe0f",
+    "symbol": "🏋️‍♀️",
+    "description": ":weight_lifting_woman:"
+  },
+  {
+    "ascii": "0x1f433",
+    "symbol": "🐳",
+    "description": ":whale:"
+  },
+  {
+    "ascii": "0x1f40b",
+    "symbol": "🐋",
+    "description": ":whale2:"
+  },
+  {
+    "ascii": "0x2638fe0f",
+    "symbol": "☸️",
+    "description": ":wheel_of_dharma:"
+  },
+  {
+    "ascii": "0x267ffe0f",
+    "symbol": "♿️",
+    "description": ":wheelchair:"
+  },
+  {
+    "ascii": "0x2705",
+    "symbol": "✅",
+    "description": ":white_check_mark:"
+  },
+  {
+    "ascii": "0x26aafe0f",
+    "symbol": "⚪️",
+    "description": ":white_circle:"
+  },
+  {
+    "ascii": "0x1f3f3fe0f",
+    "symbol": "🏳️",
+    "description": ":white_flag:"
+  },
+  {
+    "ascii": "0x1f4ae",
+    "symbol": "💮",
+    "description": ":white_flower:"
+  },
+  {
+    "ascii": "0x2b1cfe0f",
+    "symbol": "⬜️",
+    "description": ":white_large_square:"
+  },
+  {
+    "ascii": "0x25fdfe0f",
+    "symbol": "◽️",
+    "description": ":white_medium_small_square:"
+  },
+  {
+    "ascii": "0x25fbfe0f",
+    "symbol": "◻️",
+    "description": ":white_medium_square:"
+  },
+  {
+    "ascii": "0x25abfe0f",
+    "symbol": "▫️",
+    "description": ":white_small_square:"
+  },
+  {
+    "ascii": "0x1f533",
+    "symbol": "🔳",
+    "description": ":white_square_button:"
+  },
+  {
+    "ascii": "0x1f940",
+    "symbol": "🥀",
+    "description": ":wilted_flower:"
+  },
+  {
+    "ascii": "0x1f390",
+    "symbol": "🎐",
+    "description": ":wind_chime:"
+  },
+  {
+    "ascii": "0x1f32c",
+    "symbol": "🌬",
+    "description": ":wind_face:"
+  },
+  {
+    "ascii": "0x1f377",
+    "symbol": "🍷",
+    "description": ":wine_glass:"
+  },
+  {
+    "ascii": "0x1f609",
+    "symbol": "😉",
+    "description": ":wink:"
+  },
+  {
+    "ascii": "0x1f43a",
+    "symbol": "🐺",
+    "description": ":wolf:"
+  },
+  {
+    "ascii": "0x1f469",
+    "symbol": "👩",
+    "description": ":woman:"
+  },
+  {
+    "ascii": "0x1f469200d1f3a8",
+    "symbol": "👩‍🎨",
+    "description": ":woman_artist:"
+  },
+  {
+    "ascii": "0x1f469200d1f680",
+    "symbol": "👩‍🚀",
+    "description": ":woman_astronaut:"
+  },
+  {
+    "ascii": "0x1f938200d2640fe0f",
+    "symbol": "🤸‍♀️",
+    "description": ":woman_cartwheeling:"
+  },
+  {
+    "ascii": "0x1f469200d1f373",
+    "symbol": "👩‍🍳",
+    "description": ":woman_cook:"
+  },
+  {
+    "ascii": "0x1f926200d2640fe0f",
+    "symbol": "🤦‍♀️",
+    "description": ":woman_facepalming:"
+  },
+  {
+    "ascii": "0x1f469200d1f3ed",
+    "symbol": "👩‍🏭",
+    "description": ":woman_factory_worker:"
+  },
+  {
+    "ascii": "0x1f469200d1f33e",
+    "symbol": "👩‍🌾",
+    "description": ":woman_farmer:"
+  },
+  {
+    "ascii": "0x1f469200d1f692",
+    "symbol": "👩‍🚒",
+    "description": ":woman_firefighter:"
+  },
+  {
+    "ascii": "0x1f469200d2695fe0f",
+    "symbol": "👩‍⚕️",
+    "description": ":woman_health_worker:"
+  },
+  {
+    "ascii": "0x1f469200d2696fe0f",
+    "symbol": "👩‍⚖️",
+    "description": ":woman_judge:"
+  },
+  {
+    "ascii": "0x1f939200d2640fe0f",
+    "symbol": "🤹‍♀️",
+    "description": ":woman_juggling:"
+  },
+  {
+    "ascii": "0x1f469200d1f527",
+    "symbol": "👩‍🔧",
+    "description": ":woman_mechanic:"
+  },
+  {
+    "ascii": "0x1f469200d1f4bc",
+    "symbol": "👩‍💼",
+    "description": ":woman_office_worker:"
+  },
+  {
+    "ascii": "0x1f469200d2708fe0f",
+    "symbol": "👩‍✈️",
+    "description": ":woman_pilot:"
+  },
+  {
+    "ascii": "0x1f93e200d2640fe0f",
+    "symbol": "🤾‍♀️",
+    "description": ":woman_playing_handball:"
+  },
+  {
+    "ascii": "0x1f93d200d2640fe0f",
+    "symbol": "🤽‍♀️",
+    "description": ":woman_playing_water_polo:"
+  },
+  {
+    "ascii": "0x1f469200d1f52c",
+    "symbol": "👩‍🔬",
+    "description": ":woman_scientist:"
+  },
+  {
+    "ascii": "0x1f937200d2640fe0f",
+    "symbol": "🤷‍♀️",
+    "description": ":woman_shrugging:"
+  },
+  {
+    "ascii": "0x1f469200d1f3a4",
+    "symbol": "👩‍🎤",
+    "description": ":woman_singer:"
+  },
+  {
+    "ascii": "0x1f469200d1f393",
+    "symbol": "👩‍🎓",
+    "description": ":woman_student:"
+  },
+  {
+    "ascii": "0x1f469200d1f3eb",
+    "symbol": "👩‍🏫",
+    "description": ":woman_teacher:"
+  },
+  {
+    "ascii": "0x1f469200d1f4bb",
+    "symbol": "👩‍💻",
+    "description": ":woman_technologist:"
+  },
+  {
+    "ascii": "0x1f473200d2640fe0f",
+    "symbol": "👳‍♀️",
+    "description": ":woman_with_turban:"
+  },
+  {
+    "ascii": "0x1f45a",
+    "symbol": "👚",
+    "description": ":womans_clothes:"
+  },
+  {
+    "ascii": "0x1f452",
+    "symbol": "👒",
+    "description": ":womans_hat:"
+  },
+  {
+    "ascii": "0x1f93c200d2640fe0f",
+    "symbol": "🤼‍♀️",
+    "description": ":women_wrestling:"
+  },
+  {
+    "ascii": "0x1f6ba",
+    "symbol": "🚺",
+    "description": ":womens:"
+  },
+  {
+    "ascii": "0x1f5fa",
+    "symbol": "🗺",
+    "description": ":world_map:"
+  },
+  {
+    "ascii": "0x1f61f",
+    "symbol": "😟",
+    "description": ":worried:"
+  },
+  {
+    "ascii": "0x1f527",
+    "symbol": "🔧",
+    "description": ":wrench:"
+  },
+  {
+    "ascii": "0x270dfe0f",
+    "symbol": "✍️",
+    "description": ":writing_hand:"
+  },
+  {
+    "ascii": "0x274c",
+    "symbol": "❌",
+    "description": ":x:"
+  },
+  {
+    "ascii": "0x1f49b",
+    "symbol": "💛",
+    "description": ":yellow_heart:"
+  },
+  {
+    "ascii": "0x1f4b4",
+    "symbol": "💴",
+    "description": ":yen:"
+  },
+  {
+    "ascii": "0x262ffe0f",
+    "symbol": "☯️",
+    "description": ":yin_yang:"
+  },
+  {
+    "ascii": "0x1f60b",
+    "symbol": "😋",
+    "description": ":yum:"
+  },
+  {
+    "ascii": "0x26a1fe0f",
+    "symbol": "⚡️",
+    "description": ":zap:"
+  },
+  {
+    "ascii": "0x1f910",
+    "symbol": "🤐",
+    "description": ":zipper_mouth_face:"
+  },
+  {
+    "ascii": "0x1f4a4",
+    "symbol": "💤",
+    "description": ":zzz:"
+  }
+]
