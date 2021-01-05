@@ -15,7 +15,7 @@
     "@now/node": "^1.4.1",
     "@types/cheerio": "^0.22.17",
     "@types/showdown": "^1.9.3",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.3",
     "showdown": "^1.9.1",
     "typescript": "^3.8.3"
